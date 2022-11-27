@@ -31,9 +31,13 @@ ___
 > ***Overrun.*** If the fel reaver moves at least 20 feet straight towards a creature and then hits it with a melee weapon attack, the target must succeed on a DC 19 Strength saving throw or be pushed 10 feet and knocked prone. If the target is knocked prone, the fel reaver can use *War Stomp* as a bonus action.
 >
 > ### Actions
+> ***Multiattack.*** The fel reaver can use its Frightful Presence. It then makes a melee weapon attack.
+> 
 > ***Crush Armor.*** *Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 1d12 + 8 bludgeoning damage and the next attack against the target before the start of the fel reaver's next turn has advantage. 
 > 
 > ***Earthquake.*** The fel reaver strikes the ground with his fist. Any creature within 20 feet of it must succeed on a DC 19 Strength saving throw or take 2d6 bludgeoning damage and be stunned until the start of the fel reaver's next turn. On a successful save, the creature takes half damage and is not stunned.
+>
+> ***Frightful Presence.*** Each creature of the fel reaver's choice that is within 120 feet of the fel reaver and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature’s saving throw is successful or the effect ends for it, the creature is immune to the fel reaver's Frightful Presence for the next 24 hours.
 >
 > ***War Stomp.*** *Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 1d12 + 8 bludgeoning damage or 2d12 + 8 bludgeoning damage if the target is prone.
 >
