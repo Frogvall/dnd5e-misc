@@ -2,7 +2,7 @@
 
 ___
 > ## Fel Reaver <!-- https://wc5e-cr-calculator.frogvall.com?v2;2;19;10d20+10*7;13;19;0.3*(2d12)+1d12+8+2d12+8+3*2*(2d6);0;0;0;0;0;1;;;1;2;;;;;;;1;;1;3;;;;;;;;10;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
-> *Humongous construct (fiend), neutral*
+> *Gargantuan construct (fiend), neutral*
 > ___
 > - **Armor Class** 19
 > - **Hit Points** 175 (10d20 + 70)
