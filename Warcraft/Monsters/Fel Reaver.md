@@ -34,7 +34,7 @@ ___
 > 
 > ***Earthquake.*** The fel reaver strikes the ground with his fist. Any creature within 20 feet of it must succeed on a DC 19 Strength saving throw or take 2d6 bludgeoning damage and be stunned until the start of the fel reaver's next turn. On a successful save, the creature takes half damage and is not stunned.
 >
-> ***War Stomp.*** *Melee Weapon Attack: +13 to hit, reach 5 ft., one target. *Hit:* 1d12 + 8 bludgeoning damage or 2d12 + 8 bludgeoning damage if the target is prone.
+> ***War Stomp.*** *Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 1d12 + 8 bludgeoning damage or 2d12 + 8 bludgeoning damage if the target is prone.
 >
 > ### Legendary Actions
 > The fel reaver can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time only at the end of another creature's turn. The fel reaver regains spent legendary actions at the start of its turn.
