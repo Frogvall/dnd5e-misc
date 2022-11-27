@@ -39,7 +39,7 @@ ___
 > ### Legendary Actions
 > The fel reaver can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time only at the end of another creature's turn. The fel reaver regains spent legendary actions at the start of its turn.
 >
-> ***Chain Lightning (Costs 2 Actions)*** *Ranged Spell Attack:* 13 to hit, reach 60 ft., one target. *Hit:* 4d6 lightning damage. Whether the spell hit or not, the fel reaver may repeat this attack against another creature within 10 ft. of the first target. Then it may repeat this attack against a third target within 10 ft. of the second target. This spell can't hit the same target twice within the same casting.
+> ***Chain Lightning (Costs 2 Actions)*** *Ranged Spell Attack:* 13 to hit, reach 60 ft., one target. *Hit:* 4d6 lightning damage. Whether the spell hit or not, the fel reaver may repeat this attack against another creature within 10 ft. of the first target. Then it may repeat this attack against a third target within 10 ft. of the second target. This spell can't hit the same target twice.
 >
 > ***Earthquake.*** The fel reaver uses *Earthquake*.
 >  
