@@ -15,7 +15,8 @@ ___
 > - **Saving Throws** Str +13, Con +12
 > - **Skills** Intimidation +8, Perception +5
 > - **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
-> - **Condition Immunities** charmed, exhaustion, frightened, poisoned
+> - **Damage Immunities** poison, psychic
+> - **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 > - **Senses** darkvision 120 ft., passive Perception 15
 > - **Languages** None, but repeats commands it has been programmed with.
 > - **Challenge** 15 (13,000 XP)
