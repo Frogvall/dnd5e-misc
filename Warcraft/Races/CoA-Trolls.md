@@ -300,38 +300,33 @@ Zandalari trolls are a hard working people that take pride in being they are str
 
 Troll berserkers are members of bloodthirsty sects, present in the various troll tribes. These axe or spear-throwing hunters becoming known as berserkers through a combination of learning how to channel their rage and alchemical means. Sometimes, alchemical or magical alteration can lead those berserkers to become dire trolls.
 
-#### Improved Sight
+#### Scouting Specialist
 
-When you choose this specialization at 3rd level, you gain proficiency with the Perception skill. Additionally your darkvision is improved to 120 ft and you can discern colors in darkness.
-
-#### Thrown Weapon Specialist
-
-Also at 3rd level, you gain the *Thrown Weapon Fighting* fighting style, listed in *Tasha's Cauldron of Everything*. If you already picked that fighting style at level 1, you can choose another. In addition, you get the following benefits:
-
-* Attacking at long range doesn't impose disadvantage on your thrown weapon attack rolls, and you can attack at double the long range with disadvantage.
-* You don't suffer disadvantage by making a thrown weapon attack when a hostile creature is within 5 feet.
+When you choose this specialization at at 3rd level, you gain proficiency with the Perception skill and the *Thrown Weapon Fighting* fighting style, listed in *Tasha's Cauldron of Everything*. If you already picked that fighting style at level 1, you can choose another.
 
 #### Rage of the Dire Troll
 
-When you reach 7th level, you have learned how to utilize the concoctions infused in your blood to temporarilly turn into a dire troll. As a bonus action, you magically gain the following benefits, which last for 1 minute:
+Also at 3rd level, you have learned how to utilize the concoctions infused in your blood to temporarilly turn into a dire troll. As a bonus action, you magically gain the following benefits, which last for 1 minute:
 
 * If you are smaller than Large, you become Large, along with anything you are wearing. If you lack the room to become Large, your size doesn’t change.
 * You have advantage on Strength checks and Strength saving throws.
-* When	you	make	a	successful	ranged attack	with	a	thrown	weapon	using	Strength, you	can	add	1d6	to	the	attack’s	damage	 roll. At 10th level the increased damage becomes 1d8, at 15th level it becomes 1d10 and at 18th level it becomes 1d12.
+* When you	make a successful	attack with	a	weapon that has the *thrown* property, you can	add	1d6	to the attack’s damage roll. At 10th level the increased damage becomes 1d8, at 15th level it becomes 1d10 and at 18th level it becomes 1d12.
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses of it when you finish a long rest.
 
-#### Berserker regeneration
+#### Berserker Regeneration
 
-Starting at 10th level, whenever you would roll a Hit Die to regain hit points, roll the die twice and get hit points from both.
+When you reach 7th level, whenever you would roll a Hit Die to regain hit points, roll the die twice and get hit points from both.
 
 #### Frenzy
 
-When you reach 15th level, whenever you score a critical hit with a thrown attack, you can make another thrown attack as part of the same action.
+Starting at 10th level, attacks with a	weapon that has the *thrown* property score a critical hit on a roll of 19 or 20. In addition, whenever you score a critical hit against a hostile creature with an attack with a weapon that has the *thrown* property, you can make another thrown attack as part of the same action.
+
+#### Level 15 power
 
 #### True Dire Troll
 
-When you reach 18th level, your dire troll form becomes permanent. In addition, your reach increases by 5 ft., and the long range of your throwing weapons are doubled.
+When you reach 18th level, your dire troll form becomes permanent. In addition, your reach increases by 5 ft., and the long range of your thrown weapons are doubled.
 
 \pagebreakNum
 
