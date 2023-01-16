@@ -308,7 +308,7 @@ When you choose this specialization at 3rd level, your eyes have been achemicall
 
 #### Rage of the Dire Troll
 
-Also at 3rd level, you have learned how to utilize the concoctions infused in your blood to temporarily turn into a dire troll. As a bonus action, you magically gain the following benefits, which last for 1 minute:
+Also at 3rd level, you have learned how to utilize the concoctions infused in your blood to temporarily turn into a hulking giant. As a bonus action, you transform into a dire troll, gain one rage point and the following benefits, which last for 1 minute:
 
 * If you are smaller than Large, you become Large, along with anything you are wearing. If you lack the room to become Large, your size doesn’t change.
 * You have advantage on Strength checks and Strength saving throws.
@@ -343,7 +343,7 @@ Starting at 15th level, you learn to focus your rage into a furious frenzy. If y
 
 #### True Dire Troll
 
-When you reach 18th level, your dire troll form becomes permanent. In addition, your reach increases by 5 ft., and both the normal range and the long range of your thrown weapons are doubled.
+When you reach 18th level, your dire troll form becomes permanent. In addition, your reach increases by 5 ft., and both the normal range and the long range of your thrown weapons are doubled. You also gain one rage point whenever you roll initiative.
 
 <img src='https://www.gmbinder.com/images/R4n6LPJ.png' style='position:absolute; top:300px; right:0px; width:820px' />
 
