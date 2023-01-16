@@ -35,7 +35,7 @@
 
 <div class='cover-footer'>Warcraft-inspired troll subraces, subclasses and more<br>for the world's greatest roleplaying game</div>
 
-<img src='https://www.gmbinder.com/images/jnoUDUe.png' style='position:absolute; top:0px; left:-200px; width:1820px'>
+<img src='https://www.gmbinder.com/images/jnoUDUe.png' style='position:absolute; top:0px; left:-300px; width:1820px'>
 
 \pagebreak
 
@@ -69,7 +69,7 @@ This is unofficial fan content permitted under the Fan Content Policy. Not appro
 
 All *Warcraft* content and material are © Blizzard Entertainment.
 
-#### Last Updated: January 05, 2023
+#### Last Updated: January 16, 2023
 
 <img src='https://www.gmbinder.com/images/OkmIuMz.jpg' style='position:absolute; bottom:-80px; left:-20px; width:440px; transform:rotate(0deg)scalex(1);filter:opacity(100%);'/>
 
@@ -296,7 +296,7 @@ Troll berserkers are members of bloodthirsty sects, present in the various troll
 
 #### Enhanced Vision
 
-When you choose this specialization at 3rd level, your eyes have been achemically modified by the concoctions of the witch doctors. You gain proficiency with the Perception skill and your darkvision is improved to 120 ft and you can discern colors in darkness.
+When you choose this specialization at 3rd level, your eyes have been achemically modified by the concoctions of the witch doctors. You gain proficiency with the Perception skill, your darkvision is improved to 120 ft., and you can discern colors in darkness.
 
 *Note: This feature assumes you are a troll. If your Dungeon Master lets you pick this subclass for a race that does not have darkvision, you gain 60 ft. darkvision instead.*
 
