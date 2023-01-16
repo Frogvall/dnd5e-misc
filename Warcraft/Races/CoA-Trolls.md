@@ -332,7 +332,7 @@ At 7th level, you learn to channel your pain to drive you into a furious battle 
 
 #### Superior Regeneration
 
-When you reach 10th level, the concoctions you've constantly consume has permanently changed your blood to become stronger and help regenerate your body quicker and more effectively. Whenever you would roll a Hit Die to regain hit points, roll the die twice and get hit points from both. In addition, lost limbs regrow when you finish a long rest.
+When you reach 10th level, the concoctions you've constantly consume has permanently changed your blood to become stronger and help regenerate your body more effectively. Whenever you would roll a Hit Die to regain hit points, roll the die twice and get hit points from both. In addition, lost limbs and organs regrow when you finish a long rest.
 
 
 \columnbreak
