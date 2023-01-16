@@ -142,8 +142,7 @@ I completely agree to the design principles of the Champions series and have don
 
 \columnbreak
 
-<img src='https://www.gmbinder.com/images/ecH9QkB.jpg' style='position:absolute; top:-50px; right:-130px; width:600px; transform:rotate(0deg)scalex(-1);filter:opacity(100%);'/>
-
+<img src='https://www.gmbinder.com/images/ecH9QkB.jpg' style='position:absolute; top:-50px; right:-130px; width:600px;filter:opacity(100%);'/>
 <img src='https://image.ibb.co/kC44nH/oF4JQBz.png' style='position:absolute; top:-445px; left:-150px; width:1160px; transform:rotate(0deg)scalex(1)scaley(-1);filter:opacity(100%);'/>
 
 <div style='margin-top:200px;'></div>
@@ -208,7 +207,7 @@ Jungle trolls originate in the wilds of Stranglethorn Vale, where they once rule
 ***Savage Attacks.*** When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit.
 
 <img src='https://i.ibb.co/12HQq65/vasiliy-gromov-troll.jpg' style='position:absolute; top:80px; right:270px; width:720px' />
-<img src='https://preview.ibb.co/byzgZx/JIbLHii.png' style='position:absolute; top:-480px; right:-110px; width:1000px; transform:rotate(0deg)scalex(-1)scaley(-1);filter:opacity(100%);'/>
+<img src='https://preview.ibb.co/byzgZx/JIbLHii.png' style='position:absolute; top:-480px; right:-160px; width:1000px; transform:rotate(0deg)scalex(-1)scaley(-1);filter:opacity(100%);'/>
 <img src='https://www.gmbinder.com/images/ohZghLL.png' style='position:absolute; top:0px; right:-90px; width:900px' />
 
 \pagebreakNum
@@ -228,14 +227,13 @@ Forest trolls, most prominently represented by the Amani tribe in Zul'Aman, once
 ***Natural Climber.*** You have a climbing speed equal to your walking speed.
 
 <img src='https://www.gmbinder.com/images/qjCnGTB.jpg' style='position:absolute; bottom:-100px; left:-225px; width:720px' />
-<img src='https://preview.ibb.co/byzgZx/JIbLHii.png' style='position:absolute; top:-220px; left:0px; width:1000px; transform:rotate(0deg)scalex(-1)scaley(-1);filter:opacity(100%);'/>
-<img src='https://www.gmbinder.com/images/ohZghLL.png' style='position:absolute; top:0px; right:-90px; width:900px' />
+<img src='https://preview.ibb.co/byzgZx/JIbLHii.png' style='position:absolute; top:-220px; left:-80px; width:1000px; transform:rotate(0deg)scalex(-1)scaley(-1);filter:opacity(100%);'/>
+
 
 \columnbreak
 
 <img src='https://www.gmbinder.com/images/C2gEyL1.jpg' style='position:absolute; top:-100px; right:-150px; width:520px; transform:rotate(0deg)scalex(-1)' />
 <img src='https://www.gmbinder.com/images/3GL7BwO.png' style='position:absolute; top:-50px; right:-115px; width:500px;filter:opacity(100%);'/>
-<img src='https://www.gmbinder.com/images/DW8ZQt2.png' style='position:absolute; top:0px; right:-20px; width:420px; transform:rotate(0deg)scalex(-1)scaley(-1)' />
 
 
 <div style='margin-top:520px'></div>
@@ -266,14 +264,12 @@ Once jungle trolls of the Gurubashi Empire, thousands of years in the harsh dese
 ***Harsh Survivalist.*** You gain proficiency with one of the following skills of your choice: Athletics, Medicine, Nature, and Survival.
 
 <img src='https://www.gmbinder.com/images/4IHIZCP.jpg' style='position:absolute; bottom:-150px; left:-50px; width:520px' />
-<img src='https://preview.ibb.co/byzgZx/JIbLHii.png' style='position:absolute; top:-170px; left:0px; width:1000px; transform:rotate(0deg)scalex(-1)scaley(-1);filter:opacity(100%);'/>
-<img src='https://www.gmbinder.com/images/ohZghLL.png' style='position:absolute; top:0px; right:-90px; width:900px' />
+<img src='https://preview.ibb.co/byzgZx/JIbLHii.png' style='position:absolute; top:-170px; left:-70px; width:1000px; transform:rotate(0deg)scalex(-1)scaley(-1);filter:opacity(100%);'/>
 
 \columnbreak
 
 <img src='https://www.gmbinder.com/images/nNuA9Pi.jpg' style='position:absolute; top:-20px; right:-150px; width:520px;' />
 <img src='https://www.gmbinder.com/images/3GL7BwO.png' style='position:absolute; top:0px; right:-115px; width:500px;filter:opacity(100%);'/>
-<img src='https://www.gmbinder.com/images/DW8ZQt2.png' style='position:absolute; top:0px; right:-20px; width:420px; transform:rotate(0deg)scalex(-1)scaley(-1)' />
 
 
 <div style='margin-top:600px'></div>
@@ -293,6 +289,10 @@ Zandalari trolls are a hard working people that take pride in being they are str
 
 # Chapter 2: New Subclasses
 
+This chapter introduces three new subclasses focused around trolls. The alchemically enhanced warriors, turned into furious troll berserkers. The loa favored shadow hunters, hunters using voodoo and shadow magic to get the job done. Finally, the witch doctors, troll priests that use voodoo, shadow magic, and alchemy to strengthen its allies and hex the enemy.
+
+\columnbreak
+
 ### Berserker
 
 *Warrior specialization, requires Troll*
@@ -300,33 +300,52 @@ Zandalari trolls are a hard working people that take pride in being they are str
 
 Troll berserkers are members of bloodthirsty sects, present in the various troll tribes. These axe or spear-throwing hunters becoming known as berserkers through a combination of learning how to channel their rage and alchemical means. Sometimes, alchemical or magical alteration can lead those berserkers to become dire trolls.
 
-#### Scouting Specialist
+#### Enhanced Vision
 
-When you choose this specialization at at 3rd level, you gain proficiency with the Perception skill and the *Thrown Weapon Fighting* fighting style, listed in *Tasha's Cauldron of Everything*. If you already picked that fighting style at level 1, you can choose another.
+When you choose this specialization at 3rd level, your eyes have been achemically modified by the concoctions of the witch doctors. You gain proficiency with the Perception skill and your darkvision is improved to 120 ft and you can discern colors in darkness.
+
+*Note: This feature assumes you are a troll. If your Dungeon Master lets you pick this subclass for a race that does not have darkvision, you gain 60 ft. darkvision instead.*
 
 #### Rage of the Dire Troll
 
-Also at 3rd level, you have learned how to utilize the concoctions infused in your blood to temporarilly turn into a dire troll. As a bonus action, you magically gain the following benefits, which last for 1 minute:
+Also at 3rd level, you have learned how to utilize the concoctions infused in your blood to temporarily turn into a dire troll. As a bonus action, you magically gain the following benefits, which last for 1 minute:
 
 * If you are smaller than Large, you become Large, along with anything you are wearing. If you lack the room to become Large, your size doesn’t change.
 * You have advantage on Strength checks and Strength saving throws.
-* When you	make a successful	attack with	a	weapon that has the *thrown* property, you can	add	1d6	to the attack’s damage roll. At 10th level the increased damage becomes 1d8, at 15th level it becomes 1d10 and at 18th level it becomes 1d12.
+* Once on each of your turns, when you hit with an attack with a weapon that has the thrown property, you can add 1d6 to the attack’s damage roll. At 7th level the increased damage becomes 1d8, at 10th level it becomes 1d10 and at 18th level it becomes 1d12.
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses of it when you finish a long rest.
 
-#### Berserker Regeneration
+<img src='https://www.gmbinder.com/images/icEklXv.jpg' style='position:absolute; top:220px; right:270px; width:720px' />
+<img src='https://preview.ibb.co/byzgZx/JIbLHii.png' style='position:absolute; top:-450px; right:-160px; width:1000px; transform:rotate(0deg)scalex(-1)scaley(-1);filter:opacity(100%);'/>
+<img src='https://www.gmbinder.com/images/ohZghLL.png' style='position:absolute; top:0px; right:-90px; width:900px' />
 
-When you reach 7th level, whenever you would roll a Hit Die to regain hit points, roll the die twice and get hit points from both.
+<img src='https://www.gmbinder.com/images/RBelAOo.png' style='position:absolute; bottom:0px; right:-90px; width:470px; transform:rotate(0deg)scalex(-1)' />
+<img src='https://www.gmbinder.com/images/bEzi6DX.png' style='position:absolute; bottom:-270px; right:-110px; width:500px;filter:opacity(100%);transform:rotate(0deg)scaley(-1)'/>
+
+
+\pagebreakNum
+
+#### Berserk
+
+At 7th level, you learn to channel your pain to drive you into a furious battle rage. If you've used *Rage of the Dire Troll* this turn, or have taken damage since your last turn ended, the first attack you make on your turn has advantage. At 18th level, you always get advantage on your first attack in each of your turns, regardless if you've taken damage or not.
+
+#### Superior Regeneration
+
+When you reach 10th level, the concoctions you've constantly consume has permanently changed your blood to become stronger and help regenerate your body quicker and more effectively. Whenever you would roll a Hit Die to regain hit points, roll the die twice and get hit points from both. In addition, lost limbs regrow when you finish a long rest.
+
+
+\columnbreak
 
 #### Frenzy
 
-Starting at 10th level, attacks with a	weapon that has the *thrown* property score a critical hit on a roll of 19 or 20. In addition, whenever you score a critical hit against a hostile creature with an attack with a weapon that has the *thrown* property, you can make another thrown attack as part of the same action.
-
-#### Level 15 power
+Starting at 15th level, you learn to focus your rage into a furious frenzy. If you take the Attack action on your turn and have advantage on an attack roll against one of the targets, you can forgo the advantage for that roll to make an additional weapon attack, with a weapon that has the thrown property, as part of the same action. You can do so no more than once per turn.
 
 #### True Dire Troll
 
-When you reach 18th level, your dire troll form becomes permanent. In addition, your reach increases by 5 ft., and the long range of your thrown weapons are doubled.
+When you reach 18th level, your dire troll form becomes permanent. In addition, your reach increases by 5 ft., and both the normal range and the long range of your thrown weapons are doubled.
+
+<img src='https://www.gmbinder.com/images/R4n6LPJ.png' style='position:absolute; top:300px; right:0px; width:820px' />
 
 \pagebreakNum
 
@@ -412,7 +431,7 @@ When you hit a creature with a weapon attack, you can expend one focus die to at
 
 #### 2nd level power
 
-#### 2nd level proficency and ribbon
+#### 2nd level proficiency and ribbon
 
 #### 6th level power
 
