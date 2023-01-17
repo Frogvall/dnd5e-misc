@@ -328,7 +328,6 @@ At 7th level, you learn to channel your pain to drive you into a furious battle 
 
 When you reach 10th level, the concoctions you've constantly consume has permanently changed your blood to become stronger and help regenerate your body more effectively. Whenever you would roll a Hit Die to regain hit points, roll the die twice and get hit points from both. In addition, lost limbs and organs regrow when you finish a long rest.
 
-
 \columnbreak
 
 #### Frenzy
@@ -351,31 +350,36 @@ When you reach 18th level, your dire troll form becomes permanent. In addition, 
 Shadow hunters are masters of voodoo and shadow magic and were once the highest authority amongst trolls. Their spirit powers can both heal and curse, walking the line of dark and light in hope of saving the future of trollkind, doing whatever it takes to secure a future for their kin. The loa can channel themselves through the shadow hunters.
 
 #### Cunning of Quetz'lun
+
 When you choose this specialization at 3rd level, you gain proficiency in the Religion skill.
 
-In addition, you can cast the spells listed in the Shadow Hunter Lore Spells table with your Wild Lore feature, at the hunter levels listed.
+In addition, you can cast the spells listed in the Shadow Hunter Lore Spells table with your Wild Lore feature, at the hunter levels listed. 
 
 #### Shadow Hunter Lore Spells
 | Hunter Level | &nbsp;&nbsp;Spells |
 |:---:|:---|
-| 3rd | &nbsp;&nbsp;*detect magic* |
-| 5th | &nbsp;&nbsp;*shadow blade* |
-| 9th | &nbsp;&nbsp;*chain heal* |
-| 13th | &nbsp;&nbsp;*polymorph* |
-| 17th | &nbsp;&nbsp;*commune* |
+| 3rd | &nbsp;&nbsp;*bane*, *detect magic* |
+| 5th | &nbsp;&nbsp;*blindness/deafness*, *warding bond*|
+| 9th | &nbsp;&nbsp;✦ *chain heal*, *feign death* |
+| 13th | &nbsp;&nbsp;*blight*, *polymorph* |
+| 17th | &nbsp;&nbsp;*commune*, *contagion* |
+
+✦ <i>spell found in [Champions of Azeroth](https://drive.google.com/file/d/1iEgdrwyGwAA7b7TW353_CzjhoQP-gYAF/view), chapter 5</i>
 
 #### Champion of Shirvallah
-Also at 3rd level, you have learned to wield two weapons with terrible ferocity and grace. You can use your Dexterity modifier for the attack and damage rolls of one-handed melee weapons. You can also use two-weapon fighting even when the one-handed melee weapons you are wielding aren't light.
+
+Also at 3rd level, you master the art of the ambush. You can give yourself a bonus to your initiative rolls equal to your Wisdom modifier.
+
+At the start of your first turn of each combat, your walking speed increases by 10 feet, which lasts until the end of that turn. If you take the Attack action on that turn, you can make one additional weapon attack as part of that action. If that attack hits, the target takes an extra 1d8 damage of the weapon’s damage type. In addition, you can use your Dexterity modifier for the attack and damage rolls of one-handed melee weapons.
 
 *Statistics for the shadow hunter's iconic weapon, the warglaive, can be found in [Champions of Outland](https://drive.google.com/file/d/17l_iMr1UNJ8tzK1SRomU3xzMgzdBC9IG/view) page 13.*  
 
-#### Ward of Sethraliss
-At 7th level, whenever you roll a focus die for a focus technique, you gain resistance to bludgeoning, piercing and slashing damage until the start of your next turn.
+#### Storms of Akunda
 
-#### Fury of Halazzi
-Beginning at 11th level, you master the art of the ambush. You can give yourself a bonus to your initiative rolls equal to your Wisdom modifier.
+At 7th level, whenever you roll a focus die for a focus technique on your turn, you can use a bonus action to cast a Wild Lore spell with the casting time of one action during the same turn.
 
-At the start of your first turn of each combat, your walking speed increases by 20 feet, which lasts until the end of that turn. If you take the Attack action on that turn, you can make one additional weapon attack as part of that action. If that attack hits, the target takes an extra 1d12 necrotic damage.
+#### 11th level
+
 
 #### Big Bad Voodoo
 
@@ -390,14 +394,16 @@ finish a long rest.
 
 ### New Focus Techniques
 
-#### Winds of Pa'ku
+#### Curse of Hakkar
 
 *Prerequisite: Shadow Hunter specialization*
 <div style='margin-top:-4px'></div>
 
-When you or your pet miss with an attack, you can expend a focus die to redirect the attack at another foe. Make another weapon attack against another target within reach as part of the same action, adding the focus die to the attack roll.
+When a creature is making a saving throw against one of your wild lore spells, you can expend one focus die to withdraw it from the roll. You can use this technique before or after the creature makes the saving throw, but before any effects of the spell are applied.
 
-#### Samedi's Kiss
+When you or your pet miss with an attack, you can expend a focus die to redirect the attack at another foe. Make another attack against another target within reach as part of the same action, adding the focus die to the attack roll.
+
+#### Kiss of Samedi
 
 *Prerequisite: Shadow Hunter specialization*
 <div style='margin-top:-4px'></div>
