@@ -234,7 +234,7 @@ Forest trolls, most prominently represented by the Amani tribe in Zul'Aman, once
 
 #### Ice Troll
 The ice trolls can be found in cold places, most prominently in Northrend, where they have adapted to such cold and harsh environments. Most ice trolls are cannibalistic and tend to eat their fallen enemies raw, believing that they consume the souls of their victim and gain their strength. Like other trolls the ice trolls are superstitious, religious and practice voodoo. 
-*Please note that this subclass is a republishing of the *frostborn* subrace featured in [Champions of Northrend](https://drive.google.com/file/d/1ltdlu9oR0giZHfzMLUYWVfxq79tB7StI/view), and was written by Silverblade.*
+*Please note that this subclass is a republishing of the frostborn subrace featured in [Champions of Northrend](https://drive.google.com/file/d/1ltdlu9oR0giZHfzMLUYWVfxq79tB7StI/view), and was written by Silverblade.*
 
 ***Ability Score Increase.*** Your Constitution score increases by 1. 
 
@@ -322,7 +322,7 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 
 #### Berserk
 
-At 7th level, you learn to channel your pain to drive you into a furious battle rage. If you've used *Rage of the Dire Troll* this turn, or have taken damage since your last turn ended, the first attack you make on your turn has advantage. At 18th level, you always get advantage on your first attack in each of your turns, regardless if you've taken damage or not.
+At 7th level, you learn to channel your pain to drive you into a furious battle rage. If you've used your Rage of the Dire Troll feature this turn, or have taken damage since your last turn ended, the first attack you make on your turn has advantage. At 18th level, you always get advantage on your first attack in each of your turns, regardless if you've taken damage or not.
 
 #### Superior Regeneration
 
@@ -347,68 +347,62 @@ When you reach 18th level, your dire troll form becomes permanent. In addition, 
 *Hunter specialization, requires Troll*
 <div style='margin-top:-4px'></div>
 
-Shadow hunters are masters of voodoo and shadow magic and were once the highest authority amongst trolls. Their spirit powers can both heal and curse, walking the line of dark and light in hope of saving the future of trollkind, doing whatever it takes to secure a future for their kin. The loa can channel themselves through the shadow hunters.
+Shadow hunters are masters of voodoo and shadow magic and were once the highest authority amongst trolls. Their spirit powers can both heal and curse, walking the line of dark and light in hope of saving the future of trollkind, doing whatever it takes to secure a future for their kin. While troll priests dedicate their worship to a single loa, shadow hunters acknowledge the value of communing with multiple deities, drawing knowledge and skill from them all. The loa can channel themselves through the shadow hunters.
 
 #### Cunning of Quetz'lun
 
 When you choose this specialization at 3rd level, you gain proficiency in the Religion skill.
 
-In addition, you can cast the spells listed in the Shadow Hunter Lore Spells table with your Wild Lore feature, at the hunter levels listed. 
+In addition, being blessed by the loa of cunning, you can cast the spells listed in the Shadow Hunter Lore Spells table with your Wild Lore feature, at the hunter levels listed, and you can use a bonus action to cast any Lore spell that has a casting time of 1 action.
 
 #### Shadow Hunter Lore Spells
 | Hunter Level | &nbsp;&nbsp;Spells |
 |:---:|:---|
-| 3rd | &nbsp;&nbsp;*bane*, *detect magic* |
+| 3rd | &nbsp;&nbsp;*bane*, *cure wounds* |
 | 5th | &nbsp;&nbsp;*blindness/deafness*, *warding bond*|
-| 9th | &nbsp;&nbsp;✦ *chain heal*, *feign death* |
+| 9th | &nbsp;&nbsp;✦ *chain heal*, *vampiric touch* |
 | 13th | &nbsp;&nbsp;*blight*, *polymorph* |
 | 17th | &nbsp;&nbsp;*commune*, *contagion* |
 
-✦ <i>spell found in [Champions of Azeroth](https://drive.google.com/file/d/1iEgdrwyGwAA7b7TW353_CzjhoQP-gYAF/view), chapter 5</i>
+✦ *Spell found in [Champions of Azeroth](https://drive.google.com/file/d/1iEgdrwyGwAA7b7TW353_CzjhoQP-gYAF/view), chapter 5.*
 
 #### Champion of Shirvallah
 
-Also at 3rd level, you master the art of the ambush. You can give yourself a bonus to your initiative rolls equal to your Wisdom modifier.
+Also at 3rd level, you're blessed with the combat skills of the tiger loa Shirvallah. You can give yourself a bonus to your initiative rolls equal to your Wisdom modifier. In addition, when you make an attack using a twinblade, a throwing glaive or a warglaive, you can use  your Dexterity modifier for the attack and damage rolls.
 
-At the start of your first turn of each combat, your walking speed increases by 10 feet, which lasts until the end of that turn. If you take the Attack action on that turn, you can make one additional weapon attack as part of that action. If that attack hits, the target takes an extra 1d8 damage of the weapon’s damage type. In addition, you can use your Dexterity modifier for the attack and damage rolls of one-handed melee weapons.
+*Statistics the twinblade and the warglaive, can be found in [Champions of Outland](https://drive.google.com/file/d/17l_iMr1UNJ8tzK1SRomU3xzMgzdBC9IG/view) page 13, while statistics for the throwing glaive can be found in [Champions of Azeroth](https://drive.google.com/file/d/1iEgdrwyGwAA7b7TW353_CzjhoQP-gYAF/view) page 72.*  
 
-*Statistics for the shadow hunter's iconic weapon, the warglaive, can be found in [Champions of Outland](https://drive.google.com/file/d/17l_iMr1UNJ8tzK1SRomU3xzMgzdBC9IG/view) page 13.*  
+#### Fury of Halazzi
+
+At 7th level, you're blessed by the lynx god Halazzi. Whenever you cast a spell using your Wild Lore feature on our turn, the next focus technique you use before the end of the same turn does not expend a focus die.
 
 #### Storms of Akunda
-
-At 7th level, whenever you roll a focus die for a focus technique on your turn, you can use a bonus action to cast a Wild Lore spell with the casting time of one action during the same turn.
-
-#### 11th level
-
+Starting at 11th level, you're blessed by Akunda, the thunder lizard loa of storms. You regain your all expended uses of your Wild Lore feature when you complete a short rest. In addition, when you hit a creature with a weapon attack, on the next Wild Lore spell you cast that includes that creature as a target before the end of your next turn, you have advantage on the spell attack or the creature has disadvantage on the saving throw against it.
 
 #### Big Bad Voodoo
 
-At 15th level, you can use your bonus action to create an aura of invulnerability around you. For 1 minute, you
-gain the following benefits:
+At 15th level, you can use your bonus action to create an aura of invulnerability around you. For 1 minute, you gain the following benefits:
 
 * Any friendly creature, other than you, within 30 feet of you has resistance to all damage.
-* When a creature, other than you, takes damage, you can use your reaction to reduce the amount of damage it takes by a roll of your focus die (no die is actually expended) plus half your hunter level.
+* When a creature, other than you, is forced to roll a saving throw, you can use your reaction to add your focus die to their saving throw (no die is actually expended).
 
-Once you use this feature, you can't use it again until you
-finish a long rest.
+Once you use this feature, you can't use it again until you finish a long rest.
 
 ### New Focus Techniques
 
-#### Curse of Hakkar
+#### Ambush of Bethekk
 
 *Prerequisite: Shadow Hunter specialization*
 <div style='margin-top:-4px'></div>
 
-When a creature is making a saving throw against one of your wild lore spells, you can expend one focus die to withdraw it from the roll. You can use this technique before or after the creature makes the saving throw, but before any effects of the spell are applied.
+By calling for the blessing of the panther loa Bethekk, when you make a Dexterity (Stealth) check or an initiative roll, you can expend one focus die and add the die to the roll, provided you aren’t incapacitated.
 
-When you or your pet miss with an attack, you can expend a focus die to redirect the attack at another foe. Make another attack against another target within reach as part of the same action, adding the focus die to the attack roll.
-
-#### Kiss of Samedi
+#### Presence of Rezan
 
 *Prerequisite: Shadow Hunter specialization*
 <div style='margin-top:-4px'></div>
 
-When you hit a creature with a weapon attack, you can expend one focus die to attempt to blind the creature with magical darkness. The creature hit by the attack takes additional necrotic damage equal to the focus die roll, and must make a Constitution saving throw. On a failed save, the creature is blinded for 1 minute. The creature can make a new Constitution saving throw at the end of each of its turns. On a success, the creature is no longer blinded.
+Blessed by the King of Kings, the devilsar loa Rezan, you can command and bolster your allies and your people or put fear into your enemies. When you make a Charisma (Intimidation), a Charisma (Performance), or a Charisma (Persuasion) check, you can expend one focus die and add it to the ability check.
 
 \pagebreakNum
 
