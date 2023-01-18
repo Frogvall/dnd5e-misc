@@ -344,6 +344,9 @@ When you reach 18th level, your dire troll form becomes permanent. In addition, 
 
 ### Shadow Hunter
 
+<img src='https://www.gmbinder.com/images/e1YnFGv.jpg' style='position:absolute; bottom:-300px; right:-215px; width:900px; transform:rotate(0deg)scalex(1)scalex(-1);'  />¨
+<img src='https://www.gmbinder.com/images/vkl3XIU.png' style='position:absolute; bottom:-20px; right:-0px; width:1200px; filter:opacity(100%)' />
+
 *Hunter specialization, requires Troll*
 <div style='margin-top:-4px'></div>
 
@@ -366,15 +369,19 @@ In addition, being blessed by the loa of cunning, you can cast the spells listed
 
 ✦ *Spell found in [Champions of Azeroth](https://drive.google.com/file/d/1iEgdrwyGwAA7b7TW353_CzjhoQP-gYAF/view), chapter 5.*
 
+\columnbreak
+
 #### Champion of Shirvallah
 
 Also at 3rd level, you're blessed with the combat skills of the tiger loa Shirvallah. You can give yourself a bonus to your initiative rolls equal to your Wisdom modifier. In addition, when you make an attack using a twinblade, a throwing glaive or a warglaive, you can use  your Dexterity modifier for the attack and damage rolls.
 
-*Statistics the twinblade and the warglaive, can be found in [Champions of Outland](https://drive.google.com/file/d/17l_iMr1UNJ8tzK1SRomU3xzMgzdBC9IG/view) page 13, while statistics for the throwing glaive can be found in [Champions of Azeroth](https://drive.google.com/file/d/1iEgdrwyGwAA7b7TW353_CzjhoQP-gYAF/view) page 72.*  
+<br>*Statistics the twinblade and the warglaive can be found in [Champions of Outland](https://drive.google.com/file/d/17l_iMr1UNJ8tzK1SRomU3xzMgzdBC9IG/view) page 13, while statistics for the throwing glaive can be found in [Champions of Azeroth](https://drive.google.com/file/d/1iEgdrwyGwAA7b7TW353_CzjhoQP-gYAF/view) page 72*.
 
 #### Fury of Halazzi
 
 At 7th level, you're blessed by the lynx god Halazzi. Whenever you cast a spell using your Wild Lore feature on our turn, the next focus technique you use before the end of the same turn does not expend a focus die.
+
+\pagebreakNum
 
 #### Storms of Akunda
 Starting at 11th level, you're blessed by Akunda, the thunder lizard loa of storms. You regain your all expended uses of your Wild Lore feature when you complete a short rest. In addition, when you hit a creature with a weapon attack, on the next Wild Lore spell you cast that includes that creature as a target before the end of your next turn, you have advantage on the spell attack or the creature has disadvantage on the saving throw against it.
@@ -387,6 +394,8 @@ At 15th level, you can use your bonus action to create an aura of invulnerabilit
 * When a creature, other than you, is forced to roll a saving throw, you can use your reaction to add your focus die to their saving throw (no die is actually expended).
 
 Once you use this feature, you can't use it again until you finish a long rest.
+
+\columnbreak
 
 ### New Focus Techniques
 
@@ -403,6 +412,8 @@ By calling for the blessing of the panther loa Bethekk, when you make a Dexterit
 <div style='margin-top:-4px'></div>
 
 Blessed by the King of Kings, the devilsar loa Rezan, you can command and bolster your allies and your people or put fear into your enemies. When you make a Charisma (Intimidation), a Charisma (Performance), or a Charisma (Persuasion) check, you can expend one focus die and add it to the ability check.
+
+<img src='https://www.gmbinder.com/images/pBe6j0s.png' style='position:absolute; top:400px; right:150px; width:650px' />
 
 \pagebreakNum
 
