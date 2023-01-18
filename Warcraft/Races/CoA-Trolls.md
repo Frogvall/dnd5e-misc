@@ -411,7 +411,7 @@ By calling for the blessing of the panther loa Bethekk, when you make a Dexterit
 *Prerequisite: Shadow Hunter specialization*
 <div style='margin-top:-4px'></div>
 
-Blessed by the King of Kings, the devilsar loa Rezan, you can command and bolster your allies and your people or put fear into your enemies. When you make a Charisma (Intimidation), a Charisma (Performance), or a Charisma (Persuasion) check, you can expend one focus die and add it to the ability check.
+Blessed by the King of Kings, the devilsar loa Rezan, you can command and bolster your allies and your people or put fear into your enemies. When you make a Charisma (Intimidation), a Charisma (Performance), or a Charisma (Persuasion) check, you can expend one focus die and add the die to the ability check.
 
 <img src='https://www.gmbinder.com/images/pBe6j0s.png' style='position:absolute; top:400px; right:150px; width:650px' />
 
