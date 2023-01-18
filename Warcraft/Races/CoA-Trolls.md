@@ -379,7 +379,7 @@ Also at 3rd level, you're blessed with the combat skills of the tiger loa Shirva
 
 #### Fury of Halazzi
 
-At 7th level, you're blessed by the lynx god Halazzi. Whenever you cast a spell using your Wild Lore feature on our turn, the next focus technique you use before the end of the same turn does not expend a focus die.
+At 7th level, you're blessed by the lynx god Halazzi. Whenever you cast a spell using your Wild Lore feature on your turn, the next focus technique you use before the end of the same turn does not expend a focus die.
 
 \pagebreakNum
 
