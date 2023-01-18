@@ -344,7 +344,7 @@ When you reach 18th level, your dire troll form becomes permanent. In addition, 
 
 ### Shadow Hunter
 
-<img src='https://www.gmbinder.com/images/e1YnFGv.jpg' style='position:absolute; bottom:-300px; right:-215px; width:900px; transform:rotate(0deg)scalex(1)scalex(-1);'  />¨
+<img src='https://www.gmbinder.com/images/e1YnFGv.jpg' style='position:absolute; bottom:-300px; right:-215px; width:900px; transform:rotate(0deg)scalex(1)scalex(-1);'  />
 <img src='https://www.gmbinder.com/images/vkl3XIU.png' style='position:absolute; bottom:-20px; right:-0px; width:1200px; filter:opacity(100%)' />
 
 *Hunter specialization, requires Troll*
