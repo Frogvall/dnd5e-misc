@@ -471,13 +471,18 @@ A creature can use an action to consume a concoction, and it is considered the t
 
 Also at 2nd level, you learn how to glean knowledge from surrounding spirits. You gain proficiency in the Religion skill, and when making an Intelligence ability check, you can instead make a Charisma (Religion) ability check. Once you use this feature, you can't use it again until you finish a short or long rest.
 
-\columnbreak
+<img src='https://www.gmbinder.com/images/G4NrfMF.jpg' style='position:absolute; top:0px; right:-350px; width:1100px' />
+<img src='https://www.gmbinder.com/images/ohZghLL.png' style='position:absolute; top:0px; right:0px; width:900px; transform:rotate(0deg)scalex(-1);filter:opacity(100%);' />
+
+\pagebreakNum
 
 #### Master of Voodoo
 
 At 6th level, you learn to create a voodoo doll that can be linked to the soul of a creature. As long as you have material available; grass, sticks, or similar, you can create a doll as part of a short or long rest. The doll can be used as a spell casting focus. In addition, as a bonus action you can try to link the doll to a creature you can see within 60 ft. The creature need to succeed on a intelligence saving throw against your spell save DC or take 1d6 necrotic damage and become linked to your voodoo doll. While linked you can spend a bonus action to pinch the doll; the target repeats the saving throw taking 1d6 necrotic damage on a failure. Both damage rolls are increased to 2d6 at 14th level. The link breaks after 10 minutes, when you die or become unconscious or when you link it to another creature. It also breaks if the target is no longer on the same plane of existence.
 
 The linked creature knows that something is wrong as soon as it gets linked. It can use an action to make a Wisdom (Insight) check versus your spell save DC to figure out who is causing it pain.
+
+\columnbreak
 
 #### Darkest Mojo
 
@@ -490,5 +495,7 @@ Starting at 18th level, you can construct a powerful ward to protect yourself an
 - ***Sentry.*** While within 30 ft. of the ward, you and any friendly creature can see invisible creatures and other creatures cannot hide from them. Attacks made ignore half cover and three-quarters cover.
 - ***Stasis.*** You can use your reaction whenever a hostile creature moves within 30 ft. of the ward, or starts its turn there. The creature have to make a Constitution saving throw versus your spell save DC or get stunned until the start of their next turn.
 - ***Healing.*** You and any friendly creature that starts its turn within 30 ft. of the ward regains 3d6 hit points.
+
+<img src='https://www.gmbinder.com/images/5ELXAao.png' style='position:absolute; bottom:0px; left:0px; width:520px' />
 
 <!-- Items: Ancestral Staff -->
