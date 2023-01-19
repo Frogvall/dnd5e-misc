@@ -461,9 +461,13 @@ Witch doctors are spellcasters and alchemists. These dastardly magic users are a
 
 #### Alchemist
 
-When you choose this specialization at 2nd level, you learn how to brew your spells into special concoctions. You gain proficiency with alchemist’s supplies. In additiion, whenever you finish a long rest you can store spells into flasks to be consumed at a later point, as long as you have your alchemist's supplies available. You can create concoctions with a combined number of spell levels equal to your proficiency bonus. The spells stored as concoctions must be of the transmutation school. The concoctions can be consumed by you or any other creature as an action, and the target of the spell will be the consumer. If a save is needed, it is done versus your spell save DC. If the spell is a concentration spell, you don't need to concentrate on it. If the spell includes choices on how it's used, you make those choices when creating the concoction. For example, if you store *enlarge/reduce* in a concoction, you choose upon creation if the concoction will enlarge or reduce the consumer. Your concoctions go bad after not being consumed before the end of your next long rest or 24 hours, whichever comes first. When creating a spell slot using the Flexible Casting feature, you can choose to create a concoction of the same level as the spell slot you would create, instead of creating a spell slot.
+When you choose this specialization at 2nd level, you learn how to magically brew your spells into special concoctions. You gain proficiency with alchemist’s supplies. In addition, when you finish a long and have your alchemist's supplies available, you can create a concoction containing the power of one of your spells. When creating a concoction, you select one spell you know from the transmution school (you don't need to have it prepared) and store it into a bottle. If the spell requires the caster to choose its application when casting, like for example *enlarge/reduce*, the witch doctor makes this choice when the concoction is created. The concoction go bad at the end of your next long rest or after 24 hours, whichever comes first, at which point it is rendered useless and harmless. When reaching 6th level you can create up to two concoctions and at 14th level you can create up to three concoctions. The concoctions you create can not have their combined spell level surpass your proficiency bonus.
 
-#### Arcane Adept
+You can also create a concoction by spending 10 minutes and paying Faith Points as if you were creating a spell slot of the same spell level as the spell stored in the concoction.
+
+A creature can use an action to consume a concoction, and it is considered the target of the spell. If a save is required, it is made versus your spell save DC. If the spell requires concentration, the creature must concentrate.
+
+#### Juju be with ya
 
 Also at 2nd level, you gain proficiency in the Arcana skill. You can use Arcana in place of History, Investigation, Nature or Religion when making an Intelligence check, as you rely on magical means to glean knowledge of your surrounding.
 
