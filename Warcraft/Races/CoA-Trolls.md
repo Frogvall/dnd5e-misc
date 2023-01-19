@@ -467,13 +467,15 @@ When you choose this specialization at 2nd level, you learn how to brew your spe
 
 Also at 2nd level, you gain proficiency in the Arcana skill. You can use Arcana in place of History, Investigation, Nature or Religion when making an Intelligence check, as you rely on magical means to glean knowledge of your surrounding.
 
+\columnbreak
+
 #### Voodoo Doll
 
 At 6th level, you learn to create a voodoo doll that can be linked to the soul of a creature. As long as you have material available; grass, sticks, or similar, you can create a doll as part of a short or long rest. The doll can be used as a spell casting focus. In addition, as a bonus action you can try to link the doll to a creature you can see within 60 ft. The creature need to succeed on a intelligence saving throw against your spell save DC or take 1d6 necrotic damage and become linked to your voodoo doll. While linked you can spend a bonus action to pinch the doll; the target repeats the saving throw taking 1d6 necrotic damage on a failure. Both damage rolls are increased to 2d6 at 14th level. The link breaks after 10 minutes, when you die or become unconcious or when you link it to another creature. It also breaks if the target is no longer on the same plane of existance.
 
 The linked creature knows that something is wrong as soon as it gets linked. It can use an action to make a Wisdom (Insight) check versus your spell save DC to figure out who is causing it pain.
 
-#### Darkest of Mojo
+#### Darkest Mojo
 
 When you reach 14th level, your control over the soul linked to your voodoo doll strengthens. When you use a Shadow Word on a creature, other than the creature linked to your voodoo doll, you can also apply the effects of the Shadow Word on the linked creature for free.
 
