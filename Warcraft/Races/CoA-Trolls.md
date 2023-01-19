@@ -78,7 +78,7 @@ This is unofficial fan content permitted under the Fan Content Policy. Not appro
 
 All *Warcraft* content and material are © Blizzard Entertainment.
 
-#### Last Updated: January 16, 2023
+#### Last Updated: January 19, 2023
 
 <img src='https://www.gmbinder.com/images/OkmIuMz.jpg' style='position:absolute; bottom:-80px; left:-20px; width:440px; transform:rotate(0deg)scalex(1);filter:opacity(100%);'/>
 
@@ -498,4 +498,56 @@ Starting at 18th level, you can construct a powerful ward to protect yourself an
 
 <img src='https://www.gmbinder.com/images/5ELXAao.png' style='position:absolute; bottom:0px; left:0px; width:520px' />
 
+\pagebreakNum
+
 <!-- Items: Ancestral Staff -->
+
+<img src='https://www.gmbinder.com/images/QQXB4ii.png' style='position:absolute; top:0px; right:-650px; width:1700px' />
+ 
+ <style>
+   .phb#p13:after { display:none; }
+ </style>
+ 
+ <div class='back-cover-image'></div>
+ 
+ <div style='margin-top:20px;'></div>
+ 
+ <div class='back-cover-header'>
+ 
+Thanks For Reading
+ 
+ </div>
+ 
+ <div class='back-cover-text'>
+ 
+ *Champions of Azeroth* has been a joy to design and write, and I hope it serves you well! If you have any feedback at all, or just want to reach out to chat about D&D or *Warcraft*, please do so. Reach me on Discord at Silverblade#9212, and on Reddit at [u/Silverblade1234](https://www.reddit.com/user/Silverblade1234).
+ 
+ This project would not have been possible without the hard work of others. For more resources or information about D&D or Warcraft, or the Warcraft 5E project that inspired this one, please visit the following resources:
+
+&emsp;[Dungeons & Dragons official site](https://dnd.wizards.com/)<br>
+&emsp;[World of Warcraft official site](https://worldofwarcraft.com/)<br>
+&emsp;[Champions of Azeroth](https://drive.google.com/drive/folders/1zKQmR5KN1nSMncZhEvPAUWPXTgYxa757?usp=sharing)<br>
+&emsp;[Warcraft 5E Reddit](https://www.reddit.com/r/wc5e/), [Discord](https://discord.gg/dKMJmmD)
+<br><br>
+___
+
+<br><br>
+To make your own homebrew documents that look as fabulous as this, please visit [GM Binder](https://www.gmbinder.com)!
+
+ </div>
+ 
+ <div class='back-cover-diamond' style='top: 740px;'></div>
+ 
+ <div style='top:210px;'></div>
+ 
+ <div class='back-cover-close'>
+ 
+ </div>
+ 
+ <div class='back-cover-logo'></div>
+ 
+ <div class='back-cover-logo-link'>
+ 
+ [WWW.GMBINDER.COM](https://www.gmbinder.com)
+ 
+ </div>
