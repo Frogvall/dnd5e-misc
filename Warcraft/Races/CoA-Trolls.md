@@ -445,6 +445,8 @@ Blessed by the King of Kings, the devilsar loa Rezan, you can command and bolste
 *Priest specialization, requires Troll or Orc*
 <div style='margin-top:-4px'></div>
 
+Witch doctors are spellcasters and alchemists. These dastardly magic users are adept at manipulating the chemical processes within their fellow warriors in order to augment their combat abilities. They served as spellcasters for the Horde during the Third War, being able to create several types of wards for such activities as healing, trapping, and watching over the land.
+
 #### Witch Doctor Specialization Spells
 
 | Priest Level | &ensp;Spells |
@@ -457,18 +459,30 @@ Blessed by the King of Kings, the devilsar loa Rezan, you can command and bolste
 
 <sup>XGtE</sup> *Spell found in Xanathar's Guide to Everything*.
 
-#### 2nd level power
+#### Alchemist
 
-#### 2nd level proficiency and ribbon
+When you choose this specialization at 2nd level, you learn how to brew your spells into special concoctions. You gain proficiency with alchemist’s supplies. In additiion, whenever you finish a long rest you can store spells into flasks to be consumed at a later point, as long as you have your alchemist's supplies available. You can create concoctions with a combined number of spell levels equal to your proficiency bonus. The spells stored as concoctions must be of the transmutation school. The concoctions can be consumed by you or any other creature as an action, and the target of the spell will be the consumer. If a save is needed, it is done versus your spell save DC. If the spell is a concentration spell, you don't need to concentrate on it. If the spell includes choices on how it's used, you make those choices when creating the concoction. For example, if you store *enlarge/reduce* in a concoction, you choose upon creation if the concoction will enlarge or reduce the consumer. Your concoctions go bad after not being consumed before the end of your next long rest or 24 hours, whichever comes first. When creating a spell slot using the Flexible Casting feature, you can choose to create a concoction of the same level as the spell slot you would create, instead of creating a spell slot.
 
-#### 6th level power
+#### Arcane Adept
 
-At 6th level,
+Also at 2nd level, you gain proficiency in the Arcana skill. You can use Arcana in place of History, Investigation, Nature or Religion when making an Intelligence check, as you rely on magical means to glean knowledge of your surrounding.
 
-#### 14th level power
+#### Voodoo Doll
 
-When you reach 14th level, your control over the soul connected to your voodoo doll strengthens. Whenev
+At 6th level, you learn to create a voodoo doll that can be linked to the soul of a creature. As long as you have material available; grass, sticks, or similar, you can create a doll as part of a short or long rest. The doll can be used as a spell casting focus. In addition, as a bonus action you can try to link the doll to a creature you can see within 60 ft. The creature need to succeed on a intelligence saving throw against your spell save DC or take 1d6 necrotic damage and become linked to your voodoo doll. While linked you can spend a bonus action to pinch the doll; the target repeats the saving throw taking 1d6 necrotic damage on a failure. Both damage rolls are increased to 2d6 at 14th level. The link breaks after 10 minutes, when you die or become unconcious or when you link it to another creature. It also breaks if the target is no longer on the same plane of existance.
 
-#### 18th level ultimate
+The linked creature knows that something is wrong as soon as it gets linked. It can use an action to make a Wisdom (Insight) check versus your spell save DC to figure out who is causing it pain.
+
+#### Darkest of Mojo
+
+When you reach 14th level, your control over the soul linked to your voodoo doll strengthens. When you use a Shadow Word on a creature, other than the creature linked to your voodoo doll, you can also apply the effects of the Shadow Word on the linked creature for free.
+
+#### Ward Master
+
+Starting at 18th level, you can construct a powerful ward to protect yourself and your allies. You summon a totemic representation of your favored loa within 30 ft of you. It is ethereal, cannot be destroyed and gives the following benefits for one minute:
+
+- ***Sentry.*** While within 30 ft. of the ward, you and any friendly creature can see invisible creatures and other creatures cannot hide from them. Attacks made ignore half cover and three-quarter cover.
+- ***Statis.*** You can use your reaction whenever a hostile creature moves within 30 ft. of the ward, or starts its turn there. The creature have to make a Constitution saving throw versus your spell save DC or get stunned until the start of their next turn.
+- ***Healing.*** You and any friendly creature that starts its turn within 30 ft. of the ward regains 3d6 hit points.
 
 <!-- Items: Ancestral Staff -->
