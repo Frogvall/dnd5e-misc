@@ -459,23 +459,23 @@ Witch doctors are spellcasters and alchemists. These dastardly magic users are a
 
 <sup>XGtE</sup> *Spell found in Xanathar's Guide to Everything*.
 
-#### Alchemist
+#### Master of Juju
 
-When you choose this specialization at 2nd level, you learn how to magically brew your spells into special concoctions. You gain proficiency with alchemist’s supplies. In addition, when you finish a long and have your alchemist's supplies available, you can create a concoction containing the power of one of your spells. When creating a concoction, you select one spell you know from the transmution school (you don't need to have it prepared) and store it into a bottle. If the spell requires the caster to choose its application when casting, like for example *enlarge/reduce*, the witch doctor makes this choice when the concoction is created. The concoction go bad at the end of your next long rest or after 24 hours, whichever comes first, at which point it is rendered useless and harmless. When reaching 6th level you can create up to two concoctions and at 14th level you can create up to three concoctions. The concoctions you create can not have their combined spell level surpass your proficiency bonus.
+When you choose this specialization at 2nd level, you learn how to magically brew your spells into special concoctions. You gain proficiency with alchemist’s supplies. In addition, when you finish a long and have your alchemist's supplies available, you can create a concoction containing the power of one of your spells. When creating a concoction, you select one spell you know from the transmutation school (you don't need to have it prepared) and store it into a bottle. If the spell requires the caster to choose its application when casting, like with for example *enlarge/reduce*, you makes this choice when you create the concoction. The concoction go bad at the end of your next long rest or after 24 hours, whichever comes first, at which point it is rendered useless and harmless. When reaching 6th level you can create up to two concoctions and at 14th level you can create up to three concoctions. The concoctions you create can not have their combined spell level surpass your proficiency bonus.
 
 You can also create a concoction by spending 10 minutes and paying Faith Points as if you were creating a spell slot of the same spell level as the spell stored in the concoction.
 
 A creature can use an action to consume a concoction, and it is considered the target of the spell. If a save is required, it is made versus your spell save DC. If the spell requires concentration, the creature must concentrate.
 
-#### Juju be with ya
+#### Ask da Spirits
 
-Also at 2nd level, you gain proficiency in the Arcana skill. You can use Arcana in place of History, Investigation, Nature or Religion when making an Intelligence check, as you rely on magical means to glean knowledge of your surrounding.
+Also at 2nd level, you learn how to glean knowledge from surrounding spirits. You gain proficiency in the Religion skill, and when making an Intelligence ability check, you can instead make a Charisma (Religion) ability check. Once you use this feature, you can't use it again until you finish a short or long rest.
 
 \columnbreak
 
-#### Voodoo Doll
+#### Master of Voodoo
 
-At 6th level, you learn to create a voodoo doll that can be linked to the soul of a creature. As long as you have material available; grass, sticks, or similar, you can create a doll as part of a short or long rest. The doll can be used as a spell casting focus. In addition, as a bonus action you can try to link the doll to a creature you can see within 60 ft. The creature need to succeed on a intelligence saving throw against your spell save DC or take 1d6 necrotic damage and become linked to your voodoo doll. While linked you can spend a bonus action to pinch the doll; the target repeats the saving throw taking 1d6 necrotic damage on a failure. Both damage rolls are increased to 2d6 at 14th level. The link breaks after 10 minutes, when you die or become unconcious or when you link it to another creature. It also breaks if the target is no longer on the same plane of existance.
+At 6th level, you learn to create a voodoo doll that can be linked to the soul of a creature. As long as you have material available; grass, sticks, or similar, you can create a doll as part of a short or long rest. The doll can be used as a spell casting focus. In addition, as a bonus action you can try to link the doll to a creature you can see within 60 ft. The creature need to succeed on a intelligence saving throw against your spell save DC or take 1d6 necrotic damage and become linked to your voodoo doll. While linked you can spend a bonus action to pinch the doll; the target repeats the saving throw taking 1d6 necrotic damage on a failure. Both damage rolls are increased to 2d6 at 14th level. The link breaks after 10 minutes, when you die or become unconscious or when you link it to another creature. It also breaks if the target is no longer on the same plane of existence.
 
 The linked creature knows that something is wrong as soon as it gets linked. It can use an action to make a Wisdom (Insight) check versus your spell save DC to figure out who is causing it pain.
 
@@ -483,12 +483,12 @@ The linked creature knows that something is wrong as soon as it gets linked. It 
 
 When you reach 14th level, your control over the soul linked to your voodoo doll strengthens. When you use a Shadow Word on a creature, other than the creature linked to your voodoo doll, you can also apply the effects of the Shadow Word on the linked creature for free.
 
-#### Ward Master
+#### Master of Wards
 
 Starting at 18th level, you can construct a powerful ward to protect yourself and your allies. You summon a totemic representation of your favored loa within 30 ft of you. It is ethereal, cannot be destroyed and gives the following benefits for one minute:
 
-- ***Sentry.*** While within 30 ft. of the ward, you and any friendly creature can see invisible creatures and other creatures cannot hide from them. Attacks made ignore half cover and three-quarter cover.
-- ***Statis.*** You can use your reaction whenever a hostile creature moves within 30 ft. of the ward, or starts its turn there. The creature have to make a Constitution saving throw versus your spell save DC or get stunned until the start of their next turn.
+- ***Sentry.*** While within 30 ft. of the ward, you and any friendly creature can see invisible creatures and other creatures cannot hide from them. Attacks made ignore half cover and three-quarters cover.
+- ***Stasis.*** You can use your reaction whenever a hostile creature moves within 30 ft. of the ward, or starts its turn there. The creature have to make a Constitution saving throw versus your spell save DC or get stunned until the start of their next turn.
 - ***Healing.*** You and any friendly creature that starts its turn within 30 ft. of the ward regains 3d6 hit points.
 
 <!-- Items: Ancestral Staff -->
