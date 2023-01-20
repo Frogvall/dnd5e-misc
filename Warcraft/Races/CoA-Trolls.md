@@ -157,7 +157,7 @@ I completely agree to the design principles of the Champions series and have don
 
 ### On Balance
 
-Since I am mostly dealing with subraces I am aiming for internal balance between the already existing subraces and those I add. Hence I can approach this using a limited balance scope and have no intention to benchmark these with vanilla dungeons and dragons.
+Since I am mostly dealing with subraces and subclasses, I am aiming for internal balance between the already existing ones and those I add. Hence I can approach this using a limited balance scope and have no intention to benchmark these against vanilla dungeons and dragons.
 
 ### What This Is
 
@@ -171,7 +171,7 @@ I welcome any and all feedback on any of my work. You can reach me (Auvreannia) 
 
 Silverblade ([u/Silverblade1234](https://www.reddit.com/user/Silverblade1234)) for his amazing work with the whole Champion series and for many healthy discussions around game design and other things.
 
-The [WC5E](https://www.reddit.com/r/wc5e/) project. My own *Warcraft* homebrew journey started with that project, mainly creating monsters for their monster manual, but also taking part in their 3.0 class revamp. Even though I am no longer part of that project, I have utter respect for their work.
+The [WC5E](https://www.reddit.com/r/wc5e/) project. My own *Warcraft* homebrew journey started with that project, mainly creating monsters for their monster manual, but also taking part in their 3.0 class revamp. Even though I am no longer part of that project, I have utter respect for their continued work.
 
 ### Additional Resources
 
@@ -181,7 +181,7 @@ The [WC5E](https://www.reddit.com/r/wc5e/) project. My own *Warcraft* homebrew j
 
 # Chapter 1: New Subraces
 
-The following page is a republishing of the troll race from [Champions of Azeroth](https://drive.google.com/file/d/1iEgdrwyGwAA7b7TW353_CzjhoQP-gYAF/view), with permission from Silverblade. I did not write the content of this page.
+[Champions of Azeroth](https://drive.google.com/file/d/1iEgdrwyGwAA7b7TW353_CzjhoQP-gYAF/view) introduced the troll race and one subrace, the jungle trolls. In addition, [Champions of Northrend](https://drive.google.com/file/d/1ltdlu9oR0giZHfzMLUYWVfxq79tB7StI/view) introduced the generic *frostborn* subrace, that can be used for creating ice trolls. I have included all of the above in this module for easy access, with permission from Silverblade, in addition to adding three new subraces; the forest trolls, the sand trolls and the Zandalari.
 
 \columnbreak
 
@@ -221,8 +221,8 @@ Jungle trolls originate in the wilds of Stranglethorn Vale, where they once rule
 
 ***Savage Attacks.*** When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit.
 
-<img src='https://i.ibb.co/12HQq65/vasiliy-gromov-troll.jpg' style='position:absolute; top:80px; right:270px; width:720px' />
-<img src='https://preview.ibb.co/byzgZx/JIbLHii.png' style='position:absolute; top:-480px; right:-160px; width:1000px; transform:rotate(0deg)scalex(-1)scaley(-1);filter:opacity(100%);'/>
+<img src='https://i.ibb.co/12HQq65/vasiliy-gromov-troll.jpg' style='position:absolute; top:110px; right:270px; width:720px' />
+<img src='https://preview.ibb.co/byzgZx/JIbLHii.png' style='position:absolute; top:-450px; right:-160px; width:1000px; transform:rotate(0deg)scalex(-1)scaley(-1);filter:opacity(100%);'/>
 <img src='https://www.gmbinder.com/images/ohZghLL.png' style='position:absolute; top:0px; right:-90px; width:900px' />
 
 \pagebreakNum
