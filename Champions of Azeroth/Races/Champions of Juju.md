@@ -48,8 +48,9 @@ ___
 
 ___
 
-- **Front & Back Cover Art By:** TBA
-- **Interior Art By:** TBA
+- **Front Art By:** [Glenn Rane](https://glennrane.artstation.com)
+- **Back Art By:** [AJ Nazarro](https://ajnazzaro.artstation.com/)
+- **Interior Art By:** [Alex Horley](https://www.alexhorleyart.com), [Alexandra Ziminova](https://faplastilinka.artstation.com), [Bayard Wu](https://bayardwu.artstation.com), Eric Flannum, [Glenn Rane](https://glennrane.artstation.com), [Laurel D. Austin](http://www.laureldaustinart.com), Michel & René Koiter, [Oscar "ShadowPriest" Lazo](https://shadowpriestart.artstation.com), [Raymond Swanland](https://raymondswanland.com), [Samwise Didier](https://thepandaking.artstation.com), [Serge Tsvelykh](https://resolvent.artstation.com/), [Vasiliy Gromov](https://vasiliygromov.artstation.com), Zhou He
 
 ___
 
@@ -78,7 +79,7 @@ This is unofficial fan content permitted under the Fan Content Policy. Not appro
 
 All *Warcraft* content and material are © Blizzard Entertainment.
 
-#### Last Updated: January 19, 2023
+#### Last Updated: January 20, 2023
 
 <img src='https://www.gmbinder.com/images/OkmIuMz.jpg' style='position:absolute; bottom:-80px; left:-20px; width:440px; transform:rotate(0deg)scalex(1);filter:opacity(100%);'/>
 
@@ -365,8 +366,8 @@ When you reach 18th level, your dire troll form becomes permanent. In addition, 
 
 ### Shadow Hunter
 
-<img src='https://www.gmbinder.com/images/e1YnFGv.jpg' style='position:absolute; bottom:-300px; right:-215px; width:900px; transform:rotate(0deg)scalex(1)scalex(-1);'  />
-<img src='https://www.gmbinder.com/images/vkl3XIU.png' style='position:absolute; bottom:-20px; right:-0px; width:1200px; filter:opacity(100%)' />
+<img src='https://www.gmbinder.com/images/QYMdn4S.png' style='position:absolute; bottom:-420px; right:-815px; width:2300px; transform:rotate(0deg)scalex(-1);'/>
+<img src='https://www.gmbinder.com/images/E1mCwxX.png' style='position:absolute; bottom:0px; right:-30px; width:1200px; filter:opacity(100%)' />
 
 *Hunter specialization, requires Troll*
 <div style='margin-top:-4px'></div>
