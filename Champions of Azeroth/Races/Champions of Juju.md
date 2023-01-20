@@ -93,14 +93,14 @@ All *Warcraft* content and material are © Blizzard Entertainment.
 <!-- markdownlint-disable MD022 MD051 -->
 
 - ### [<span>3</span><span>Introduction](#p3)
-- ### [<span>4</span><span>Chapter 1: New Subraces](#p4)
+- ### [<span>4</span><span>Chapter 1: Subraces](#p4)
   - [<span>4</span><span>Troll</span>](#p4)
   - [<span>4</span><span>Jungle Troll</span>](#p4)
   - [<span>5</span><span>Forest Troll</span>](#p5)
   - [<span>5</span><span>Ice Troll</span>](#p5)
   - [<span>6</span><span>Sand Troll</span>](#p6)
   - [<span>6</span><span>Zandalari Troll</span>](#p6)
-- ### [<span>7</span><span>Chapter 2: New Subclasses](#p7)
+- ### [<span>7</span><span>Chapter 2: Subclasses](#p7)
   - [<span>7</span><span>Berserker</span>](#p7)
   - [<span>9</span><span>Shadow Hunter</span>](#p9)
   - [<span>11</span><span>Witch Doctor</span>](#p11)
@@ -129,7 +129,7 @@ All *Warcraft* content and material are © Blizzard Entertainment.
 
 > ##### Disclaimer
 >
-> The author is not responsible for players that cut off their own arm, indulge in the darkest of mojo, or trust the wrong warchief. If you accidentally anger a Loa you just have to deal with yourself.
+> The author is not responsible for players that cut off their own arm, indulge in the darkest of mojo, or trust the wrong warchief. If you accidentally anger a loa you just have to deal with it yourself.
 
 \pagebreakNum
 
@@ -180,7 +180,7 @@ The [WC5E](https://www.reddit.com/r/wc5e/) project. My own *Warcraft* homebrew j
 
 \pagebreakNum
 
-# Chapter 1: New Subraces
+# Chapter 1: Subraces
 
 [Champions of Azeroth](https://drive.google.com/file/d/1iEgdrwyGwAA7b7TW353_CzjhoQP-gYAF/view) introduced the troll race and one subrace, the jungle trolls. In addition, [Champions of Northrend](https://drive.google.com/file/d/1ltdlu9oR0giZHfzMLUYWVfxq79tB7StI/view) introduced the generic *frostborn* subrace, that can be used for creating ice trolls. I have included all of the above in this module for easy access, with permission from Silverblade, in addition to adding three new subraces; the forest trolls, the sand trolls and the Zandalari.
 
@@ -304,7 +304,7 @@ Zandalari trolls are a hard working people that take pride in being they are str
 
 \pagebreakNum
 
-# Chapter 2: New Subclasses
+# Chapter 2: Subclasses
 
 This chapter introduces three new subclasses focused around trolls. The alchemically enhanced warriors, turned into furious troll berserkers. The loa favored shadow hunters, hunters using voodoo and shadow magic to get the job done. Finally, the witch doctors, troll priests that use voodoo, shadow magic, and alchemy to strengthen its allies and hex the enemy. The hunter, priest and warrior classes can all be found in [Champions of Azeroth](https://drive.google.com/file/d/1iEgdrwyGwAA7b7TW353_CzjhoQP-gYAF/view).
 
