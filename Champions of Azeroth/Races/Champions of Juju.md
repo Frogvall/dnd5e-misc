@@ -149,16 +149,16 @@ The design principles for *Champions of Azeroth* are:
 
 I completely agree to the design principles of the Champions series and have done my best to adhere to them.
 
-\columnbreak
-
-<img src='https://www.gmbinder.com/images/ecH9QkB.jpg' style='position:absolute; top:-50px; right:-130px; width:600px;filter:opacity(100%);'/>
-<img src='https://image.ibb.co/kC44nH/oF4JQBz.png' style='position:absolute; top:-445px; left:-150px; width:1160px; transform:rotate(0deg)scalex(1)scaley(-1);filter:opacity(100%);'/>
-
-<div style='margin-top:200px;'></div>
-
 ### On Balance
 
 Since I am mostly dealing with subraces and subclasses, I am aiming for internal balance between the already existing ones and those I add. Hence I can approach this using a limited balancing scope and have no intention to benchmark these against vanilla dungeons and dragons.
+
+\columnbreak
+
+<img src='https://www.gmbinder.com/images/ecH9QkB.jpg' style='position:absolute; top:0px; right:-130px; width:600px;filter:opacity(100%);'/>
+<img src='https://image.ibb.co/kC44nH/oF4JQBz.png' style='position:absolute; top:-260px; left:-180px; width:1160px; transform:rotate(0deg)scalex(1)scaley(-1);filter:opacity(100%);'/>
+
+<div style='margin-top:390px;'></div>
 
 ### What This Is
 
