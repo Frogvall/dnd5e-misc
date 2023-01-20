@@ -158,7 +158,7 @@ I completely agree to the design principles of the Champions series and have don
 
 ### On Balance
 
-Since I am mostly dealing with subraces and subclasses, I am aiming for internal balance between the already existing ones and those I add. Hence I can approach this using a limited balance scope and have no intention to benchmark these against vanilla dungeons and dragons.
+Since I am mostly dealing with subraces and subclasses, I am aiming for internal balance between the already existing ones and those I add. Hence I can approach this using a limited balancing scope and have no intention to benchmark these against vanilla dungeons and dragons.
 
 ### What This Is
 
@@ -170,7 +170,7 @@ I welcome any and all feedback on any of my work. You can reach me (Auvreannia) 
 
 ### Acknowledgements
 
-Silverblade ([u/Silverblade1234](https://www.reddit.com/user/Silverblade1234)) for his amazing work with the whole Champion series and for many healthy discussions around game design and other things.
+Silverblade ([u/Silverblade1234](https://www.reddit.com/user/Silverblade1234)) for his amazing work with the whole Champion series and for many healthy discussions around game design and other things. Also, for reviewing this work ,acting as a sanity check, and for his approval to republish parts of his work in this compendium, for easy access.
 
 The [WC5E](https://www.reddit.com/r/wc5e/) project. My own *Warcraft* homebrew journey started with that project, mainly creating monsters for their monster manual, but also taking part in their 3.0 class revamp. Even though I am no longer part of that project, I have utter respect for their continued work.
 
@@ -306,7 +306,7 @@ Zandalari trolls are a hard working people that take pride in being they are str
 
 # Chapter 2: New Subclasses
 
-This chapter introduces three new subclasses focused around trolls. The alchemically enhanced warriors, turned into furious troll berserkers. The loa favored shadow hunters, hunters using voodoo and shadow magic to get the job done. Finally, the witch doctors, troll priests that use voodoo, shadow magic, and alchemy to strengthen its allies and hex the enemy.
+This chapter introduces three new subclasses focused around trolls. The alchemically enhanced warriors, turned into furious troll berserkers. The loa favored shadow hunters, hunters using voodoo and shadow magic to get the job done. Finally, the witch doctors, troll priests that use voodoo, shadow magic, and alchemy to strengthen its allies and hex the enemy. The hunter, priest and warrior classes can all be found in [Champions of Azeroth](https://drive.google.com/file/d/1iEgdrwyGwAA7b7TW353_CzjhoQP-gYAF/view).
 
 \columnbreak
 
@@ -333,8 +333,8 @@ Also at 3rd level, you have learned how to utilize the concoctions infused in yo
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses of it when you finish a long rest.
 
-<img src='https://www.gmbinder.com/images/icEklXv.jpg' style='position:absolute; top:220px; right:270px; width:720px' />
-<img src='https://preview.ibb.co/byzgZx/JIbLHii.png' style='position:absolute; top:-450px; right:-160px; width:1000px; transform:rotate(0deg)scalex(-1)scaley(-1);filter:opacity(100%);'/>
+<img src='https://www.gmbinder.com/images/icEklXv.jpg' style='position:absolute; top:250px; right:270px; width:720px' />
+<img src='https://preview.ibb.co/byzgZx/JIbLHii.png' style='position:absolute; top:-420px; right:-160px; width:1000px; transform:rotate(0deg)scalex(-1)scaley(-1);filter:opacity(100%);'/>
 <img src='https://www.gmbinder.com/images/ohZghLL.png' style='position:absolute; top:0px; right:-90px; width:900px' />
 
 <img src='https://www.gmbinder.com/images/RBelAOo.png' style='position:absolute; bottom:0px; right:-90px; width:470px; transform:rotate(0deg)scalex(-1)' />
