@@ -487,7 +487,7 @@ Starting at 18th level, you can construct a powerful ward to protect yourself an
 
 # Chapter 3: Blessings of the Loa
 
-Blessings are supernatural gifts granted by deities. Most trolls are superstitious and worship loa wild gods or spirits of the land. Countless loa exist, most weak, but some very powerful. Most are shapeless, whereas others have animal or creature forms. Many of the loa make their home in the Garden of the Loa in Zuldazar, or across Zandalar more generally, with major temples found in traditional troll lands. This chapter is here to give the GM ideas on blessing the more powerful loas could hand out to their champions. For more information on blessings, refer to the Dungeon Master's Guide, chapter 7.
+Blessings are supernatural gifts granted by deities. Most trolls are superstitious and worship loa---wild gods or spirits of the land. Countless loa exist, most weak, but some very powerful. Most are shapeless, whereas others have animal or creature forms. Many of the loa make their home in the Garden of the Loa in Zuldazar, or across Zandalar more generally, with major temples found in traditional troll lands. This chapter is here to give the GM ideas on blessing the more powerful loas could hand out to their champions. For more information on blessings, refer to the Dungeon Master's Guide, chapter 7.
 
 #### Blessing of Akali
 
