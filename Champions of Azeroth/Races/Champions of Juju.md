@@ -50,7 +50,7 @@ ___
 
 - **Front Art By:** [Glenn Rane](https://glennrane.artstation.com)
 - **Back Art By:** [AJ Nazarro](https://ajnazzaro.artstation.com/)
-- **Interior Art By:** [Alex Horley](https://www.alexhorleyart.com), [Alexandra Ziminova](https://faplastilinka.artstation.com), [Bayard Wu](https://bayardwu.artstation.com), Eric Flannum, [Glenn Rane](https://glennrane.artstation.com), [Laurel D. Austin](http://www.laureldaustinart.com), Michel & René Koiter, [Oscar "ShadowPriest" Lazo](https://shadowpriestart.artstation.com), [Raymond Swanland](https://raymondswanland.com), [Samwise Didier](https://thepandaking.artstation.com), [Serge Tsvelykh](https://resolvent.artstation.com/), [Vasiliy Gromov](https://vasiliygromov.artstation.com), Zhou He
+- **Interior Art By:** [Alex Horley](https://www.alexhorleyart.com), [Alexandra Ziminova](https://faplastilinka.artstation.com), [Bayard Wu](https://bayardwu.artstation.com), Eric Flannum, [Glenn Rane](https://glennrane.artstation.com), [Kyle Herring](https://kylepunk.artstation.com/), [Laurel D. Austin](http://www.laureldaustinart.com), Michel & René Koiter, [Oscar "ShadowPriest" Lazo](https://shadowpriestart.artstation.com), [Samwise Didier](https://thepandaking.artstation.com), [Serge Tsvelykh](https://resolvent.artstation.com/), [Vasiliy Gromov](https://vasiliygromov.artstation.com), Zhou He
 
 ___
 
@@ -79,11 +79,11 @@ This is unofficial fan content permitted under the Fan Content Policy. Not appro
 
 All *Warcraft* content and material are © Blizzard Entertainment.
 
-#### Last Updated: January 20, 2023
+#### Last Updated: January 21, 2023
 
-<img src='https://www.gmbinder.com/images/OkmIuMz.jpg' style='position:absolute; bottom:-80px; left:-20px; width:440px; transform:rotate(0deg)scalex(1);filter:opacity(100%);'/>
+<img src='https://www.gmbinder.com/images/Fe3zrGs.png' style='position:absolute; bottom:0px; left:-80px; width:1000px; transform:rotate(0deg)scalex(1);filter:opacity(100%);'/>
 
-<img src='https://preview.ibb.co/byzgZx/JIbLHii.png' style='position:absolute; top:-80px; right:-110px; width:1000px; transform:rotate(0deg)scalex(-1)scaley(-1);filter:opacity(100%);'/>
+<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:-450px; right:0px; width:1000px; filter:opacity(100%);'/>
 
 \columnbreak
 
@@ -104,23 +104,7 @@ All *Warcraft* content and material are © Blizzard Entertainment.
   - [<span>7</span><span>Berserker</span>](#p7)
   - [<span>9</span><span>Shadow Hunter</span>](#p9)
   - [<span>11</span><span>Witch Doctor</span>](#p11)
-- ### [<span>72</span><span>Chapter 3: Equipment](#p72)
-  - [<span>72</span><span>Starting Equipment</span>](#p72)
-  - [<span>72</span><span>Weapons</span>](#p72)
-  - [<span>73</span><span>Adventuring Gear</span>](#p73)
-- ### [<span>74</span><span>Chapter 4: Customization](#p74)
-  - [<span>74</span><span>Languages</span>](#p74)
-  - [<span>74</span><span>Variant Rules</span>](#p74)
-  - [<span>75</span><span>Multiclassing</span>](#p75)
-  - [<span>75</span><span>Feats</span>](#p75)
-- ### [<span>84</span><span>Chapter 5: Spells](#p84)
-  - [<span>84</span><span>Spell Lists</span>](#p84)
-  - [<span>88</span><span>Spell Descriptions</span>](#p88)
-- ### [<span>101</span><span>Appendix A: Druid Forms](#p101)
-- ### [<span>104</span><span>Appendix B: Hunter Companions](#p104)
-- ### [<span>105</span><span>Appendix C: Warlock Minions](#p105)
-  - [<span>105</span><span>Lesser Demons</span>](#p105)
-  - [<span>108</span><span>Greater Demons</span>](#p108)
+- ### [<span>72</span><span>Chapter 3: Blessings of the Loa](#p13)
 
 <!-- markdownlint-enable MD022 MD051 -->
 </div>
@@ -507,7 +491,7 @@ Blessings are supernatural gifts granted by deities. Most trolls are superstitio
 
 #### Blessing of Akali
 
-https://i.imgur.com/6pOr7GX.jpg
+<!--<https://www.gmbinder.com/images/6pOr7GX.jpg>-->
 
 If you move at least 20 feet straight towards a target and then hit it with a melee attack on the same turn, the target takes an extra 2d8 bludgeon damage. If the target is a creature, it must suceed on a Strength saving throw or be knocked prone. The DC for this save equals 13 plus your proficiency bonus.
 
@@ -521,7 +505,7 @@ You can cast the *fly* spell (self only) once and regain the ability to cast it 
 
 #### Blessing of Akunda
 
-You know the *thunderclap* cantrip. Charisma, Intelligence or Wisdom is your spellcasting modifier fo this spell, chosen when gaining this blessing.
+You know the *thunderclap* cantrip. Charisma, Intelligence or Wisdom is your spellcasting modifier for this spell, chosen when you gain this blessing.
 
 #### Blessing of Bethekk
 
@@ -533,7 +517,7 @@ You stabilize whenever you are dying at the start of your turn. In addition, whe
 
 #### Blessing of Dambala
 
-Once per long rest you can use an action to shapeshift into a Giant Constrictor Snake (see Basic Rules or Monster Manual for statistics) for up to an hour. You gain 60 temporary hit points and once you lose those you turn back. You can also turn back by using an action.
+Once per long rest you can use an action to shift shape into a Giant Constrictor Snake (see Basic Rules or Monster Manual for statistics) for up to an hour. You gain 60 temporary hit points and once you no longer have any temporary hit points you shift back. You can also use an action to shift back.
 
 #### Blessing of Kimbul
 
@@ -541,11 +525,13 @@ Your Dexterity score increases by 2, up to a maximum of 22.
 
 #### Blessing of G'huun
 
-You can cast the *contagion* spell once and regain the ability to cast it again when you finish a long rest.
+You can cast the *contagion* spell once and regain the ability to cast it again when you finish a long rest. Charisma, Intelligence or Wisdom is your spellcasting modifier for this spell, chosen when you gain this blessing.
+
+\columnbreak
 
 #### Blessing of Gonk
 
-https://i.imgur.com/p3PFQE6.jpg
+<!--<https://www.gmbinder.com/images/p3PFQE6.jpg>-->
 
 You know the *druidcraft* cantrip. In addition you are proficient in the Survival skill and your proficiency bonus is doubled when making a Wisdom (Survival) check to follow tracks or hunt wild game.
 
@@ -559,7 +545,7 @@ Once per long rest, on your turn, you can take one additional action.
 
 #### Blessing of Hakkar
 
-https://i.imgur.com/hx8mT9n.jpg
+<!--<https://www.gmbinder.com/images/hx8mT9n.jpg>-->
 
 You can cast the *soul cage* spell once and regain the ability to cast it again when you finish a long rest.
 
@@ -569,21 +555,83 @@ Your Wisdom score increases by 2, up to a maximum of 22.
 
 #### Blessing of Hir'eek
 
-https://i.imgur.com/r1O2PcS.jpg
+<!--<https://www.gmbinder.com/images/r1O2PcS.jpg>-->
 
+You have blindsight up to 60 feet and advantage om Wisdom (Perception) checks relying on hearing.
 
+#### Blessing of Jani
+
+TBD
+
+#### Blessing of Jan'alai
+
+You can cast the *dragon's breath* spell (self only, fire only) once and regain the ability to cast it again when you finish a long rest. Charisma, Intelligence or Wisdom is your spellcasting modifier for this spell, chosen when you gain this blessing.
+
+#### Blessing of Krag'wa
+
+Your jump distance is tripled and you're always considered to have a running start.
+
+#### Blessing of Lakali
+
+Your Intelligence score increases by 2, up to a maximum of 22.
 
 #### Blessing of Mam'toth
 
 Your Constitution score increases by 2, up to a maximum of 22.
 
+#### Blessing of Nalorakk
+
+Your Strength score increases by 2, up to a maximum of 22.
+
+#### Blessing of Pa'ku
+
+You can cast the *wind walk* spell once and regain the ability to cast it again when three days have passed.
+
+#### Blessing of Quetz'lun
+
+You have advantage on saving throws against spells and other magical effects.
+
+\pagebreakNum
+
 #### Blessing of Rezan
 
 Your Charisma score increases by 2, up to a maximum of 22.
 
+#### Blessing of Rhunok
+
+When you are reduced to 0 hit points but not killed outright, you drops to 1 hit point instead. You must finish a short or long rest to use this blessing again.
+
+#### Blessing of Samedi
+
+Your attack rolls have advantage against undead creatures, and undead creatures have disadvantage on saving throws against your spells.
+
+#### Blessing of Sethraliss
+
+You know the *poison spray* cantrip. Charisma, Intelligence or Wisdom is your spellcasting modifier for this spell, chosen when you gain this blessing.
+
 #### Blessing of Shadra
 
 Whenever you hit a target with an attack that deals slashing or piercing damage, the target must succeed with a Constitution saving throw or take 1d6 poison damage and become poisoned until the start of your next turn. The DC for this save equals 13 plus your proficiency bonus.
+
+#### Blessing of Shando
+
+You know the *shocking grasp* cantrip. Charisma, Intelligence or Wisdom is your spellcasting modifier for this spell, chosen when you gain this blessing.
+
+#### Blessing of Shirvallah
+
+One nonmagical weapon in your possession becomes a +1 weapon whenever you wield it.
+
+#### Blessing of Torcali
+
+You speed increases by 10 feet and you ignore difficult terrain.
+
+#### Blessing of Torga
+
+You gain a +1 bonus to AC and saving throws.
+
+#### Blessing of Zanza
+
+You have resistance against acid, lightning, poison and thunder damage.
 
 \pagebreakNum
 
@@ -592,7 +640,7 @@ Whenever you hit a target with an attack that deals slashing or piercing damage,
 <img src='https://www.gmbinder.com/images/QQXB4ii.png' style='position:absolute; top:0px; right:-650px; width:1700px' />
 
  <style>
-   .phb#p14:after { display:none; }
+   .phb#p15:after { display:none; }
  </style>
 
  <div class='back-cover-image'></div>
@@ -622,19 +670,19 @@ ___
 To make your own homebrew documents that look as fabulous as this, please visit [GM Binder](https://www.gmbinder.com)!
 
  </div>
- 
+
  <div class='back-cover-diamond' style='top: 740px;'></div>
- 
+
  <div style='top:210px;'></div>
- 
+
  <div class='back-cover-close'>
- 
+
  </div>
- 
+
  <div class='back-cover-logo'></div>
- 
+
  <div class='back-cover-logo-link'>
- 
+
  [WWW.GMBINDER.COM](https://www.gmbinder.com)
- 
+
  </div>
