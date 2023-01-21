@@ -346,7 +346,7 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 
 At 7th level, you learn to channel your pain to drive you into a furious battle rage. If you've used your Rage of the Dire Troll feature this turn, or have taken damage since your last turn ended, the first attack you make on your turn has advantage. At 18th level, you always get advantage on your first attack in each of your turns, regardless if you've taken damage or not.
 
-#### Superior Regeneration
+#### Enhanced Regeneration
 
 When you reach 10th level, the concoctions you've constantly consume has permanently changed your blood to become stronger and help regenerate your body more effectively. Whenever you would roll a Hit Die to regain hit points, roll the die twice and get hit points from both. In addition, lost limbs and organs regrow when you finish a long rest.
 
@@ -501,28 +501,114 @@ Starting at 18th level, you can construct a powerful ward to protect yourself an
 
 \pagebreakNum
 
+# Chapter 3: Blessings of the Loa
+
+Blessings are supernatural gifts granted by deities. Most trolls are superstitious and worship loa wild gods or spirits of the land. Countless loa exist, most weak, but some very powerful. Most are shapeless, whereas others have animal or creature forms. Many of the loa make their home in the Garden of the Loa in Zuldazar, or across Zandalar more generally, with major temples found in traditional troll lands. This chapter is here to give the GM ideas on blessing the more powerful loas could hand out to their champions. For more information on blessings, refer to the Dungeon Master's Guide, chapter 7.
+
+#### Blessing of Akali
+
+https://i.imgur.com/6pOr7GX.jpg
+
+If you move at least 20 feet straight towards a target and then hit it with a melee attack on the same turn, the target takes an extra 2d8 bludgeon damage. If the target is a creature, it must suceed on a Strength saving throw or be knocked prone. The DC for this save equals 13 plus your proficiency bonus.
+
+#### Blessing of Akil'darah
+
+You can cast the *misty step* spell once and regain the ability to cast it again when you finish a short rest.
+
+#### Blessing of Akil'zon
+
+You can cast the *fly* spell (self only) once and regain the ability to cast it again when you finish a long rest.
+
+#### Blessing of Akunda
+
+You know the *thunderclap* cantrip. Charisma, Intelligence or Wisdom is your spellcasting modifier fo this spell, chosen when gaining this blessing.
+
+#### Blessing of Bethekk
+
+You have advantage on initiave rolls and on Dexterity (Stealth) rolls made to attempt to hide.
+
+#### Blessing of Bwonsamdi
+
+You stabilize whenever you are dying at the start of your turn. In addition, whenever you roll a Hit Die to regain hit points, double the number of hit points it restores.
+
+#### Blessing of Dambala
+
+Once per long rest you can use an action to shapeshift into a Giant Constrictor Snake (see Basic Rules or Monster Manual for statistics) for up to an hour. You gain 60 temporary hit points and once you lose those you turn back. You can also turn back by using an action.
+
+#### Blessing of Kimbul
+
+Your Dexterity score increases by 2, up to a maximum of 22.
+
+#### Blessing of G'huun
+
+You can cast the *contagion* spell once and regain the ability to cast it again when you finish a long rest.
+
+#### Blessing of Gonk
+
+https://i.imgur.com/p3PFQE6.jpg
+
+You know the *druidcraft* cantrip. In addition you are proficient in the Survival skill and your proficiency bonus is doubled when making a Wisdom (Survival) check to follow tracks or hunt wild game.
+
+#### Blessing of Gral
+
+You have a swim speed of 50 ft. and can breathe underwater.
+
+#### Blessing of Halazzi
+
+Once per long rest, on your turn, you can take one additional action.
+
+#### Blessing of Hakkar
+
+https://i.imgur.com/hx8mT9n.jpg
+
+You can cast the *soul cage* spell once and regain the ability to cast it again when you finish a long rest.
+
+#### Blessing of Har'koa
+
+Your Wisdom score increases by 2, up to a maximum of 22.
+
+#### Blessing of Hir'eek
+
+https://i.imgur.com/r1O2PcS.jpg
+
+
+
+#### Blessing of Mam'toth
+
+Your Constitution score increases by 2, up to a maximum of 22.
+
+#### Blessing of Rezan
+
+Your Charisma score increases by 2, up to a maximum of 22.
+
+#### Blessing of Shadra
+
+Whenever you hit a target with an attack that deals slashing or piercing damage, the target must succeed with a Constitution saving throw or take 1d6 poison damage and become poisoned until the start of your next turn. The DC for this save equals 13 plus your proficiency bonus.
+
+\pagebreakNum
+
 <!-- Items: Ancestral Staff -->
 
 <img src='https://www.gmbinder.com/images/QQXB4ii.png' style='position:absolute; top:0px; right:-650px; width:1700px' />
- 
+
  <style>
-   .phb#p13:after { display:none; }
+   .phb#p14:after { display:none; }
  </style>
- 
+
  <div class='back-cover-image'></div>
- 
+
  <div style='margin-top:20px;'></div>
- 
+
  <div class='back-cover-header'>
- 
+
 Thanks For Reading
- 
+
  </div>
- 
+
  <div class='back-cover-text'>
- 
+
  *Champions of Azeroth* has been a joy to design and write, and I hope it serves you well! If you have any feedback at all, or just want to reach out to chat about D&D or *Warcraft*, please do so. Reach me on Discord at Silverblade#9212, and on Reddit at [u/Silverblade1234](https://www.reddit.com/user/Silverblade1234).
- 
+
  This project would not have been possible without the hard work of others. For more resources or information about D&D or Warcraft, or the Warcraft 5E project that inspired this one, please visit the following resources:
 
 &emsp;[Dungeons & Dragons official site](https://dnd.wizards.com/)<br>
