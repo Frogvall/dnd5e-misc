@@ -50,7 +50,7 @@ ___
 
 - **Front Art By:** [Glenn Rane](https://glennrane.artstation.com)
 - **Back Art By:** [AJ Nazarro](https://ajnazzaro.artstation.com/)
-- **Interior Art By:** [Alex Horley](https://www.alexhorleyart.com), [Alexandra Ziminova](https://faplastilinka.artstation.com), [Bayard Wu](https://bayardwu.artstation.com), Eric Flannum, [Glenn Rane](https://glennrane.artstation.com), [Kyle Herring](https://kylepunk.artstation.com/), [Laurel D. Austin](http://www.laureldaustinart.com), Michel & René Koiter, [Oscar "ShadowPriest" Lazo](https://shadowpriestart.artstation.com), [Samwise Didier](https://thepandaking.artstation.com), [Serge Tsvelykh](https://resolvent.artstation.com/), [Vasiliy Gromov](https://vasiliygromov.artstation.com), Zhou He
+- **Interior Art By:** [Alex Horley](https://www.alexhorleyart.com), [Alexandra Ziminova](https://faplastilinka.artstation.com), [Bayard Wu](https://bayardwu.artstation.com), Eric Flannum, [Glenn Rane](https://glennrane.artstation.com), [Jim Nelson](https://jimnelson.artstation.com), [Kyle Herring](https://kylepunk.artstation.com/), [Laurel D. Austin](http://www.laureldaustinart.com), Michel & René Koiter, [Oscar "ShadowPriest" Lazo](https://shadowpriestart.artstation.com), [Samwise Didier](https://thepandaking.artstation.com), [Serge Tsvelykh](https://resolvent.artstation.com/), [Vasiliy Gromov](https://vasiliygromov.artstation.com), Zhou He
 
 ___
 
@@ -79,7 +79,7 @@ This is unofficial fan content permitted under the Fan Content Policy. Not appro
 
 All *Warcraft* content and material are © Blizzard Entertainment.
 
-#### Last Updated: January 21, 2023
+#### Last Updated: January 23, 2023
 
 <img src='https://www.gmbinder.com/images/Fe3zrGs.png' style='position:absolute; bottom:0px; left:-80px; width:1000px; transform:rotate(0deg)scalex(1);filter:opacity(100%);'/>
 
@@ -104,7 +104,7 @@ All *Warcraft* content and material are © Blizzard Entertainment.
   - [<span>7</span><span>Berserker</span>](#p7)
   - [<span>9</span><span>Shadow Hunter</span>](#p9)
   - [<span>11</span><span>Witch Doctor</span>](#p11)
-- ### [<span>72</span><span>Chapter 3: Blessings of the Loa](#p13)
+- ### [<span>13</span><span>Chapter 3: Blessings of the Loa](#p13)
 
 <!-- markdownlint-enable MD022 MD051 -->
 </div>
@@ -485,19 +485,21 @@ Starting at 18th level, you can construct a powerful ward to protect yourself an
 
 \pagebreakNum
 
+<img src='https://www.gmbinder.com/images/6pOr7GX.jpg' style='position:absolute; top:20px; right:-0px; width:450px; transform:rotate(0deg)scalex(-1)' />
+<img src='https://www.gmbinder.com/images/nzPYZyD.png' style='position:absolute; top:-250px; right:-300px; width:1000px' />
+<img src='https://www.gmbinder.com/images/nzPYZyD.png' style='position:absolute; top:-290px; right:-390px; width:1200px' />
+
 # Chapter 3: Blessings of the Loa
 
 Blessings are supernatural gifts granted by deities. Most trolls are superstitious and worship loa---wild gods or spirits of the land. Countless loa exist, most weak, but some very powerful. Most are shapeless, whereas others have animal or creature forms. Many of the loa make their home in the Garden of the Loa in Zuldazar, or across Zandalar more generally, with major temples found in traditional troll lands. This chapter is here to give the GM ideas on blessing the more powerful loas could hand out to their champions. For more information on blessings, refer to the Dungeon Master's Guide, chapter 7.
 
 #### Blessing of Akali
 
-<!--<https://www.gmbinder.com/images/6pOr7GX.jpg>-->
-
 If you move at least 20 feet straight towards a target and then hit it with a melee attack on the same turn, the target takes an extra 2d8 bludgeon damage. If the target is a creature, it must suceed on a Strength saving throw or be knocked prone. The DC for this save equals 13 plus your proficiency bonus.
 
 #### Blessing of Akil'darah
 
-You can cast the *misty step* spell once and regain the ability to cast it again when you finish a short rest.
+You can cast the *misty step* spell once and regain the ability to cast it again when you finish a short or long rest.
 
 #### Blessing of Akil'zon
 
@@ -528,6 +530,8 @@ Your Dexterity score increases by 2, up to a maximum of 22.
 You can cast the *contagion* spell once and regain the ability to cast it again when you finish a long rest. Charisma, Intelligence or Wisdom is your spellcasting modifier for this spell, chosen when you gain this blessing.
 
 \columnbreak
+
+<div style='margin-top:404px'></div>
 
 #### Blessing of Gonk
 
@@ -561,11 +565,13 @@ You have blindsight up to 60 feet and advantage om Wisdom (Perception) checks re
 
 #### Blessing of Jani
 
-TBD
+You can cast the *identify* spell once, without requiring any material components, and regain the ability to cast it again when you finish a short or long rest. In addition you are proficient in the perception and investigation skills and your proficiency is doubled when using any of those skills to search for treasure or gleaning the value of an item.
+
+\pagebreakNum
 
 #### Blessing of Jan'alai
 
-You can cast the *dragon's breath* spell (self only, fire only) once and regain the ability to cast it again when you finish a long rest. Charisma, Intelligence or Wisdom is your spellcasting modifier for this spell, chosen when you gain this blessing.
+You can cast the *dragon's breath* spell (self only, fire only) once, without requiring any material components, and regain the ability to cast it again when you finish a long rest. Charisma, Intelligence or Wisdom is your spellcasting modifier for this spell, chosen when you gain this blessing.
 
 #### Blessing of Krag'wa
 
@@ -585,13 +591,11 @@ Your Strength score increases by 2, up to a maximum of 22.
 
 #### Blessing of Pa'ku
 
-You can cast the *wind walk* spell once and regain the ability to cast it again when three days have passed.
+You can cast the *wind walk* spell once, without requiring any material components, and regain the ability to cast it again when three days have passed.
 
 #### Blessing of Quetz'lun
 
 You have advantage on saving throws against spells and other magical effects.
-
-\pagebreakNum
 
 #### Blessing of Rezan
 
@@ -600,6 +604,8 @@ Your Charisma score increases by 2, up to a maximum of 22.
 #### Blessing of Rhunok
 
 When you are reduced to 0 hit points but not killed outright, you drops to 1 hit point instead. You must finish a short or long rest to use this blessing again.
+
+\columnbreak
 
 #### Blessing of Samedi
 
@@ -632,6 +638,10 @@ You gain a +1 bonus to AC and saving throws.
 #### Blessing of Zanza
 
 You have resistance against acid, lightning, poison and thunder damage.
+
+<img src='https://www.gmbinder.com/images/gQ4aYuQ.png' style='position:absolute; bottom:-60px; left:-80px; width:900px; transform:rotate(0deg)scalex(1);filter:opacity(100%);'/>
+
+<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:-330px; right:0px; width:1000px; filter:opacity(100%);'/>
 
 \pagebreakNum
 
