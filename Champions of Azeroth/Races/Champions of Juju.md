@@ -214,7 +214,7 @@ Jungle trolls originate in the wilds of Stranglethorn Vale, where they once rule
 
 #### Forest Troll
 
-Forest trolls, most prominently represented by the Amani tribe in Zul'Aman, once built the biggest empire on Azeroth. Thousands of years later they struggle to keep their territories from being overrun. Aggressive and suspicious to strangers, with a strong lust for vengeance, they consort to voodoo and ritual sacrifice to try to restore their former glory. Once a cultured and civilized people, they have now retracted to the wilderness in a more primitive fashion.
+Forest trolls, most prominently represented by the Amani tribe in Zul'Aman, once built the biggest empire on Azeroth. Thousands of years later they struggle to keep their territories from being overrun. Aggressive and suspicious to strangers, with a strong lust for vengeance, they consort to voodoo and ritual sacrifice to try to restore their former glory. Once a cultured and civilized people, they have now retracted into the wilderness in a more primitive fashion.
 
 ***Ability Score Increase.*** Your choice of Strength or Wisdom increases by 1.
 
