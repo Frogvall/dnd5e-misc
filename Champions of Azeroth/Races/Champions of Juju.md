@@ -439,11 +439,11 @@ Witch doctors are spellcasters and alchemists. These dastardly magic users are a
 |:---:|:---|
 | 3rd | &ensp;*augury*, *enlarge/reduce* |
 | 5th | &ensp;*haste*, *speak with dead* |
-| 7th | &ensp;*death ward*, *shadow of moil*<sup>XGtE</sup> |
+| 7th | &ensp;*death ward*, ▲ *shadow of moil* |
 | 9th | &ensp;*commune*, *dream* |
 <div style='margin-top:-10px'></div>
 
-<sup>XGtE</sup> *Spell found in Xanathar's Guide to Everything*.
+▲ *Spell found in Xanathar's Guide to Everything*.
 
 #### Master of Juju
 
@@ -488,9 +488,9 @@ Starting at 18th level, you can construct a powerful ward to protect yourself an
 
 \pagebreakNum
 
-<img src='https://www.gmbinder.com/images/6pOr7GX.jpg' style='position:absolute; top:20px; right:-0px; width:450px; transform:rotate(0deg)scalex(-1)' />
-<img src='https://www.gmbinder.com/images/nzPYZyD.png' style='position:absolute; top:-250px; right:-300px; width:1000px' />
-<img src='https://www.gmbinder.com/images/nzPYZyD.png' style='position:absolute; top:-290px; right:-390px; width:1200px' />
+<img src='https://www.gmbinder.com/images/6pOr7GX.jpg' style='position:absolute; top:10px; right:-0px; width:450px; transform:rotate(0deg)scalex(-1)' />
+<img src='https://www.gmbinder.com/images/nzPYZyD.png' style='position:absolute; top:-260px; right:-300px; width:1000px' />
+<img src='https://www.gmbinder.com/images/nzPYZyD.png' style='position:absolute; top:-300px; right:-390px; width:1200px' />
 
 # Chapter 3: Blessings of the Loa
 
@@ -522,19 +522,19 @@ You stabilize whenever you are dying at the start of your turn. In addition, whe
 
 #### Blessing of Dambala
 
-Once per long rest you can use an action to shift shape into a Giant Constrictor Snake (see Basic Rules or Monster Manual for statistics) for up to an hour. You gain 60 temporary hit points and once you no longer have any temporary hit points you shift back. You can also use an action to shift back, immediately losing any remaining temporary hit points.
+You can use an action to shift shape into a Giant Constrictor Snake (see Basic Rules or Monster Manual for statistics) for up to an hour. You gain 60 temporary hit points and once you no longer have any temporary hit points you shift back. You can also use an action to shift back, immediately losing any remaining temporary hit points. You can use this blessing once and regain the ability to use it again when you finish a long rest.
 
 #### Blessing of Kimbul
 
-Your Dexterity score increases by 2, up to a maximum of 22.
+Your Dexterity score increases by 2, up toa maximum of 22.
+
+\columnbreak
+
+<div style='margin-top:360px'></div>
 
 #### Blessing of G'huun
 
 You can cast the *contagion* spell once and regain the ability to cast it again when you finish a long rest. Charisma, Intelligence or Wisdom is your spellcasting modifier for this spell, chosen when you gain this blessing.
-
-\columnbreak
-
-<div style='margin-top:419px'></div>
 
 #### Blessing of Gonk
 
@@ -544,13 +544,13 @@ You know the *druidcraft* cantrip. In addition you are proficient in the Surviva
 
 You have a swim speed of 50 ft. and can breathe underwater.
 
-#### Blessing of Halazzi
-
-Once per long rest, on your turn, you can take one additional action.
-
 #### Blessing of Hakkar
 
 You can cast the *soul cage* spell once and regain the ability to cast it again when you finish a long rest.
+
+#### Blessing of Halazzi
+
+You can take one additional action on your turn. You can use this blessing once, but not on the same turn that you use the Action Surge feature (if you have it), and regain the ability to use it again when you finish a long rest.
 
 #### Blessing of Har'koa
 
@@ -560,11 +560,11 @@ Your Wisdom score increases by 2, up to a maximum of 22.
 
 You have blindsight up to 60 feet and advantage om Wisdom (Perception) checks relying on hearing.
 
+\pagebreakNum
+
 #### Blessing of Jani
 
 You can cast the *identify* spell once, without requiring any material components, and regain the ability to cast it again when you finish a short or long rest. In addition you are proficient in the perception and investigation skills and your proficiency is doubled when using any of those skills to search for treasure or gleaning the value of an item.
-
-\pagebreakNum
 
 #### Blessing of Jan'alai
 
@@ -598,11 +598,11 @@ You have advantage on saving throws against spells and other magical effects.
 
 Your Charisma score increases by 2, up to a maximum of 22.
 
+\columnbreak
+
 #### Blessing of Rhunok
 
 When you are reduced to 0 hit points but not killed outright, you drops to 1 hit point instead. You must finish a short or long rest to use this blessing again.
-
-\columnbreak
 
 #### Blessing of Samedi
 
@@ -636,9 +636,9 @@ You gain a +1 bonus to AC and saving throws.
 
 You have resistance against acid, lightning, poison and thunder damage.
 
-<img src='https://www.gmbinder.com/images/gQ4aYuQ.png' style='position:absolute; bottom:-60px; left:-80px; width:900px; transform:rotate(0deg)scalex(1);filter:opacity(100%);'/>
+<img src='https://www.gmbinder.com/images/gQ4aYuQ.png' style='position:absolute; bottom:-80px; left:-80px; width:900px; transform:rotate(0deg)scalex(1);filter:opacity(100%);'/>
 
-<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:-330px; right:0px; width:1000px; filter:opacity(100%);'/>
+<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:-280px; right:0px; width:1000px; filter:opacity(100%);'/>
 
 \pagebreakNum
 
