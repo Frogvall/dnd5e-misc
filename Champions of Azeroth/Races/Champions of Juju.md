@@ -476,7 +476,7 @@ When you reach 14th level, your control over the soul linked to your voodoo doll
 
 #### Master of Wards
 
-Starting at 18th level, you can construct a powerful ward to protect yourself and your allies. You summon a totemic representation of your favored loa within 30 ft of you. It is ethereal, cannot be destroyed and gives the following benefits for one minute:
+Starting at 18th level, you can construct a powerful ward to protect yourself and your allies. As a bonus action, you summon a totemic representation of your favored loa within 30 ft of you. It is ethereal, cannot be destroyed and gives the following benefits for one minute:
 
 - ***Sentry.*** While within 30 ft. of the ward, you and any friendly creature can see invisible creatures and other creatures cannot hide from them. Attacks made ignore half cover and three-quarters cover.
 - ***Stasis.*** You can use your reaction whenever a hostile creature moves within 30 ft. of the ward, or starts its turn there. The creature have to make a Constitution saving throw versus your spell save DC or get stunned until the start of their next turn.
