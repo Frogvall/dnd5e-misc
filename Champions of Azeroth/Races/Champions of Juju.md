@@ -481,6 +481,8 @@ Starting at 18th level, you can construct a powerful ward to protect yourself an
 - ***Stasis.*** You can use your reaction whenever a hostile creature moves within 30 ft. of the ward, or starts its turn there. The creature have to make a Constitution saving throw versus your spell save DC or get stunned until the start of their next turn.
 - ***Healing.*** You and any friendly creature that starts its turn within 30 ft. of the ward regains 3d6 hit points.
 
+<br><br>Once you use this feature, you can't use it again until you finish a long rest.
+
 <img src='https://www.gmbinder.com/images/5ELXAao.png' style='position:absolute; bottom:0px; left:0px; width:520px' />
 
 \pagebreakNum
@@ -535,8 +537,6 @@ You can cast the *contagion* spell once and regain the ability to cast it again 
 
 #### Blessing of Gonk
 
-<!--<https://www.gmbinder.com/images/p3PFQE6.jpg>-->
-
 You know the *druidcraft* cantrip. In addition you are proficient in the Survival skill and your proficiency bonus is doubled when making a Wisdom (Survival) check to follow tracks or hunt wild game.
 
 #### Blessing of Gral
@@ -549,8 +549,6 @@ Once per long rest, on your turn, you can take one additional action.
 
 #### Blessing of Hakkar
 
-<!--<https://www.gmbinder.com/images/hx8mT9n.jpg>-->
-
 You can cast the *soul cage* spell once and regain the ability to cast it again when you finish a long rest.
 
 #### Blessing of Har'koa
@@ -558,8 +556,6 @@ You can cast the *soul cage* spell once and regain the ability to cast it again 
 Your Wisdom score increases by 2, up to a maximum of 22.
 
 #### Blessing of Hir'eek
-
-<!--<https://www.gmbinder.com/images/r1O2PcS.jpg>-->
 
 You have blindsight up to 60 feet and advantage om Wisdom (Perception) checks relying on hearing.
 
@@ -659,20 +655,16 @@ You have resistance against acid, lightning, poison and thunder damage.
 
  <div class='back-cover-header'>
 
-Thanks For Reading
+Stay away from da voodoo
 
  </div>
 
  <div class='back-cover-text'>
 
- *Champions of Azeroth* has been a joy to design and write, and I hope it serves you well! If you have any feedback at all, or just want to reach out to chat about D&D or *Warcraft*, please do so. Reach me on Discord at Silverblade#9212, and on Reddit at [u/Silverblade1234](https://www.reddit.com/user/Silverblade1234).
+So, ya like the Champions series made by da Silverblade? But, ya been thinking "where be all da juju?" Look no further, for dis book be containing all da juju, da mojo and da voodoo ya will evah need. So, relax mon, brew some concoctions and throw dem axes at dem elves. Dey had it comin'!
 
- This project would not have been possible without the hard work of others. For more resources or information about D&D or Warcraft, or the Warcraft 5E project that inspired this one, please visit the following resources:
+This compendium is an extension for Champions of Azeroth made by Silverblade. It contains additional troll subraces and three iconic troll archetypes as subclasses, the berserker, the shadow hunter and the witch doctor. Finally, it contains troll centric rewards for the Dungeon Master to hand out to their players.
 
-&emsp;[Dungeons & Dragons official site](https://dnd.wizards.com/)<br>
-&emsp;[World of Warcraft official site](https://worldofwarcraft.com/)<br>
-&emsp;[Champions of Azeroth](https://drive.google.com/drive/folders/1zKQmR5KN1nSMncZhEvPAUWPXTgYxa757?usp=sharing)<br>
-&emsp;[Warcraft 5E Reddit](https://www.reddit.com/r/wc5e/), [Discord](https://discord.gg/dKMJmmD)
 <br><br>
 ___
 
