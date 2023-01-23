@@ -522,7 +522,7 @@ You stabilize whenever you are dying at the start of your turn. In addition, whe
 
 #### Blessing of Dambala
 
-Once per long rest you can use an action to shift shape into a Giant Constrictor Snake (see Basic Rules or Monster Manual for statistics) for up to an hour. You gain 60 temporary hit points and once you no longer have any temporary hit points you shift back. You can also use an action to shift back.
+Once per long rest you can use an action to shift shape into a Giant Constrictor Snake (see Basic Rules or Monster Manual for statistics) for up to an hour. You gain 60 temporary hit points and once you no longer have any temporary hit points you shift back. You can also use an action to shift back, immediately losing any remaining temporary hit points.
 
 #### Blessing of Kimbul
 
@@ -534,7 +534,7 @@ You can cast the *contagion* spell once and regain the ability to cast it again 
 
 \columnbreak
 
-<div style='margin-top:404px'></div>
+<div style='margin-top:419px'></div>
 
 #### Blessing of Gonk
 
