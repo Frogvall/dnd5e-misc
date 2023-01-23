@@ -464,7 +464,7 @@ Also at 2nd level, you learn how to glean knowledge from surrounding spirits. Yo
 
 #### Master of Voodoo
 
-At 6th level, you learn to create a voodoo doll that can be linked to the soul of a creature. As long as you have material available; grass, sticks, or similar, you can create a doll as part of a short or long rest. The doll can be used as a spell casting focus. In addition, as a bonus action you can try to link the doll to a creature you can see within 60 ft. The creature need to succeed on a intelligence saving throw against your spell save DC or take 1d6 necrotic damage and become linked to your voodoo doll. While linked you can spend a bonus action to pinch the doll; the target repeats the saving throw taking 1d6 necrotic damage on a failure. Both damage rolls are increased to 2d6 at 14th level. The link breaks after 10 minutes, when you die, become unconscious, or when you link it to another creature. It also breaks if the target is no longer on the same plane of existence.
+At 6th level, you learn to create a voodoo doll that can be linked to the soul of a creature. As long as you have material available; grass, sticks, or similar, you can create a doll as part of a short or long rest. The doll can be used as a spell casting focus. In addition, as a bonus action you can try to link the doll to a creature you can see within 60 ft. The creature need to succeed on an Intelligence saving throw against your spell save DC or take 1d6 necrotic damage and become linked to your voodoo doll. While linked you can spend a bonus action to pinch the doll; the target repeats the saving throw taking 1d6 necrotic damage on a failure. Both damage rolls are increased to 2d6 at 14th level. The link breaks after 10 minutes, when you die, become unconscious, or when you link it to another creature. It also breaks if the target is no longer on the same plane of existence.
 
 The linked creature knows that something is wrong as soon as it gets linked. It can use an action to make a Wisdom (Insight) check versus your spell save DC to figure out who is causing it pain.
 
@@ -498,7 +498,7 @@ Blessings are supernatural gifts granted by deities. Most trolls are superstitio
 
 #### Blessing of Akali
 
-If you move at least 20 feet straight towards a target and then hit it with a melee attack on the same turn, the target takes an extra 2d8 bludgeon damage. If the target is a creature, it must suceed on a Strength saving throw or be knocked prone. The DC for this save equals 13 plus your proficiency bonus.
+If you move at least 20 feet straight towards a target and then hit it with a melee attack on the same turn, the target takes an extra 2d8 bludgeon damage. If the target is a creature, it must succeed on a Strength saving throw or be knocked prone. The DC for this save equals 13 plus your proficiency bonus.
 
 #### Blessing of Akil'darah
 
