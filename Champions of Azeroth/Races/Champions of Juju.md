@@ -240,6 +240,7 @@ Forest trolls, most prominently represented by the Amani tribe in Zul'Aman, once
 #### Ice Troll
 
 The ice trolls can be found in cold places, most prominently in Northrend, where they have adapted to such cold and harsh environments. Most ice trolls are cannibalistic and tend to eat their fallen enemies raw, believing that they consume the souls of their victim and gain their strength. Like other trolls the ice trolls are superstitious, religious and practice voodoo.
+
 *Please note that this subclass is a republishing of the frostborn subrace featured in [Champions of Northrend](https://drive.google.com/file/d/1ltdlu9oR0giZHfzMLUYWVfxq79tB7StI/view), and was written by Silverblade.*
 
 ***Ability Score Increase.*** Your Constitution score increases by 1.
