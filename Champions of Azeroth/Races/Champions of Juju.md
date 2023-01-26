@@ -632,11 +632,11 @@ You know the *shocking grasp* cantrip. Charisma, Intelligence or Wisdom is your 
 
 #### Blessing of Shirvallah
 
-Whenever you make an attack with a nonmagical weapon, it becomes a +1 weapon for the attack.
+Whenever you make an attack with a nonmagical weapon, it is considered a +1 weapon for the attack.
 
 #### Blessing of Torcali
 
-You speed increases by 10 feet and you ignore difficult terrain.
+You speed increases by 10 feet and you ignore nonmagical difficult terrain.
 
 #### Blessing of Torga
 
