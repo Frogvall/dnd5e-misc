@@ -647,7 +647,7 @@ You gain a +1 bonus to AC and saving throws.
 You have resistance against acid, lightning, poison and thunder damage.
 
 <img src='https://www.gmbinder.com/images/roPU9s7.jpg' style='position:absolute; top:-100px; right:-280px; width:900px' />
-<img src='https://www.gmbinder.com/images/ohZghLL.png' style='position:absolute; top:0px; right:0px; width:900px; transform:rotate(0deg)scalex(-1);filter:opacity(100%);' />
+<img src='https://www.gmbinder.com/images/ohZghLL.png' style='position:absolute; top:-110px; right:0px; width:900px; transform:rotate(0deg)scalex(-1);filter:opacity(100%);' />
 
 
 
@@ -660,7 +660,7 @@ You have resistance against acid, lightning, poison and thunder damage.
 <img src='https://www.gmbinder.com/images/QQXB4ii.png' style='position:absolute; top:0px; right:-650px; width:1700px' />
 
  <style>
-   .phb#p15:after { display:none; }
+   .phb#p16:after { display:none; }
  </style>
 
  <div class='back-cover-image'></div>
