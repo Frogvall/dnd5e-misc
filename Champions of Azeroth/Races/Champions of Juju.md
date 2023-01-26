@@ -584,7 +584,7 @@ Your Intelligence score increases by 2, up to a maximum of 22.
 
 Your Constitution score increases by 2, up to a maximum of 22.
 
-#### Blessibbng of Mueh'zala
+#### Blessing of Mueh'zala
 
 Whenever you reduce an hostile creature to 0 hit points or less on you turn, you can use a bonus action on the same turn to move up to half your speed and make a weapon attack or cast a cantrip. Any attack roll made with this bonus action is made with advantage.
 
