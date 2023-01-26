@@ -624,7 +624,7 @@ You know the *poison spray* cantrip. Charisma, Intelligence or Wisdom is your sp
 
 #### Blessing of Shadra
 
-When you hit a target with an attack that deals slashing or piercing damage, you can also inject it with a deadly venom. The target must succeed with a Constitution saving throw, take poison damage and become poisoned until the start of your next turn on a failure and taking half the poison damage on a success, but do not become poisoned. The poison damage equals a number of d8's equal to your proficiency bonus. The DC for this save equals 13 plus your proficiency bonus. You must finish a short or long rest to use this blessing again.
+When you hit a creature with an attack that deals slashing or piercing damage, you can also inject it with a deadly venom. The creature must make a Constitution saving throw, with the DC equals 13 plus your proficiency bonus. On a failure, the creature take poison damage and become poisoned until the start of your next turn, and on a success it takes half the poison damage, but do not become poisoned. The poison damage equals a number of d8's equal to your proficiency bonus. You must finish a short or long rest to use this blessing again.
 
 #### Blessing of Shando
 
