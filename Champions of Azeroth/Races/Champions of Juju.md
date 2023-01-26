@@ -564,7 +564,7 @@ You have blindsight up to 60 feet and advantage on Wisdom (Perception) checks re
 
 #### Blessing of Jani
 
-You can cast the *identify* spell once, without expending a spell slot and without requiring any material components, and regain the ability to cast it again when you finish a short or long rest. In additon, whenever you make a Wisdom (Perception) or Intelligence(Investigation) check to search for treasure or gleaning the value of an item, you are considered proficient in those skills and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
+You can cast the *identify* spell once, without expending a spell slot and without requiring any material components, and regain the ability to cast it again when you finish a short or long rest. In addition, whenever you make a Wisdom (Perception) or Intelligence(Investigation) check to search for treasure or gleaning the value of an item, you are considered proficient in those skills and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
 
 #### Blessing of Jan'alai
 
