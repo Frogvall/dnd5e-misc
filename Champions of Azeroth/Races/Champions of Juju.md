@@ -17,9 +17,9 @@
 .phb#p1:after { display:none; }
 /*ToC Styling*/
   .toc a {color: inherit !important;}
-  .toc li span:nth-child(2){width: auto;overflow: hidden;white-space: nowrap;display: block;}
+  .toc li span:nth-child(2){width: auto;overflow: hidden;white-space: nowrap;display: block;margin-right:1.2em}
   .toc li span:nth-child(2):after{font-family:BookSanity;font-size:0.317cm;font-weight:normal;color:black;content:" ........................................""........................................."".........................................";}
-  .toc li span:first-child{float:right;font-family:BookSanity;font-size:0.317cm;font-weight:normal;color:black;margin-left:1px;}
+  .toc li span:first-child{float:right;font-family:BookSanity;font-size:.317cm;font-weight:normal;color:black;margin-left:-0.6em;}
   .toc li h3 span:nth-child(2):after{content: " ";}
   .toc li h3 {margin-bottom: 4px !important;margin-top: 10px !important;line-height: initial !important;}
   .toc li h5 {margin-bottom: 0.5px !important;margin-top: 2px !important;line-height: initial !important;}
