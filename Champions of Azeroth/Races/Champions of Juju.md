@@ -50,7 +50,7 @@ ___
 
 - **Front Art By:** [Glenn Rane](https://glennrane.artstation.com)
 - **Back Art By:** [AJ Nazarro](https://ajnazzaro.artstation.com/)
-- **Interior Art By:** [Alex Horley](https://www.alexhorleyart.com), [Alexandra Ziminova](https://faplastilinka.artstation.com), [Bayard Wu](https://bayardwu.artstation.com), Eric Flannum, [Glenn Rane](https://glennrane.artstation.com), [Jim Nelson](https://jimnelson.artstation.com), [Kyle Herring](https://kylepunk.artstation.com/), [Laurel D. Austin](http://www.laureldaustinart.com), Michel & René Koiter, [Oscar "ShadowPriest" Lazo](https://shadowpriestart.artstation.com), [Samwise Didier](https://thepandaking.artstation.com), [Serge Tsvelykh](https://resolvent.artstation.com/), [Vasiliy Gromov](https://vasiliygromov.artstation.com), Zhou He
+- **Interior Art By:** [Alex Horley](https://www.alexhorleyart.com), [Alexandra Ziminova](https://faplastilinka.artstation.com), [Arthur Gimaldinov](https://gimaldinov.artstation.com) [Bayard Wu](https://bayardwu.artstation.com), Eric Flannum, [Glenn Rane](https://glennrane.artstation.com), [Jim Nelson](https://jimnelson.artstation.com), [Kyle Herring](https://kylepunk.artstation.com/), [Laurel D. Austin](http://www.laureldaustinart.com), Michel & René Koiter, [Oscar "ShadowPriest" Lazo](https://shadowpriestart.artstation.com), [Samwise Didier](https://thepandaking.artstation.com), [Serge Tsvelykh](https://resolvent.artstation.com/), [Vasiliy Gromov](https://vasiliygromov.artstation.com), Zhou He
 
 ___
 
@@ -79,7 +79,7 @@ This is unofficial fan content permitted under the Fan Content Policy. Not appro
 
 All *Warcraft* content and material are © Blizzard Entertainment.
 
-#### Last Updated: January 23, 2023
+#### Last Updated: January 26, 2023
 
 <img src='https://www.gmbinder.com/images/Fe3zrGs.png' style='position:absolute; bottom:0px; left:-80px; width:1000px; transform:rotate(0deg)scalex(1);filter:opacity(100%);'/>
 
@@ -488,9 +488,9 @@ Starting at 18th level, you can construct a powerful ward to protect yourself an
 
 \pagebreakNum
 
-<img src='https://www.gmbinder.com/images/6pOr7GX.jpg' style='position:absolute; top:10px; right:-0px; width:450px; transform:rotate(0deg)scalex(-1)' />
-<img src='https://www.gmbinder.com/images/nzPYZyD.png' style='position:absolute; top:-260px; right:-300px; width:1000px' />
-<img src='https://www.gmbinder.com/images/nzPYZyD.png' style='position:absolute; top:-300px; right:-390px; width:1200px' />
+<img src='https://www.gmbinder.com/images/6pOr7GX.jpg' style='position:absolute; top:30px; right:-0px; width:450px; transform:rotate(0deg)scalex(-1)' />
+<img src='https://www.gmbinder.com/images/nzPYZyD.png' style='position:absolute; top:-250px; right:-300px; width:1000px' />
+<img src='https://www.gmbinder.com/images/nzPYZyD.png' style='position:absolute; top:-270px; right:-390px; width:1200px' />
 
 # Chapter 3: Blessings of the Loa
 
@@ -498,19 +498,19 @@ Blessings are supernatural gifts granted by deities. Most trolls are superstitio
 
 #### Blessing of Akali
 
-If you move at least 20 feet straight towards a target and then hit it with a melee attack on the same turn, the target takes an extra 2d8 bludgeon damage. If the target is a creature, it must succeed on a Strength saving throw or be knocked prone. The DC for this save equals 13 plus your proficiency bonus.
+If you move at least 20 feet straight towards a target and then hit it with a melee attack on the same turn, the target takes an extra 2d8 bludgeoning damage. If the target is a creature, it must succeed on a Strength saving throw or be knocked prone. The DC for this save equals 13 plus your proficiency bonus.
 
 #### Blessing of Akil'darah
 
-You can cast the *misty step* spell once and regain the ability to cast it again when you finish a short or long rest.
+You can cast the *misty step* spell once, without expending a spell slot, and regain the ability to cast it again when you finish a short or long rest.
 
 #### Blessing of Akil'zon
 
-You can cast the *fly* spell (self only) once and regain the ability to cast it again when you finish a long rest.
+You can cast the *fly* spell (self only) once, without expending a spell slot, and regain the ability to cast it again when you finish a long rest.
 
 #### Blessing of Akunda
 
-You know the *thunderclap* cantrip. Charisma, Intelligence or Wisdom is your spellcasting modifier for this spell, chosen when you gain this blessing.
+You know the *thunderclap* cantrip. Charisma, Intelligence or Wisdom is your spellcasting modifier for this spell, chosen when you gain this blessing. You can cast this cantrip using a bonus action a number of times equal to your proficiency bonus and regain all expended uses of this blessing at the end of a long rest.
 
 #### Blessing of Bethekk
 
@@ -524,21 +524,21 @@ You stabilize whenever you are dying at the start of your turn. In addition, whe
 
 You can use an action to shift shape into a Giant Constrictor Snake (see Basic Rules or Monster Manual for statistics) for up to an hour. You gain 60 temporary hit points and once you no longer have any temporary hit points you shift back. You can also use an action to shift back, immediately losing any remaining temporary hit points. You can use this blessing once and regain the ability to use it again when you finish a long rest.
 
-#### Blessing of Kimbul
-
-Your Dexterity score increases by 2, up toa maximum of 22.
-
 \columnbreak
 
-<div style='margin-top:360px'></div>
+<div style='margin-top:435px'></div>
+
+#### Blessing of Kimbul
+
+Your Dexterity score increases by 2, up to a maximum of 22.
 
 #### Blessing of G'huun
 
-You can cast the *contagion* spell once and regain the ability to cast it again when you finish a long rest. Charisma, Intelligence or Wisdom is your spellcasting modifier for this spell, chosen when you gain this blessing.
+You can cast the *contagion* spell once, without expending a spell slot, and regain the ability to cast it again when you finish a long rest. Charisma, Intelligence or Wisdom is your spellcasting modifier for this spell, chosen when you gain this blessing.
 
 #### Blessing of Gonk
 
-You know the *druidcraft* cantrip. In addition you are proficient in the Survival skill and your proficiency bonus is doubled when making a Wisdom (Survival) check to follow tracks or hunt wild game.
+You know the *druidcraft* cantrip and two other cantrips of your choice from the druid spell list (choosen when you gain this blessing). Charisma, Intelligence or Wisdom is your spellcasting modifier for these spell, chosen when you gain this blessing. In addition you are proficient in the Survival skill you, always succeed when making a Wisdom (Survival) check to track creatures that have not covered their tracks using magic, and you can roll Wisdom (Survival) to try to track magically covered tracks.
 
 #### Blessing of Gral
 
@@ -546,7 +546,9 @@ You have a swim speed of 50 ft. and can breathe underwater.
 
 #### Blessing of Hakkar
 
-You can cast the *soul cage* spell once and regain the ability to cast it again when you finish a long rest.
+You can cast the *soul cage* spell once, without expending a spell slot, and regain the ability to cast it again when you finish a long rest.
+
+\pagebreakNum
 
 #### Blessing of Halazzi
 
@@ -558,21 +560,21 @@ Your Wisdom score increases by 2, up to a maximum of 22.
 
 #### Blessing of Hir'eek
 
-You have blindsight up to 60 feet and advantage om Wisdom (Perception) checks relying on hearing.
-
-\pagebreakNum
+You have blindsight up to 60 feet and advantage on Wisdom (Perception) checks relying on hearing.
 
 #### Blessing of Jani
 
-You can cast the *identify* spell once, without requiring any material components, and regain the ability to cast it again when you finish a short or long rest. In addition you are proficient in the perception and investigation skills and your proficiency is doubled when using any of those skills to search for treasure or gleaning the value of an item.
+You can cast the *identify* spell once, without expending a spell slot and without requiring any material components, and regain the ability to cast it again when you finish a short or long rest. In additon, whenever you make a Wisdom (Perception) or Intelligence(Investigation) check to search for treasure or gleaning the value of an item, you are considered proficient in those skills and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
 
 #### Blessing of Jan'alai
 
-You can cast the *dragon's breath* spell (self only, fire only) once, without requiring any material components, and regain the ability to cast it again when you finish a long rest. Charisma, Intelligence or Wisdom is your spellcasting modifier for this spell, chosen when you gain this blessing.
+You can cast the *dragon's breath* spell (self only, fire only) once,  without expending a spell slot and without requiring any material components, and regain the ability to cast it again when you finish a long rest. Charisma, Intelligence or Wisdom is your spellcasting modifier for this spell, chosen when you gain this blessing.
 
 #### Blessing of Krag'wa
 
 Your jump distance is tripled and you're always considered to have a running start.
+
+\columnbreak
 
 #### Blessing of Lakali
 
@@ -581,6 +583,10 @@ Your Intelligence score increases by 2, up to a maximum of 22.
 #### Blessing of Mam'toth
 
 Your Constitution score increases by 2, up to a maximum of 22.
+
+#### Blessibbng of Mueh'zala
+
+Whenever you reduce an hostile creature to 0 hit points or less on you turn, you can use a bonus action on the same turn to move up to half your speed and make a weapon attack or cast a cantrip. Any attack roll made with this bonus action is made with advantage.
 
 #### Blessing of Nalorakk
 
@@ -598,31 +604,35 @@ You have advantage on saving throws against spells and other magical effects.
 
 Your Charisma score increases by 2, up to a maximum of 22.
 
-\columnbreak
-
 #### Blessing of Rhunok
 
-When you are reduced to 0 hit points but not killed outright, you drops to 1 hit point instead. You must finish a short or long rest to use this blessing again.
+When you are reduced to 0 hit points but not killed outright, you drop to 1 hit point instead. You must finish a short or long rest to use this blessing again.
+
+<img src='https://www.gmbinder.com/images/gQ4aYuQ.png' style='position:absolute; bottom:0px; left:-80px; width:900px; transform:rotate(0deg)scalex(1);filter:opacity(100%);'/>
+
+<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:-380px; right:0px; width:1000px; filter:opacity(100%);'/>
+
+\pagebreakNum
 
 #### Blessing of Samedi
 
-Your attack rolls have advantage against undead creatures, and undead creatures have disadvantage on saving throws against your spells.
+You have advantage on attack rolls against undead creatures, and undead creatures have disadvantage on saving throws against your spells.
 
 #### Blessing of Sethraliss
 
-You know the *poison spray* cantrip. Charisma, Intelligence or Wisdom is your spellcasting modifier for this spell, chosen when you gain this blessing.
+You know the *poison spray* cantrip. Charisma, Intelligence or Wisdom is your spellcasting modifier for this spell, chosen when you gain this blessing. You can cast this cantrip using a bonus action a number of times equal to your proficiency bonus and regain all expended uses of this blessing at the end of a long rest.
 
 #### Blessing of Shadra
 
-Whenever you hit a target with an attack that deals slashing or piercing damage, the target must succeed with a Constitution saving throw or take 1d6 poison damage and become poisoned until the start of your next turn. The DC for this save equals 13 plus your proficiency bonus.
+When you hit a target with an attack that deals slashing or piercing damage, you can also inject it with a deadly venom. The target must succeed with a Constitution saving throw, take poison damage and become poisoned until the start of your next turn on a failure and taking half the poison damage on a success, but do not become poisoned. The poison damage equals a number of d8's equal to your proficiency bonus. The DC for this save equals 13 plus your proficiency bonus. You must finish a short or long rest to use this blessing again.
 
 #### Blessing of Shando
 
-You know the *shocking grasp* cantrip. Charisma, Intelligence or Wisdom is your spellcasting modifier for this spell, chosen when you gain this blessing.
+You know the *shocking grasp* cantrip. Charisma, Intelligence or Wisdom is your spellcasting modifier for this spell, chosen when you gain this blessing. You can cast this cantrip using a bonus action a number of times equal to your proficiency bonus and regain all expended uses of this blessing at the end of a long rest.
 
 #### Blessing of Shirvallah
 
-One nonmagical weapon in your possession becomes a +1 weapon whenever you wield it.
+Whenever you make an attack with a nonmagical weapon, it becomes a +1 weapon for the attack.
 
 #### Blessing of Torcali
 
@@ -636,9 +646,12 @@ You gain a +1 bonus to AC and saving throws.
 
 You have resistance against acid, lightning, poison and thunder damage.
 
-<img src='https://www.gmbinder.com/images/gQ4aYuQ.png' style='position:absolute; bottom:-80px; left:-80px; width:900px; transform:rotate(0deg)scalex(1);filter:opacity(100%);'/>
+<img src='https://www.gmbinder.com/images/roPU9s7.jpg' style='position:absolute; top:-100px; right:-280px; width:900px' />
+<img src='https://www.gmbinder.com/images/ohZghLL.png' style='position:absolute; top:0px; right:0px; width:900px; transform:rotate(0deg)scalex(-1);filter:opacity(100%);' />
 
-<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:-280px; right:0px; width:1000px; filter:opacity(100%);'/>
+
+
+
 
 \pagebreakNum
 
