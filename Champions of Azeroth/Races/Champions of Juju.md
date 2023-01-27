@@ -154,7 +154,7 @@ I welcome any and all feedback on any of my work. You can reach me (Auvreannia) 
 
 ### Acknowledgements
 
-Silverblade ([u/Silverblade1234](https://www.reddit.com/user/Silverblade1234)) for his amazing work with the whole Champion series and for many healthy discussions around game design and other things. Also, for reviewing this work ,acting as a sanity check, and for his approval to republish parts of his work in this compendium, for easy access.
+Silverblade ([u/Silverblade1234](https://www.reddit.com/user/Silverblade1234)) for his amazing work with the whole Champion series and for many healthy discussions around game design and other things. Also, for reviewing this work, acting as a sanity check, and for his approval to republish parts of his work in this compendium, for easy access.
 
 The [WC5E](https://www.reddit.com/r/wc5e/) project. My own *Warcraft* homebrew journey started with that project, mainly creating monsters for their monster manual, but also taking part in their 3.0 class revamp. Even though I am no longer part of that project, I have utter respect for their continued work.
 
@@ -277,7 +277,7 @@ Once jungle trolls of the Gurubashi Empire, thousands of years in the harsh dese
 
 #### Zandalari Troll
 
-Zandalari trolls are a hard working people that take pride in being they are strong and capable of seeing to themselves. They are the most powerful and superstitious of all the troll tribes and value knowledge above all else. The Zandalari work to preserve troll history and to further the goals of troll society as a whole, and having spent thousands of years on the islands of Zandalar their navy surpasses anyone.
+Zandalari trolls are a hard working people that take pride in being strong and capable of seeing to themselves. They are the most powerful and superstitious of all the troll tribes and value knowledge above all else. The Zandalari work to preserve troll history and to further the goals of troll society as a whole, and having spent thousands of years on the islands of Zandalar their navy surpasses anyone's.
 
 ***Ability Score Increase.*** Your choice of Strength or Intelligence increases by 1.
 
@@ -586,7 +586,7 @@ Whenever you reduce an hostile creature to 0 hit points or less on you turn, you
 
 #### Blessing of Nalorakk
 
-You weapon attacks score a critical on a roll of 19 or 20. If you have an increased critical range from another source, instead increase it by one.
+Your weapon attacks score a critical on a roll of 19 or 20. If you have an increased critical range from another source, instead increase it by one.
 
 #### Blessing of Pa'ku
 
