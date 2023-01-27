@@ -494,7 +494,7 @@ Starting at 18th level, you can construct a powerful ward to protect yourself an
 
 # Chapter 3: Blessings of the Loa
 
-Blessings are supernatural gifts granted by deities. Most trolls are superstitious and worship loa---wild gods or spirits of the land. Countless loa exist, most weak, but some very powerful. Most are shapeless, whereas others have animal or creature forms. Many of the loa make their home in the Garden of the Loa in Zuldazar, or across Zandalar more generally, with major temples found in traditional troll lands. This chapter is here to give the GM ideas on blessing the more powerful loas could hand out to their champions. For more information on blessings, refer to the Dungeon Master's Guide, chapter 7.
+Blessings are supernatural gifts granted by deities. Most trolls are superstitious and worship loa---wild gods or spirits of the land. Countless loa exist, most weak, but some very powerful. Most are shapeless, whereas others have animal or creature forms. Many of the loa make their home in the Garden of the Loa in Zuldazar, or across Zandalar more generally, with major temples found in traditional troll lands. This chapter is here to give the GM ideas on blessings the more powerful loas could hand out to their champions. For more information on blessings, refer to the Dungeon Master's Guide, chapter 7.
 
 #### Blessing of Akali
 
@@ -510,7 +510,7 @@ You can cast the *fly* spell (self only) once, without expending a spell slot, a
 
 #### Blessing of Akunda
 
-You know the *thunderclap* cantrip. Charisma, Intelligence or Wisdom is your spellcasting modifier for this spell, chosen when you gain this blessing. You can cast this cantrip using a bonus action a number of times equal to your proficiency bonus and regain all expended uses of this blessing at the end of a long rest.
+You know the *thunderclap* cantrip. Charisma, Intelligence or Wisdom is your spellcasting modifier for this spell, chosen when you gain this blessing. You can cast this cantrip using a bonus action a number of times equal to your proficiency bonus and regain all expended uses of this blessing when you finish a long rest.
 
 #### Blessing of Bethekk
 
@@ -526,11 +526,7 @@ You can use an action to shift shape into a Giant Constrictor Snake (see Basic R
 
 \columnbreak
 
-<div style='margin-top:435px'></div>
-
-#### Blessing of Kimbul
-
-Your Dexterity score increases by 2, up to a maximum of 22.
+<div style='margin-top:390px'></div>
 
 #### Blessing of G'huun
 
@@ -548,15 +544,15 @@ You have a swim speed of 50 ft. and can breathe underwater.
 
 You can cast the *soul cage* spell once, without expending a spell slot, and regain the ability to cast it again when you finish a long rest.
 
-\pagebreakNum
-
 #### Blessing of Halazzi
 
 You can take one additional action on your turn. You can use this blessing once, but not on the same turn that you use the Action Surge feature (if you have it), and regain the ability to use it again when you finish a long rest.
 
+\pagebreakNum
+
 #### Blessing of Har'koa
 
-Your Wisdom score increases by 2, up to a maximum of 22.
+You can cast the *revivify* spell once, without expending a spell slot and without requiring any material components, and regain the ability to cast it again when seven days have passed.
 
 #### Blessing of Hir'eek
 
@@ -570,19 +566,19 @@ You can cast the *identify* spell once, without expending a spell slot and witho
 
 You can cast the *dragon's breath* spell (self only, fire only) once,  without expending a spell slot and without requiring any material components, and regain the ability to cast it again when you finish a long rest. Charisma, Intelligence or Wisdom is your spellcasting modifier for this spell, chosen when you gain this blessing.
 
+#### Blessing of Kimbul
+
+If you surprise a creature and hit it with an attack in the first turn of combat, the hit is automatically a crit. 
+
 #### Blessing of Krag'wa
 
 Your jump distance is tripled and you're always considered to have a running start.
 
 \columnbreak
 
-#### Blessing of Lakali
-
-Your Intelligence score increases by 2, up to a maximum of 22.
-
 #### Blessing of Mam'toth
 
-Your Constitution score increases by 2, up to a maximum of 22.
+You have resistance against bludgeoning, piercing, and slashing damage from nonmagical attacks.
 
 #### Blessing of Mueh'zala
 
@@ -590,11 +586,11 @@ Whenever you reduce an hostile creature to 0 hit points or less on you turn, you
 
 #### Blessing of Nalorakk
 
-Your Strength score increases by 2, up to a maximum of 22.
+You weapon attacks score a critical on a roll of 19 or 20. If you have an increased critical range from another source, instead increase it by one.
 
 #### Blessing of Pa'ku
 
-You can cast the *wind walk* spell once, without requiring any material components, and regain the ability to cast it again when three days have passed.
+You can cast the *wind walk* spell once, without expending a spell slot and without requiring any material components, and regain the ability to cast it again when three days have passed.
 
 #### Blessing of Quetz'lun
 
@@ -602,7 +598,7 @@ You have advantage on saving throws against spells and other magical effects.
 
 #### Blessing of Rezan
 
-Your Charisma score increases by 2, up to a maximum of 22.
+You have advantage on Wisdom saving throws and Charisma checks.
 
 #### Blessing of Rhunok
 
@@ -620,19 +616,19 @@ You have advantage on attack rolls against undead creatures, and undead creature
 
 #### Blessing of Sethraliss
 
-You know the *poison spray* cantrip. Charisma, Intelligence or Wisdom is your spellcasting modifier for this spell, chosen when you gain this blessing. You can cast this cantrip using a bonus action a number of times equal to your proficiency bonus and regain all expended uses of this blessing at the end of a long rest.
+You know the *poison spray* cantrip. Charisma, Intelligence or Wisdom is your spellcasting modifier for this spell, chosen when you gain this blessing. You can cast this cantrip using a bonus action a number of times equal to your proficiency bonus and regain all expended uses of this blessing when you finish a long rest.
 
 #### Blessing of Shadra
 
-When you hit a creature with an attack that deals slashing or piercing damage, you can also inject it with a deadly venom. The creature must make a Constitution saving throw, with the DC equals 13 plus your proficiency bonus. On a failure, the creature take poison damage and become poisoned until the start of your next turn, and on a success it takes half the poison damage, but do not become poisoned. The poison damage equals a number of d8's equal to your proficiency bonus. You must finish a short or long rest to use this blessing again.
+When you hit a creature with an attack that deals slashing or piercing damage, you can also inject it with a deadly venom. The creature must make a Constitution saving throw, with the DC equals 13 plus your proficiency bonus. On a failure, the creature take poison damage and become poisoned until the start of your next turn, and on a success it takes half the poison damage, but do not become poisoned. The poison damage equals a number of d6's equal to your proficiency bonus. You must finish a short or long rest to use this blessing again.
 
 #### Blessing of Shando
 
-You know the *shocking grasp* cantrip. Charisma, Intelligence or Wisdom is your spellcasting modifier for this spell, chosen when you gain this blessing. You can cast this cantrip using a bonus action a number of times equal to your proficiency bonus and regain all expended uses of this blessing at the end of a long rest.
+You know the *shocking grasp* cantrip. Charisma, Intelligence or Wisdom is your spellcasting modifier for this spell, chosen when you gain this blessing. You can cast this cantrip using a bonus action a number of times equal to your proficiency bonus and regain all expended uses of this blessing when you finish a long rest.
 
 #### Blessing of Shirvallah
 
-Whenever you make an attack with a nonmagical weapon, it is considered a +1 weapon for the attack.
+You can give yourself a +10 bonus to a melee weapon attack roll you make. Once you use this blessing, you can’t use it again until you finish a short or long rest.
 
 #### Blessing of Torcali
 
