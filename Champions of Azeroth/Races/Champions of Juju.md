@@ -79,7 +79,7 @@ This is unofficial fan content permitted under the Fan Content Policy. Not appro
 
 All *Warcraft* content and material are © Blizzard Entertainment.
 
-#### Last Updated: January 26, 2023
+#### Last Updated: January 27, 2023
 
 <img src='https://www.gmbinder.com/images/Fe3zrGs.png' style='position:absolute; bottom:0px; left:-80px; width:1000px; transform:rotate(0deg)scalex(1);filter:opacity(100%);'/>
 
@@ -119,7 +119,7 @@ All *Warcraft* content and material are © Blizzard Entertainment.
 
 # Introduction
 
-Warcraft is one of the most successful and popular fantasy video game franchises of all time. Dungeons & Dragons 5th Edition is one of the most successful and popular fantasy taletop role-playing games of all time. Frankly, it's a crime that there's not an official collaboration between them! In light of this glaring absence, various creators have embarked on their own homebrew projects to bring the world of Azeroth to 5E, where as my favourite is *Champions of Azeroth* by Silverblade. The scope of the Champion series is limited however, and for us who wants to play trolls of all kind, only the Jungle Trolls and the Ice Trolls (as Frostborn Trolls in Champions of Northrend) are represented. This modules is an extension of the Champions series which brings more player options for playing Trolls.
+Warcraft is one of the most successful and popular fantasy video game franchises of all time. Dungeons & Dragons 5th Edition is one of the most successful and popular fantasy taletop role-playing games of all time. Frankly, it's a crime that there's not an official collaboration between them! In light of this glaring absence, various creators have embarked on their own homebrew projects to bring the world of Azeroth to 5E, where as my favourite is *Champions of Azeroth* by Silverblade. The scope of the Champion series is limited however, and for us who wants to play trolls of all kind, only the Jungle Trolls and the Ice Trolls (as Frostborn Trolls in Champions of Northrend) are represented. This modules is an extension to the Champions series which brings more player options for playing Trolls.
 
 ### Design Principles
 
@@ -131,7 +131,7 @@ The design principles for *Champions of Azeroth* are:
 - Make sure that things using 5E vocabulary are unchanged, and things named similarly should be recognizable. Warlocks should have the same core design as 5E warlocks, mages should be based on wizards, *barkskin* is still the same terrible spell, etc. There are inevitably going to be exceptions, but they should be few and far between.
 - Don't neglect utility or roleplay. Given the *Warcraft* inspiration, it can be tempting to just focus on cool combat features. But part of the joy of a 5E adaptation is getting to interact with Azeroth outside of video game fighting. I want to make sure that the design engages with the full 5E experience, not just combat.
 
-I completely agree to the design principles of the Champions series and have done my best to adhere to them.
+I completely agree with the design principles of the Champions series and have done my best to adhere to them.
 
 ### On Balance
 
@@ -142,7 +142,7 @@ Since I am mostly dealing with subraces and subclasses, I am aiming for internal
 <img src='https://www.gmbinder.com/images/ecH9QkB.jpg' style='position:absolute; top:0px; right:-130px; width:600px;filter:opacity(100%);'/>
 <img src='https://image.ibb.co/kC44nH/oF4JQBz.png' style='position:absolute; top:-260px; left:-180px; width:1160px; transform:rotate(0deg)scalex(1)scaley(-1);filter:opacity(100%);'/>
 
-<div style='margin-top:390px;'></div>
+<div style='margin-top:395px;'></div>
 
 ### What This Is
 
