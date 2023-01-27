@@ -393,14 +393,14 @@ At 7th level, you're blessed by the lynx god Halazzi. Whenever you cast a spell 
 
 #### Storms of Akunda
 
-Starting at 11th level, you're blessed by Akunda, the thunder lizard loa of storms. You regain your all expended uses of your Wild Lore feature when you complete a short rest. In addition, when you hit a creature with a weapon attack, on the next Wild Lore spell you cast that includes that creature as a target before the end of your next turn, you have advantage on the spell attack or the creature has disadvantage on the saving throw against it.
+Starting at 11th level, you're blessed by Akunda, the thunder lizard loa of storms. You regain your all expended uses of your Wild Lore feature when you complete a short rest. In addition, when you hit a creature with a weapon attack, on the next Wild Lore spell you cast that includes that creature as a target before the end of your next turn, you have advantage on the spell attack or the creature has disadvantage on any saving throw against it.
 
 #### Big Bad Voodoo
 
 At 15th level, you can use your bonus action to create an aura of invulnerability around you. For 1 minute, you gain the following benefits:
 
 - Any friendly creature, other than you, within 30 feet of you has resistance to all damage.
-- When a creature, other than you, is forced to roll a saving throw, you can use your reaction to add your focus die to their saving throw (no die is actually expended).
+- When a creature, other than you, is forced to roll a saving throw, you can use your reaction to add your focus die to its saving throw (no die is actually expended).
 
 Once you use this feature, you can't use it again until you finish a long rest.
 
