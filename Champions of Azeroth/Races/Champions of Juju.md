@@ -709,10 +709,12 @@ To make your own homebrew documents that look as fabulous as this, please visit 
 
 <!-- 
 Items:
-Sul'thraze
+Sul'thraze (Jang'thraze/Sang'thraze)
 Ancestral Staff (WD)
 Rush'kah Mask (SH)
 Zin'rokh
 Jin'rohk
-Ancient Amani Longbow
+Ancient Amani 
+Warmace of Shirvalla
+Prestige of the Amani
 -->
