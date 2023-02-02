@@ -447,15 +447,17 @@ Witch doctors are spellcasters and alchemists. These dastardly magic users are a
 
 #### Master of Juju
 
-When you choose this specialization at 2nd level, you learn how to magically brew your spells into special concoctions. You gain proficiency with alchemist’s supplies. In addition, when you finish a long rest and have your alchemist's supplies available, you can create a concoction containing the power of one of your spells. When creating a concoction, you select one spell you know that targets only one creature (you don't need to have it prepared) and store it into a bottle. If the spell requires the caster to choose its application when casting, like with for example *enlarge/reduce*, you makes this choice when you create the concoction. The concoction go bad at the end of your next long rest or after 24 hours, whichever comes first, at which point it is rendered useless and harmless. When reaching 6th level you can create up to two concoctions and at 14th level you can create up to three concoctions. The concoctions you create can not have their combined spell level surpass your proficiency bonus.
+When you choose this specialization at 2nd level, you gain proficiency with alchemist's supplies.
 
-You can also create a concoction by spending 10 minutes and paying Faith Points as if you were creating a spell slot of the same spell level as the spell stored in the concoction.
+In addition, whenever you finish a long rest, you can magically produce one or more juju concoctions with alchemist's supplies. Choose a number of your priest spells (you don't need to have them prepared) with combined spell levels less than or equal to your proficiency bonus (you can choose the same spell more than once). Each spell must target only one creature, and if a spell's effect requires a choice when cast (for example with the *enlarge/reduce* spell), you make this choice when you brew the concoction. As an action, a creature can drink one of these concoctions or administer it to another creature within 5 feet, which must be willing or incapacitated. The drinker is immediately affected by the brewed spell (and is considered the target of the spell), using your spellcasting modifier. If the spell requires concentration, the drinker must concentrate.
 
-A creature can use an action to consume a concoction, and it is considered the target of the spell. If a save is required, it is made versus your spell save DC. If the spell requires concentration, the creature must concentrate.
+You can brew additional juju concoctions with alchemist's supplies and 10 minutes of effort. Each additional juju concoction costs a number of faith points equal to the cost of creating a spell slot of the brewed spell's level, listed in the Creating Spell Slots table of the priest class description.
+
+Any concoction you create with this feature lasts until it is drunk or until the end of your next long rest.
 
 #### Ask da Spirits
 
-Also at 2nd level, you learn how to glean knowledge from surrounding spirits. You gain proficiency in the Religion skill, and when making an Intelligence ability check, you can instead make a Charisma (Religion) ability check. Once you use this feature, you can't use it again until you finish a short or long rest.
+Also at 2nd level, you learn how to glean knowledge from surrounding spirits. You gain proficiency in the Religion skill, and when making an Intelligence check, you can instead make a Charisma (Religion) check. Once you use this feature, you can't use it again until you finish a short or long rest.
 
 <img src='https://www.gmbinder.com/images/G4NrfMF.jpg' style='position:absolute; top:0px; right:-350px; width:1100px' />
 <img src='https://www.gmbinder.com/images/ohZghLL.png' style='position:absolute; top:0px; right:0px; width:900px; transform:rotate(0deg)scalex(-1);filter:opacity(100%);' />
@@ -464,27 +466,33 @@ Also at 2nd level, you learn how to glean knowledge from surrounding spirits. Yo
 
 #### Master of Voodoo
 
-At 6th level, you learn to create a voodoo doll that can be linked to the soul of a creature. As long as you have material available; grass, sticks, or similar, you can create a doll as part of a short or long rest. The doll can be used as a spell casting focus. In addition, as a bonus action you can try to link the doll to a creature you can see within 60 ft. The creature need to succeed on an Intelligence saving throw against your spell save DC or take 1d6 necrotic damage and become linked to your voodoo doll. While linked you can spend a bonus action to pinch the doll; the target repeats the saving throw taking 1d6 necrotic damage on a failure. Both damage rolls are increased to 2d6 at 14th level. The link breaks after 10 minutes, when you die, become unconscious, or when you link it to another creature. It also breaks if the target is no longer on the same plane of existence.
+At 6th level, you learn to use voodoo to take control over other beings. As an action you target a Large or smaller creature within 60 feet of you and conjure a voodoo doll in its image, which appears in one of your hands or in a string around your neck. The creature must succeed on a Wisdom saving throw against your spell save DC or become charmed by you. An unconcious creature automatically fails its saving throw.
 
-The linked creature knows that something is wrong as soon as it gets linked. It can use an action to make a Wisdom (Insight) check versus your spell save DC to figure out who is causing it pain.
+On the affected creature's turn (or directly after your turn if the creature has not rolled initiative for the current encounter), you can command it (no action required) to move up to half its speed and use its action to interact with an object or make a single attack.
+
+A concious creature makes a new saving throw at the end of each of its turns, suppressing the effect until the end of its next turn on a success (at which point, it can make another save).
+
+The effect lasts for 1 minute, or until your concentration is broken (as if concentrating on a spell).
+
+You can use this feature once at 6th level, and twice at 14th level. In addition, you can target huge creatures starting at level 14. You regain all expended uses when you finish a short or long rest.
 
 \columnbreak
 
 #### Darkest Mojo
 
-When you reach 14th level, your control over the soul linked to your voodoo doll strengthens. When you use a Shadow Word on a creature, other than the creature linked to your voodoo doll, you can also apply the effects of the Shadow Word on the linked creature for free.
+When you reach 14th level, your control over the soul linked to your voodoo doll strengthens. When you use a Shadow Word on a creature, other than the creature charmed by your Master of Voodoo feature, you can also apply the effects of the Shadow Word on the charmed creature without spending faith points.
 
 #### Master of Wards
 
-Starting at 18th level, you can construct a powerful ward to protect yourself and your allies. As a bonus action, you summon a totemic representation of your favored loa within 30 ft of you. It is ethereal, cannot be destroyed and gives the following benefits for one minute:
+Starting at 18th level, you can construct a powerful ward to protect yourself and your allies. As a bonus action, you summon an ethereal representation of your favored loa within 30 feet of you. It cannot be destroyed and it gives the following benefits for 1 minute:
 
-- ***Sentry.*** While within 30 ft. of the ward, you and any friendly creature can see invisible creatures and other creatures cannot hide from them. Attacks made ignore half cover and three-quarters cover.
-- ***Stasis.*** You can use your reaction whenever a hostile creature moves within 30 ft. of the ward, or starts its turn there. The creature have to make a Constitution saving throw versus your spell save DC or get stunned until the start of their next turn.
-- ***Healing.*** You and any friendly creature that starts its turn within 30 ft. of the ward regains 3d6 hit points.
+- ***Sentry.*** While within 30 feet of the ward, you and any friendly creature can see invisible creatures and other creatures cannot hide from them. Attacks made ignore half cover and three-quarters cover.
+- ***Stasis.*** You can use your reaction whenever a hostile creature moves within 30 feet of the ward, or starts its turn there. The creature have to make a Constitution saving throw versus your spell save DC or get stunned until the start of their next turn.
+- ***Healing.*** You and any friendly creature that starts its turn within 30 feet of the ward regains 3d6 hit points.
 
 <br><br>Once you use this feature, you can't use it again until you finish a long rest.
 
-<img src='https://www.gmbinder.com/images/5ELXAao.png' style='position:absolute; bottom:0px; left:0px; width:520px' />
+<img src='https://www.gmbinder.com/images/5ELXAao.png' style='position:absolute; bottom:-10px; left:0px; width:520px' />
 
 \pagebreakNum
 
@@ -698,3 +706,13 @@ To make your own homebrew documents that look as fabulous as this, please visit 
  [WWW.GMBINDER.COM](https://www.gmbinder.com)
 
  </div>
+
+<!-- 
+Items:
+Sul'thraze
+Ancestral Staff (WD)
+Rush'kah Mask (SH)
+Zin'rokh
+Jin'rohk
+Ancient Amani Longbow
+-->
