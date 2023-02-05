@@ -38,6 +38,8 @@ An Ancestral Staff is an intricate staff with names of generations of witch doct
 
 As an action, you can raise the staff and ask one question aloud. After 1 minute, the answer appears written on the head of the staff in a language of your choice. The answer is provided by the witch doctors that held the staff before you and to the best of their knowledge. You can use this property once and regain the ability to do so again at dawn.
 
+#### Ancient Amani Longbow
+
 #### Jang'thraze the Protector
 
 *Weapon (scimitar), legendary (requires attunement)*
@@ -48,13 +50,29 @@ When you damage a creature with this sword, you gain temporary hit points equal 
 
 In addition, if you're also attuned to Sang'thraze the Deflector, you can use a bonus action to merge both swords into Sul'thraze the Lasher. You are automatically attuned to it.
 
+#### Jin'rohk, the Great Apocalypse
+
+*Weapon (greatsword), legendary (requires attunement)*
+
+You gain a +3 bonus to attack and damage rolls with this magic weapon. In addition, while you hold the sword, you can use your reaction to make one melee attack with it against any creature in your reach that deals damage to you. You have advantage on the attack roll, and any damage dealt with this special attack ignores any damage immunity or resistance the target has.
+
+#### Prestige of the Amani
+
+*Weapon (warclaww), very rare (requires attunement by a spellcaster with at least one spell that deals lightning damage)*
+
+You gain a +2 bonus to attack and damage rolls with this magic weapon.
+
+This warclaw has 3 charges and regains 1d3 expended charges daily at dawn.
+
+When you hit a creature using this warclaw, you can expend 1 charge to cast a non-cantrip spell that deals lightning damage, as a bonus action. The spell is cast as if you were using a spell slot two levels higher than the spell slot you expend.
+
 #### Rush'kah Mask
 
 *Wondrous item, rare (requires attunement by a Hunter with the Shadow Hunter specialization)*
 
 This wooden, carved mask, typically the size of a small shield, is a focus that many shadow hunters use. These masks provide protection from evil spirits and those seeking to harm the wearer.
 
-You can see invisible creatures and other creatures cannot hide from you. You have advantage on saving throws originating from undead or aberrant creatures.
+You can see invisible creatures and other creatures cannot hide from you. You have advantage on saving throws forced upon you by undead or aberrant creatures.
 
 #### Sang'thraze the Deflector
 
@@ -82,18 +100,32 @@ In addition, you can use a bonus action to split the sword into two, Jang'thraze
 >
 > If you are attuned to both Jang'thraze the Protector and Sang'thraze the Deflector, it counts as only one attunement in regards to the number of magic items you can attune to.
 
-\columnbreak
+#### Warmace of Shirvallah
 
+*Weapon (mace or warhammer), very rare (requires attunement)*
+
+You gain a +2 bonus to attack and damage rolls with this magic weapon.
+
+When you attack a creature with this weapon and roll a 20 on the attack roll, you can make another attack with this weapon as part of the same action. This attack has advantage.
+
+#### Zinrokh, Destroyer of Worlds
+
+*Weapon (greatsword), legendary (requires attunement)*
+
+You gain a +3 bonus to attack and damage rolls with this magic weapon. In addition, the weapon ignores resistance to slashing damage.
+
+When you attack a creature with this weapon and roll a 20 on the attack roll, you deal an additional 8d6 damage with this weapon, and the creature must succeed on a DC 15 Constitution saving throw or be stunned for 1 minute. The creature can repeat this save at the end of each of its turn, ending the stunned condition on a success.
+
+\columnbreak
 
 <!-- 
 Items:
 Sul'thraze (Jang'thraze/Sang'thraze)
 Ancestral Staff (WD)
 Rush'kah Mask (SH)
-
 Zin'rokh
 Jin'rohk
-Ancient Amani 
+Ancient Amani Longbow
 Warmace of Shirvalla
 Prestige of the Amani
 -->
