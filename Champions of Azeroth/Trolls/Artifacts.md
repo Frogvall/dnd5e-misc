@@ -40,6 +40,10 @@ As an action, you can raise the staff and ask one question aloud. After 1 minute
 
 #### Ancient Amani Longbow
 
+*Weapon (longbow), rare (requires attunement)*
+
+You gain a +1 bonus to attack and damage rolls with this magic weapon. In addition, you score a critical hit on a roll of 19 or 20, and you ignore half-cover and three-quarters cover when attacking with this magic weapon.
+
 #### Jang'thraze the Protector
 
 *Weapon (scimitar), legendary (requires attunement)*
