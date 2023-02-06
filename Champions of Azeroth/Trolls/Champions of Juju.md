@@ -776,7 +776,7 @@ In addition, you can use a bonus action to split the sword into two, Jang'thraze
 
 You gain a +2 bonus to attack and damage rolls with this magic weapon.
 
-When you attack a creature with this weapon and roll a 20 on the attack roll, you can make another attack with this weapon as part of the same action. This attack has advantage.
+When you attack a creature with this weapon and roll a 20 on the attack roll, you can make another attack with this weapon as part of the same action. This special attack has advantage.
 
 <!-- https://www.gmbinder.com/images/ThJL4r2.png [Richard Wright](https://richard-wright.com/)  -->
 
@@ -837,3 +837,15 @@ To make your own homebrew documents that look as fabulous as this, please visit 
  [WWW.GMBINDER.COM](https://www.gmbinder.com)
 
  </div>
+
+<!-- 
+Items:
+Sul'thraze (Jang'thraze/Sang'thraze)
+Ancestral Staff (WD)
+Rush'kah Mask (SH)
+Zin'rokh
+Jin'rohk
+Ancient Amani 
+Warmace of Shirvalla
+Prestige of the Amani
+-->
