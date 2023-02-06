@@ -60,6 +60,8 @@ In addition, if you're also attuned to Sang'thraze the Deflector, you can use a 
 
 You gain a +3 bonus to attack and damage rolls with this magic weapon. In addition, while you hold the sword, you can use your reaction to make one melee attack with it against any creature in your reach that deals damage to you. You have advantage on the attack roll, and any damage dealt with this special attack ignores any damage immunity or resistance the target has.
 
+\columnbreak
+
 #### Prestige of the Amani
 
 *Weapon (warclaww), very rare (requires attunement by a spellcaster with at least one spell that deals lightning damage)*
@@ -69,6 +71,17 @@ You gain a +2 bonus to attack and damage rolls with this magic weapon.
 This warclaw has 3 charges and regains 1d3 expended charges daily at dawn.
 
 When you hit a creature using this warclaw, you can expend 1 charge to cast a non-cantrip spell that deals lightning damage, as a bonus action. The spell is cast as if you were using a spell slot two levels higher than the spell slot you expend.
+
+<img src='https://www.gmbinder.com/images/BSKjVG2.png' style='position:absolute; top:225px; right:0px; width:450px; transform:rotate(0deg)scalex(-1)' />
+<img src='https://www.gmbinder.com/images/nzPYZyD.png' style='position:absolute; top:-130px; right:-300px; width:1000px' />
+<img src='https://www.gmbinder.com/images/nzPYZyD.png' style='position:absolute; top:-150px; right:-390px; width:1200px' />
+
+<!-- [Peter Lee](https://peterconcept.arltstation.com) -->
+<img src='https://www.gmbinder.com/images/lrn8eav.png' style='position:absolute; bottom:-10px; left:0px; width:450px; transform:rotate(0deg)scalex(1)' />
+<img src='https://www.gmbinder.com/images/nzPYZyD.png' style='position:absolute; bottom:-290px; left:-290px; width:1000px' />
+<img src='https://www.gmbinder.com/images/nzPYZyD.png' style='position:absolute; bottom:-410px; left:-480px; width:1200px;transform:rotate(0deg)scalex(-1)' />
+
+<div style='margin-top:390px'></div>
 
 #### Rush'kah Mask
 
@@ -88,6 +101,30 @@ When you are hit by an attack, but before damage is rolled, you can use your rea
 
 In addition, if you're also attuned to Jang'thraze the Protector, you can use a bonus action to merge both swords into Sul'thraze the Lasher. You are automatically attuned to it.
 
+\pagebreakNum
+
+<!-- [Jason Kang](https://jasonkang.artstation.com/) -->
+<img src='https://www.gmbinder.com/images/OdqIFTA.png' style='position:absolute;top:-150px;right:0px;width:850px' />
+<img src='https://www.gmbinder.com/images/TRTN4ox.png' style='position:absolute;top:330px;right:-350px;width:800px' />
+<img src='https://www.gmbinder.com/images/PmIwMt8.png' style='position:absolute;top:440px;right:300px;width:850px;' />
+<img src='https://www.gmbinder.com/images/6Fa8Smc.png' style='position:absolute;top:380px;right:90px;width:800px;' />
+<img src='https://www.gmbinder.com/images/qHx29Ow.png' style='position:absolute;top:400px;right:-100px;width:600px' />
+<img src='https://www.gmbinder.com/images/bdO75hb.png' style='position:absolute;top:480px;right:430px;width:500px' />
+<img src='https://www.gmbinder.com/images/Y1CPeui.png' style='position:absolute;top:380px;right:20px;width:700px;transform:rotate(180deg)' />
+<img src='https://www.gmbinder.com/images/Y1CPeui.png' style='position:absolute;top:380px;right:20px;width:700px;transform:rotate(180deg)' />
+<img src='https://www.gmbinder.com/images/TRTN4ox.png' style='position:absolute;top:390px;right:-390px;width:700px' />
+<img src='https://www.gmbinder.com/images/PmIwMt8.png' style='position:absolute;top:458px;right:150px;width:800px;' />
+<img src='https://www.gmbinder.com/images/6Fa8Smc.png' style='position:absolute;top:430px;right:200px;width:700px;' />
+<img src='https://www.gmbinder.com/images/qHx29Ow.png' style='position:absolute;top:400px;right:-200px;width:600px' />
+<img src='https://www.gmbinder.com/images/bdO75hb.png' style='position:absolute;top:480px;right:420px;width:500px' />
+<img src='https://www.gmbinder.com/images/AjTorsm.png' style='position:absolute;top:570px;right:2567x;width:400px;transform:rotate(180deg)' />
+
+<div style='margin-top:570px'></div>
+ 
+> ##### Attuning to both Jang'thraze and Sang'thraze
+>
+> If you are attuned to both Jang'thraze the Protector and Sang'thraze the Deflector, it counts as only one attunement in regards to the number of magic items you can attune to.
+
 #### Sul'thraze the Lasher
 
 *Weapon (greatsword), legendary (requires attunement)*
@@ -100,9 +137,9 @@ When you hit a creature using this sword, you can expend 1 charge to deal an ext
 
 In addition, you can use a bonus action to split the sword into two, Jang'thraze the Protector and Sang'thraze the Deflector. You are automatically attuned to both.
 
-> ##### Attuning to both Jang'thraze and Sang'thraze
->
-> If you are attuned to both Jang'thraze the Protector and Sang'thraze the Deflector, it counts as only one attunement in regards to the number of magic items you can attune to.
+\columnbreak
+
+<div style='margin-top:570px'></div>
 
 #### Warmace of Shirvallah
 
@@ -111,6 +148,8 @@ In addition, you can use a bonus action to split the sword into two, Jang'thraze
 You gain a +2 bonus to attack and damage rolls with this magic weapon.
 
 When you attack a creature with this weapon and roll a 20 on the attack roll, you can make another attack with this weapon as part of the same action. This attack has advantage.
+
+https://www.gmbinder.com/images/ThJL4r2.png <!-- [Richard Wright](https://richard-wright.com/)  -->
 
 #### Zinrokh, Destroyer of Worlds
 
