@@ -50,7 +50,7 @@ ___
 
 - **Front Art By:** [Glenn Rane](https://glennrane.artstation.com)
 - **Back Art By:** [AJ Nazarro](https://ajnazzaro.artstation.com/)
-- **Interior Art By:** [Alex Horley](https://www.alexhorleyart.com), [Alexandra Ziminova](https://faplastilinka.artstation.com), [Arthur Gimaldinov](https://gimaldinov.artstation.com) [Bayard Wu](https://bayardwu.artstation.com), Eric Flannum, [Glenn Rane](https://glennrane.artstation.com), [Jim Nelson](https://jimnelson.artstation.com), [Kyle Herring](https://kylepunk.artstation.com/), [Laurel D. Austin](http://www.laureldaustinart.com), Michel & René Koiter, [Oscar "ShadowPriest" Lazo](https://shadowpriestart.artstation.com), [Samwise Didier](https://thepandaking.artstation.com), [Serge Tsvelykh](https://resolvent.artstation.com/), [Vasiliy Gromov](https://vasiliygromov.artstation.com), Zhou He
+- **Interior Art By:** [Alex Horley](https://www.alexhorleyart.com), [Alexandra Ziminova](https://faplastilinka.artstation.com), [Arthur Gimaldinov](https://gimaldinov.artstation.com) [Bayard Wu](https://bayardwu.artstation.com), Eric Flannum, [Glenn Rane](https://glennrane.artstation.com), [Jason Kang](https://jasonkang.artstation.com/), [Jim Nelson](https://jimnelson.artstation.com), [Kyle Herring](https://kylepunk.artstation.com/), [Laurel D. Austin](http://www.laureldaustinart.com), Michel & René Koiter, [Oscar "ShadowPriest" Lazo](https://shadowpriestart.artstation.com), [Peter Lee](https://peterconcept.arltstation.com), [Samwise Didier](https://thepandaking.artstation.com), [Serge Tsvelykh](https://resolvent.artstation.com/), [Vasiliy Gromov](https://vasiliygromov.artstation.com), Zhou He
 
 ___
 
@@ -79,7 +79,7 @@ This is unofficial fan content permitted under the Fan Content Policy. Not appro
 
 All *Warcraft* content and material are © Blizzard Entertainment.
 
-#### Last Updated: January 27, 2023
+#### Last Updated: February 6, 2023
 
 <img src='https://www.gmbinder.com/images/Fe3zrGs.png' style='position:absolute; bottom:0px; left:-80px; width:1000px; transform:rotate(0deg)scalex(1);filter:opacity(100%);'/>
 
@@ -105,6 +105,7 @@ All *Warcraft* content and material are © Blizzard Entertainment.
   - [<span>9</span><span>Shadow Hunter</span>](#p9)
   - [<span>11</span><span>Witch Doctor</span>](#p11)
 - ### [<span>13</span><span>Chapter 3: Blessings of the Loa](#p13)
+- ### [<span>16</span><span>Chapter 4: Artifacts](#p16)
 
 <!-- markdownlint-enable MD022 MD051 -->
 </div>
@@ -113,7 +114,7 @@ All *Warcraft* content and material are © Blizzard Entertainment.
 
 > ##### Disclaimer
 >
-> The author is not responsible for players that cut off their own arm, indulge in the darkest of mojo, or trust the wrong warchief. If you accidentally anger a loa you just have to deal with it yourself.
+> The author is not responsible for players that cut off their own arm, indulge in the darkest of mojo, or swear loyalty to the wrong warchief. If you sacrifice a loa for tremendous juju, that's on you.
 
 \pagebreakNum
 
@@ -653,9 +654,139 @@ You have resistance against acid, lightning, poison and thunder damage.
 <img src='https://www.gmbinder.com/images/roPU9s7.jpg' style='position:absolute; top:-100px; right:-280px; width:900px' />
 <img src='https://www.gmbinder.com/images/ohZghLL.png' style='position:absolute; top:-110px; right:0px; width:900px; transform:rotate(0deg)scalex(-1);filter:opacity(100%);' />
 
+\pagebreakNum
 
+# Chapter 4: Artifacts
 
+#### Ancestral Staff
 
+*Weapon (quarterstaff), uncommon (requires attunement by a Priest with the Witch Doctor specialization)*
+
+An Ancestral Staff is an intricate staff with names of generations of witch doctors carved into it. The wielder can call upon them for wisdom and guidance in times of peril.
+
+As an action, you can raise the staff and ask one question aloud. After 1 minute, the answer appears written on the head of the staff in a language of your choice. The answer is provided by the witch doctors that held the staff before you and to the best of their knowledge. You can use this property once and regain the ability to do so again at dawn.
+
+#### Ancient Amani Longbow
+
+*Weapon (longbow), rare (requires attunement)*
+
+You gain a +1 bonus to attack and damage rolls with this magic weapon. In addition, you score a critical hit on a roll of 19 or 20, and you ignore half-cover and three-quarters cover when attacking with this magic weapon.
+
+#### Jang'thraze the Protector
+
+*Weapon (scimitar), legendary (requires attunement)*
+
+You gain a +2 bonus to attack and damage rolls with this magic weapon.
+
+When you damage a creature with this sword, you gain temporary hit points equal to the roll of the attack die.
+
+In addition, if you're also attuned to Sang'thraze the Deflector, you can use a bonus action to merge both swords into Sul'thraze the Lasher. You are automatically attuned to it.
+
+#### Jin'rohk, the Great Apocalypse
+
+*Weapon (greatsword), legendary (requires attunement)*
+
+You gain a +3 bonus to attack and damage rolls with this magic weapon. In addition, while you hold the sword, you can use your reaction to make one melee attack with it against any creature in your reach that deals damage to you. You have advantage on the attack roll, and any damage dealt with this special attack ignores any damage immunity or resistance the target has.
+
+\columnbreak
+
+<div style='margin-top:340px'></div>
+
+#### Prestige of the Amani
+
+*Weapon (warclaw), very rare (requires attunement by a spellcaster with at least one non-cantrip spell that deals lightning damage)*
+
+You gain a +2 bonus to attack and damage rolls with this magic weapon.
+
+This warclaw has 3 charges and regains 1d3 expended charges daily at dawn.
+
+When you hit a creature using this warclaw, you can expend 1 charge to cast a non-cantrip spell that deals lightning damage, as a bonus action. The spell is cast as if you were using a spell slot two levels higher than the spell slot you expend.
+
+<!-- [Peter Lee](https://peterconcept.arltstation.com) -->
+<img src='https://www.gmbinder.com/images/lrn8eav.png' style='position:absolute; bottom:-50px; left:0px; width:450px; transform:rotate(0deg)scalex(1)' />
+<img src='https://image.ibb.co/kC44nH/oF4JQBz.png' style='position:absolute; bottom:-400px; left:-170px; width:1150px; transform:rotate(0deg)scalex(-1)' />
+<!--<img src='https://www.gmbinder.com/images/nzPYZyD.png' style='position:absolute; bottom:-370px; left:-290px; width:1000px' />
+<img src='https://www.gmbinder.com/images/nzPYZyD.png' style='position:absolute; bottom:-490px; left:-400px; width:1200px;transform:rotate(0deg)scalex(-1)' />-->
+
+<img src='https://www.gmbinder.com/images/BSKjVG2.png' style='position:absolute; top:25px; right:0px; width:450px; transform:rotate(0deg)scalex(-1)' />
+<img src='https://www.gmbinder.com/images/nzPYZyD.png' style='position:absolute; top:-310px; right:-300px; width:1000px' />
+<img src='https://www.gmbinder.com/images/nzPYZyD.png' style='position:absolute; top:-350px; right:-390px; width:1200px' />
+
+#### Rush'kah Mask
+
+*Wondrous item, rare (requires attunement by a Hunter with the Shadow Hunter specialization)*
+
+This wooden, carved mask, typically the size of a small shield, is a focus that many shadow hunters use. These masks provide protection from evil spirits and those seeking to harm the wearer.
+
+You can see invisible creatures and other creatures cannot hide from you. You have advantage on saving throws forced upon you by undead or aberrant creatures.
+
+#### Sang'thraze the Deflector
+
+*Weapon (scimitar), legendary (requires attunement)*
+
+You gain a +2 bonus to attack and damage rolls with this magic weapon.
+
+When you are hit by an attack, but before damage is rolled, you can use your reaction to increase your AC by 5 for the attack. This might turn a hit into a miss.
+
+In addition, if you're also attuned to Jang'thraze the Protector, you can use a bonus action to merge both swords into Sul'thraze the Lasher. You are automatically attuned to it.
+
+\pagebreakNum
+
+<!-- [Jason Kang](https://jasonkang.artstation.com/) -->
+<img src='https://www.gmbinder.com/images/OdqIFTA.png' style='position:absolute;top:-150px;right:0px;width:850px' />
+<img src='https://www.gmbinder.com/images/TRTN4ox.png' style='position:absolute;top:330px;right:-350px;width:800px' />
+<img src='https://www.gmbinder.com/images/PmIwMt8.png' style='position:absolute;top:440px;right:300px;width:850px;' />
+<img src='https://www.gmbinder.com/images/6Fa8Smc.png' style='position:absolute;top:380px;right:90px;width:800px;' />
+<img src='https://www.gmbinder.com/images/qHx29Ow.png' style='position:absolute;top:400px;right:-100px;width:600px' />
+<img src='https://www.gmbinder.com/images/bdO75hb.png' style='position:absolute;top:480px;right:430px;width:500px' />
+<img src='https://www.gmbinder.com/images/Y1CPeui.png' style='position:absolute;top:380px;right:20px;width:700px;transform:rotate(180deg)' />
+<img src='https://www.gmbinder.com/images/Y1CPeui.png' style='position:absolute;top:380px;right:20px;width:700px;transform:rotate(180deg)' />
+<img src='https://www.gmbinder.com/images/TRTN4ox.png' style='position:absolute;top:390px;right:-390px;width:700px' />
+<img src='https://www.gmbinder.com/images/PmIwMt8.png' style='position:absolute;top:458px;right:150px;width:800px;' />
+<img src='https://www.gmbinder.com/images/6Fa8Smc.png' style='position:absolute;top:430px;right:200px;width:700px;' />
+<img src='https://www.gmbinder.com/images/qHx29Ow.png' style='position:absolute;top:400px;right:-200px;width:600px' />
+<img src='https://www.gmbinder.com/images/bdO75hb.png' style='position:absolute;top:480px;right:420px;width:500px' />
+<img src='https://www.gmbinder.com/images/AjTorsm.png' style='position:absolute;top:570px;right:2567x;width:400px;transform:rotate(180deg)' />
+
+<div style='margin-top:570px'></div>
+ 
+> ##### Attuning to both Jang'thraze and Sang'thraze
+>
+> If you are attuned to both Jang'thraze the Protector and Sang'thraze the Deflector, it counts as only one attunement in regards to the number of magic items you can attune to.
+
+#### Sul'thraze the Lasher
+
+*Weapon (greatsword), legendary (requires attunement)*
+
+You gain a +3 bonus to attack and damage rolls with this magic weapon.
+
+This sword has 3 charges and regains 1d3 expended charges daily at dawn.
+
+When you hit a creature using this sword, you can expend 1 charge to deal an extra 2d10 necrotic damage to the target. In addition, the target must succeed on a DC 15 Constitution saving throw or have disadvantage for 1 hour on any ability check or saving throw that uses Strength or Constitution.
+
+In addition, you can use a bonus action to split the sword into two, Jang'thraze the Protector and Sang'thraze the Deflector. You are automatically attuned to both.
+
+\columnbreak
+
+<div style='margin-top:570px'></div>
+
+#### Warmace of Shirvallah
+
+*Weapon (mace or warhammer), very rare (requires attunement)*
+
+You gain a +2 bonus to attack and damage rolls with this magic weapon.
+
+When you attack a creature with this weapon and roll a 20 on the attack roll, you can make another attack with this weapon as part of the same action. This attack has advantage.
+
+<!-- https://www.gmbinder.com/images/ThJL4r2.png [Richard Wright](https://richard-wright.com/)  -->
+
+#### Zinrokh, Destroyer of Worlds
+
+*Weapon (greatsword), legendary (requires attunement)*
+
+You gain a +3 bonus to attack and damage rolls with this magic weapon. In addition, the weapon ignores resistance to slashing damage.
+
+When you attack a creature with this weapon and roll a 20 on the attack roll, you deal an additional 8d6 damage with this weapon, and the creature must succeed on a DC 15 Constitution saving throw or be stunned for 1 minute. The creature can repeat this save at the end of each of its turn, ending the stunned condition on a success.
 
 \pagebreakNum
 
@@ -664,7 +795,7 @@ You have resistance against acid, lightning, poison and thunder damage.
 <img src='https://www.gmbinder.com/images/QQXB4ii.png' style='position:absolute; top:0px; right:-650px; width:1700px' />
 
  <style>
-   .phb#p16:after { display:none; }
+   .phb#p18:after { display:none; }
  </style>
 
  <div class='back-cover-image'></div>
@@ -706,15 +837,3 @@ To make your own homebrew documents that look as fabulous as this, please visit 
  [WWW.GMBINDER.COM](https://www.gmbinder.com)
 
  </div>
-
-<!-- 
-Items:
-Sul'thraze (Jang'thraze/Sang'thraze)
-Ancestral Staff (WD)
-Rush'kah Mask (SH)
-Zin'rokh
-Jin'rohk
-Ancient Amani 
-Warmace of Shirvalla
-Prestige of the Amani
--->
