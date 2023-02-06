@@ -543,7 +543,7 @@ You can cast the *contagion* spell once, without expending a spell slot, and reg
 
 #### Blessing of Gonk
 
-You know the *druidcraft* cantrip and two other cantrips of your choice from the druid spell list (choosen when you gain this blessing). Charisma, Intelligence or Wisdom is your spellcasting modifier for these spell, chosen when you gain this blessing. In addition you are proficient in the Survival skill you, always succeed when making a Wisdom (Survival) check to track creatures that have not covered their tracks using magic, and you can roll Wisdom (Survival) to try to track magically covered tracks.
+You know the *druidcraft* cantrip and two other cantrips of your choice from the druid spell list (choosen when you gain this blessing). Charisma, Intelligence or Wisdom is your spellcasting modifier for these spell, chosen when you gain this blessing. In addition you are proficient in the Survival skill, you always succeed when making a Wisdom (Survival) check to track creatures that have not covered their tracks using magic, and you can roll Wisdom (Survival) to try to track magically covered tracks.
 
 #### Blessing of Gral
 
