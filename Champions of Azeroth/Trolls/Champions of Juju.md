@@ -473,7 +473,7 @@ On the affected creature's turn (or directly after your turn if the creature has
 
 A concious creature makes a new saving throw at the end of each of its turns, suppressing the effect until the end of its next turn on a success (at which point, it can make another save).
 
-The effect lasts for 1 minute, or until your concentration is broken (as if concentrating on a spell).
+The effect lasts for 1 minute, until your concentration is broken (as if concentrating on a spell), or until the target creature has made 3 successful saves to suppress the effect.
 
 You can use this feature once at 6th level, and twice at 14th level. In addition, you can target huge creatures starting at level 14. You regain all expended uses when you finish a short or long rest.
 
@@ -577,7 +577,7 @@ You can cast the *dragon's breath* spell (self only, fire only) once,  without e
 
 #### Blessing of Kimbul
 
-If you surprise a creature and hit it with an attack in the first turn of combat, the hit is automatically a crit. 
+If you surprise a creature and hit it with an attack in the first turn of combat, the hit is automatically a crit.
 
 #### Blessing of Krag'wa
 
@@ -749,7 +749,7 @@ In addition, if you're also attuned to Jang'thraze the Protector, you can use a 
 <img src='https://www.gmbinder.com/images/AjTorsm.png' style='position:absolute;top:570px;right:2567x;width:400px;transform:rotate(180deg)' />
 
 <div style='margin-top:570px'></div>
- 
+
 > ##### Attuning to both Jang'thraze and Sang'thraze
 >
 > If you are attuned to both Jang'thraze the Protector and Sang'thraze the Deflector, it counts as only one attunement in regards to the number of magic items you can attune to.
