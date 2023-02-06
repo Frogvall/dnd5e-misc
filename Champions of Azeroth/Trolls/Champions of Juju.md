@@ -678,7 +678,7 @@ You gain a +1 bonus to attack and damage rolls with this magic weapon. In additi
 
 You gain a +2 bonus to attack and damage rolls with this magic weapon.
 
-When you damage a creature with this sword, you gain temporary hit points equal to the roll of the attack die.
+When you damage a creature with this sword, you gain temporary hit points equal to the roll of the weapon's damage die.
 
 In addition, if you're also attuned to Sang'thraze the Deflector, you can use a bonus action to merge both swords into Sul'thraze the Lasher. You are automatically attuned to it.
 
@@ -694,13 +694,13 @@ You gain a +3 bonus to attack and damage rolls with this magic weapon. In additi
 
 #### Prestige of the Amani
 
-*Weapon (warclaw), very rare (requires attunement by a spellcaster with at least one non-cantrip spell that deals lightning damage)*
+*Weapon (warclaw), legendary (requires attunement by a spellcaster with at least one non-cantrip spell that deals lightning damage)*
 
 You gain a +2 bonus to attack and damage rolls with this magic weapon.
 
 This warclaw has 3 charges and regains 1d3 expended charges daily at dawn.
 
-When you hit a creature using this warclaw, you can expend 1 charge to cast a non-cantrip spell that deals lightning damage, as a bonus action. The spell is cast as if you were using a spell slot two levels higher than the spell slot you expend.
+When you hit a creature using this warclaw on your turn, you can expend 1 charge to cast a non-cantrip spell that deals lightning damage, as a bonus action on the same turn. The spell is cast as if you were using a spell slot two levels higher than the spell slot you expend.
 
 <!-- [Peter Lee](https://peterconcept.arltstation.com) -->
 <img src='https://www.gmbinder.com/images/lrn8eav.png' style='position:absolute; bottom:-50px; left:0px; width:450px; transform:rotate(0deg)scalex(1)' />
@@ -780,7 +780,7 @@ When you attack a creature with this weapon and roll a 20 on the attack roll, yo
 
 <!-- https://www.gmbinder.com/images/ThJL4r2.png [Richard Wright](https://richard-wright.com/)  -->
 
-#### Zinrokh, Destroyer of Worlds
+#### Zin'rokh, Destroyer of Worlds
 
 *Weapon (greatsword), legendary (requires attunement)*
 
