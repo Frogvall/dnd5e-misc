@@ -591,7 +591,7 @@ You have resistance against bludgeoning, piercing, and slashing damage from nonm
 
 #### Blessing of Mueh'zala
 
-Whenever you reduce an hostile creature to 0 hit points or less on you turn, you can use a bonus action on the same turn to move up to half your speed and make a weapon attack or cast a cantrip. Any attack roll made with this bonus action is made with advantage.
+Whenever you reduce a hostile creature to 0 hit points or less on you turn, you can use a bonus action on the same turn to move up to half your speed and make a weapon attack or cast a cantrip. Any attack roll made with this bonus action is made with advantage.
 
 #### Blessing of Nalorakk
 
