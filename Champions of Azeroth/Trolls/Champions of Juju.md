@@ -469,11 +469,11 @@ Also at 2nd level, you learn how to glean knowledge from surrounding spirits. Yo
 
 At 6th level, you learn to use voodoo to take control over other beings. As an action you target a Large or smaller creature within 60 feet of you and conjure a voodoo doll in its image, which appears in one of your hands or in a string around your neck. The creature must succeed on a Wisdom saving throw against your spell save DC or become charmed by you. An unconcious creature automatically fails its saving throw.
 
-On the affected creature's turn (or directly after your turn if the creature has not rolled initiative for the current encounter), you can command it (no action required) to move up to half its speed and use its action to interact with an object or make a single attack.
+On the affected creature's turn (or directly after your turn if the creature has not rolled initiative for the current encounter), you can touch the doll and command the creature (no action required) to move up to half its speed and use its action to interact with an object or make a single attack.
 
-A concious creature makes a new saving throw at the end of each of its turns, suppressing the effect until the end of its next turn on a success (at which point, it can make another save).
+A concious creature makes a new saving throw at the end of each of its turns, ending the effect on a success.
 
-The effect lasts for 1 minute, until your concentration is broken (as if concentrating on a spell), or until the target creature has made 3 successful saves to suppress the effect.
+The effect lasts for 1 minute, or until your concentration is broken (as if concentrating on a spell).
 
 You can use this feature once at 6th level, and twice at 14th level. In addition, you can target huge creatures starting at level 14. You regain all expended uses when you finish a short or long rest.
 
