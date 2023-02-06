@@ -50,7 +50,7 @@ You gain a +1 bonus to attack and damage rolls with this magic weapon. In additi
 
 You gain a +2 bonus to attack and damage rolls with this magic weapon.
 
-When you damage a creature with this sword, you gain temporary hit points equal to roll of the attack die.
+When you damage a creature with this sword, you gain temporary hit points equal to the roll of the attack die.
 
 In addition, if you're also attuned to Sang'thraze the Deflector, you can use a bonus action to merge both swords into Sul'thraze the Lasher. You are automatically attuned to it.
 
@@ -97,7 +97,7 @@ You can see invisible creatures and other creatures cannot hide from you. You ha
 
 You gain a +2 bonus to attack and damage rolls with this magic weapon.
 
-When you are hit by an attack, but before damage is rolled, you can use your reaction to increase your AC by 2 for the attack. This might turn a hit into a miss.
+When you are hit by an attack, but before damage is rolled, you can use your reaction to increase your AC by 5 for the attack. This might turn a hit into a miss.
 
 In addition, if you're also attuned to Jang'thraze the Protector, you can use a bonus action to merge both swords into Sul'thraze the Lasher. You are automatically attuned to it.
 
@@ -149,7 +149,7 @@ You gain a +2 bonus to attack and damage rolls with this magic weapon.
 
 When you attack a creature with this weapon and roll a 20 on the attack roll, you can make another attack with this weapon as part of the same action. This attack has advantage.
 
-https://www.gmbinder.com/images/ThJL4r2.png <!-- [Richard Wright](https://richard-wright.com/)  -->
+<!-- https://www.gmbinder.com/images/ThJL4r2.png [Richard Wright](https://richard-wright.com/)  -->
 
 #### Zinrokh, Destroyer of Worlds
 
