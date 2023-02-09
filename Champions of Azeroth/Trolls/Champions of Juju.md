@@ -702,11 +702,8 @@ This warclaw has 3 charges and regains 1d3 expended charges daily at dawn.
 
 When you hit a creature using this warclaw on your turn, you can expend 1 charge to cast a non-cantrip spell that deals lightning damage, as a bonus action on the same turn. The spell is cast as if you were using a spell slot two levels higher than the spell slot you expend.
 
-<!-- [Peter Lee](https://peterconcept.arltstation.com) -->
 <img src='https://www.gmbinder.com/images/lrn8eav.png' style='position:absolute; bottom:-50px; left:0px; width:450px; transform:rotate(0deg)scalex(1)' />
 <img src='https://image.ibb.co/kC44nH/oF4JQBz.png' style='position:absolute; bottom:-400px; left:-170px; width:1150px; transform:rotate(0deg)scalex(-1)' />
-<!--<img src='https://www.gmbinder.com/images/nzPYZyD.png' style='position:absolute; bottom:-370px; left:-290px; width:1000px' />
-<img src='https://www.gmbinder.com/images/nzPYZyD.png' style='position:absolute; bottom:-490px; left:-400px; width:1200px;transform:rotate(0deg)scalex(-1)' />-->
 
 <img src='https://www.gmbinder.com/images/BSKjVG2.png' style='position:absolute; top:25px; right:0px; width:450px; transform:rotate(0deg)scalex(-1)' />
 <img src='https://www.gmbinder.com/images/nzPYZyD.png' style='position:absolute; top:-310px; right:-300px; width:1000px' />
@@ -732,7 +729,6 @@ In addition, if you're also attuned to Jang'thraze the Protector, you can use a 
 
 \pagebreakNum
 
-<!-- [Jason Kang](https://jasonkang.artstation.com/) -->
 <img src='https://www.gmbinder.com/images/OdqIFTA.png' style='position:absolute;top:-150px;right:0px;width:850px' />
 <img src='https://www.gmbinder.com/images/TRTN4ox.png' style='position:absolute;top:330px;right:-350px;width:800px' />
 <img src='https://www.gmbinder.com/images/PmIwMt8.png' style='position:absolute;top:440px;right:300px;width:850px;' />
@@ -778,8 +774,6 @@ You gain a +2 bonus to attack and damage rolls with this magic weapon.
 
 When you attack a creature with this weapon and roll a 20 on the attack roll, you can make another attack with this weapon as part of the same action. This special attack has advantage.
 
-<!-- https://www.gmbinder.com/images/ThJL4r2.png [Richard Wright](https://richard-wright.com/)  -->
-
 #### Zin'rokh, Destroyer of Worlds
 
 *Weapon (greatsword), legendary (requires attunement)*
@@ -789,8 +783,6 @@ You gain a +3 bonus to attack and damage rolls with this magic weapon. In additi
 When you attack a creature with this weapon and roll a 20 on the attack roll, you deal an additional 8d6 damage with this weapon, and the creature must succeed on a DC 15 Constitution saving throw or be stunned for 1 minute. The creature can repeat this save at the end of each of its turn, ending the stunned condition on a success.
 
 \pagebreakNum
-
-<!-- Items: Ancestral Staff -->
 
 <img src='https://www.gmbinder.com/images/QQXB4ii.png' style='position:absolute; top:0px; right:-650px; width:1700px' />
 
@@ -837,15 +829,3 @@ To make your own homebrew documents that look as fabulous as this, please visit 
  [WWW.GMBINDER.COM](https://www.gmbinder.com)
 
  </div>
-
-<!-- 
-Items:
-Sul'thraze (Jang'thraze/Sang'thraze)
-Ancestral Staff (WD)
-Rush'kah Mask (SH)
-Zin'rokh
-Jin'rohk
-Ancient Amani 
-Warmace of Shirvalla
-Prestige of the Amani
--->
