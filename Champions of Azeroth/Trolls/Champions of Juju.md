@@ -50,7 +50,7 @@ ___
 
 - **Front Art By:** [Glenn Rane](https://glennrane.artstation.com)
 - **Back Art By:** [AJ Nazarro](https://ajnazzaro.artstation.com/)
-- **Interior Art By:** [Alex Horley](https://www.alexhorleyart.com), [Alexandra Ziminova](https://faplastilinka.artstation.com), [Arthur Gimaldinov](https://gimaldinov.artstation.com) [Bayard Wu](https://bayardwu.artstation.com), Eric Flannum, [Glenn Rane](https://glennrane.artstation.com), [Jason Kang](https://jasonkang.artstation.com/), [Jim Nelson](https://jimnelson.artstation.com), [Kyle Herring](https://kylepunk.artstation.com/), [Laurel D. Austin](http://www.laureldaustinart.com), Michel & René Koiter, [Oscar "ShadowPriest" Lazo](https://shadowpriestart.artstation.com), [Peter Lee](https://peterconcept.arltstation.com), [Samwise Didier](https://thepandaking.artstation.com), [Serge Tsvelykh](https://resolvent.artstation.com/), [Vasiliy Gromov](https://vasiliygromov.artstation.com), Zhou He
+- **Interior Art By:** [Alex Horley](https://www.alexhorleyart.com), [Alexandra Ziminova](https://faplastilinka.artstation.com), [Arthur Gimaldinov](https://gimaldinov.artstation.com) [Bayard Wu](https://bayardwu.artstation.com), [Elizanel Suhoveeva](https://user-9ef30087a6d7c0a8.artstation.com/), Eric Flannum, [Glenn Rane](https://glennrane.artstation.com), [Jason Kang](https://jasonkang.artstation.com/), [Jim Nelson](https://jimnelson.artstation.com), [Kyle Herring](https://kylepunk.artstation.com/), [Laurel D. Austin](http://www.laureldaustinart.com), Michel & René Koiter, [Peter Lee](https://peterconcept.arltstation.com), [Samwise Didier](https://thepandaking.artstation.com), [Serge Tsvelykh](https://resolvent.artstation.com/), [Vasiliy Gromov](https://vasiliygromov.artstation.com), Zhou He
 
 ___
 
@@ -79,7 +79,7 @@ This is unofficial fan content permitted under the Fan Content Policy. Not appro
 
 All *Warcraft* content and material are © Blizzard Entertainment.
 
-#### Last Updated: February 6, 2023
+#### Last Updated: February 28, 2023
 
 <img src='https://www.gmbinder.com/images/Fe3zrGs.png' style='position:absolute; bottom:0px; left:-80px; width:1000px; transform:rotate(0deg)scalex(1);filter:opacity(100%);'/>
 
@@ -271,7 +271,7 @@ Once jungle trolls of the Gurubashi Empire, thousands of years in the harsh dese
 
 \columnbreak
 
-<img src='https://www.gmbinder.com/images/nNuA9Pi.jpg' style='position:absolute; top:-20px; right:-150px; width:520px;' />
+<img src='https://www.gmbinder.com/images/AQJvT5P.png' style='position:absolute; top:-80px; right:-635px; width:1020px;transform:rotate(0deg)scalex(-1)' />
 <img src='https://www.gmbinder.com/images/3GL7BwO.png' style='position:absolute; top:0px; right:-115px; width:500px;filter:opacity(100%);'/>
 
 <div style='margin-top:600px'></div>
@@ -829,3 +829,4 @@ To make your own homebrew documents that look as fabulous as this, please visit 
  [WWW.GMBINDER.COM](https://www.gmbinder.com)
 
  </div>
+ 
