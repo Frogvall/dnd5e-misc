@@ -228,12 +228,12 @@ Forest trolls, most prominently represented by the Amani tribe in Zul'Aman, once
 
 ***Natural Climber.*** You have a climbing speed equal to your walking speed.
 
-<img src='https://www.gmbinder.com/images/qjCnGTB.jpg' style='position:absolute; bottom:-100px; left:-225px; width:720px' />
+<img src='https://www.gmbinder.com/images/C2gEyL1.jpg' style='position:absolute; bottom:-150px; left:-115px; width:520px' />
 <img src='https://preview.ibb.co/byzgZx/JIbLHii.png' style='position:absolute; top:-220px; left:-80px; width:1000px; transform:rotate(0deg)scalex(-1)scaley(-1);filter:opacity(100%);'/>
 
 \columnbreak
 
-<img src='https://www.gmbinder.com/images/C2gEyL1.jpg' style='position:absolute; top:-100px; right:-150px; width:520px; transform:rotate(0deg)scalex(-1)' />
+<img src='https://www.gmbinder.com/images/qjCnGTB.jpg' style='position:absolute; top:-20px; right:-200px; width:620px; transform:rotate(0deg)scalex(-1);clip: rect(0px,580px,600px,0px)' />
 <img src='https://www.gmbinder.com/images/3GL7BwO.png' style='position:absolute; top:-50px; right:-115px; width:500px;filter:opacity(100%);'/>
 
 <div style='margin-top:520px'></div>
@@ -266,12 +266,12 @@ Once jungle trolls of the Gurubashi Empire, thousands of years in the harsh dese
 
 ***Harsh Survivalist.*** You gain proficiency with one of the following skills of your choice: Athletics, Medicine, Nature, and Survival.
 
-<img src='https://www.gmbinder.com/images/4IHIZCP.jpg' style='position:absolute; bottom:-150px; left:-50px; width:520px' />
+<img src='https://www.gmbinder.com/images/AQJvT5P.png' style='position:absolute; bottom:-150px; left:-580px; width:1020px' />
 <img src='https://preview.ibb.co/byzgZx/JIbLHii.png' style='position:absolute; top:-170px; left:-70px; width:1000px; transform:rotate(0deg)scalex(-1)scaley(-1);filter:opacity(100%);'/>
 
 \columnbreak
 
-<img src='https://www.gmbinder.com/images/AQJvT5P.png' style='position:absolute; top:-80px; right:-635px; width:1020px;transform:rotate(0deg)scalex(-1)' />
+<img src='https://www.gmbinder.com/images/4IHIZCP.jpg' style='position:absolute; top:-50px; right:-100px; width:520px;transform:rotate(0deg)scalex(-1);clip: rect(0px,480px,700px,0px)' />
 <img src='https://www.gmbinder.com/images/3GL7BwO.png' style='position:absolute; top:0px; right:-115px; width:500px;filter:opacity(100%);'/>
 
 <div style='margin-top:600px'></div>
@@ -829,4 +829,3 @@ To make your own homebrew documents that look as fabulous as this, please visit 
  [WWW.GMBINDER.COM](https://www.gmbinder.com)
 
  </div>
- 
