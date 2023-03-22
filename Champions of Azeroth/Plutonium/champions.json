@@ -1837,7 +1837,7 @@
 			]
 		},
         {
-			"name": "Felsworn",
+			"name": "Felsworn, Blood Fury",
 			"source": "CoO",
 			"raceName": "Human",
 			"raceSource": "CoA",
@@ -1847,6 +1847,25 @@
 				"fiend"
 			],
 			"ability": [
+                {
+                    "choose": {
+                        "weighted": {
+                            "from": [
+                                "str",
+                                "dex",
+                                "con",
+                                "int",
+                                "wis",
+                                "cha"
+                            ],
+                            "weights": [
+                                2,
+                                1,
+                                1
+                            ]
+                        }
+                    }
+                },
 				{
 					"choose": {
 						"from": [
@@ -1856,7 +1875,8 @@
 							"int",
 							"wis",
 							"cha"
-						]
+						],
+                        "count": 4
 					}
 				}
 			],
@@ -1872,30 +1892,87 @@
 			],
             "languageProficiencies": [
 				{
-					"eredun": true
+                    "common": true,
+					"eredun": true,
+                    "anyStandard": 1
 				}
 			],
+            "overwrite": {
+				"languageProficiencies": true,
+                "ability": true
+			},
 			"entries": [
 				{
-					"name": "Demonic Nature",
+					"name": "Fel Resistance",
 					"entries": [
-						"You gain proficiency with one of the following skills of your choice: {@skill Athletics}, {@skill Nature}, {@skill Perception}, and {@skill Survival}."
+						"You have resistance against your choice of fire or necrotic damage. This choice determines the damage type for your Infernal Power trait."
 					],
 					"type": "entries"
 				},
 				{
-					"name": "Tundra Walker",
+					"name": "Additional Language",
 					"entries": [
-						"You have resistance to cold damage, and are naturally adapted to cold climates, as described in chapter 5 of the Dungeon Master's Guide. In addition, moving through {@quickref difficult terrain||3} related to ice, snow, or extreme cold costs you no extra movement."
+						"You can speak, read, and write Eredun."
 					],
 					"type": "entries"
 				},
 				{
-					"name": "Big Game Hunter",
+					"name": "Infernal Power",
 					"entries": [
-						"You are trained in fighting the colossal beasts and monsters of Northrend, When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can't use it again until you finish a short or long rest."
+						"When you reach 3rd level, choose one of the abilities listed below. You can use your chosen ability as an action, and it lasts for 1 minute or until you end it as a bonus action. Once you use this trait, you can't use it again until you finish a long rest. All damage dealt by this trait is the same as the type chosen for your Fel Resistance trait.",
+						{
+							"type": "list",
+							"items": [
+								{
+									"type": "item",
+									"name": "Blood Fury",
+									"entry": "When you use this ability, other creatures within 10 feet of you that you can see you must each succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Strength or Charisma modifier) or become frightened of you until the end of your next turn. For the ability's duration, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+								}
+							]
+						}
 					],
 					"type": "entries"
+				}
+			],
+			"_versions": [
+				{
+					"_template": {
+						"name": "Human (Felsworn, {{title}})",
+						"source": "CoO",
+						"_mod": {
+							"entries": [
+								{
+									"mode": "replaceArr",
+									"replace": "Infernal Power",
+									"items": {
+										"type": "entries",
+										"name": "Infernal Power",
+										"entries": [
+											"When you reach 3rd level, choose one of the abilities listed below. You can use your chosen ability as an action, and it lasts for 1 minute or until you end it as a bonus action. Once you use this trait, you can't use it again until you finish a long rest. All damage dealt by this trait is the same as the type chosen for your Fel Resistance trait.",
+											{
+												"type": "list",
+												"items": [
+													{
+														"type": "item",
+														"name": "{{title}}",
+														"entry": "{{description}}"
+													}
+												]
+											}
+										]
+									}
+								}
+							]
+						}
+					},
+					"_implementations": [
+						{
+							"_variables": {
+								"title": "Chaos Aura",
+								 "description": "You unleash fel energy for the duration, searing everything around you---and yourself. You shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, you and each creature within 10 feet of you take damage equal to half your level (rounded up). In addition, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+							}
+						}
+					]
 				}
 			]
 		},
@@ -2021,6 +2098,125 @@
 			]
 		},
 		{
+			"name": "Felsworn, Blood Fury",
+			"source": "CoO",
+			"raceName": "Dwarf",
+			"raceSource": "CoA",
+			"page": 5,
+            "creatureTypes": [
+				"humanoid",
+				"fiend"
+			],
+			"ability": [
+				{
+					"choose": {
+						"from": [
+							"str",
+							"dex",
+							"int",
+							"wis",
+							"cha"
+						],
+                        "count": 1
+					}
+				}
+			],
+			"resist": [
+				{
+                    "choose": {
+                        "from": [
+                            "fire",
+                            "necrotic"
+                        ]
+                    }
+                }
+			],
+            "languageProficiencies": [
+				{
+                    "common": true,
+                    "dwarvish": true,
+					"eredun": true
+				}
+			],
+            "overwrite": {
+				"languageProficiencies": true
+			},
+			"entries": [
+				{
+					"name": "Fel Resistance",
+					"entries": [
+						"You have resistance against your choice of fire or necrotic damage. This choice determines the damage type for your Infernal Power trait."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Additional Language",
+					"entries": [
+						"You can speak, read, and write Eredun."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Infernal Power",
+					"entries": [
+						"When you reach 3rd level, choose one of the abilities listed below. You can use your chosen ability as an action, and it lasts for 1 minute or until you end it as a bonus action. Once you use this trait, you can't use it again until you finish a long rest. All damage dealt by this trait is the same as the type chosen for your Fel Resistance trait.",
+						{
+							"type": "list",
+							"items": [
+								{
+									"type": "item",
+									"name": "Blood Fury",
+									"entry": "When you use this ability, other creatures within 10 feet of you that you can see you must each succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Strength or Charisma modifier) or become frightened of you until the end of your next turn. For the ability's duration, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+								}
+							]
+						}
+					],
+					"type": "entries"
+				}
+			],
+			"_versions": [
+				{
+					"_template": {
+						"name": "Dwarf (Felsworn, {{title}})",
+						"source": "CoO",
+						"_mod": {
+							"entries": [
+								{
+									"mode": "replaceArr",
+									"replace": "Infernal Power",
+									"items": {
+										"type": "entries",
+										"name": "Infernal Power",
+										"entries": [
+											"When you reach 3rd level, choose one of the abilities listed below. You can use your chosen ability as an action, and it lasts for 1 minute or until you end it as a bonus action. Once you use this trait, you can't use it again until you finish a long rest. All damage dealt by this trait is the same as the type chosen for your Fel Resistance trait.",
+											{
+												"type": "list",
+												"items": [
+													{
+														"type": "item",
+														"name": "{{title}}",
+														"entry": "{{description}}"
+													}
+												]
+											}
+										]
+									}
+								}
+							]
+						}
+					},
+					"_implementations": [
+						{
+							"_variables": {
+								"title": "Chaos Aura",
+								 "description": "You unleash fel energy for the duration, searing everything around you---and yourself. You shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, you and each creature within 10 feet of you take damage equal to half your level (rounded up). In addition, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+							}
+						}
+					]
+				}
+			]
+		},
+		{
 			"name": "Undead",
 			"source": "CoN",
 			"raceName":	"Night Elf",
@@ -2122,6 +2318,125 @@
 						"You are trained in fighting the colossal beasts and monsters of Northrend, When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can't use it again until you finish a short or long rest."
 					],
 					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Felsworn, Blood Fury",
+			"source": "CoO",
+			"raceName": "Night Elf",
+			"raceSource": "CoA",
+			"page": 5,
+            "creatureTypes": [
+				"humanoid",
+				"fiend"
+			],
+			"ability": [
+				{
+					"choose": {
+						"from": [
+							"str",
+							"con",
+							"int",
+							"wis",
+							"cha"
+						],
+                        "count": 1
+					}
+				}
+			],
+			"resist": [
+				{
+                    "choose": {
+                        "from": [
+                            "fire",
+                            "necrotic"
+                        ]
+                    }
+                }
+			],
+            "languageProficiencies": [
+				{
+                    "common": true,
+                    "darnassian": true,
+					"eredun": true
+				}
+			],
+            "overwrite": {
+				"languageProficiencies": true
+			},
+			"entries": [
+				{
+					"name": "Fel Resistance",
+					"entries": [
+						"You have resistance against your choice of fire or necrotic damage. This choice determines the damage type for your Infernal Power trait."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Additional Language",
+					"entries": [
+						"You can speak, read, and write Eredun."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Infernal Power",
+					"entries": [
+						"When you reach 3rd level, choose one of the abilities listed below. You can use your chosen ability as an action, and it lasts for 1 minute or until you end it as a bonus action. Once you use this trait, you can't use it again until you finish a long rest. All damage dealt by this trait is the same as the type chosen for your Fel Resistance trait.",
+						{
+							"type": "list",
+							"items": [
+								{
+									"type": "item",
+									"name": "Blood Fury",
+									"entry": "When you use this ability, other creatures within 10 feet of you that you can see you must each succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Strength or Charisma modifier) or become frightened of you until the end of your next turn. For the ability's duration, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+								}
+							]
+						}
+					],
+					"type": "entries"
+				}
+			],
+			"_versions": [
+				{
+					"_template": {
+						"name": "Night Elf (Felsworn, {{title}})",
+						"source": "CoO",
+						"_mod": {
+							"entries": [
+								{
+									"mode": "replaceArr",
+									"replace": "Infernal Power",
+									"items": {
+										"type": "entries",
+										"name": "Infernal Power",
+										"entries": [
+											"When you reach 3rd level, choose one of the abilities listed below. You can use your chosen ability as an action, and it lasts for 1 minute or until you end it as a bonus action. Once you use this trait, you can't use it again until you finish a long rest. All damage dealt by this trait is the same as the type chosen for your Fel Resistance trait.",
+											{
+												"type": "list",
+												"items": [
+													{
+														"type": "item",
+														"name": "{{title}}",
+														"entry": "{{description}}"
+													}
+												]
+											}
+										]
+									}
+								}
+							]
+						}
+					},
+					"_implementations": [
+						{
+							"_variables": {
+								"title": "Chaos Aura",
+								 "description": "You unleash fel energy for the duration, searing everything around you---and yourself. You shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, you and each creature within 10 feet of you take damage equal to half your level (rounded up). In addition, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+							}
+						}
+					]
 				}
 			]
 		},
@@ -2231,6 +2546,125 @@
 			]
 		},
 		{
+			"name": "Felsworn, Blood Fury",
+			"source": "CoO",
+			"raceName": "Gnome",
+			"raceSource": "CoA",
+			"page": 5,
+            "creatureTypes": [
+				"humanoid",
+				"fiend"
+			],
+			"ability": [
+				{
+					"choose": {
+						"from": [
+							"str",
+							"dex",
+							"con",
+							"wis",
+							"cha"
+						],
+                        "count": 1
+					}
+				}
+			],
+			"resist": [
+				{
+                    "choose": {
+                        "from": [
+                            "fire",
+                            "necrotic"
+                        ]
+                    }
+                }
+			],
+            "languageProficiencies": [
+				{
+                    "common": true,
+                    "gnomish": true,
+					"eredun": true
+				}
+			],
+            "overwrite": {
+				"languageProficiencies": true
+			},
+			"entries": [
+				{
+					"name": "Fel Resistance",
+					"entries": [
+						"You have resistance against your choice of fire or necrotic damage. This choice determines the damage type for your Infernal Power trait."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Additional Language",
+					"entries": [
+						"You can speak, read, and write Eredun."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Infernal Power",
+					"entries": [
+						"When you reach 3rd level, choose one of the abilities listed below. You can use your chosen ability as an action, and it lasts for 1 minute or until you end it as a bonus action. Once you use this trait, you can't use it again until you finish a long rest. All damage dealt by this trait is the same as the type chosen for your Fel Resistance trait.",
+						{
+							"type": "list",
+							"items": [
+								{
+									"type": "item",
+									"name": "Blood Fury",
+									"entry": "When you use this ability, other creatures within 10 feet of you that you can see you must each succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Strength or Charisma modifier) or become frightened of you until the end of your next turn. For the ability's duration, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+								}
+							]
+						}
+					],
+					"type": "entries"
+				}
+			],
+			"_versions": [
+				{
+					"_template": {
+						"name": "Gnome (Felsworn, {{title}})",
+						"source": "CoO",
+						"_mod": {
+							"entries": [
+								{
+									"mode": "replaceArr",
+									"replace": "Infernal Power",
+									"items": {
+										"type": "entries",
+										"name": "Infernal Power",
+										"entries": [
+											"When you reach 3rd level, choose one of the abilities listed below. You can use your chosen ability as an action, and it lasts for 1 minute or until you end it as a bonus action. Once you use this trait, you can't use it again until you finish a long rest. All damage dealt by this trait is the same as the type chosen for your Fel Resistance trait.",
+											{
+												"type": "list",
+												"items": [
+													{
+														"type": "item",
+														"name": "{{title}}",
+														"entry": "{{description}}"
+													}
+												]
+											}
+										]
+									}
+								}
+							]
+						}
+					},
+					"_implementations": [
+						{
+							"_variables": {
+								"title": "Chaos Aura",
+								 "description": "You unleash fel energy for the duration, searing everything around you---and yourself. You shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, you and each creature within 10 feet of you take damage equal to half your level (rounded up). In addition, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+							}
+						}
+					]
+				}
+			]
+		},
+		{
 			"name": "Undead",
 			"source": "CoN",
 			"raceName":	"Orc",
@@ -2336,6 +2770,125 @@
 			]
 		},
 		{
+			"name": "Felsworn, Blood Fury",
+			"source": "CoO",
+			"raceName": "Orc",
+			"raceSource": "CoA",
+			"page": 5,
+            "creatureTypes": [
+				"humanoid",
+				"fiend"
+			],
+			"ability": [
+				{
+					"choose": {
+						"from": [
+							"dex",
+							"con",
+							"int",
+							"wis",
+							"cha"
+						],
+                        "count": 1
+					}
+				}
+			],
+			"resist": [
+				{
+                    "choose": {
+                        "from": [
+                            "fire",
+                            "necrotic"
+                        ]
+                    }
+                }
+			],
+            "languageProficiencies": [
+				{
+                    "common": true,
+					"eredun": true,
+					"anyStandard": 1
+				}
+			],
+            "overwrite": {
+				"languageProficiencies": true
+			},
+			"entries": [
+				{
+					"name": "Fel Resistance",
+					"entries": [
+						"You have resistance against your choice of fire or necrotic damage. This choice determines the damage type for your Infernal Power trait."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Additional Language",
+					"entries": [
+						"You can speak, read, and write Eredun."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Infernal Power",
+					"entries": [
+						"When you reach 3rd level, choose one of the abilities listed below. You can use your chosen ability as an action, and it lasts for 1 minute or until you end it as a bonus action. Once you use this trait, you can't use it again until you finish a long rest. All damage dealt by this trait is the same as the type chosen for your Fel Resistance trait.",
+						{
+							"type": "list",
+							"items": [
+								{
+									"type": "item",
+									"name": "Blood Fury",
+									"entry": "When you use this ability, other creatures within 10 feet of you that you can see you must each succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Strength or Charisma modifier) or become frightened of you until the end of your next turn. For the ability's duration, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+								}
+							]
+						}
+					],
+					"type": "entries"
+				}
+			],
+			"_versions": [
+				{
+					"_template": {
+						"name": "Orc (Felsworn, {{title}})",
+						"source": "CoO",
+						"_mod": {
+							"entries": [
+								{
+									"mode": "replaceArr",
+									"replace": "Infernal Power",
+									"items": {
+										"type": "entries",
+										"name": "Infernal Power",
+										"entries": [
+											"When you reach 3rd level, choose one of the abilities listed below. You can use your chosen ability as an action, and it lasts for 1 minute or until you end it as a bonus action. Once you use this trait, you can't use it again until you finish a long rest. All damage dealt by this trait is the same as the type chosen for your Fel Resistance trait.",
+											{
+												"type": "list",
+												"items": [
+													{
+														"type": "item",
+														"name": "{{title}}",
+														"entry": "{{description}}"
+													}
+												]
+											}
+										]
+									}
+								}
+							]
+						}
+					},
+					"_implementations": [
+						{
+							"_variables": {
+								"title": "Chaos Aura",
+								 "description": "You unleash fel energy for the duration, searing everything around you---and yourself. You shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, you and each creature within 10 feet of you take damage equal to half your level (rounded up). In addition, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+							}
+						}
+					]
+				}
+			]
+		},
+		{
 			"name": "Undead",
 			"source": "CoN",
 			"raceName":	"Tauren",
@@ -2401,7 +2954,7 @@
 		{
 			"name": "Frostborn",
 			"source": "CoN",
-			"raceName": "Human",
+			"raceName": "Tauren",
 			"raceSource": "CoA",
 			"page": 3,
 			"ability": [
@@ -2453,6 +3006,125 @@
 						"You are trained in fighting the colossal beasts and monsters of Northrend, When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can't use it again until you finish a short or long rest."
 					],
 					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Felsworn, Blood Fury",
+			"source": "CoO",
+			"raceName": "Tauren",
+			"raceSource": "CoA",
+			"page": 5,
+            "creatureTypes": [
+				"humanoid",
+				"fiend"
+			],
+			"ability": [
+				{
+					"choose": {
+						"from": [
+							"str",
+							"dex",
+							"int",
+							"wis",
+							"cha"
+						],
+                        "count": 1
+					}
+				}
+			],
+			"resist": [
+				{
+                    "choose": {
+                        "from": [
+                            "fire",
+                            "necrotic"
+                        ]
+                    }
+                }
+			],
+            "languageProficiencies": [
+				{
+                    "common": true,
+                    "taur-ahe": true,
+					"eredun": true
+				}
+			],
+            "overwrite": {
+				"languageProficiencies": true
+			},
+			"entries": [
+				{
+					"name": "Fel Resistance",
+					"entries": [
+						"You have resistance against your choice of fire or necrotic damage. This choice determines the damage type for your Infernal Power trait."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Additional Language",
+					"entries": [
+						"You can speak, read, and write Eredun."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Infernal Power",
+					"entries": [
+						"When you reach 3rd level, choose one of the abilities listed below. You can use your chosen ability as an action, and it lasts for 1 minute or until you end it as a bonus action. Once you use this trait, you can't use it again until you finish a long rest. All damage dealt by this trait is the same as the type chosen for your Fel Resistance trait.",
+						{
+							"type": "list",
+							"items": [
+								{
+									"type": "item",
+									"name": "Blood Fury",
+									"entry": "When you use this ability, other creatures within 10 feet of you that you can see you must each succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Strength or Charisma modifier) or become frightened of you until the end of your next turn. For the ability's duration, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+								}
+							]
+						}
+					],
+					"type": "entries"
+				}
+			],
+			"_versions": [
+				{
+					"_template": {
+						"name": "Tauren (Felsworn, {{title}})",
+						"source": "CoO",
+						"_mod": {
+							"entries": [
+								{
+									"mode": "replaceArr",
+									"replace": "Infernal Power",
+									"items": {
+										"type": "entries",
+										"name": "Infernal Power",
+										"entries": [
+											"When you reach 3rd level, choose one of the abilities listed below. You can use your chosen ability as an action, and it lasts for 1 minute or until you end it as a bonus action. Once you use this trait, you can't use it again until you finish a long rest. All damage dealt by this trait is the same as the type chosen for your Fel Resistance trait.",
+											{
+												"type": "list",
+												"items": [
+													{
+														"type": "item",
+														"name": "{{title}}",
+														"entry": "{{description}}"
+													}
+												]
+											}
+										]
+									}
+								}
+							]
+						}
+					},
+					"_implementations": [
+						{
+							"_variables": {
+								"title": "Chaos Aura",
+								 "description": "You unleash fel energy for the duration, searing everything around you---and yourself. You shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, you and each creature within 10 feet of you take damage equal to half your level (rounded up). In addition, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+							}
+						}
+					]
 				}
 			]
 		},
@@ -2565,6 +3237,125 @@
 			]
 		},
 		{
+			"name": "Felsworn, Blood Fury",
+			"source": "CoO",
+			"raceName": "Troll",
+			"raceSource": "CoA",
+			"page": 5,
+            "creatureTypes": [
+				"humanoid",
+				"fiend"
+			],
+			"ability": [
+				{
+					"choose": {
+						"from": [
+							"str",
+							"con",
+							"int",
+							"wis",
+							"cha"
+						],
+                        "count": 1
+					}
+				}
+			],
+			"resist": [
+				{
+                    "choose": {
+                        "from": [
+                            "fire",
+                            "necrotic"
+                        ]
+                    }
+                }
+			],
+            "languageProficiencies": [
+				{
+                    "common": true,
+                    "zandali": true,
+					"eredun": true
+				}
+			],
+            "overwrite": {
+				"languageProficiencies": true
+			},
+			"entries": [
+				{
+					"name": "Fel Resistance",
+					"entries": [
+						"You have resistance against your choice of fire or necrotic damage. This choice determines the damage type for your Infernal Power trait."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Additional Language",
+					"entries": [
+						"You can speak, read, and write Eredun."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Infernal Power",
+					"entries": [
+						"When you reach 3rd level, choose one of the abilities listed below. You can use your chosen ability as an action, and it lasts for 1 minute or until you end it as a bonus action. Once you use this trait, you can't use it again until you finish a long rest. All damage dealt by this trait is the same as the type chosen for your Fel Resistance trait.",
+						{
+							"type": "list",
+							"items": [
+								{
+									"type": "item",
+									"name": "Blood Fury",
+									"entry": "When you use this ability, other creatures within 10 feet of you that you can see you must each succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Strength or Charisma modifier) or become frightened of you until the end of your next turn. For the ability's duration, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+								}
+							]
+						}
+					],
+					"type": "entries"
+				}
+			],
+			"_versions": [
+				{
+					"_template": {
+						"name": "Troll (Felsworn, {{title}})",
+						"source": "CoO",
+						"_mod": {
+							"entries": [
+								{
+									"mode": "replaceArr",
+									"replace": "Infernal Power",
+									"items": {
+										"type": "entries",
+										"name": "Infernal Power",
+										"entries": [
+											"When you reach 3rd level, choose one of the abilities listed below. You can use your chosen ability as an action, and it lasts for 1 minute or until you end it as a bonus action. Once you use this trait, you can't use it again until you finish a long rest. All damage dealt by this trait is the same as the type chosen for your Fel Resistance trait.",
+											{
+												"type": "list",
+												"items": [
+													{
+														"type": "item",
+														"name": "{{title}}",
+														"entry": "{{description}}"
+													}
+												]
+											}
+										]
+									}
+								}
+							]
+						}
+					},
+					"_implementations": [
+						{
+							"_variables": {
+								"title": "Chaos Aura",
+								 "description": "You unleash fel energy for the duration, searing everything around you---and yourself. You shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, you and each creature within 10 feet of you take damage equal to half your level (rounded up). In addition, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+							}
+						}
+					]
+				}
+			]
+		},
+		{
 			"name": "Undead",
 			"source": "CoN",
 			"raceName":	"Blood Elf",
@@ -2670,6 +3461,125 @@
 			]
 		},
 		{
+			"name": "Felsworn, Blood Fury",
+			"source": "CoO",
+			"raceName": "Blood Elf",
+			"raceSource": "CoO",
+			"page": 5,
+            "creatureTypes": [
+				"humanoid",
+				"fiend"
+			],
+			"ability": [
+				{
+					"choose": {
+						"from": [
+							"str",
+							"con",
+							"int",
+							"wis",
+							"cha"
+						],
+                        "count": 1
+					}
+				}
+			],
+			"resist": [
+				{
+                    "choose": {
+                        "from": [
+                            "fire",
+                            "necrotic"
+                        ]
+                    }
+                }
+			],
+            "languageProficiencies": [
+				{
+                    "common": true,
+                    "thalassian": true,
+					"eredun": true
+				}
+			],
+            "overwrite": {
+				"languageProficiencies": true
+			},
+			"entries": [
+				{
+					"name": "Fel Resistance",
+					"entries": [
+						"You have resistance against your choice of fire or necrotic damage. This choice determines the damage type for your Infernal Power trait."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Additional Language",
+					"entries": [
+						"You can speak, read, and write Eredun."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Infernal Power",
+					"entries": [
+						"When you reach 3rd level, choose one of the abilities listed below. You can use your chosen ability as an action, and it lasts for 1 minute or until you end it as a bonus action. Once you use this trait, you can't use it again until you finish a long rest. All damage dealt by this trait is the same as the type chosen for your Fel Resistance trait.",
+						{
+							"type": "list",
+							"items": [
+								{
+									"type": "item",
+									"name": "Blood Fury",
+									"entry": "When you use this ability, other creatures within 10 feet of you that you can see you must each succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Strength or Charisma modifier) or become frightened of you until the end of your next turn. For the ability's duration, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+								}
+							]
+						}
+					],
+					"type": "entries"
+				}
+			],
+			"_versions": [
+				{
+					"_template": {
+						"name": "Blood Elf (Felsworn, {{title}})",
+						"source": "CoO",
+						"_mod": {
+							"entries": [
+								{
+									"mode": "replaceArr",
+									"replace": "Infernal Power",
+									"items": {
+										"type": "entries",
+										"name": "Infernal Power",
+										"entries": [
+											"When you reach 3rd level, choose one of the abilities listed below. You can use your chosen ability as an action, and it lasts for 1 minute or until you end it as a bonus action. Once you use this trait, you can't use it again until you finish a long rest. All damage dealt by this trait is the same as the type chosen for your Fel Resistance trait.",
+											{
+												"type": "list",
+												"items": [
+													{
+														"type": "item",
+														"name": "{{title}}",
+														"entry": "{{description}}"
+													}
+												]
+											}
+										]
+									}
+								}
+							]
+						}
+					},
+					"_implementations": [
+						{
+							"_variables": {
+								"title": "Chaos Aura",
+								 "description": "You unleash fel energy for the duration, searing everything around you---and yourself. You shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, you and each creature within 10 feet of you take damage equal to half your level (rounded up). In addition, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+							}
+						}
+					]
+				}
+			]
+		},
+		{
 			"name": "Undead",
 			"source": "CoN",
 			"raceName":	"Draenei",
@@ -2771,6 +3681,125 @@
 						"You are trained in fighting the colossal beasts and monsters of Northrend, When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can't use it again until you finish a short or long rest."
 					],
 					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Felsworn, Blood Fury",
+			"source": "CoO",
+			"raceName": "Draenei",
+			"raceSource": "CoO",
+			"page": 5,
+            "creatureTypes": [
+				"humanoid",
+				"fiend"
+			],
+			"ability": [
+				{
+					"choose": {
+						"from": [
+							"str",
+							"dex",
+							"con",
+							"int",
+							"wis"
+						],
+                        "count": 1
+					}
+				}
+			],
+			"resist": [
+				{
+                    "choose": {
+                        "from": [
+                            "fire",
+                            "necrotic"
+                        ]
+                    }
+                }
+			],
+            "languageProficiencies": [
+				{
+                    "common": true,
+                    "draenei": true,
+					"eredun": true
+				}
+			],
+            "overwrite": {
+				"languageProficiencies": true
+			},
+			"entries": [
+				{
+					"name": "Fel Resistance",
+					"entries": [
+						"You have resistance against your choice of fire or necrotic damage. This choice determines the damage type for your Infernal Power trait."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Additional Language",
+					"entries": [
+						"You can speak, read, and write Eredun."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Infernal Power",
+					"entries": [
+						"When you reach 3rd level, choose one of the abilities listed below. You can use your chosen ability as an action, and it lasts for 1 minute or until you end it as a bonus action. Once you use this trait, you can't use it again until you finish a long rest. All damage dealt by this trait is the same as the type chosen for your Fel Resistance trait.",
+						{
+							"type": "list",
+							"items": [
+								{
+									"type": "item",
+									"name": "Blood Fury",
+									"entry": "When you use this ability, other creatures within 10 feet of you that you can see you must each succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Strength or Charisma modifier) or become frightened of you until the end of your next turn. For the ability's duration, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+								}
+							]
+						}
+					],
+					"type": "entries"
+				}
+			],
+			"_versions": [
+				{
+					"_template": {
+						"name": "Draenei (Felsworn, {{title}})",
+						"source": "CoO",
+						"_mod": {
+							"entries": [
+								{
+									"mode": "replaceArr",
+									"replace": "Infernal Power",
+									"items": {
+										"type": "entries",
+										"name": "Infernal Power",
+										"entries": [
+											"When you reach 3rd level, choose one of the abilities listed below. You can use your chosen ability as an action, and it lasts for 1 minute or until you end it as a bonus action. Once you use this trait, you can't use it again until you finish a long rest. All damage dealt by this trait is the same as the type chosen for your Fel Resistance trait.",
+											{
+												"type": "list",
+												"items": [
+													{
+														"type": "item",
+														"name": "{{title}}",
+														"entry": "{{description}}"
+													}
+												]
+											}
+										]
+									}
+								}
+							]
+						}
+					},
+					"_implementations": [
+						{
+							"_variables": {
+								"title": "Chaos Aura",
+								 "description": "You unleash fel energy for the duration, searing everything around you---and yourself. You shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, you and each creature within 10 feet of you take damage equal to half your level (rounded up). In addition, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+							}
+						}
+					]
 				}
 			]
 		}
