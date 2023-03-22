@@ -731,7 +731,7 @@
 			},
 			"languageProficiencies": [
 				{
-					"orcish": true,
+					"common": true,
 					"draenei": true
 				}
 			],
@@ -785,6 +785,104 @@
 					"name": "Languages",
 					"entries": [
 						"You can speak, read, and write Common and Draenei."
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Worgen",
+			"source": "CoN",
+			"page": 4,
+			"size": [
+				"M"
+			],
+			"speed": 30,
+			"ability": [
+				{
+					"choose": {
+                        "weighted": {
+                            "from": [
+                                "str",
+                                "dex"
+                            ],
+                            "weights": [
+                                2
+                            ]
+                        }
+                    }
+				}
+			],
+			"age": {
+				"mature": 20,
+				"max": 100
+			},
+			"languageProficiencies": [
+				{
+					"common": true
+				}
+			],
+			"entries": [
+				{
+					"name": "Age",
+					"type": "entries",
+					"entries": [
+						"Worgen have the same lifespan as they did before their transformation."
+					]
+				},
+				{
+					"name": "Alignment",
+					"type": "entries",
+					"entries": [
+						"Worgen often retain their previous alignment (or close to it), though their barely-tamed feral instincts influence them towards chaos."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Size",
+					"entries": [
+						"While transformed, worgen are between 6 and 7 feet tall, average around 250 pounds, and are Medium size."
+					]
+				},
+				{
+					"name": "Speed",
+					"entries": [
+						"Your base walking speed is 30 feet. You can use Strength or Dexterity for determining how far you can jump."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Two Forms",
+					"entries": [
+						"As a bonus action, you can change between your native form and worgen form. While in worgen form, you gain several new traits, specified below."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Darkvision (Worgen Form)",
+					"entries": [
+						"While in worgen form, you can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Natural Weapons (Worgen Form)",
+					"entries": [
+						"While in worgen form, you grow deadly claws and fangs. You have a climbing speed of 20 feet. In addition, your claws and bite are natural weapons, which you can use to make unarmed strikes. You can use Strength or Dexterity for attack and damage rolls when you make a weapon attack with them, and they deal piercing or slashing damage equal to {@dice 1d4} + your ability modifier, instead of the bludgeoning damage normal for an unarmed strike."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Darkflight (Worgen Form)",
+					"entries": [
+						"While in worgen form, when you move on your turn in combat, you can double your speed until the end of the turn. Once you use this trait, you can't use it again until you move 0 feet on one of your turns."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Languages",
+					"entries": [
+						"You can speak, read, and write Common."
 					],
 					"type": "entries"
 				}
@@ -1403,28 +1501,10 @@
 			],
 			"toolProficiencies": [
 				{
-					"choose": {
-						"from": [
-							"alchemist's supplies",
-							"brewer's supplies",
-							"calligrapher's supplies",
-							"carpenter's tools",
-							"cartographer's tools",
-							"cobbler's tools",
-							"cook's utensils",
-							"glassblower's tools",
-							"jeweler's tools",
-							"leatherworker's tools",
-							"mason's tools",
-							"painter's supplies",
-							"potter's tools",
-							"smith's tools",
-							"tinker's tools",
-							"weaver's tools",
-							"woodcarver's tools",
-							"navigator's tools"
-						]
-					}
+					"anyArtisans": 1
+				},
+				{
+					"navigator's tools": true
 				}
 			],
 			"entries": [
@@ -1729,6 +1809,168 @@
 			]
 		},
 		{
+			"name": "Human",
+			"source": "CoN",
+			"raceName": "Worgen",
+			"raceSource": "CoN",
+			"page": 4,
+			"ability": [
+				{
+					"str": 2,
+					"choose": {
+						"from": [
+							"dex",
+							"con",
+							"int",
+							"wis",
+							"cha"
+						]
+					}
+				},
+				{
+					"dex": 2,
+					"choose": {
+						"from": [
+							"str",
+							"con",
+							"int",
+							"wis",
+							"cha"
+						]
+					}
+				}
+			],
+			"skillProficiencies": [
+				{
+					"any": 1
+				}
+			],
+			"toolProficiencies": [
+				{
+					"anyArtisans": 1
+				}
+			],
+			"languageProficiencies": [
+				{
+					"common": true,
+					"anyStandard": 1
+				}
+			],
+			"resist": [
+				"necrotic"
+			],
+			"overwrite": {
+				"languageProficiencies": true,
+                "ability": true
+			},
+			"entries": [
+				{
+					"name": "Tradesman",
+					"entries": [
+						"You gain proficiency in one skill and one {@filter artisan's tool|items|source=phb|miscellaneous=mundane|type=artisan's tools} of your choice."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Cursed Blood",
+					"entries": [
+						"You have advantage on saving throws against poison and disease, and you have resistance to necrotic damage. If you die, you can't be raised as an undead creature except by exceptionally powerful methods, such as necromantic spells higher than 5th level."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Viciousness",
+					"entries": [
+						"When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Extra Language",
+					"entries": [
+						"You can speak, read, and write one extra language of your choice."
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Night Elf",
+			"source": "CoN",
+			"raceName": "Worgen",
+			"raceSource": "CoN",
+			"page": 4,
+			"speed": 35,
+			"ability": [
+				{
+					"str": 2,
+					"choose": {
+						"from": [
+							"wis",
+							"cha"
+						]
+					}
+				},
+				{
+					"dex": 2,
+					"choose": {
+						"from": [
+							"wis",
+							"cha"
+						]
+					}
+				}
+			],
+			"darkvision": 60,
+			"languageProficiencies": [
+				{
+					"common": true,
+					"darnassian": true
+				}
+			],
+			"overwrite": {
+				"languageProficiencies": true,
+				"ability": true
+			},
+			"entries": [
+				{
+					"name": "Ultravision",
+					"entries": [
+						"You can see in dim light and darkness within 60 feet of you as if it were bright light. You can't discern color in darkness, only shades of gray. Ultravision is treated as darkvision for the purposes of other features and traits that refer to darkvision. While in worgen form, the range of your ultravision increases to 120 feet."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Shadowmeld",
+					"entries": [
+						"You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Quickness",
+					"entries": [
+						"Your base walking speed increases by 5 feet."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Untamed Fury",
+					"entries": [
+						"You have advantage on saving throws against being charmed, frightened, or paralyzed."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Extra Language",
+					"entries": [
+						"You can speak, read, and write Darnassian."
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
 			"name": "Undead",
 			"source": "CoA",
 			"raceName":	"Human",
@@ -1837,7 +2079,7 @@
 			]
 		},
         {
-			"name": "Felsworn, Blood Fury",
+			"name": "Felsworn",
 			"source": "CoO",
 			"raceName": "Human",
 			"raceSource": "CoA",
@@ -1927,6 +2169,11 @@
 									"type": "item",
 									"name": "Blood Fury",
 									"entry": "When you use this ability, other creatures within 10 feet of you that you can see you must each succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Strength or Charisma modifier) or become frightened of you until the end of your next turn. For the ability's duration, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+								},
+								{
+									"type": "item",
+									"name": "Chaos Aura",
+									"entry": "You unleash fel energy for the duration, searing everything around you---and yourself. You shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, you and each creature within 10 feet of you take damage equal to half your level (rounded up). In addition, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
 								}
 							]
 						}
@@ -1966,6 +2213,12 @@
 						}
 					},
 					"_implementations": [
+						{
+							"_variables": {
+								"title": "Blood Fury",
+								 "description": "When you use this ability, other creatures within 10 feet of you that you can see you must each succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Strength or Charisma modifier) or become frightened of you until the end of your next turn. For the ability's duration, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+							}
+						},
 						{
 							"_variables": {
 								"title": "Chaos Aura",
@@ -2098,7 +2351,7 @@
 			]
 		},
 		{
-			"name": "Felsworn, Blood Fury",
+			"name": "Felsworn",
 			"source": "CoO",
 			"raceName": "Dwarf",
 			"raceSource": "CoA",
@@ -2167,6 +2420,11 @@
 									"type": "item",
 									"name": "Blood Fury",
 									"entry": "When you use this ability, other creatures within 10 feet of you that you can see you must each succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Strength or Charisma modifier) or become frightened of you until the end of your next turn. For the ability's duration, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+								},
+								{
+									"type": "item",
+									"name": "Chaos Aura",
+									"entry": "You unleash fel energy for the duration, searing everything around you---and yourself. You shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, you and each creature within 10 feet of you take damage equal to half your level (rounded up). In addition, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
 								}
 							]
 						}
@@ -2206,6 +2464,12 @@
 						}
 					},
 					"_implementations": [
+						{
+							"_variables": {
+								"title": "Blood Fury",
+								 "description": "When you use this ability, other creatures within 10 feet of you that you can see you must each succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Strength or Charisma modifier) or become frightened of you until the end of your next turn. For the ability's duration, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+							}
+						},
 						{
 							"_variables": {
 								"title": "Chaos Aura",
@@ -2322,7 +2586,7 @@
 			]
 		},
 		{
-			"name": "Felsworn, Blood Fury",
+			"name": "Felsworn",
 			"source": "CoO",
 			"raceName": "Night Elf",
 			"raceSource": "CoA",
@@ -2391,6 +2655,11 @@
 									"type": "item",
 									"name": "Blood Fury",
 									"entry": "When you use this ability, other creatures within 10 feet of you that you can see you must each succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Strength or Charisma modifier) or become frightened of you until the end of your next turn. For the ability's duration, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+								},
+								{
+									"type": "item",
+									"name": "Chaos Aura",
+									"entry": "You unleash fel energy for the duration, searing everything around you---and yourself. You shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, you and each creature within 10 feet of you take damage equal to half your level (rounded up). In addition, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
 								}
 							]
 						}
@@ -2430,6 +2699,12 @@
 						}
 					},
 					"_implementations": [
+						{
+							"_variables": {
+								"title": "Blood Fury",
+								 "description": "When you use this ability, other creatures within 10 feet of you that you can see you must each succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Strength or Charisma modifier) or become frightened of you until the end of your next turn. For the ability's duration, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+							}
+						},
 						{
 							"_variables": {
 								"title": "Chaos Aura",
@@ -2546,7 +2821,7 @@
 			]
 		},
 		{
-			"name": "Felsworn, Blood Fury",
+			"name": "Felsworn",
 			"source": "CoO",
 			"raceName": "Gnome",
 			"raceSource": "CoA",
@@ -2615,6 +2890,11 @@
 									"type": "item",
 									"name": "Blood Fury",
 									"entry": "When you use this ability, other creatures within 10 feet of you that you can see you must each succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Strength or Charisma modifier) or become frightened of you until the end of your next turn. For the ability's duration, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+								},
+								{
+									"type": "item",
+									"name": "Chaos Aura",
+									"entry": "You unleash fel energy for the duration, searing everything around you---and yourself. You shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, you and each creature within 10 feet of you take damage equal to half your level (rounded up). In addition, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
 								}
 							]
 						}
@@ -2654,6 +2934,12 @@
 						}
 					},
 					"_implementations": [
+						{
+							"_variables": {
+								"title": "Blood Fury",
+								 "description": "When you use this ability, other creatures within 10 feet of you that you can see you must each succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Strength or Charisma modifier) or become frightened of you until the end of your next turn. For the ability's duration, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+							}
+						},
 						{
 							"_variables": {
 								"title": "Chaos Aura",
@@ -2770,7 +3056,7 @@
 			]
 		},
 		{
-			"name": "Felsworn, Blood Fury",
+			"name": "Felsworn",
 			"source": "CoO",
 			"raceName": "Orc",
 			"raceSource": "CoA",
@@ -2839,6 +3125,11 @@
 									"type": "item",
 									"name": "Blood Fury",
 									"entry": "When you use this ability, other creatures within 10 feet of you that you can see you must each succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Strength or Charisma modifier) or become frightened of you until the end of your next turn. For the ability's duration, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+								},
+								{
+									"type": "item",
+									"name": "Chaos Aura",
+									"entry": "You unleash fel energy for the duration, searing everything around you---and yourself. You shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, you and each creature within 10 feet of you take damage equal to half your level (rounded up). In addition, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
 								}
 							]
 						}
@@ -2878,6 +3169,12 @@
 						}
 					},
 					"_implementations": [
+						{
+							"_variables": {
+								"title": "Blood Fury",
+								 "description": "When you use this ability, other creatures within 10 feet of you that you can see you must each succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Strength or Charisma modifier) or become frightened of you until the end of your next turn. For the ability's duration, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+							}
+						},
 						{
 							"_variables": {
 								"title": "Chaos Aura",
@@ -3010,7 +3307,7 @@
 			]
 		},
 		{
-			"name": "Felsworn, Blood Fury",
+			"name": "Felsworn",
 			"source": "CoO",
 			"raceName": "Tauren",
 			"raceSource": "CoA",
@@ -3079,6 +3376,11 @@
 									"type": "item",
 									"name": "Blood Fury",
 									"entry": "When you use this ability, other creatures within 10 feet of you that you can see you must each succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Strength or Charisma modifier) or become frightened of you until the end of your next turn. For the ability's duration, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+								},
+								{
+									"type": "item",
+									"name": "Chaos Aura",
+									"entry": "You unleash fel energy for the duration, searing everything around you---and yourself. You shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, you and each creature within 10 feet of you take damage equal to half your level (rounded up). In addition, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
 								}
 							]
 						}
@@ -3118,6 +3420,12 @@
 						}
 					},
 					"_implementations": [
+						{
+							"_variables": {
+								"title": "Blood Fury",
+								 "description": "When you use this ability, other creatures within 10 feet of you that you can see you must each succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Strength or Charisma modifier) or become frightened of you until the end of your next turn. For the ability's duration, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+							}
+						},
 						{
 							"_variables": {
 								"title": "Chaos Aura",
@@ -3237,7 +3545,7 @@
 			]
 		},
 		{
-			"name": "Felsworn, Blood Fury",
+			"name": "Felsworn",
 			"source": "CoO",
 			"raceName": "Troll",
 			"raceSource": "CoA",
@@ -3306,6 +3614,11 @@
 									"type": "item",
 									"name": "Blood Fury",
 									"entry": "When you use this ability, other creatures within 10 feet of you that you can see you must each succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Strength or Charisma modifier) or become frightened of you until the end of your next turn. For the ability's duration, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+								},
+								{
+									"type": "item",
+									"name": "Chaos Aura",
+									"entry": "You unleash fel energy for the duration, searing everything around you---and yourself. You shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, you and each creature within 10 feet of you take damage equal to half your level (rounded up). In addition, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
 								}
 							]
 						}
@@ -3345,6 +3658,12 @@
 						}
 					},
 					"_implementations": [
+						{
+							"_variables": {
+								"title": "Blood Fury",
+								 "description": "When you use this ability, other creatures within 10 feet of you that you can see you must each succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Strength or Charisma modifier) or become frightened of you until the end of your next turn. For the ability's duration, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+							}
+						},
 						{
 							"_variables": {
 								"title": "Chaos Aura",
@@ -3461,7 +3780,7 @@
 			]
 		},
 		{
-			"name": "Felsworn, Blood Fury",
+			"name": "Felsworn",
 			"source": "CoO",
 			"raceName": "Blood Elf",
 			"raceSource": "CoO",
@@ -3530,6 +3849,11 @@
 									"type": "item",
 									"name": "Blood Fury",
 									"entry": "When you use this ability, other creatures within 10 feet of you that you can see you must each succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Strength or Charisma modifier) or become frightened of you until the end of your next turn. For the ability's duration, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+								},
+								{
+									"type": "item",
+									"name": "Chaos Aura",
+									"entry": "You unleash fel energy for the duration, searing everything around you---and yourself. You shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, you and each creature within 10 feet of you take damage equal to half your level (rounded up). In addition, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
 								}
 							]
 						}
@@ -3569,6 +3893,12 @@
 						}
 					},
 					"_implementations": [
+						{
+							"_variables": {
+								"title": "Blood Fury",
+								 "description": "When you use this ability, other creatures within 10 feet of you that you can see you must each succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Strength or Charisma modifier) or become frightened of you until the end of your next turn. For the ability's duration, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+							}
+						},
 						{
 							"_variables": {
 								"title": "Chaos Aura",
@@ -3685,7 +4015,7 @@
 			]
 		},
 		{
-			"name": "Felsworn, Blood Fury",
+			"name": "Felsworn",
 			"source": "CoO",
 			"raceName": "Draenei",
 			"raceSource": "CoO",
@@ -3709,6 +4039,7 @@
 				}
 			],
 			"resist": [
+				"necrotic",
 				{
                     "choose": {
                         "from": [
@@ -3754,6 +4085,11 @@
 									"type": "item",
 									"name": "Blood Fury",
 									"entry": "When you use this ability, other creatures within 10 feet of you that you can see you must each succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Strength or Charisma modifier) or become frightened of you until the end of your next turn. For the ability's duration, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+								},
+								{
+									"type": "item",
+									"name": "Chaos Aura",
+									"entry": "You unleash fel energy for the duration, searing everything around you---and yourself. You shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, you and each creature within 10 feet of you take damage equal to half your level (rounded up). In addition, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
 								}
 							]
 						}
@@ -3793,6 +4129,260 @@
 						}
 					},
 					"_implementations": [
+						{
+							"_variables": {
+								"title": "Blood Fury",
+								 "description": "When you use this ability, other creatures within 10 feet of you that you can see you must each succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Strength or Charisma modifier) or become frightened of you until the end of your next turn. For the ability's duration, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+							}
+						},
+						{
+							"_variables": {
+								"title": "Chaos Aura",
+								 "description": "You unleash fel energy for the duration, searing everything around you---and yourself. You shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, you and each creature within 10 feet of you take damage equal to half your level (rounded up). In addition, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Undead",
+			"source": "CoN",
+			"raceName":	"Worgen",
+			"raceSource": "CoN",
+			"page": 5,
+			"creatureTypes": [
+				"humanoid",
+				"undead"
+			],
+			"ability": [
+				{
+					"con": 1
+				}
+			],
+			"darkvision": 60,
+			"traitTags": [
+				"Improved Resting"
+			],
+			"resist": [
+				"poison"
+			],
+			"entries": [
+				{
+					"name": "Extended Age",
+					"entries": [
+						"You remain at the age you originally died, sustained by the dark magic that raised you. If uncared for, however, your corpse will wither and decay over time."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Darkvision",
+					"entries": [
+						"You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Undead Nature",
+					"entries": [
+						"Your type is both humanoid and undead, meaning you are affected by any features or abilities that affect either of those types. For example, you can be targeted by {@spell hold person} or detected by the spell {@spell detect evil and good}. You also gain the following benefits:",
+						{
+							"type": "list",
+							"items": [
+								"You have advantage on saving throws against disease and being {@condition poisoned}, and you have resistance to poison damage.",
+								"You have advantage on death saving throws.",
+								"You don't need to eat, drink, or breathe.",
+								"You don't need to sleep, and magic can't put you to sleep. You can finish a long rest in 4 hours if you spend those hours in an inactive, motionless state, during which you retain consciousness."
+							]
+						}
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Frostborn",
+			"source": "CoN",
+			"raceName": "Worgen",
+			"raceSource": "CoN",
+			"page": 3,
+			"ability": [
+				{
+					"con": 1
+				}
+			],
+			"skillProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"athletics",
+							"nature",
+							"perception",
+							"survival"
+						]
+					}
+				}
+			],
+			"resist": [
+				"cold"
+			],
+			"entries": [
+				{
+					"name": "Winter Lore",
+					"entries": [
+						"You gain proficiency with one of the following skills of your choice: {@skill Athletics}, {@skill Nature}, {@skill Perception}, and {@skill Survival}."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Tundra Walker",
+					"entries": [
+						"You have resistance to cold damage, and are naturally adapted to cold climates, as described in chapter 5 of the Dungeon Master's Guide. In addition, moving through {@quickref difficult terrain||3} related to ice, snow, or extreme cold costs you no extra movement."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Big Game Hunter",
+					"entries": [
+						"You are trained in fighting the colossal beasts and monsters of Northrend, When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can't use it again until you finish a short or long rest."
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Felsworn",
+			"source": "CoO",
+			"raceName": "Worgen",
+			"raceSource": "CoN",
+			"page": 5,
+            "creatureTypes": [
+				"humanoid",
+				"fiend"
+			],
+			"ability": [
+				{
+					"str": 2,
+					"choose": {
+						"from": [
+							"dex",
+							"con",
+							"int",
+							"wis",
+							"cha"
+						]
+					}
+				},
+				{
+					"dex": 2,
+					"choose": {
+						"from": [
+							"str",
+							"con",
+							"int",
+							"wis",
+							"cha"
+						]
+					}
+				}
+			],
+			"resist": [
+				"necrotic",
+				{
+                    "choose": {
+                        "from": [
+                            "fire",
+                            "necrotic"
+                        ]
+                    }
+                }
+			],
+            "languageProficiencies": [
+				{
+                    "common": true,
+					"eredun": true
+				}
+			],
+            "overwrite": {
+				"languageProficiencies": true,
+				"ability": true
+			},
+			"entries": [
+				{
+					"name": "Fel Resistance",
+					"entries": [
+						"You have resistance against your choice of fire or necrotic damage. This choice determines the damage type for your Infernal Power trait."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Additional Language",
+					"entries": [
+						"You can speak, read, and write Eredun."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Infernal Power",
+					"entries": [
+						"When you reach 3rd level, choose one of the abilities listed below. You can use your chosen ability as an action, and it lasts for 1 minute or until you end it as a bonus action. Once you use this trait, you can't use it again until you finish a long rest. All damage dealt by this trait is the same as the type chosen for your Fel Resistance trait.",
+						{
+							"type": "list",
+							"items": [
+								{
+									"type": "item",
+									"name": "Blood Fury",
+									"entry": "When you use this ability, other creatures within 10 feet of you that you can see you must each succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Strength or Charisma modifier) or become frightened of you until the end of your next turn. For the ability's duration, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+								},
+								{
+									"type": "item",
+									"name": "Chaos Aura",
+									"entry": "You unleash fel energy for the duration, searing everything around you---and yourself. You shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, you and each creature within 10 feet of you take damage equal to half your level (rounded up). In addition, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+								}
+							]
+						}
+					],
+					"type": "entries"
+				}
+			],
+			"_versions": [
+				{
+					"_template": {
+						"name": "Worgen (Felsworn, {{title}})",
+						"source": "CoO",
+						"_mod": {
+							"entries": [
+								{
+									"mode": "replaceArr",
+									"replace": "Infernal Power",
+									"items": {
+										"type": "entries",
+										"name": "Infernal Power",
+										"entries": [
+											"When you reach 3rd level, choose one of the abilities listed below. You can use your chosen ability as an action, and it lasts for 1 minute or until you end it as a bonus action. Once you use this trait, you can't use it again until you finish a long rest. All damage dealt by this trait is the same as the type chosen for your Fel Resistance trait.",
+											{
+												"type": "list",
+												"items": [
+													{
+														"type": "item",
+														"name": "{{title}}",
+														"entry": "{{description}}"
+													}
+												]
+											}
+										]
+									}
+								}
+							]
+						}
+					},
+					"_implementations": [
+						{
+							"_variables": {
+								"title": "Blood Fury",
+								 "description": "When you use this ability, other creatures within 10 feet of you that you can see you must each succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Strength or Charisma modifier) or become frightened of you until the end of your next turn. For the ability's duration, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+							}
+						},
 						{
 							"_variables": {
 								"title": "Chaos Aura",
