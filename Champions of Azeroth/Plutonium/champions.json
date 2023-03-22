@@ -1,0 +1,2778 @@
+{
+	"$schema": "https://raw.githubusercontent.com/TheGiddyLimit/5etools-utils/master/schema/brew-fast/homebrew.json",
+	"_meta": {
+		"sources": [
+			{
+				"json": "CoA",
+				"abbreviation": "Azeroth",
+				"full": "Champions of Azeroth",
+				"authors": [
+					"Silverblade"
+				],
+				"convertedBy": [
+					"Auvreannia"
+				],
+				"version": "1.0",
+				"url": "https://drive.google.com/file/d/1iEgdrwyGwAA7b7TW353_CzjhoQP-gYAF/view",
+				"dateReleased": "2021-05-30",
+				"targetSchema": "1.0.0"
+			},
+			{
+				"json": "CoO",
+				"abbreviation": "Outland",
+				"full": "Champions of Outland",
+				"authors": [
+					"Silverblade"
+				],
+				"convertedBy": [
+					"Auvreannia"
+				],
+				"version": "1.0",
+				"url": "https://drive.google.com/file/d/17l_iMr1UNJ8tzK1SRomU3xzMgzdBC9IG/view",
+				"dateReleased": "2021-06-02",
+				"targetSchema": "1.0.0"
+			},
+			{
+				"json": "CoN",
+				"abbreviation": "Northrend",
+				"full": "Champions of Northrend",
+				"authors": [
+					"Silverblade"
+				],
+				"convertedBy": [
+					"Auvreannia"
+				],
+				"version": "1.0",
+				"url": "https://drive.google.com/file/d/1ltdlu9oR0giZHfzMLUYWVfxq79tB7StI/view",
+				"dateReleased": "2021-06-21",
+				"targetSchema": "1.0.0"
+			},
+			{
+				"json": "CoP",
+				"abbreviation": "Pandaria",
+				"full": "Champions of Pandaria",
+				"authors": [
+					"Silverblade"
+				],
+				"convertedBy": [
+					"Auvreannia"
+				],
+				"version": "1.0",
+				"url": "https://drive.google.com/file/d/1mvF5hnsBPDmzzjgBEdJH49fu7fKYicUV/view",
+				"dateReleased": "2022-02-12",
+				"targetSchema": "1.0.0"
+			},
+			{
+				"json": "CoJ",
+				"abbreviation": "Juju",
+				"full": "Champions of Juju",
+				"authors": [
+					"Auvreannia"
+				],
+				"convertedBy": [
+					"Auvreannia"
+				],
+				"version": "1.0",
+				"url": "https://drive.google.com/file/d/1KfhP9un7Q7K30EHjzfJaiYyJrScrcjsN/view",
+				"dateReleased": "2023-03-01",
+				"targetSchema": "1.0.0"
+			}
+		],
+		"dateAdded": 0,
+		"dateLastModified": 0,
+		"status": "wip"
+	},
+	"race": [
+		{
+			"name": "Human",
+			"source": "CoA",
+			"page": 4,
+			"size": [
+				"M"
+			],
+			"speed": 30,
+			"ability": [
+				{
+					"choose": {
+						"from": [
+							"str",
+							"dex",
+							"con",
+							"int",
+							"wis",
+							"cha"
+						],
+						"count": 3
+					}
+				}
+			],
+			"age": {
+				"mature": 20,
+				"max": 100
+			},
+			"languageProficiencies": [
+				{
+					"common": true,
+					"anyStandard": 1
+				}
+			],
+			"entries": [
+				{
+					"name": "Age",
+					"type": "entries",
+					"entries": [
+						"Humans reach adulthood in their late teens and live less than a century."
+					]
+				},
+				{
+					"name": "Alignment",
+					"type": "entries",
+					"entries": [
+						"Humans tend toward no particular alignment. The best and the worst are found among them."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Size",
+					"entries": [
+						"Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium."
+					]
+				},
+				{
+					"name": "Speed",
+					"entries": [
+						"Your base walking speed is 30 feet."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Human Spirit",
+					"entries": [
+						"When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Languages",
+					"entries": [
+						"You can speak, read, and write Common and one extra language of your choice."
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Dwarf",
+			"source": "CoA",
+			"page": 5,
+			"size": [
+				"M"
+			],
+			"speed": 25,
+			"ability": [
+				{
+					"con": 2
+				}
+			],
+			"age": {
+				"mature": 40,
+				"max": 450
+			},
+			"darkvision": 60,
+			"languageProficiencies": [
+				{
+					"common": true,
+					"dwarvish": true
+				}
+			],
+			"entries": [
+				{
+					"name": "Age",
+					"type": "entries",
+					"entries": [
+						"Dwarves mature at the same rate as humans, but they're considered young until they reach the age of 40. On average, they live for about 450 years."
+					]
+				},
+				{
+					"name": "Alignment",
+					"type": "entries",
+					"entries": [
+						"Most dwarves are lawful, believing firmly in the benefits of a well-ordered society. They tend toward good as well, with a strong sense of fair play and a belief that everyone deserves to share in the benefits of a just order."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Size",
+					"entries": [
+						"Dwarves stand between 4 and 5 feet tall and average about 180 pounds. Your size is Medium."
+					]
+				},
+				{
+					"name": "Speed",
+					"entries": [
+						"Your base walking speed is 25 feet. Your speed is not reduced by wearing heavy armor."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Darkvision",
+					"entries": [
+						"You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Earthen Ancestry",
+					"entries": [
+						"You have advantage on saving throws against transmutation magic, as well as spells or effects that would alter your form."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Stonecunning",
+					"entries": [
+						"Whenever you make an Intelligence ({@skill History}) check related to the origin of stonework, you are considered proficient in the {@skill History} skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Languages",
+					"entries": [
+						"You can speak, read, and write Common and Dwarvish."
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Night Elf",
+			"source": "CoA",
+			"page": 6,
+			"size": [
+				"M"
+			],
+			"speed": 30,
+			"ability": [
+				{
+					"dex": 2
+				}
+			],
+			"age": {
+				"mature": 200,
+				"max": 20000
+			},
+			"darkvision": 60,
+			"languageProficiencies": [
+				{
+					"common": true,
+					"darnassian": true
+				}
+			],
+			"entries": [
+				{
+					"name": "Age",
+					"type": "entries",
+					"entries": [
+						"Night elves mature at the same rate as humans, but they're considered young until their second or third centuries of life. Many night elves have been alive since before the Sundering, and the true length of their now-mortal lifespan is not yet known (though it is likely several thousand years, similar to their elf kin)."
+					]
+				},
+				{
+					"name": "Alignment",
+					"type": "entries",
+					"entries": [
+						"Night elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. As protectors of the natural world, with all its untamed beauty and primal cruelty, night elves tend towards neutrality over good and evil."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Size",
+					"entries": [
+						"Night elves are between 7 and 8 feet tall and weigh between 200 and 250 pounds on average. Your size is Medium."
+					]
+				},
+				{
+					"name": "Speed",
+					"entries": [
+						"Your base walking speed is 30 feet."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Ultravision",
+					"entries": [
+						"Night elves are blessed by the moon goddess Elune, and can see as well in darkness as in daylight. You can see in dim light and darkness within 60 feet of you as if it were bright light. You can't discern color in darkness, only shades of gray. Ultravision is treated as darkvision for the purposes of other features and traits that refer to darkvision."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Shadowmeld",
+					"entries": [
+						"You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Languages",
+					"entries": [
+						"You can speak, read, and write Common and Darnassian."
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Gnome",
+			"source": "CoA",
+			"page": 7,
+			"size": [
+				"S"
+			],
+			"speed": 25,
+			"ability": [
+				{
+					"int": 2
+				}
+			],
+			"age": {
+				"mature": 40,
+				"max": 500
+			},
+			"languageProficiencies": [
+				{
+					"common": true,
+					"gnomish": true
+				}
+			],
+			"entries": [
+				{
+					"name": "Age",
+					"type": "entries",
+					"entries": [
+						"Gnomes mature at the same rate humans do, and most are expected to settle down into an adult life by around age 40. They can live 350 to almost 500 years."
+					]
+				},
+				{
+					"name": "Alignment",
+					"type": "entries",
+					"entries": [
+						"Gnomes are most often good. Those who lend toward law are sages, engineers, researchers, scholars, investigators, or inventors. Those who tend toward chaos are minstrels, tricksters, wanderers, or fanciful jewelers. Gnomes are good-hearted, and even the tricksters among them are more playful than vicious."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Size",
+					"entries": [
+						"Gnomes are between 3 and 4 feet tall and average about 40 pounds. Your size is Small."
+					]
+				},
+				{
+					"name": "Speed",
+					"entries": [
+						"Your base walking speed is 25 feet."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Gnome Cunning",
+					"entries": [
+						"You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Engineer's Lore",
+					"entries": [
+						"Whenever you make an Intelligence ({@skill History}) check related to magic items, alchemical objects, or technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Languages",
+					"entries": [
+						"You can speak, read, and write Common and Gnomish."
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Orc",
+			"source": "CoA",
+			"page": 8,
+			"size": [
+				"M"
+			],
+			"speed": 30,
+			"ability": [
+				{
+					"str": 2
+				}
+			],
+			"age": {
+				"mature": 20,
+				"max": 100
+			},
+			"languageProficiencies": [
+				{
+					"orcish": true,
+					"anyStandard": 1
+				}
+			],
+			"entries": [
+				{
+					"name": "Age",
+					"type": "entries",
+					"entries": [
+						"Orcs reach adulthood in their late teens and live less than a century."
+					]
+				},
+				{
+					"name": "Alignment",
+					"type": "entries",
+					"entries": [
+						"Orcs believe in honor and strength above all, and tend towards the more violent sides of chaos. Free from demonic corruption, orcs do not favor good or evil in general."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Size",
+					"entries": [
+						"Orcs are usually over 6 feet tall and weigh between 250 and 300 pounds on average. Your size is Medium."
+					]
+				},
+				{
+					"name": "Speed",
+					"entries": [
+						"Your base walking speed is 30 feet."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Hardiness",
+					"entries": [
+						"Whenever you would gain levels of exhaustion, you can reduce the number of levels gained by one. After you use this trait, you can't use it again until you finish a long rest."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Relentless Endurance",
+					"entries": [
+						"When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can't use this feature again until you finish a long rest."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Languages",
+					"entries": [
+						"You can speak, read, and write Orcish and one extra language of your choice."
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Tauren",
+			"source": "CoA",
+			"page": 10,
+			"size": [
+				"M"
+			],
+			"speed": 30,
+			"ability": [
+				{
+					"con": 2
+				}
+			],
+			"age": {
+				"mature": 50,
+				"max": 150
+			},
+			"traitTags": [
+				"Powerful Build",
+				"Natural Weapon"
+			],
+			"languageProficiencies": [
+				{
+					"orcish": true,
+					"taur-ahe": true
+				}
+			],
+			"entries": [
+				{
+					"name": "Age",
+					"type": "entries",
+					"entries": [
+						"Tauren are mature by their mid teens, but they're considered young until they reach the age of 50. They can live up to 150 years."
+					]
+				},
+				{
+					"name": "Alignment",
+					"type": "entries",
+					"entries": [
+						"As people who follow the rhythm of nature and work to preserve its balance, tauren are often neutral good."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Size",
+					"entries": [
+						"Tauren are between 9 and 10 feet tall and weigh between 350 and 400 pounds on average. Your size is Medium."
+					]
+				},
+				{
+					"name": "Speed",
+					"entries": [
+						"Your base walking speed is 30 feet."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Brawn",
+					"entries": [
+						"You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Horns",
+					"entries": [
+						"Your horns are natural weapons, which you can use to make unarmed strikes. They deal piercing damage equal to {@dice 1d6} + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Hammering Horns",
+					"entries": [
+						"Immediately after you hit a creature with a melee attack as part of the Attack action on your turn, you can use a bonus action to attempt to shove that target with your horns. The target must be no more than one size larger than you and within 5 feet of you. Unless it succeeds on a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Strength or Constitution modifier (your choice), you push it up to 10 feet away from you."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Languages",
+					"entries": [
+						"You can speak, read, and write Orcish and one extra language of your choice."
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Troll",
+			"source": "CoA",
+			"page": 11,
+			"reprintedAs": [
+				"Troll|CoJ"
+			],
+			"size": [
+				"M"
+			],
+			"speed": 30,
+			"ability": [
+				{
+					"dex": 2
+				}
+			],
+			"age": {
+				"mature": 15,
+				"max": 80
+			},
+			"darkvision": 60,
+			"languageProficiencies": [
+				{
+					"orcish": true,
+					"zandali": true
+				}
+			],
+			"entries": [
+				{
+					"name": "Age",
+					"type": "entries",
+					"entries": [
+						"Trolls reach adulthood in their mid teens and live up to 80 years."
+					]
+				},
+				{
+					"name": "Alignment",
+					"type": "entries",
+					"entries": [
+						"Trolls are loyal to their tribes but are also fiercely independent, and continue to embrace their dark traditions. They tend towards non-good alignments."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Size",
+					"entries": [
+						"Trolls stand between 8' and 9' tall when upright, and weigh around 200 pounds on average. Your size is Medium."
+					]
+				},
+				{
+					"name": "Speed",
+					"entries": [
+						"Your base walking speed is 30 feet."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Darkvision",
+					"entries": [
+						"You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Regeneration",
+					"entries": [
+						"As a bonus action on your turn, you can spend one Hit Die to heal yourself. Roll the die, add your Constitution modifier, and regain a number of hit points equal to the total (minimum of 1).",
+						"You are also able to naturally heal from grievous wounds, even regenerating lost limbs and organs. You heal such injuries after one full week of remaining above 1 hit point."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Languages",
+					"entries": [
+						"You can speak, read, and write Orcish and Zandali."
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Blood Elf",
+			"source": "CoO",
+			"page": 3,
+			"size": [
+				"M"
+			],
+			"speed": 30,
+			"ability": [
+				{
+					"dex": 2
+				}
+			],
+			"age": {
+				"mature": 20,
+				"max": 20000
+			},
+			"darkvision": 60,
+			"languageProficiencies": [
+				{
+					"orcish": true,
+					"thalassian": true
+				}
+			],
+			"entries": [
+				{
+					"name": "Age",
+					"type": "entries",
+					"entries": [
+						"Blood elves mature at the same rate as humans, but can live up to several thousand years."
+					]
+				},
+				{
+					"name": "Alignment",
+					"type": "entries",
+					"entries": [
+						"Blood elves are fiercely loyal to their heritage and traditions, but have a strong individualistic streak. They favor neither law nor chaos. Though they can be insular and dismissive of other races, blood elves are rarely evil."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Size",
+					"entries": [
+						"Male blood elves stand 6 feet tall on average, and weigh around 160 pounds. Female blood elves stand 5 and a half feet tall on average, and weigh around 100 pounds. Your size is Medium."
+					]
+				},
+				{
+					"name": "Speed",
+					"entries": [
+						"Your base walking speed is 30 feet."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Darkvision",
+					"entries": [
+						"You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Elven Cunning",
+					"entries": [
+						"You have advantage on ability checks and saving throws made to resist the effects of enchantment and illusion magic."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Languages",
+					"entries": [
+						"You can speak, read, and write Orcish and Thalassian."
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Draenei",
+			"source": "CoO",
+			"page": 4,
+			"size": [
+				"M"
+			],
+			"speed": 30,
+			"ability": [
+				{
+					"cha": 2
+				}
+			],
+			"age": {
+				"mature": 30,
+				"max": 10000
+			},
+			"languageProficiencies": [
+				{
+					"orcish": true,
+					"draenei": true
+				}
+			],
+			"resist": [
+				"necrotic"
+			],
+			"entries": [
+				{
+					"name": "Age",
+					"type": "entries",
+					"entries": [
+						"Draenei mature slightly slower than humans, reaching adulthood in their second or third decade of life. Draenei can live for over ten thousand years, though the dangers of their hunted existence have cut many draenei lifespans short."
+					]
+				},
+				{
+					"name": "Alignment",
+					"type": "entries",
+					"entries": [
+						"As sworn enemies of the forces of chaos and devoted followers of the Light, draenei tend to be lawful good."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Size",
+					"entries": [
+						"Draenei stand over 7 feet tall. Male draenei weigh an average of 300 pounds, while the more slender female draenei weigh an average of 230 pounds. Your size is Medium."
+					]
+				},
+				{
+					"name": "Speed",
+					"entries": [
+						"Your base walking speed is 30 feet."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Shadow Resistance",
+					"entries": [
+						"You have resistance against necrotic damage."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Heroic Presence",
+					"entries": [
+						"You have advantage on saving throws against being frightened, as do allies within 10 feet that can see you."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Languages",
+					"entries": [
+						"You can speak, read, and write Common and Draenei."
+					],
+					"type": "entries"
+				}
+			]
+		}
+	],
+	"subrace": [
+		{
+			"name": "Stormwind",
+			"source": "CoA",
+			"raceName": "Human",
+			"raceSource": "CoA",
+			"page": 4,
+			"ability": [
+				{
+					"cha": 1
+				}
+			],
+			"skillProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"deception",
+							"history",
+							"insight",
+							"intimidation",
+							"persuasion"
+						],
+						"count": 2
+					}
+				}
+			],
+			"languageProficiencies": [
+				{
+					"common": true,
+					"anyStandard": 2
+				}
+			],
+			"toolProficiencies": [
+				{
+					"any": 1
+				}
+			],
+			"entries": [
+				{
+					"name": "Industrious",
+					"entries": [
+						"You gain proficiency with one tool profiency of your choice."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Diplomacy",
+					"entries": [
+						"You gain proficiency with two of the following skills of your choice: {@skill Deception}, {@skill History}, {@skill Insight}, {@skill Intimidation}, and {@skill Persuasion}. You can also speak, read, and write one extra language of your choice."
+					],
+					"type": "entries"
+				}
+			],
+			"overwrite": {
+				"languageProficiencies": true
+			}
+		},
+		{
+            "name": "Dalaran",
+            "source": "CoN",
+            "raceName": "Human",
+            "raceSource": "CoA",
+            "page": 3,
+            "ability": [
+                {
+                    "int": 1
+                }
+            ],
+            "skillProficiencies": [
+                {
+                    "choose": {
+                        "from": [
+                            "arcana",
+                            "history",
+                            "nature",
+                            "religion"
+                        ]
+                    }
+                }
+            ],
+            "additionalSpells": [
+                {
+                    "ability": "int",
+                    "known": {
+                        "1": [
+                            "prestidigitation#c"
+                        ]
+                    },
+                    "innate": {
+                        "_": {
+                            "daily": {
+                                "1": [
+                                    {
+                                        "choose": "level=1|class=Wizard|components & miscellaneous=ritual",
+                                        "count": 2
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            ],
+            "entries": [
+                {
+                    "name": "Learned",
+                    "entries": [
+                        "You gain proficiency in one of the following skills of your choice: Arcana, History, Nature, and Religion."
+                    ],
+                    "type": "entries"
+                },
+                {
+                    "name": "Elementary Spellcasting",
+                    "entries": [
+                        "You know the {@spell prestidigitation} cantrip. You also choose two 1st-level mage spells with the ritual tag. You can cast these spells as rituals, or using any spell slots you have. Intelligence is your spellcasting ability for these spells."
+                    ],
+                    "type": "entries"
+                }
+            ]
+        },
+		{
+			"name": "Bronzebeard",
+			"source": "CoA",
+			"raceName": "Dwarf",
+			"raceSource": "CoA",
+			"page": 5,
+			"ability": [
+				{
+					"choose": {
+						"from": [
+							"str",
+							"wis"
+						]
+					}
+					
+				}
+			],
+			"toolProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"smith's tools",
+							"mason's tools"
+						]
+					}
+				}
+			],
+			"resist": [
+				"cold"
+			],
+			"entries": [
+				{
+					"name": "Frost Resistance",
+					"entries": [
+						"You have resistance to cold damage, and are naturally adapted to cold climates, as described in chapter 5 of the Dungeon Master's Guide."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Tool Proficiency",
+					"entries": [
+						"You gain proficiency with the artisan's tools of your choice: {@item smith's tools|phb} or {@item mason's tools|phb}."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Stoneform",
+					"entries": [
+						"You can channel your Earthen heritage to temporarily harden your skin and shrug off injury. When you take damage, you can use your reaction to gain resistance to bludgeoning, piercing, and slashing damage until the beginning of your next turn. After you use this trait, you can't use it again until you finish a long rest."
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Darnassus",
+			"source": "CoA",
+			"raceName": "Night Elf",
+			"raceSource": "CoA",
+			"page": 6,
+			"speed": 35,
+			"ability": [
+				{
+					"choose": {
+						"from": [
+							"wis",
+							"cha"
+						]
+					}
+					
+				}
+			],
+			"skillProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"animal handling",
+							"nature",
+							"perception",
+							"stealth",
+							"survival"
+						]
+					}
+				}
+			],
+			"resist": [
+				"poison"
+			],
+			"entries": [
+				{
+					"name": "Quickness",
+					"entries": [
+						"Your base walking speed increases by 5 feet."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Nature Resistance",
+					"entries": [
+						"You have advantage on saving throws against poison, and you have resistance against poison damage."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Natural Affinity",
+					"entries": [
+						"You gain proficiency with one of the following skills of your choice: {@skill Animal Handling}, {@skill Nature}, {@skill Perception}, {@skill Stealth}, and {@skill Survival}."
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Gnomeregan",
+			"source": "CoA",
+			"raceName": "Gnome",
+			"raceSource": "CoA",
+			"page": 7,
+			"ability": [
+				{
+					"choose": {
+						"from": [
+							"dex",
+							"cha"
+						]
+					}
+					
+				}
+			],
+			"toolProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"alchemist's supplies",
+							"tinker's tools"
+						]
+					}
+				}
+			],
+			"entries": [
+				{
+					"name": "Tool Proficiency",
+					"entries": [
+						"You gain proficiency with the artisan's tools of your choice: {@item alchemist's supplies} or {@item tinker's tools}."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Escape Artist",
+					"entries": [
+						"You can take the {@action Disengage} action as a bonus action on each of your turns. You also have advantage on rolls made to avoid being grappled or restrained, or to escape from those conditions."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Expansive Mind",
+					"entries": [
+						"You can add half your proficiency bonus, rounded down, to any Intelligence check you make that doesn't already include your proficiency bonus."
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Durotar",
+			"source": "CoA",
+			"raceName": "Orc",
+			"raceSource": "CoA",
+			"page": 8,
+			"ability": [
+				{
+					"choose": {
+						"from": [
+							"con",
+							"wis"
+						]
+					}
+				}
+			],
+			"skillProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"animal handling",
+							"athletics",
+							"intimidation",
+							"survival"
+						]
+					}
+				}
+			],
+			"entries": [
+				{
+					"name": "Blood Fury",
+					"entries": [
+						"Starting at 3rd level, you can use your action to give into your bloodlust. When you do so, other creatures within 10 feet of you that you can see you must each succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Strength or Charisma modifier) or become frightened of you until the end of your next turn. Your transformation lasts for 1 minute or until you end it as a bonus action. During it, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level. Once you use this trait, you can't use it again until you finish a long rest."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Rugged Survivalist",
+					"entries": [
+						"You gain proficiency with one of the following skills of your choice: {@skill Animal Handling}, {@skill Athletics}, {@skill Intimidation}, and {@skill Survival}."
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Mulgore",
+			"source": "CoA",
+			"raceName": "Tauren",
+			"raceSource": "CoA",
+			"page": 10,
+			"ability": [
+				{
+					"choose": {
+						"from": [
+							"str",
+							"wis"
+						]
+					}
+				}
+			],
+			"toolProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"leatherworker's tools",
+							"herbalism kit"
+						]
+					}
+				}
+			],
+			"additionalSpells": [
+				{
+					"innate": {
+						"1": {
+							"daily": {
+								"1": [
+									"earth tremor|xge"
+								]
+							}
+						}
+					},
+					"ability": {
+						"choose": [
+							"str",
+							"con"
+						]
+					}
+				}
+			],
+			"entries": [
+				{
+					"name": "Tool Proficiency",
+					"entries": [
+						"You gain proficiency with the artisan's tools of your choice: {@item leatherworker's tools|phb} or the {@item herbalism kit|phb}."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Endurance",
+					"entries": [
+						"Your hit point maximum increases by 1, and it increases by 1 every time you gain a level."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "War Stomp",
+					"entries": [
+						"You can cast {@spell earth tremor|xge} once, and regain the ability to do so when you finish a long rest. Strength or Constitution is your spellcasting ability for this spell. When you cast {@spell earth tremor|xge} with this feature, you add your level to its damage roll. You can also cast this spell using any spells slots you have."
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Jungle",
+			"source": "CoA",
+			"raceName": "Troll",
+			"raceSource": "CoA",
+			"page": 11,
+			"reprintedAs": [
+				"Jungle|CoJ"
+			],
+			"ability": [
+				{
+					"choose": {
+						"from": [
+							"wis",
+							"cha"
+						]
+					}
+				}
+			],
+			"speed": 35,
+			"skillProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"nature",
+							"perception",
+							"stealth",
+							"survival"
+						]
+					}
+				}
+			],
+			"entries": [
+				{
+					"name": "Da Voodoo Shuffle",
+					"entries": [
+						"Your base walking speed increases by 5 feet, and moving through nonmagical {@quickref difficult terrain||3} costs you no extra movement."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Headhunter",
+					"entries": [
+						"You gain proficiency with one of the following skills of your choice: {@skill Nature}, {@skill Perception}, {@skill Stealth}, and {@skill Survival}."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Savage Attacks",
+					"entries": [
+						"When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit."
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Forest",
+			"source": "CoJ",
+			"raceName": "Troll",
+			"raceSource": "CoA",
+			"page": 5,
+			"ability": [
+				{
+					"choose": {
+						"from": [
+							"str",
+							"wis"
+						]
+					}
+				}
+			],
+			"speed": {
+				"walk": 30,
+				"climb": true
+			},
+			"traitTags": [
+				"Natural Armor"
+			],
+			"entries": [
+				{
+					"name": "Aggressive",
+					"entries": [
+						"As a bonus action, you can move up to your speed toward an enemy of your choice that you can see or hear. You must end this move closer to the enemy than you started."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Moss Skin",
+					"entries": [
+						"When you aren't wearing armor you gain the following benefits:",
+						{
+							"type": "list",
+							"items": [
+								"Your AC equals 13 + your Dexterity modifier.",
+								"You have advantage on Dexterity(Stealth) checks made to hide within forests and you can attempt to hide in such environments even if only lightly obscured."
+							]
+						}
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Natural Climber",
+					"entries": [
+						"You have a climbing speed equal to your walking speed."
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Sand",
+			"source": "CoJ",
+			"raceName": "Troll",
+			"raceSource": "CoA",
+			"page": 6,
+			"ability": [
+				{
+					"choose": {
+						"from": [
+							"con",
+							"cha"
+						]
+					}
+				}
+			],
+			"skillProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"athletics",
+							"medicine",
+							"nature",
+							"survival"
+						]
+					}
+				}
+			],
+			"additionalSpells": [
+				{
+					"innate": {
+						"3": {
+							"daily": {
+								"1": [
+									"false life"
+								]
+							}
+						},
+						"5": {
+							"daily": {
+								"1": [
+									{
+										"choose": {
+											"from": [
+												"animate dead",
+												"speak with dead"
+											]
+										}
+									}
+								]
+							}
+						}
+					},
+					"ability": "con",
+					"known": {
+						"1": [
+							"spare the dying#c"
+						]
+					}
+				}
+			],
+			"entries": [
+				{
+					"name": "Blood Magic",
+					"entries": [
+						"You know the {@spell spare the dying} cantrip. Starting at 3rd level, you can cast the {@spell false life} spell with this trait, without requiring a material component. When you reach 5th level, choose either the {@spell animate dead} spell or the {@spell speak with dead} spell. You can cast that spell with this trait, without requiring a material component, but you must however consume the target's blood while casting it. Once you cast {@spell false life}, {@spell animate dead} or {@spell speak with dead} with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast any spell learned through this trait using any spell slots you have of the appropriate level, requiring material components as per normal."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Desert Wanderer",
+					"entries": [
+						"You are naturally adapted to hot climates. While traveling within desert environments, you ignore {@quickref difficult terrain||3}, never become lost, and the DC for foraging is always 10. See chapter 5 of the Dungeon Master's Guide for more information."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Harsh Survivalist",
+					"entries": [
+						"You gain proficiency with one of the following skills of your choice: {@skill Athletics}, {@skill Medicine}, {@skill Nature}, and {@skill Survival}."
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Zandalari",
+			"source": "CoJ",
+			"raceName": "Troll",
+			"raceSource": "CoA",
+			"page": 5,
+			"ability": [
+				{
+					"choose": {
+						"from": [
+							"str",
+							"int"
+						]
+					}
+				}
+			],
+			"traitTags": [
+				"Powerful Build"
+			],
+			"toolProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"alchemist's supplies",
+							"brewer's supplies",
+							"calligrapher's supplies",
+							"carpenter's tools",
+							"cartographer's tools",
+							"cobbler's tools",
+							"cook's utensils",
+							"glassblower's tools",
+							"jeweler's tools",
+							"leatherworker's tools",
+							"mason's tools",
+							"painter's supplies",
+							"potter's tools",
+							"smith's tools",
+							"tinker's tools",
+							"weaver's tools",
+							"woodcarver's tools",
+							"navigator's tools"
+						]
+					}
+				}
+			],
+			"entries": [
+				{
+					"name": "Embrace of the Loa",
+					"entries": [
+						"You can add a {@dice d4} to one attack roll, ability check, or saving throw you make, and you can do so after seeing the {@dice d20} roll but before the effects of the roll are resolved. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "People of the Land and the Sea",
+					"entries": [
+						"You are proficient with one {@filter artisan's tool|items|source=phb|miscellaneous=mundane|type=artisan's tools} of your choice, or {@item navigator's tools}."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Powerful Build",
+					"entries": [
+						"You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift."
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Silvermoon",
+			"source": "CoO",
+			"raceName": "Blood Elf",
+			"raceSource": "CoO",
+			"page": 3,
+			"ability": [
+				{
+					"choose": {
+						"from": [
+							"int",
+							"cha"
+						]
+					}
+				}
+			],
+			"skillProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"arcana",
+							"history",
+							"nature",
+							"religion"
+						]
+					}
+				}
+			],
+			"additionalSpells": [
+                {
+                    "ability": "int",
+                    "known": {
+                        "1": {
+							"_": [
+								{
+									"choose": "level=0|class=Wizard"
+								}
+							]
+						}
+                    },
+                    "innate": {
+						"1": {
+							"daily": {
+								"1": [
+									"detect magic"
+								]
+							}
+						}
+					}
+                }
+            ],
+			"resist": [
+				"force"
+			],
+			"entries": [
+				{
+					"name": "Arcane Resistance",
+					"entries": [
+						"You have resistance against force damage."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Learned",
+					"entries": [
+						"You gain proficiency in one of the following skills of your choice: {@skill Arcana}, {@skill History}, {@skill Nature}, and {@skill Religion}."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Arcane Affinity",
+					"entries": [
+						"You know one cantrip of your choice from the mage spell list. You can also cast the {@spell detect magic} spell once with this trait, and regain the ability to do so when you finish a short or long rest. You can also cast these spells using any spells slots you have. Intelligence is your spellcasting ability for these spells."
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Wretched",
+			"source": "CoO",
+			"raceName": "Blood Elf",
+			"raceSource": "CoO",
+			"page": 4,
+			"ability": [
+				{
+					"choose": {
+						"from": [
+							"str",
+							"con"
+						]
+					}
+				}
+			],
+			"entries": [
+				{
+					"name": "Aggressive",
+					"entries": [
+						"As a bonus action, you can move up to your speed toward an enemy of your choice that you can see or hear. You must end this move closer to the enemy than you started."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Smell Magic",
+					"entries": [
+						"As an action, you can make an Intelligence ({@skill Investigation}) or Wisdom ({@skill Perception}) check to determine if a person or object within 30 feet bears magic. The DC of this check is 15, though the DM may decide that it's lower for especially powerful or obvious sources of magic, or higher for weak or concealed sources of magic."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Mana Eater",
+					"entries": [
+						"Before you make a saving throw against a spell, you can choose to give yourself advantage. If you succeed, the next time you damage a creature with an attack or spell, you can cause the attack or spell to deal extra force damage to the creature equal to your level. You must deal this extra damage before the end of your next turn. In addition, if you succeed on the saving throw, you absorb enough of the spell's mana to serve as a full day's sustenance.",
+						"Once you use this trait, you can't use it again until you finish a short or long rest."
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Exodar",
+			"source": "CoO",
+			"raceName": "Draenei",
+			"raceSource": "CoO",
+			"page": 4,
+			"ability": [
+				{
+					"choose": {
+						"from": [
+							"str",
+							"int"
+						]
+					}
+				}
+			],
+			"toolProficiencies": [
+				{
+					"anyArtisans": 1
+				}
+			],
+			"expertise": [
+				{
+					"anyProficientTool": 1
+				}
+			],
+			"additionalSpells": [
+				{
+					"innate": {
+						"3": {
+							"daily": {
+								"1": [
+									"bless"
+								]
+							}
+						},
+						"5": {
+							"daily": {
+								"1": [
+									"lesser restoration"
+								]
+							}
+						}
+					},
+					"ability": "cha",
+					"known": {
+						"1": [
+							"light#c"
+						]
+					}
+				}
+			],
+			"entries": [
+				{
+					"name": "Gift of the Naaru",
+					"entries": [
+						"As an action, you can touch a creature and cause it to regain a number of hit points equal to your level. Once you use this trait, you can't use it again until you finish a long rest."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Immortal Artisan",
+					"entries": [
+						"You gain proficiency in one set of {@filter artisan's tools|items|source=phb|miscellaneous=mundane|type=artisan's tools} of your choice. Your proficiency bonus is doubled for any ability check you make using this proficiency."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Light-Blessed",
+					"entries": [
+						"You know the {@spell light} cantrip. When you reach 3rd level, you can cast the {@spell bless} spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the {@spell lesser restoration} spell once with this trait and regain the ability to do so when you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level. Charisma is your spellcasting ability for these spells."
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Broken",
+			"source": "CoO",
+			"raceName": "Draenei",
+			"raceSource": "CoO",
+			"page": 5,
+			"ability": [
+				{
+					"choose": {
+						"from": [
+							"con",
+							"wis"
+						]
+					}
+				}
+			],
+			"skillProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"nature",
+							"perception",
+							"stealth",
+							"survival"
+						]
+					}
+				}
+			],
+			"additionalSpells": [
+					{
+					"innate": {
+						"3": {
+							"daily": {
+								"1": [
+									"absorb elements|xge"
+								]
+							}
+						},
+						"5": {
+							"daily": {
+								"1": [
+									"protection from poison"
+								]
+							}
+						}
+					},
+                    "ability": "wis",
+                    "known": {
+                        "1": {
+							"_": [
+								{
+									"choose": "level=0|class=Sorcerer"
+								}
+							]
+						}
+                    }
+                }
+            ],
+			"entries": [
+				{
+					"name": "Cunning Artisan",
+					"entries": [
+						"As part of a short rest, you can harvest bone and hide from a slain beast, construct, dragon, monstrosity, or plant creature of size Small or larger to create one of the following items: a shield, a club, a javelin, or {@dice 1d4} darts or blowgun needles. To use this trait, you need a b lade, such as a dagger, or appropriate {@filter artisan's tools|items|source=phb|miscellaneous=mundane|type=artisan's tools}, such as the {@item leatherworker's tools}."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Survivor",
+					"entries": [
+						"You gain proficiency with one of the following skills of your choice: {@skill Nature}, {@skill Perception}, {@skill Stealth}, and {@skill Survival}."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Shamanism",
+					"entries": [
+						"You know one cantrip of your choice from the {@filter shaman spell list|spells|class=sorcerer|level=0}. When you reach 3rd level, you can cast the {@spell absorb elements|xge} spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the {@spell protection from poison} spell once with this trait and regain the ability to do so when you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level. Wisdom is your spellcasting ability for these spells."
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Undead",
+			"source": "CoA",
+			"raceName":	"Human",
+			"raceSource": "CoA",
+			"page": 9,
+			"reprintedAs": [
+				"Undead|CoN"
+			],
+			"creatureTypes": [
+				"humanoid",
+				"undead"
+			],
+			"ability": [
+				{
+					"con": 1
+				}
+			],
+			"darkvision": 60,
+			"traitTags": [
+				"Improved Resting"
+			],
+			"resist": [
+				"poison"
+			],
+			"entries": [
+				{
+					"name": "Extended Age",
+					"entries": [
+						"You remain at the age you originally died, sustained by the dark magic that raised you. If uncared for, however, your corpse will wither and decay over time."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Darkvision",
+					"entries": [
+						"You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Undead Nature",
+					"entries": [
+						"Your type is both humanoid and undead, meaning you are affected by any features or abilities that affect either of those types. For example, you can be targeted by {@spell hold person} or detected by the spell {@spell detect evil and good}. You also gain the following benefits:",
+						{
+							"type": "list",
+							"items": [
+								"You have advantage on saving throws against disease and being {@condition poisoned}, and you have resistance to poison damage.",
+								"You have advantage on death saving throws.",
+								"You don't need to eat, drink, or breathe.",
+								"You don't need to sleep, and magic can't put you to sleep. You can finish a long rest in 4 hours if you spend those hours in an inactive, motionless state, during which you retain consciousness."
+							]
+						}
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Frostborn",
+			"source": "CoN",
+			"raceName": "Human",
+			"raceSource": "CoA",
+			"page": 3,
+			"ability": [
+				{
+					"con": 1
+				}
+			],
+			"skillProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"athletics",
+							"nature",
+							"perception",
+							"survival"
+						]
+					}
+				}
+			],
+			"resist": [
+				"cold"
+			],
+			"entries": [
+				{
+					"name": "Winter Lore",
+					"entries": [
+						"You gain proficiency with one of the following skills of your choice: {@skill Athletics}, {@skill Nature}, {@skill Perception}, and {@skill Survival}."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Tundra Walker",
+					"entries": [
+						"You have resistance to cold damage, and are naturally adapted to cold climates, as described in chapter 5 of the Dungeon Master's Guide. In addition, moving through {@quickref difficult terrain||3} related to ice, snow, or extreme cold costs you no extra movement."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Big Game Hunter",
+					"entries": [
+						"You are trained in fighting the colossal beasts and monsters of Northrend, When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can't use it again until you finish a short or long rest."
+					],
+					"type": "entries"
+				}
+			]
+		},
+        {
+			"name": "Felsworn",
+			"source": "CoO",
+			"raceName": "Human",
+			"raceSource": "CoA",
+			"page": 5,
+            "creatureTypes": [
+				"humanoid",
+				"fiend"
+			],
+			"ability": [
+				{
+					"choose": {
+						"from": [
+							"str",
+							"dex",
+							"con",
+							"int",
+							"wis",
+							"cha"
+						]
+					}
+				}
+			],
+			"resist": [
+				{
+                    "choose": {
+                        "from": [
+                            "fire",
+                            "necrotic"
+                        ]
+                    }
+                }
+			],
+            "languageProficiencies": [
+				{
+					"eredun": true
+				}
+			],
+			"entries": [
+				{
+					"name": "Demonic Nature",
+					"entries": [
+						"You gain proficiency with one of the following skills of your choice: {@skill Athletics}, {@skill Nature}, {@skill Perception}, and {@skill Survival}."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Tundra Walker",
+					"entries": [
+						"You have resistance to cold damage, and are naturally adapted to cold climates, as described in chapter 5 of the Dungeon Master's Guide. In addition, moving through {@quickref difficult terrain||3} related to ice, snow, or extreme cold costs you no extra movement."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Big Game Hunter",
+					"entries": [
+						"You are trained in fighting the colossal beasts and monsters of Northrend, When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can't use it again until you finish a short or long rest."
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Undead",
+			"source": "CoN",
+			"raceName":	"Dwarf",
+			"raceSource": "CoA",
+			"page": 5,
+			"creatureTypes": [
+				"humanoid",
+				"undead"
+			],
+			"ability": [
+				{
+					"choose": {
+						"from": [
+							"str",
+							"dex",
+							"int",
+							"wis",
+							"cha"
+						]
+					}
+				}
+			],
+			"darkvision": 90,
+			"traitTags": [
+				"Improved Resting"
+			],
+			"resist": [
+				"poison"
+			],
+			"entries": [
+				{
+					"name": "Extended Age",
+					"entries": [
+						"You remain at the age you originally died, sustained by the dark magic that raised you. If uncared for, however, your corpse will wither and decay over time."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Improved Darkvision",
+					"entries": [
+						"Your darkvision is increased by 30 feet."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Undead Nature",
+					"entries": [
+						"Your type is both humanoid and undead, meaning you are affected by any features or abilities that affect either of those types. For example, you can be targeted by {@spell hold person} or detected by the spell {@spell detect evil and good}. You also gain the following benefits:",
+						{
+							"type": "list",
+							"items": [
+								"You have advantage on saving throws against disease and being {@condition poisoned}, and you have resistance to poison damage.",
+								"You have advantage on death saving throws.",
+								"You don't need to eat, drink, or breathe.",
+								"You don't need to sleep, and magic can't put you to sleep. You can finish a long rest in 4 hours if you spend those hours in an inactive, motionless state, during which you retain consciousness."
+							]
+						}
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Frostborn",
+			"source": "CoN",
+			"raceName": "Dwarf",
+			"raceSource": "CoA",
+			"page": 3,
+			"ability": [
+				{
+					"choose": {
+						"from": [
+							"str",
+							"dex",
+							"int",
+							"wis",
+							"cha"
+						]
+					}
+				}
+			],
+			"skillProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"athletics",
+							"nature",
+							"perception",
+							"survival"
+						]
+					}
+				}
+			],
+			"resist": [
+				"cold"
+			],
+			"entries": [
+				{
+					"name": "Winter Lore",
+					"entries": [
+						"You gain proficiency with one of the following skills of your choice: {@skill Athletics}, {@skill Nature}, {@skill Perception}, and {@skill Survival}."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Tundra Walker",
+					"entries": [
+						"You have resistance to cold damage, and are naturally adapted to cold climates, as described in chapter 5 of the Dungeon Master's Guide. In addition, moving through {@quickref difficult terrain||3} related to ice, snow, or extreme cold costs you no extra movement."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Big Game Hunter",
+					"entries": [
+						"You are trained in fighting the colossal beasts and monsters of Northrend, When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can't use it again until you finish a short or long rest."
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Undead",
+			"source": "CoN",
+			"raceName":	"Night Elf",
+			"raceSource": "CoA",
+			"page": 5,
+			"creatureTypes": [
+				"humanoid",
+				"undead"
+			],
+			"ability": [
+				{
+					"con": 1
+				}
+			],
+			"darkvision": 90,
+			"traitTags": [
+				"Improved Resting"
+			],
+			"resist": [
+				"poison"
+			],
+			"entries": [
+				{
+					"name": "Extended Age",
+					"entries": [
+						"You remain at the age you originally died, sustained by the dark magic that raised you. If uncared for, however, your corpse will wither and decay over time."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Improved Darkvision",
+					"entries": [
+						"Your darkvision is increased by 30 feet."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Undead Nature",
+					"entries": [
+						"Your type is both humanoid and undead, meaning you are affected by any features or abilities that affect either of those types. For example, you can be targeted by {@spell hold person} or detected by the spell {@spell detect evil and good}. You also gain the following benefits:",
+						{
+							"type": "list",
+							"items": [
+								"You have advantage on saving throws against disease and being {@condition poisoned}, and you have resistance to poison damage.",
+								"You have advantage on death saving throws.",
+								"You don't need to eat, drink, or breathe.",
+								"You don't need to sleep, and magic can't put you to sleep. You can finish a long rest in 4 hours if you spend those hours in an inactive, motionless state, during which you retain consciousness."
+							]
+						}
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Frostborn",
+			"source": "CoN",
+			"raceName": "Night Elf",
+			"raceSource": "CoA",
+			"page": 3,
+			"ability": [
+				{
+					"con": 1
+				}
+			],
+			"skillProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"athletics",
+							"nature",
+							"perception",
+							"survival"
+						]
+					}
+				}
+			],
+			"resist": [
+				"cold"
+			],
+			"entries": [
+				{
+					"name": "Winter Lore",
+					"entries": [
+						"You gain proficiency with one of the following skills of your choice: {@skill Athletics}, {@skill Nature}, {@skill Perception}, and {@skill Survival}."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Tundra Walker",
+					"entries": [
+						"You have resistance to cold damage, and are naturally adapted to cold climates, as described in chapter 5 of the Dungeon Master's Guide. In addition, moving through {@quickref difficult terrain||3} related to ice, snow, or extreme cold costs you no extra movement."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Big Game Hunter",
+					"entries": [
+						"You are trained in fighting the colossal beasts and monsters of Northrend, When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can't use it again until you finish a short or long rest."
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Undead",
+			"source": "CoN",
+			"raceName":	"Gnome",
+			"raceSource": "CoA",
+			"page": 5,
+			"creatureTypes": [
+				"humanoid",
+				"undead"
+			],
+			"ability": [
+				{
+					"con": 1
+				}
+			],
+			"darkvision": 60,
+			"traitTags": [
+				"Improved Resting"
+			],
+			"resist": [
+				"poison"
+			],
+			"entries": [
+				{
+					"name": "Extended Age",
+					"entries": [
+						"You remain at the age you originally died, sustained by the dark magic that raised you. If uncared for, however, your corpse will wither and decay over time."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Darkvision",
+					"entries": [
+						"You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Undead Nature",
+					"entries": [
+						"Your type is both humanoid and undead, meaning you are affected by any features or abilities that affect either of those types. For example, you can be targeted by {@spell hold person} or detected by the spell {@spell detect evil and good}. You also gain the following benefits:",
+						{
+							"type": "list",
+							"items": [
+								"You have advantage on saving throws against disease and being {@condition poisoned}, and you have resistance to poison damage.",
+								"You have advantage on death saving throws.",
+								"You don't need to eat, drink, or breathe.",
+								"You don't need to sleep, and magic can't put you to sleep. You can finish a long rest in 4 hours if you spend those hours in an inactive, motionless state, during which you retain consciousness."
+							]
+						}
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Frostborn",
+			"source": "CoN",
+			"raceName": "Gnome",
+			"raceSource": "CoA",
+			"page": 3,
+			"ability": [
+				{
+					"con": 1
+				}
+			],
+			"skillProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"athletics",
+							"nature",
+							"perception",
+							"survival"
+						]
+					}
+				}
+			],
+			"resist": [
+				"cold"
+			],
+			"entries": [
+				{
+					"name": "Winter Lore",
+					"entries": [
+						"You gain proficiency with one of the following skills of your choice: {@skill Athletics}, {@skill Nature}, {@skill Perception}, and {@skill Survival}."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Tundra Walker",
+					"entries": [
+						"You have resistance to cold damage, and are naturally adapted to cold climates, as described in chapter 5 of the Dungeon Master's Guide. In addition, moving through {@quickref difficult terrain||3} related to ice, snow, or extreme cold costs you no extra movement."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Big Game Hunter",
+					"entries": [
+						"You are trained in fighting the colossal beasts and monsters of Northrend, When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can't use it again until you finish a short or long rest."
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Undead",
+			"source": "CoN",
+			"raceName":	"Orc",
+			"raceSource": "CoA",
+			"page": 5,
+			"creatureTypes": [
+				"humanoid",
+				"undead"
+			],
+			"ability": [
+				{
+					"con": 1
+				}
+			],
+			"darkvision": 60,
+			"traitTags": [
+				"Improved Resting"
+			],
+			"resist": [
+				"poison"
+			],
+			"entries": [
+				{
+					"name": "Extended Age",
+					"entries": [
+						"You remain at the age you originally died, sustained by the dark magic that raised you. If uncared for, however, your corpse will wither and decay over time."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Darkvision",
+					"entries": [
+						"You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Undead Nature",
+					"entries": [
+						"Your type is both humanoid and undead, meaning you are affected by any features or abilities that affect either of those types. For example, you can be targeted by {@spell hold person} or detected by the spell {@spell detect evil and good}. You also gain the following benefits:",
+						{
+							"type": "list",
+							"items": [
+								"You have advantage on saving throws against disease and being {@condition poisoned}, and you have resistance to poison damage.",
+								"You have advantage on death saving throws.",
+								"You don't need to eat, drink, or breathe.",
+								"You don't need to sleep, and magic can't put you to sleep. You can finish a long rest in 4 hours if you spend those hours in an inactive, motionless state, during which you retain consciousness."
+							]
+						}
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Frostborn",
+			"source": "CoN",
+			"raceName": "Orc",
+			"raceSource": "CoA",
+			"page": 3,
+			"ability": [
+				{
+					"con": 1
+				}
+			],
+			"skillProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"athletics",
+							"nature",
+							"perception",
+							"survival"
+						]
+					}
+				}
+			],
+			"resist": [
+				"cold"
+			],
+			"entries": [
+				{
+					"name": "Winter Lore",
+					"entries": [
+						"You gain proficiency with one of the following skills of your choice: {@skill Athletics}, {@skill Nature}, {@skill Perception}, and {@skill Survival}."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Tundra Walker",
+					"entries": [
+						"You have resistance to cold damage, and are naturally adapted to cold climates, as described in chapter 5 of the Dungeon Master's Guide. In addition, moving through {@quickref difficult terrain||3} related to ice, snow, or extreme cold costs you no extra movement."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Big Game Hunter",
+					"entries": [
+						"You are trained in fighting the colossal beasts and monsters of Northrend, When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can't use it again until you finish a short or long rest."
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Undead",
+			"source": "CoN",
+			"raceName":	"Tauren",
+			"raceSource": "CoA",
+			"page": 5,
+			"creatureTypes": [
+				"humanoid",
+				"undead"
+			],
+			"ability": [
+				{
+					"choose": {
+						"from": [
+							"str",
+							"dex",
+							"int",
+							"wis",
+							"cha"
+						]
+					}
+				}
+			],
+			"darkvision": 60,
+			"traitTags": [
+				"Improved Resting"
+			],
+			"resist": [
+				"poison"
+			],
+			"entries": [
+				{
+					"name": "Extended Age",
+					"entries": [
+						"You remain at the age you originally died, sustained by the dark magic that raised you. If uncared for, however, your corpse will wither and decay over time."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Darkvision",
+					"entries": [
+						"You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Undead Nature",
+					"entries": [
+						"Your type is both humanoid and undead, meaning you are affected by any features or abilities that affect either of those types. For example, you can be targeted by {@spell hold person} or detected by the spell {@spell detect evil and good}. You also gain the following benefits:",
+						{
+							"type": "list",
+							"items": [
+								"You have advantage on saving throws against disease and being {@condition poisoned}, and you have resistance to poison damage.",
+								"You have advantage on death saving throws.",
+								"You don't need to eat, drink, or breathe.",
+								"You don't need to sleep, and magic can't put you to sleep. You can finish a long rest in 4 hours if you spend those hours in an inactive, motionless state, during which you retain consciousness."
+							]
+						}
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Frostborn",
+			"source": "CoN",
+			"raceName": "Human",
+			"raceSource": "CoA",
+			"page": 3,
+			"ability": [
+				{
+					"choose": {
+						"from": [
+							"str",
+							"dex",
+							"int",
+							"wis",
+							"cha"
+						]
+					}
+				}
+			],
+			"skillProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"athletics",
+							"nature",
+							"perception",
+							"survival"
+						]
+					}
+				}
+			],
+			"resist": [
+				"cold"
+			],
+			"entries": [
+				{
+					"name": "Winter Lore",
+					"entries": [
+						"You gain proficiency with one of the following skills of your choice: {@skill Athletics}, {@skill Nature}, {@skill Perception}, and {@skill Survival}."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Tundra Walker",
+					"entries": [
+						"You have resistance to cold damage, and are naturally adapted to cold climates, as described in chapter 5 of the Dungeon Master's Guide. In addition, moving through {@quickref difficult terrain||3} related to ice, snow, or extreme cold costs you no extra movement."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Big Game Hunter",
+					"entries": [
+						"You are trained in fighting the colossal beasts and monsters of Northrend, When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can't use it again until you finish a short or long rest."
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Undead",
+			"source": "CoN",
+			"raceName":	"Troll",
+			"raceSource": "CoA",
+			"page": 5,
+			"creatureTypes": [
+				"humanoid",
+				"undead"
+			],
+			"ability": [
+				{
+					"con": 1
+				}
+			],
+			"darkvision": 90,
+			"traitTags": [
+				"Improved Resting"
+			],
+			"resist": [
+				"poison"
+			],
+			"entries": [
+				{
+					"name": "Extended Age",
+					"entries": [
+						"You remain at the age you originally died, sustained by the dark magic that raised you. If uncared for, however, your corpse will wither and decay over time."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Improved Darkvision",
+					"entries": [
+						"Your darkvision is increased by 30 feet."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Undead Nature",
+					"entries": [
+						"Your type is both humanoid and undead, meaning you are affected by any features or abilities that affect either of those types. For example, you can be targeted by {@spell hold person} or detected by the spell {@spell detect evil and good}. You also gain the following benefits:",
+						{
+							"type": "list",
+							"items": [
+								"You have advantage on saving throws against disease and being {@condition poisoned}, and you have resistance to poison damage.",
+								"You have advantage on death saving throws.",
+								"You don't need to eat, drink, or breathe.",
+								"You don't need to sleep, and magic can't put you to sleep. You can finish a long rest in 4 hours if you spend those hours in an inactive, motionless state, during which you retain consciousness."
+							]
+						}
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Frostborn",
+			"source": "CoN",
+			"raceName": "Troll",
+			"raceSource": "CoA",
+			"page": 3,
+			"reprintedAs": [
+				"Ice|CoJ"
+			],
+			"ability": [
+				{
+					"con": 1
+				}
+			],
+			"skillProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"athletics",
+							"nature",
+							"perception",
+							"survival"
+						]
+					}
+				}
+			],
+			"resist": [
+				"cold"
+			],
+			"entries": [
+				{
+					"name": "Winter Lore",
+					"entries": [
+						"You gain proficiency with one of the following skills of your choice: {@skill Athletics}, {@skill Nature}, {@skill Perception}, and {@skill Survival}."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Tundra Walker",
+					"entries": [
+						"You have resistance to cold damage, and are naturally adapted to cold climates, as described in chapter 5 of the Dungeon Master's Guide. In addition, moving through {@quickref difficult terrain||3} related to ice, snow, or extreme cold costs you no extra movement."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Big Game Hunter",
+					"entries": [
+						"You are trained in fighting the colossal beasts and monsters of Northrend, When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can't use it again until you finish a short or long rest."
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Undead",
+			"source": "CoN",
+			"raceName":	"Blood Elf",
+			"raceSource": "CoO",
+			"page": 5,
+			"creatureTypes": [
+				"humanoid",
+				"undead"
+			],
+			"ability": [
+				{
+					"con": 1
+				}
+			],
+			"darkvision": 90,
+			"traitTags": [
+				"Improved Resting"
+			],
+			"resist": [
+				"poison"
+			],
+			"entries": [
+				{
+					"name": "Extended Age",
+					"entries": [
+						"You remain at the age you originally died, sustained by the dark magic that raised you. If uncared for, however, your corpse will wither and decay over time."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Improved Darkvision",
+					"entries": [
+						"Your darkvision is increased by 30 feet."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Undead Nature",
+					"entries": [
+						"Your type is both humanoid and undead, meaning you are affected by any features or abilities that affect either of those types. For example, you can be targeted by {@spell hold person} or detected by the spell {@spell detect evil and good}. You also gain the following benefits:",
+						{
+							"type": "list",
+							"items": [
+								"You have advantage on saving throws against disease and being {@condition poisoned}, and you have resistance to poison damage.",
+								"You have advantage on death saving throws.",
+								"You don't need to eat, drink, or breathe.",
+								"You don't need to sleep, and magic can't put you to sleep. You can finish a long rest in 4 hours if you spend those hours in an inactive, motionless state, during which you retain consciousness."
+							]
+						}
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Frostborn",
+			"source": "CoN",
+			"raceName": "Blood Elf",
+			"raceSource": "CoO",
+			"page": 3,
+			"ability": [
+				{
+					"con": 1
+				}
+			],
+			"skillProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"athletics",
+							"nature",
+							"perception",
+							"survival"
+						]
+					}
+				}
+			],
+			"resist": [
+				"cold"
+			],
+			"entries": [
+				{
+					"name": "Winter Lore",
+					"entries": [
+						"You gain proficiency with one of the following skills of your choice: {@skill Athletics}, {@skill Nature}, {@skill Perception}, and {@skill Survival}."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Tundra Walker",
+					"entries": [
+						"You have resistance to cold damage, and are naturally adapted to cold climates, as described in chapter 5 of the Dungeon Master's Guide. In addition, moving through {@quickref difficult terrain||3} related to ice, snow, or extreme cold costs you no extra movement."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Big Game Hunter",
+					"entries": [
+						"You are trained in fighting the colossal beasts and monsters of Northrend, When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can't use it again until you finish a short or long rest."
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Undead",
+			"source": "CoN",
+			"raceName":	"Draenei",
+			"raceSource": "CoO",
+			"page": 5,
+			"creatureTypes": [
+				"humanoid",
+				"undead"
+			],
+			"ability": [
+				{
+					"con": 1
+				}
+			],
+			"darkvision": 60,
+			"traitTags": [
+				"Improved Resting"
+			],
+			"resist": [
+				"poison"
+			],
+			"entries": [
+				{
+					"name": "Extended Age",
+					"entries": [
+						"You remain at the age you originally died, sustained by the dark magic that raised you. If uncared for, however, your corpse will wither and decay over time."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Darkvision",
+					"entries": [
+						"You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Undead Nature",
+					"entries": [
+						"Your type is both humanoid and undead, meaning you are affected by any features or abilities that affect either of those types. For example, you can be targeted by {@spell hold person} or detected by the spell {@spell detect evil and good}. You also gain the following benefits:",
+						{
+							"type": "list",
+							"items": [
+								"You have advantage on saving throws against disease and being {@condition poisoned}, and you have resistance to poison damage.",
+								"You have advantage on death saving throws.",
+								"You don't need to eat, drink, or breathe.",
+								"You don't need to sleep, and magic can't put you to sleep. You can finish a long rest in 4 hours if you spend those hours in an inactive, motionless state, during which you retain consciousness."
+							]
+						}
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Frostborn",
+			"source": "CoN",
+			"raceName": "Draenei",
+			"raceSource": "CoO",
+			"page": 3,
+			"ability": [
+				{
+					"con": 1
+				}
+			],
+			"skillProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"athletics",
+							"nature",
+							"perception",
+							"survival"
+						]
+					}
+				}
+			],
+			"resist": [
+				"cold"
+			],
+			"entries": [
+				{
+					"name": "Winter Lore",
+					"entries": [
+						"You gain proficiency with one of the following skills of your choice: {@skill Athletics}, {@skill Nature}, {@skill Perception}, and {@skill Survival}."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Tundra Walker",
+					"entries": [
+						"You have resistance to cold damage, and are naturally adapted to cold climates, as described in chapter 5 of the Dungeon Master's Guide. In addition, moving through {@quickref difficult terrain||3} related to ice, snow, or extreme cold costs you no extra movement."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Big Game Hunter",
+					"entries": [
+						"You are trained in fighting the colossal beasts and monsters of Northrend, When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can't use it again until you finish a short or long rest."
+					],
+					"type": "entries"
+				}
+			]
+		}
+	]
+}
