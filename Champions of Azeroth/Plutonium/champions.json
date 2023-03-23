@@ -887,6 +887,149 @@
 					"type": "entries"
 				}
 			]
+		},
+		{
+			"name": "Pandaren",
+			"source": "CoP",
+			"page": 3,
+			"size": [
+				"M"
+			],
+			"speed": 30,
+			"ability": [
+				{
+					"wis": 2
+				}
+			],
+			"age": {
+				"mature": 20,
+				"max": 100
+			},
+			"languageProficiencies": [
+				{
+					"pandaren": true,
+					"anyStandard": 1
+				}
+			],
+			"entries": [
+				{
+					"name": "Age",
+					"type": "entries",
+					"entries": [
+						"Pandaren reach adulthood in their second decade and can live for over a century."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Size",
+					"entries": [
+						"Pandaren tend to grow to between 6 and 7 feet tall and weigh between 300 and 400 pounds on average. Your size is Medium."
+					]
+				},
+				{
+					"name": "Speed",
+					"entries": [
+						"Your base walking speed is 30 feet."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Inner Peace",
+					"entries": [
+						"You have advantage on Wisdom saving throws."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Bouncy",
+					"entries": [
+						"When you would take falling damage, you halve the distance you fell for the sake of calculating the damage rolled."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Keen Smell and Taste",
+					"entries": [
+						"You have advantage on Wisdom (Perception) checks that rely on smell or taste."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Languages",
+					"entries": [
+						"You can speak, read, and write Pandaren and one extra language of your choice."
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Goblin",
+			"source": "CoP",
+			"page": 4,
+			"size": [
+				"S"
+			],
+			"speed": 25,
+			"ability": [
+				{
+					"dex": 2
+				}
+			],
+			"age": {
+				"mature": 20,
+				"max": 100
+			},
+			"languageProficiencies": [
+				{
+					"orcish": true,
+					"goblin": true
+				}
+			],
+			"entries": [
+				{
+					"name": "Age",
+					"type": "entries",
+					"entries": [
+						"Goblins reach adulthood in their second decade and can live for just under a century---though they seldom do, for obvious reasons."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Size",
+					"entries": [
+						"Goblins grow to an average of 4 feet tall and weigh around 50 pounds on average. Your size is Small."
+					]
+				},
+				{
+					"name": "Speed",
+					"entries": [
+						"Your base walking speed is 25 feet."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Time is Money",
+					"entries": [
+						"You can take the Dash action as a bonus action on each of your turns."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Saving Face",
+					"entries": [
+						"If you miss with an attack roll or fail an ability check or a saving throw, you can gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum bonus of +5). Once you use this trait, you can't use it again until you finish a short or long rest."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Languages",
+					"entries": [
+						"You can speak, read, and write Orcish and Goblin."
+					],
+					"type": "entries"
+				}
+			]
 		}
 	],
 	"subrace": [
@@ -979,14 +1122,12 @@
                     },
                     "innate": {
                         "_": {
-                            "daily": {
-                                "1": [
-                                    {
-                                        "choose": "level=1|class=Wizard|components & miscellaneous=ritual",
-                                        "count": 2
-                                    }
-                                ]
-                            }
+                            "ritual": [
+								{
+									"choose": "level=1|class=Wizard|components & miscellaneous=ritual",
+									"count": 2
+								}
+							]
                         }
                     }
                 }
@@ -1901,6 +2042,10 @@
 			"raceSource": "CoN",
 			"page": 4,
 			"speed": 35,
+			"age": {
+				"mature": 20,
+				"max": 20000
+			},
 			"ability": [
 				{
 					"str": 2,
@@ -1930,7 +2075,8 @@
 			],
 			"overwrite": {
 				"languageProficiencies": true,
-				"ability": true
+				"ability": true,
+				"age": true
 			},
 			"entries": [
 				{
@@ -1965,6 +2111,274 @@
 					"name": "Extra Language",
 					"entries": [
 						"You can speak, read, and write Darnassian."
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Wandering Isle",
+			"source": "CoP",
+			"raceName": "Pandaren",
+			"raceSource": "CoP",
+			"page": 3,
+			"ability": [
+				{
+					"choose": {
+						"from": [
+							"dex",
+							"cha"
+						]
+					}
+				}
+			],
+			"toolProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"brewer's supplies",
+							"cook's utensils"
+						]
+					}
+				}
+			],
+			"languageProficiencies": [
+				{
+					"pandaren": true,
+					"anyStandard": 2
+				}
+			],
+			"overwrite": {
+				"languageProficiencies": true
+			},
+			"entries": [
+				{
+					"name": "Martial Arts Training",
+					"entries": [
+						"You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Quaking Palm",
+					"entries": [
+						"When you hit another creature with an unarmed strike, you can attempt to disrupt its flow of chi. The target must succeed on a Constitution saving throw (DC equal to 8 + your proficiency bonus + your Wisdom modifier) or be stunned until the end of your next turn. Once you use this trait, you can't use it again until you finish a short or long rest."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Tool Proficiency",
+					"entries": [
+						"You gain proficiency with the artisan's tools of your choice: {@item brewer's supplies} or {@item cook's utensils}."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Extra Language",
+					"entries": [
+						"You can speak, read, and write one extra language of your choice."
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Imperial",
+			"source": "CoP",
+			"raceName": "Pandaren",
+			"raceSource": "CoP",
+			"page": 4,
+			"ability": [
+				{
+					"choose": {
+						"from": [
+							"str",
+							"int"
+						]
+					}
+				}
+			],
+			"skillProficiencies": [
+				{
+					"any": 1
+				}
+			],
+			"toolProficiencies": [
+				{
+					"anyArtisans": 1
+				}
+			],
+			"additionalSpells": [
+				{
+					"innate": {
+						"1": {
+							"daily": {
+								"1": [
+									"divine favor",
+									"healing word",
+									"sanctuary",
+									"shield of faith"
+								]
+							}
+						}
+					},
+					"ability": {
+						"choose": [
+							"int",
+							"wis",
+							"cha"
+						]
+					}
+				}
+			],
+			"entries": [
+				{
+					"name": "Tradesbear",
+					"entries": [
+						"You gain proficiency in one skill and one {@filter artisan's tool|items|source=phb|miscellaneous=mundane|type=artisan's tools} of your choice."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Celestial Blessing",
+					"entries": [
+						"You can use your bonus action to beseech the August Celestials for aid, casting one of the following spells: {@spell divine favor} (Xuen), {@spell healing word} (Yu'lon), {@spell sanctuary} (Chi-Ji), {@spell shield of faith} (Niuzao). Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells (chosen when you choose this race), and you ignore their components. Once you use this feature, you must finish a long rest to use it again."
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Bilgewater Cartel",
+			"source": "CoP",
+			"raceName": "Goblin",
+			"raceSource": "CoP",
+			"page": 4,
+			"ability": [
+				{
+					"choose": {
+						"from": [
+							"int",
+							"cha"
+						]
+					}
+				}
+			],
+			"weaponProficiencies": [
+				{
+					"firearms": true
+				}
+			],
+			"toolProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"alchemist's supplies",
+							"tinker's tools"
+						]
+					}
+				}
+			],
+			"additionalSpells": [
+				{
+					"innate": {
+						"1": {
+							"daily": {
+								"1": [
+									"burning hands",
+									"jump"
+								]
+							}
+						}
+					},
+					"ability": {
+						"choose": [
+							"int",
+							"wis",
+							"cha"
+						]
+					}
+				}
+			],
+			"entries": [
+				{
+					"name": "Best Deals Anywhere",
+					"entries": [
+						"Whenever you make a Charisma check related to haggling or negotiating, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Tool Proficiency",
+					"entries": [
+						"You gain proficiency with the artisan's tools of your choice: {@item alchemist's supplies} or {@item tinker's tools}."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Goblin Science",
+					"entries": [
+						"Using goblin engineering and ingenuity, you can cast {@spell burning hands} and {@spell jump}. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells (chosen when you choose this race), and you can use alchemist's supplies or tinker's tools as a spellcasting focus for them. You can cast any combination of spells using this feat a total number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Gun Enthusiast",
+					"entries": [
+						"You have proficiency with firearms, and do not suffer disadvantage on attack rolls with heavy firearms because of your small size."
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Hobgoblin",
+			"source": "CoP",
+			"raceName": "Goblin",
+			"raceSource": "CoP",
+			"page": 4,
+			"ability": [
+				{
+					"choose": {
+						"from": [
+							"str",
+							"con"
+						]
+					}
+				}
+			],
+			"size": [
+				"M"
+			],
+			"resist": [
+				"acid",
+				"poison"
+			],
+			"traitTags": [
+				"Powerful Build"
+			],
+			"overwrite": {
+				"size": true
+			},
+			"entries": [
+				{
+					"name": "Hulking",
+					"entries": [
+						"Your size is Medium. You also count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Alchemically Mutated",
+					"entries": [
+						"You have resistance to acid damage and poison damage."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Tireless",
+					"entries": [
+						"Whenever you gain any levels of exhaustion, you can reduce the number of levels gained by one (minimum of no levels gained). Once you use this trait, you can't use it again until you finish a long rest."
 					],
 					"type": "entries"
 				}
@@ -3929,6 +4343,7 @@
 				"Improved Resting"
 			],
 			"resist": [
+				"necrotic",
 				"poison"
 			],
 			"entries": [
@@ -3988,6 +4403,7 @@
 				}
 			],
 			"resist": [
+				"necrotic",
 				"cold"
 			],
 			"entries": [
@@ -4349,6 +4765,474 @@
 				{
 					"_template": {
 						"name": "Worgen (Felsworn, {{title}})",
+						"source": "CoO",
+						"_mod": {
+							"entries": [
+								{
+									"mode": "replaceArr",
+									"replace": "Infernal Power",
+									"items": {
+										"type": "entries",
+										"name": "Infernal Power",
+										"entries": [
+											"When you reach 3rd level, choose one of the abilities listed below. You can use your chosen ability as an action, and it lasts for 1 minute or until you end it as a bonus action. Once you use this trait, you can't use it again until you finish a long rest. All damage dealt by this trait is the same as the type chosen for your Fel Resistance trait.",
+											{
+												"type": "list",
+												"items": [
+													{
+														"type": "item",
+														"name": "{{title}}",
+														"entry": "{{description}}"
+													}
+												]
+											}
+										]
+									}
+								}
+							]
+						}
+					},
+					"_implementations": [
+						{
+							"_variables": {
+								"title": "Blood Fury",
+								 "description": "When you use this ability, other creatures within 10 feet of you that you can see you must each succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Strength or Charisma modifier) or become frightened of you until the end of your next turn. For the ability's duration, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+							}
+						},
+						{
+							"_variables": {
+								"title": "Chaos Aura",
+								 "description": "You unleash fel energy for the duration, searing everything around you---and yourself. You shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, you and each creature within 10 feet of you take damage equal to half your level (rounded up). In addition, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Undead",
+			"source": "CoN",
+			"raceName":	"Pandaren",
+			"raceSource": "CoP",
+			"page": 5,
+			"creatureTypes": [
+				"humanoid",
+				"undead"
+			],
+			"ability": [
+				{
+					"con": 1
+				}
+			],
+			"darkvision": 60,
+			"traitTags": [
+				"Improved Resting"
+			],
+			"resist": [
+				"poison"
+			],
+			"entries": [
+				{
+					"name": "Extended Age",
+					"entries": [
+						"You remain at the age you originally died, sustained by the dark magic that raised you. If uncared for, however, your corpse will wither and decay over time."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Darkvision",
+					"entries": [
+						"You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Undead Nature",
+					"entries": [
+						"Your type is both humanoid and undead, meaning you are affected by any features or abilities that affect either of those types. For example, you can be targeted by {@spell hold person} or detected by the spell {@spell detect evil and good}. You also gain the following benefits:",
+						{
+							"type": "list",
+							"items": [
+								"You have advantage on saving throws against disease and being {@condition poisoned}, and you have resistance to poison damage.",
+								"You have advantage on death saving throws.",
+								"You don't need to eat, drink, or breathe.",
+								"You don't need to sleep, and magic can't put you to sleep. You can finish a long rest in 4 hours if you spend those hours in an inactive, motionless state, during which you retain consciousness."
+							]
+						}
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Frostborn",
+			"source": "CoN",
+			"raceName": "Pandaren",
+			"raceSource": "CoP",
+			"page": 3,
+			"ability": [
+				{
+					"con": 1
+				}
+			],
+			"skillProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"athletics",
+							"nature",
+							"perception",
+							"survival"
+						]
+					}
+				}
+			],
+			"resist": [
+				"cold"
+			],
+			"entries": [
+				{
+					"name": "Winter Lore",
+					"entries": [
+						"You gain proficiency with one of the following skills of your choice: {@skill Athletics}, {@skill Nature}, {@skill Perception}, and {@skill Survival}."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Tundra Walker",
+					"entries": [
+						"You have resistance to cold damage, and are naturally adapted to cold climates, as described in chapter 5 of the Dungeon Master's Guide. In addition, moving through {@quickref difficult terrain||3} related to ice, snow, or extreme cold costs you no extra movement."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Big Game Hunter",
+					"entries": [
+						"You are trained in fighting the colossal beasts and monsters of Northrend, When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can't use it again until you finish a short or long rest."
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Felsworn",
+			"source": "CoO",
+			"raceName": "Pandaren",
+			"raceSource": "CoP",
+			"page": 5,
+            "creatureTypes": [
+				"humanoid",
+				"fiend"
+			],
+			"ability": [
+				{
+					"choose": {
+						"from": [
+							"str",
+							"dex",
+							"con",
+							"int",
+							"cha"
+						]
+					}
+				}
+			],
+			"resist": [
+				{
+                    "choose": {
+                        "from": [
+                            "fire",
+                            "necrotic"
+                        ]
+                    }
+                }
+			],
+            "languageProficiencies": [
+				{
+                    "pandaren": true,
+					"eredun": true,
+					"anyStandard": 1
+				}
+			],
+            "overwrite": {
+				"languageProficiencies": true
+			},
+			"entries": [
+				{
+					"name": "Fel Resistance",
+					"entries": [
+						"You have resistance against your choice of fire or necrotic damage. This choice determines the damage type for your Infernal Power trait."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Additional Language",
+					"entries": [
+						"You can speak, read, and write Eredun."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Infernal Power",
+					"entries": [
+						"When you reach 3rd level, choose one of the abilities listed below. You can use your chosen ability as an action, and it lasts for 1 minute or until you end it as a bonus action. Once you use this trait, you can't use it again until you finish a long rest. All damage dealt by this trait is the same as the type chosen for your Fel Resistance trait.",
+						{
+							"type": "list",
+							"items": [
+								{
+									"type": "item",
+									"name": "Blood Fury",
+									"entry": "When you use this ability, other creatures within 10 feet of you that you can see you must each succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Strength or Charisma modifier) or become frightened of you until the end of your next turn. For the ability's duration, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+								},
+								{
+									"type": "item",
+									"name": "Chaos Aura",
+									"entry": "You unleash fel energy for the duration, searing everything around you---and yourself. You shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, you and each creature within 10 feet of you take damage equal to half your level (rounded up). In addition, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+								}
+							]
+						}
+					],
+					"type": "entries"
+				}
+			],
+			"_versions": [
+				{
+					"_template": {
+						"name": "Pandaren (Felsworn, {{title}})",
+						"source": "CoO",
+						"_mod": {
+							"entries": [
+								{
+									"mode": "replaceArr",
+									"replace": "Infernal Power",
+									"items": {
+										"type": "entries",
+										"name": "Infernal Power",
+										"entries": [
+											"When you reach 3rd level, choose one of the abilities listed below. You can use your chosen ability as an action, and it lasts for 1 minute or until you end it as a bonus action. Once you use this trait, you can't use it again until you finish a long rest. All damage dealt by this trait is the same as the type chosen for your Fel Resistance trait.",
+											{
+												"type": "list",
+												"items": [
+													{
+														"type": "item",
+														"name": "{{title}}",
+														"entry": "{{description}}"
+													}
+												]
+											}
+										]
+									}
+								}
+							]
+						}
+					},
+					"_implementations": [
+						{
+							"_variables": {
+								"title": "Blood Fury",
+								 "description": "When you use this ability, other creatures within 10 feet of you that you can see you must each succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Strength or Charisma modifier) or become frightened of you until the end of your next turn. For the ability's duration, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+							}
+						},
+						{
+							"_variables": {
+								"title": "Chaos Aura",
+								 "description": "You unleash fel energy for the duration, searing everything around you---and yourself. You shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, you and each creature within 10 feet of you take damage equal to half your level (rounded up). In addition, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Undead",
+			"source": "CoN",
+			"raceName":	"Goblin",
+			"raceSource": "CoP",
+			"page": 5,
+			"creatureTypes": [
+				"humanoid",
+				"undead"
+			],
+			"ability": [
+				{
+					"con": 1
+				}
+			],
+			"darkvision": 60,
+			"traitTags": [
+				"Improved Resting"
+			],
+			"resist": [
+				"poison"
+			],
+			"entries": [
+				{
+					"name": "Extended Age",
+					"entries": [
+						"You remain at the age you originally died, sustained by the dark magic that raised you. If uncared for, however, your corpse will wither and decay over time."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Darkvision",
+					"entries": [
+						"You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Undead Nature",
+					"entries": [
+						"Your type is both humanoid and undead, meaning you are affected by any features or abilities that affect either of those types. For example, you can be targeted by {@spell hold person} or detected by the spell {@spell detect evil and good}. You also gain the following benefits:",
+						{
+							"type": "list",
+							"items": [
+								"You have advantage on saving throws against disease and being {@condition poisoned}, and you have resistance to poison damage.",
+								"You have advantage on death saving throws.",
+								"You don't need to eat, drink, or breathe.",
+								"You don't need to sleep, and magic can't put you to sleep. You can finish a long rest in 4 hours if you spend those hours in an inactive, motionless state, during which you retain consciousness."
+							]
+						}
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Frostborn",
+			"source": "CoN",
+			"raceName": "Goblin",
+			"raceSource": "CoP",
+			"page": 3,
+			"ability": [
+				{
+					"con": 1
+				}
+			],
+			"skillProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"athletics",
+							"nature",
+							"perception",
+							"survival"
+						]
+					}
+				}
+			],
+			"resist": [
+				"cold"
+			],
+			"entries": [
+				{
+					"name": "Winter Lore",
+					"entries": [
+						"You gain proficiency with one of the following skills of your choice: {@skill Athletics}, {@skill Nature}, {@skill Perception}, and {@skill Survival}."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Tundra Walker",
+					"entries": [
+						"You have resistance to cold damage, and are naturally adapted to cold climates, as described in chapter 5 of the Dungeon Master's Guide. In addition, moving through {@quickref difficult terrain||3} related to ice, snow, or extreme cold costs you no extra movement."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Big Game Hunter",
+					"entries": [
+						"You are trained in fighting the colossal beasts and monsters of Northrend, When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can't use it again until you finish a short or long rest."
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"name": "Felsworn",
+			"source": "CoO",
+			"raceName": "Goblin",
+			"raceSource": "CoP",
+			"page": 5,
+            "creatureTypes": [
+				"humanoid",
+				"fiend"
+			],
+			"ability": [
+				{
+					"choose": {
+						"from": [
+							"str",
+							"con",
+							"int",
+							"wis",
+							"cha"
+						]
+					}
+				}
+			],
+			"resist": [
+				{
+                    "choose": {
+                        "from": [
+                            "fire",
+                            "necrotic"
+                        ]
+                    }
+                }
+			],
+            "languageProficiencies": [
+				{
+					"orcish": true,
+                    "goblin": true,
+					"eredun": true
+				}
+			],
+            "overwrite": {
+				"languageProficiencies": true
+			},
+			"entries": [
+				{
+					"name": "Fel Resistance",
+					"entries": [
+						"You have resistance against your choice of fire or necrotic damage. This choice determines the damage type for your Infernal Power trait."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Additional Language",
+					"entries": [
+						"You can speak, read, and write Eredun."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Infernal Power",
+					"entries": [
+						"When you reach 3rd level, choose one of the abilities listed below. You can use your chosen ability as an action, and it lasts for 1 minute or until you end it as a bonus action. Once you use this trait, you can't use it again until you finish a long rest. All damage dealt by this trait is the same as the type chosen for your Fel Resistance trait.",
+						{
+							"type": "list",
+							"items": [
+								{
+									"type": "item",
+									"name": "Blood Fury",
+									"entry": "When you use this ability, other creatures within 10 feet of you that you can see you must each succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Strength or Charisma modifier) or become frightened of you until the end of your next turn. For the ability's duration, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+								},
+								{
+									"type": "item",
+									"name": "Chaos Aura",
+									"entry": "You unleash fel energy for the duration, searing everything around you---and yourself. You shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, you and each creature within 10 feet of you take damage equal to half your level (rounded up). In addition, once on each of your turns, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your level."
+								}
+							]
+						}
+					],
+					"type": "entries"
+				}
+			],
+			"_versions": [
+				{
+					"_template": {
+						"name": "Goblin (Felsworn, {{title}})",
 						"source": "CoO",
 						"_mod": {
 							"entries": [
