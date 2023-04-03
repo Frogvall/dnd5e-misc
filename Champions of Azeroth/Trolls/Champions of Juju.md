@@ -79,7 +79,7 @@ This is unofficial fan content permitted under the Fan Content Policy. Not appro
 
 All *Warcraft* content and material are © Blizzard Entertainment.
 
-#### Last Updated: February 28, 2023
+#### Last Updated: April 3, 2023
 
 <img src='https://www.gmbinder.com/images/Fe3zrGs.png' style='position:absolute; bottom:0px; left:-80px; width:1000px; transform:rotate(0deg)scalex(1);filter:opacity(100%);'/>
 
@@ -450,7 +450,7 @@ Witch doctors are spellcasters and alchemists. These dastardly magic users are a
 
 When you choose this specialization at 2nd level, you gain proficiency with alchemist's supplies.
 
-In addition, whenever you finish a long rest, you can magically produce one or more juju concoctions with alchemist's supplies. Choose a number of your priest spells (you don't need to have them prepared) with combined spell levels less than or equal to your proficiency bonus (you can choose the same spell more than once). Each spell must target only one creature, and if a spell's effect requires a choice when cast (for example with the *enlarge/reduce* spell), you make this choice when you brew the concoction. As an action, a creature can drink one of these concoctions or administer it to another creature within 5 feet, which must be willing or incapacitated. The drinker is immediately affected by the brewed spell (and is considered the target of the spell), using your spellcasting modifier. If the spell requires concentration, the drinker must concentrate.
+In addition, whenever you finish a long rest, you can magically produce one or more juju concoctions with alchemist's supplies. Choose a number of your priest spells (you don't need to have them prepared) with combined spell levels less than or equal to your proficiency bonus (you can choose the same spell more than once). Each spell must be able to target only one creature, and if a spell's effect requires a choice when cast (for example with the *enlarge/reduce* spell), you make this choice when you brew the concoction. If the spell requires a component with a cost, that component must be present when brewing and if the spell consumes the component, the component is consumed when brewing the concoction. As an action, a creature can drink one of these concoctions or administer it to another creature within 5 feet, which must be willing or incapacitated. The drinker is immediately affected by the brewed spell (and is considered the target of the spell), using your spellcasting modifier. If the spell requires concentration, the drinker must concentrate.
 
 You can brew additional juju concoctions with alchemist's supplies and 10 minutes of effort. Each additional juju concoction costs a number of faith points equal to the cost of creating a spell slot of the brewed spell's level, listed in the Creating Spell Slots table of the priest class description.
 
