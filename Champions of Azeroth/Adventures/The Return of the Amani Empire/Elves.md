@@ -132,3 +132,36 @@
 >
 > ### Bonus Actions
 > ***Displacement (Recharge 5–6).*** The illusionist projects an illusion that makes the illusionist appear to be standing in a place a few inches from its actual location, causing any creature to have disadvantage on attack rolls against the illusionist. The effect lasts for 1 minute, and it ends early if the illusionist takes damage, if it is incapacitated, or if its speed becomes 0.
+
+> ## High Elf Priest <!--https://wc5e-cr-calculator.frogvall.com/?v2;1;15;90+2*(9d4+5);8;12;14+14;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3;-->
+> *Medium humanoid (high elf), neutral*
+> ___
+> - **Armor Class** 12 (15 with inner fire)
+> - **Hit Points** 90 (20d8)
+> - **Speed** 30 ft.
+> ___
+> STR | DEX | CON | INT | WIS | CHA
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+> 9 (-1)|14 (+2)|11 (+0)|16 (+3)|17 (+3)|20 (+5)|
+> ___
+> - **Saving Throws** Int +6, Wis +6, Cha +8
+> - **Skills** Medicine +6, Religion +6
+> - **Damage Resistances** force
+> - **Senses** darkvision 60 ft., passive Perception 13
+> - **Languages** common, thalassian
+> - **Challenge** 5 (1,800 XP)
+> - **Proficiency Bonus** +3
+> ___
+>	
+> ***Elven Cunning.*** The priest have advantage on ability checks and saving throws made to resist the effects of enchantment and illusion magic.
+>   
+> ### Actions 
+> ***Multiattack.*** The priest makes two Guiding Bolt attacks.
+>
+> ***Guiding Bolt.*** Ranged Spell Attack: +8 to hit, range 120 ft., one target. Hit: 14 (4d6) radiant damage.
+>
+> ***Spellcasting.*** The priest casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 16):
+>
+> At will: *blade ward, light, minor illusion*
+> <br>2/day each: *healing word (8th-level version), detect magic, inner fire*
+> <br>1/day each: *dispel magic, divination, sending*
