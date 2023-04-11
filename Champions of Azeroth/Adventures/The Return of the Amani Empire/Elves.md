@@ -165,3 +165,5 @@
 > At will: *blade ward, light, minor illusion*
 > <br>2/day each: *healing word (8th-level version), detect magic, inner fire*
 > <br>1/day each: *dispel magic, divination, sending*
+
+*Unless the priest is surprised, it starts encounters with inner fire already cast.*
