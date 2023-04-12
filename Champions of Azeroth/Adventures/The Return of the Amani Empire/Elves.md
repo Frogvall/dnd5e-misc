@@ -175,7 +175,7 @@
 > *Medium humanoid (high elf), neutral*
 > ___
 > - **Armor Class** 17   (studded leather)
-> - **Hit Points** 75 (10d8 + 30)
+> - **Hit Points** 150 (20d8 + 60)
 > - **Speed** 30 ft.
 > ___
 > STR | DEX | CON | INT | WIS | CHA
