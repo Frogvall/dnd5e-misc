@@ -1,4 +1,4 @@
-> ## High Elf Archer
+> ## High Elf Archer <!-- https://wc5e-cr-calculator.frogvall.com/?v2;0;16;75;6;12;8+8+1d10;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
 > *Medium humanoid (high elf), neutral*
 > ___
 > - **Armor Class** 16 (studded leather)
@@ -30,7 +30,7 @@
 > ***Archer’s Eye (3/Day).*** Immediately after making an attack roll or a damage roll with a ranged weapon, the archer can roll a d10 and add the number rolled to the total.
 
 
-> ## High Elf Knight
+> ## High Elf Knight <!-- https://wc5e-cr-calculator.frogvall.com/?v2;0;18;52;5;12;10+10;0;0;0;0;0;;;;1;2;;;;;;;;;;1;;;;1;;;;10;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
 > *Medium humanoid (high elf), neutral*
 > ___
 > - **Armor Class** 18 (plate)
@@ -46,7 +46,7 @@
 > - **Damage Resistances** force
 > - **Senses** darkvision 60 ft., passive Perception 10
 > - **Languages** common, thalassian
-> - **Challenge** 3 (700 XP)
+> - **Challenge** 4 (1,100 XP)
 > - **Proficiency Bonus** +2
 > ___
 >
@@ -67,7 +67,7 @@
 > ***Parry.*** The knight adds 2 to its AC against one melee attack that would hit it. To do so, the knight must see the attacker and be wielding a melee weapon.
 
 
-> ## High Elf Veteran
+> ## High Elf Veteran <!-- https://wc5e-cr-calculator.frogvall.com/?v2;0;17;58;5;12;7+7+6;0;0;0;0;0;;;;;2;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
 > *Medium humanoid (high elf), neutral*
 > ___
 > - **Armor Class** 17 (splint)
@@ -98,7 +98,7 @@
 > ***Longbow.*** Ranged Weapon Attack: +3 to hit, range 150/600 ft., one target. Hit: 5 (1d8+1) piercing damage.
 
 
-> ## High Elf Illusionist
+> ## High Elf Illusionist <!-- https://wc5e-cr-calculator.frogvall.com/?v2;0;15;44;5;12;14+14;0;0;0;0;0;;;;1;2;;;;;;;;;;1;;;;;;;;10;;;1;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
 > *Medium humanoid (high elf), neutral*
 > ___
 > - **Armor Class** 12 (15 with mage armor)
@@ -132,6 +132,8 @@
 >
 > ### Bonus Actions
 > ***Displacement (Recharge 5–6).*** The illusionist projects an illusion that makes the illusionist appear to be standing in a place a few inches from its actual location, causing any creature to have disadvantage on attack rolls against the illusionist. The effect lasts for 1 minute, and it ends early if the illusionist takes damage, if it is incapacitated, or if its speed becomes 0.
+
+*Unless the illusionist is surprised, it starts encounters with mage armor already cast.*
 
 > ## High Elf Priest <!--https://wc5e-cr-calculator.frogvall.com/?v2;1;15;90+2*(9d4+5);8;12;14+14;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3;-->
 > *Medium humanoid (high elf), neutral*
@@ -167,3 +169,37 @@
 > <br>1/day each: *dispel magic, divination, sending*
 
 *Unless the priest is surprised, it starts encounters with inner fire already cast.*
+
+
+> ## Halduron Brightwing <!-- https://wc5e-cr-calculator.frogvall.com/?v2;0;17;150;8;12;9+9+1d10;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
+> *Medium humanoid (high elf), neutral*
+> ___
+> - **Armor Class** 17   (studded leather)
+> - **Hit Points** 75 (10d8 + 30)
+> - **Speed** 30 ft.
+> ___
+> STR | DEX | CON | INT | WIS | CHA
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+> 11 (+0)|21 (+5)|16 (+3)|11 (+0)|15 (+2)|10 (+0)|
+> ___
+> - **Skills** Acrobatics +8, Nature +2 Perception +9
+> - **Damage Resistances** force
+> - **Senses** darkvision 60 ft., passive Perception 19
+> - **Languages** common, thalassian
+> - **Challenge** 6 (2,300 XP)
+> - **Proficiency Bonus** +3
+> ___
+>	
+> ***Elven Cunning.*** Halduron have advantage on ability checks and saving throws made to resist the effects of enchantment and illusion magic.
+>   
+> ### Actions 
+> ***Multiattack.*** Halduron makes two Shortsword or Longbow attacks.
+>
+> ***Shortsword.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 8 (1d6 + 5) piercing damage.
+>
+> ***Longbow.*** Ranged Weapon Attack: +8 to hit, range 150/600 ft., one target. Hit: 9 (1d8 + 5) piercing damage.
+>
+> ***Multi-shot (Recharge 5-6).*** Ranged Weapon Attack: +8 to hit, range 150/600 ft., up to five targets. Hit: 9 (1d8 + 5) piercing damage.
+>
+> ### Bonus Actions
+> ***Archer’s Eye (3/Day).*** Immediately after making an attack roll or a damage roll with a ranged weapon, Halduron can roll a d10 and add the number rolled to the total.
