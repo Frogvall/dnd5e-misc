@@ -199,7 +199,7 @@
 >
 > ***Longbow.*** Ranged Weapon Attack: +8 to hit, range 150/600 ft., one target. Hit: 9 (1d8 + 5) piercing damage.
 >
-> ***Multi-shot (Recharge 5-6).*** Ranged Weapon Attack: +8 to hit, range 150/600 ft., up to five targets. Hit: 9 (1d8 + 5) piercing damage.
+> ***Multi Shot (Recharge 5-6).*** Ranged Weapon Attack: +8 to hit, range 150/600 ft., up to five targets. Hit: 9 (1d8 + 5) piercing damage.
 >
 > ### Bonus Actions
 > ***Archer’s Eye (3/Day).*** Immediately after making an attack roll or a damage roll with a ranged weapon, Halduron can roll a d10 and add the number rolled to the total.
