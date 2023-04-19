@@ -1,3 +1,5 @@
+# Elves
+
 > ## High Elf Archer <!-- https://wc5e-cr-calculator.frogvall.com/?v2;0;16;75;6;12;8+8+1d10;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
 > *Medium humanoid (high elf), neutral*
 > ___
@@ -9,7 +11,7 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 > 11 (+0)|18 (+4)|16 (+3)|11 (+0)|13 (+1)|10 (+0)|
 > ___
-> - **Skills** Acrobatics +6, Nature +2 Perception +5
+> - **Skills** Acrobatics +6, Nature +2, Perception +5
 > - **Damage Resistances** force
 > - **Senses** darkvision 60 ft., passive Perception 15
 > - **Languages** common, thalassian
