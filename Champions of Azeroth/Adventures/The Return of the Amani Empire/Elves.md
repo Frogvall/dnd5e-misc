@@ -65,7 +65,7 @@
 >
 > ***Leadership (Recharges after a Short or Long Rest).*** For 1 minute, the knight can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the knight. A creature can benefit from only one Leadership die at a time. This effect ends if the knight is incapacitated.
 >
-> ### Bonus Actions
+> ### Reaction
 > ***Parry.*** The knight adds 2 to its AC against one melee attack that would hit it. To do so, the knight must see the attacker and be wielding a melee weapon.
 
 
@@ -125,7 +125,7 @@
 > ### Actions 
 > ***Multiattack.*** The illusionist makes two Arcane Burst attacks.
 >
-> ***Arcane Burst.*** Melee or Ranged Spell Attack: +5 to hit, reach 5 ft. or range 120 ft., one target. Hit: 14 (2d10 + 3) psychic damage.
+> ***Arcane Burst.*** Melee or Ranged Spell Attack: +5 to hit, reach 5 ft. or range 120 ft., one target. Hit: 14 (2d10 + 3) force damage.
 >
 > ***Spellcasting.*** The illusionist casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 13):
 >
@@ -184,7 +184,7 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 > 11 (+0)|21 (+5)|16 (+3)|11 (+0)|15 (+2)|10 (+0)|
 > ___
-> - **Skills** Acrobatics +8, Nature +2 Perception +9
+> - **Skills** Acrobatics +8, Nature +2, Perception +9
 > - **Damage Resistances** force
 > - **Senses** darkvision 60 ft., passive Perception 19
 > - **Languages** common, thalassian
