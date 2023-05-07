@@ -20,7 +20,7 @@
 > - **Proficiency Bonus** +3
 > ___
 >
-> ***Black Arrow.*** Whenever Halduron hits a creature with a ranged attack, it deals an additional 5 (1d10) necrotic damage to the target (included in the attack).
+> ***Black Arrow.*** Whenever Halduron hits a creature with a ranged attack during his, it deals an additional 5 (1d10) necrotic damage to the target.
 >	
 > ***Elven Cunning.*** Halduron have advantage on ability checks and saving throws made to resist the effects of enchantment and illusion magic.
 >
@@ -31,7 +31,7 @@
 >
 > ***Shortsword.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d6 + 5) piercing damage.
 >
-> ***Longbow.*** Ranged Weapon Attack: +6 to hit, range 150/600 ft., one target. Hit: 9 (1d8 + 5) piercing damage plus 5 (1d10) necrotic damage.
+> ***Longbow.*** Ranged Weapon Attack: +6 to hit, range 150/600 ft., one target. Hit: 9 (1d8 + 5) piercing damage.
 >
 > ***Multi Shot (Recharge 5-6).*** Ranged Weapon Attack: +8 to hit, range 150/600 ft., up to five targets. Hit: 9 (1d8 + 5) piercing damage plus 5 (1d10) necrotic damage.
 >
@@ -48,7 +48,7 @@
 >
 > ***Shadowstep.*** Halduron casts *misty step*.
 >
-> ***Weapon Attack.*** Halduron makes one shortsword or longbow attack, but without dealing the *black arrow* damage.
+> ***Weapon Attack.*** Halduron makes one shortsword or longbow attack.
 >
 > ***Frighten Foe (Costs 2 Actions).*** Halduron targets one creature he can see within 30 feet of him. If the target can see or hear him, the target must succeed on a DC 15 Wisdom saving throw or be frightened of Halduron until the end of Halduron’s next turn.
 
@@ -72,7 +72,7 @@
 > - **Proficiency Bonus** +2
 > ___
 >
-> ***Black Arrow.*** Whenever the dark ranger hits a creature with a ranged attack, it deals an additional 5 (1d10) necrotic damage to the target (included in the attack).
+> ***Black Arrow.*** Whenever the dark ranger hits a creature with a ranged attack during its turn, it deals an additional 5 (1d10) necrotic damage to the target.
 >	
 > ***Elven Cunning.*** The dark ranger have advantage on ability checks and saving throws made to resist the effects of enchantment and illusion magic.
 >
@@ -83,7 +83,7 @@
 >
 > ***Shortsword.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage.
 >
-> ***Longbow.*** Ranged Weapon Attack: +6 to hit, range 150/600 ft., one target. Hit: 8 (1d8 + 4) piercing damage plus 5 (1d10) necrotic damage.
+> ***Longbow.*** Ranged Weapon Attack: +6 to hit, range 150/600 ft., one target. Hit: 8 (1d8 + 4) piercing damage.
 >
 > ***Spellcasting.*** The dark ranger casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 13):
 >
