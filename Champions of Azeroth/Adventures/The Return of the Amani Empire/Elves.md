@@ -1,5 +1,28 @@
+<style>
+.phb{ background : white;}
+.phb img{ display : none;}
+.phb hr+section blockquote{background : white;}
+.phb hr+section blockquote {
+    padding-left: 4px;
+    padding-right: 4px;
+}
+.phb table tbody tr td {
+    padding-right: .3em;
+    padding-left: .3em
+}
+.phb table thead th {
+    padding-right: .3em;
+    padding-left: .3em
+}
+
+.phb:after {content: "";}
+</style>
+
+
+
 # Elves
 
+___
 > ## High Elf Archer <!-- https://wc5e-cr-calculator.frogvall.com/?v2;0;16;75;6;12;8+8+1d10;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
 > *Medium humanoid (high elf), neutral*
 > ___
@@ -31,7 +54,7 @@
 > ### Bonus Actions
 > ***Archer’s Eye (3/Day).*** Immediately after making an attack roll or a damage roll with a ranged weapon, the archer can roll a d10 and add the number rolled to the total.
 
-
+___
 > ## High Elf Knight <!-- https://wc5e-cr-calculator.frogvall.com/?v2;0;18;52;5;12;10+10;0;0;0;0;0;;;;1;2;;;;;;;;;;1;;;;1;;;;10;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
 > *Medium humanoid (high elf), neutral*
 > ___
@@ -68,7 +91,9 @@
 > ### Reaction
 > ***Parry.*** The knight adds 2 to its AC against one melee attack that would hit it. To do so, the knight must see the attacker and be wielding a melee weapon.
 
+\pagebreak
 
+___
 > ## High Elf Veteran <!-- https://wc5e-cr-calculator.frogvall.com/?v2;0;17;58;5;12;7+7+6;0;0;0;0;0;;;;;2;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
 > *Medium humanoid (high elf), neutral*
 > ___
@@ -99,7 +124,7 @@
 >
 > ***Longbow.*** Ranged Weapon Attack: +3 to hit, range 150/600 ft., one target. Hit: 5 (1d8+1) piercing damage.
 
-
+___
 > ## High Elf Illusionist <!-- https://wc5e-cr-calculator.frogvall.com/?v2;0;15;44;5;12;14+14;0;0;0;0;0;;;;1;2;;;;;;;;;;1;;;;;;;;10;;;1;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
 > *Medium humanoid (high elf), neutral*
 > ___
@@ -137,6 +162,9 @@
 
 *Unless the illusionist is surprised, it starts encounters with mage armor already cast.*
 
+\pagebreak
+
+___
 > ## High Elf Priest <!--https://wc5e-cr-calculator.frogvall.com/?v2;1;15;90+2*(9d4+5);8;12;14+14;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3;-->
 > *Medium humanoid (high elf), neutral*
 > ___
@@ -172,7 +200,7 @@
 
 *Unless the priest is surprised, it starts encounters with inner fire already cast.*
 
-
+___
 > ## Halduron Brightwing <!-- https://wc5e-cr-calculator.frogvall.com/?v2;0;17;150;8;12;9+9+1d10;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
 > *Medium humanoid (high elf), neutral*
 > ___
