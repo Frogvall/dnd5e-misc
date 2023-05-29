@@ -1,5 +1,6 @@
 # Scourge
 
+___
 > ## Halduron Brightwing (Dark Ranger) <!-- https://wc5e-cr-calculator.frogvall.com/?v2;0;16;10d8+30+6*1d10;6;12;2*(1d8+4+1d10);0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
 > *Medium undead (high elf), neutral*
 > ___
@@ -52,6 +53,7 @@
 >
 > ***Frighten Foe (Costs 2 Actions).*** Halduron targets one creature he can see within 30 feet of him. If the target can see or hear him, the target must succeed on a DC 15 Wisdom saving throw or be frightened of Halduron until the end of Halduron’s next turn.
 
+___
 > ## High Elf Dark Ranger <!-- https://wc5e-cr-calculator.frogvall.com/?v2;0;16;10d8+30+6*1d10;6;12;2*(1d8+4+1d10);0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
 > *Medium undead (high elf), neutral*
 > ___
@@ -93,6 +95,7 @@
 > ### Bonus Actions
 > ***Life Drain (3/Day).*** The dark ranger regains hit points equal to the amount of necrotic damage it has dealt this turn. 
 
+___
 > ## High Elf Banshee <!-- https://wc5e-cr-calculator.frogvall.com/?v2;1;12;14d8;7;15;6d6+4;0;0;0;0;0;1;1;;;3;;;;;;;;;;1;;;;;1;;;10;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
 > *Medium undead (high elf), neutral*
 > ___
