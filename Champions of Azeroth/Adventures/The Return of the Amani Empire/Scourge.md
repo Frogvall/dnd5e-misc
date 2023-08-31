@@ -21,13 +21,13 @@ ___
 > - **Proficiency Bonus** +3
 > ___
 >
-> ***Black Arrow.*** Whenever Halduron hits a creature with a ranged attack during his, it deals an additional 5 (1d10) necrotic damage to the target.
->	
+> ***Black Arrow.*** Whenever Halduron hits a creature with a ranged attack during his turn, it deals an additional 5 (1d10) necrotic damage to the target.
+>
 > ***Elven Cunning.*** Halduron have advantage on ability checks and saving throws made to resist the effects of enchantment and illusion magic.
 >
 > ***Undead Nature.*** Halduron doesn’t require air, food, drink, or sleep. Magic can't put Halduron to sleep.
->   
-> ### Actions 
+>
+> ### Actions
 > ***Multiattack.*** Halduron makes three Shortsword or Longbow attacks.
 >
 > ***Shortsword.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d6 + 5) piercing damage.
@@ -75,12 +75,12 @@ ___
 > ___
 >
 > ***Black Arrow.*** Whenever the dark ranger hits a creature with a ranged attack during its turn, it deals an additional 5 (1d10) necrotic damage to the target.
->	
+>
 > ***Elven Cunning.*** The dark ranger have advantage on ability checks and saving throws made to resist the effects of enchantment and illusion magic.
 >
 > ***Undead Nature.*** The dark ranger doesn’t require air, food, drink, or sleep. Magic can't put the dark ranger to sleep.
->   
-> ### Actions 
+>
+> ### Actions
 > ***Multiattack.*** The dark ranger makes two Shortsword or Longbow attacks.
 >
 > ***Shortsword.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage.
@@ -93,7 +93,7 @@ ___
 > <br>1/day each: *dominate person (8th-level version), silence*
 >
 > ### Bonus Actions
-> ***Life Drain (3/Day).*** The dark ranger regains hit points equal to the amount of necrotic damage it has dealt this turn. 
+> ***Life Drain (3/Day).*** The dark ranger regains hit points equal to the amount of necrotic damage it has dealt this turn.
 
 ___
 > ## High Elf Banshee <!-- https://wc5e-cr-calculator.frogvall.com/?v2;1;12;14d8;7;15;6d6+4;0;0;0;0;0;1;1;;;3;;;;;;;;;;1;;;;;1;;;10;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
@@ -119,7 +119,7 @@ ___
 >
 > ***Undead Nature.*** The banshee doesn’t require air, food, drink, or sleep. Magic can't put the banshee to sleep.
 >
-> ### Actions 
+> ### Actions
 > ***Curse.*** Ranged Spell Attack: +7 to hit, range 60 ft., one creature. Hit 25 (6d6 + 4) necrotic damage and the target is poisoned until the start of the banshee's next turn.
 >
 > ***Etherealness.*** The banshee enters the Ethereal Plane from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Border Ethereal, and vice versa, yet it can't affect or be affected by anything on the other plane.
