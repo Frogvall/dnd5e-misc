@@ -18,7 +18,7 @@
 > - **Challenge** 8 (3,900 XP)
 > - **Proficiency Bonus** +3
 > ___
->	
+>
 > ***Keen Smell.*** Halazzi has advantage on Wisdom (Perception) checks that rely on smell.
 >
 > ***Pack Tactics.*** Halazzi has advantage on an attack roll against a creature if at least one of Halazzi’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
@@ -27,9 +27,9 @@
 >
 > ***Running Leap.*** With a 10-foot running start, Halazzi can long jump up to 35 feet.
 >
-> ***¨Spiritual Split.*** When Halazzi is reduced to 48 hit points or fewer, he is split into two, a copy of himself appearing in the closest free space of his choice. It has the same statistics as the original Halazzi and the same amount of hit points as Halazzi had remaining when the split happened. When one of the Halazzis dies, the copy or the original, the remaining Halazzi is becomes the original Halazzi.
+> ***¨Spiritual Split.*** When Halazzi is reduced to 48 hit points or fewer, he is split into two, a copy of himself appearing in the closest free space of his choice. It has the same statistics as the original Halazzi and the same amount of hit points as Halazzi had remaining when the split happened. When one of the Halazzis dies, the copy or the original, the remaining Halazzi becomes the original Halazzi.
 >
-> ### Actions 
+> ### Actions
 > ***Multiattack.*** Halazzi makes two claw attacks and one bite attack.
 >
 > ***Bite.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) piercing damage.
@@ -45,6 +45,6 @@ Halazzi
 
 Jan'alai
 
-Nalorakk 
+Nalorakk
 
 Corruption -->
