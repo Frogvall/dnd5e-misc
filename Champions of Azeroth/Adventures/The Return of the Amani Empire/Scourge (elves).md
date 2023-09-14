@@ -2,7 +2,7 @@
 
 ___
 > ## Halduron Brightwing (Dark Ranger) <!-- https://wc5e-cr-calculator.frogvall.com/?v2;0;16;10d8+30+6*1d10;6;12;2*(1d8+4+1d10);0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
-> *Medium undead (high elf), neutral*
+> *Medium undead (high elf), lawful evil*
 > ___
 > - **Armor Class** 17 (studded leather)
 > - **Hit Points** 150 (20d8 + 60)
@@ -55,7 +55,7 @@ ___
 
 ___
 > ## High Elf Dark Ranger <!-- https://wc5e-cr-calculator.frogvall.com/?v2;0;16;10d8+30+6*1d10;6;12;2*(1d8+4+1d10);0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
-> *Medium undead (high elf), neutral*
+> *Medium undead (high elf), lawfal evil*
 > ___
 > - **Armor Class** 16 (studded leather)
 > - **Hit Points** 75 (10d8 + 30)
@@ -97,7 +97,7 @@ ___
 
 ___
 > ## High Elf Banshee <!-- https://wc5e-cr-calculator.frogvall.com/?v2;1;12;14d8;7;15;6d6+4;0;0;0;0;0;1;1;;;3;;;;;;;;;;1;;;;;1;;;10;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
-> *Medium undead (high elf), neutral*
+> *Medium undead (high elf), neutral evil*
 > ___
 > - **Armor Class** 12
 > - **Hit Points** 63 (14d8)

@@ -41,10 +41,10 @@ ___
 > - **Challenge** 3 (700 XP)
 > - **Proficiency Bonus** +2
 > ___
->	
+>
 > ***Elven Cunning.*** The archer have advantage on ability checks and saving throws made to resist the effects of enchantment and illusion magic.
->   
-> ### Actions 
+>
+> ### Actions
 > ***Multiattack.*** The archer makes two Shortsword or Longbow attacks.
 >
 > ***Shortsword.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage.
@@ -78,8 +78,8 @@ ___
 > ***Brave.*** The knight has advantage on saving throws against being frightened.
 >
 > ***Elven Cunning.*** The knight have advantage on ability checks and saving throws made to resist the effects of enchantment and illusion magic.
->   
-> ### Actions 
+>
+> ### Actions
 > ***Multiattack.***  The knight makes two melee attacks.
 >
 > ***Greatsword.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.
@@ -114,8 +114,8 @@ ___
 > ___
 >
 > ***Elven Cunning.*** The veteran have advantage on ability checks and saving throws made to resist the effects of enchantment and illusion magic.
->   
-> ### Actions 
+>
+> ### Actions
 > ***Multiattack.***  The veteran makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.
 >
 > ***Longsword.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
@@ -144,10 +144,10 @@ ___
 > - **Challenge** 3 (700 XP)
 > - **Proficiency Bonus** +2
 > ___
->	
+>
 > ***Elven Cunning.*** The illusionist have advantage on ability checks and saving throws made to resist the effects of enchantment and illusion magic.
->   
-> ### Actions 
+>
+> ### Actions
 > ***Multiattack.*** The illusionist makes two Arcane Burst attacks.
 >
 > ***Arcane Burst.*** Melee or Ranged Spell Attack: +5 to hit, reach 5 ft. or range 120 ft., one target. Hit: 14 (2d10 + 3) force damage.
@@ -184,10 +184,10 @@ ___
 > - **Challenge** 5 (1,800 XP)
 > - **Proficiency Bonus** +3
 > ___
->	
+>
 > ***Elven Cunning.*** The priest have advantage on ability checks and saving throws made to resist the effects of enchantment and illusion magic.
->   
-> ### Actions 
+>
+> ### Actions
 > ***Multiattack.*** The priest makes two Guiding Bolt attacks.
 >
 > ***Guiding Bolt.*** Ranged Spell Attack: +8 to hit, range 120 ft., one target. Hit: 14 (4d6) radiant damage.
@@ -202,7 +202,7 @@ ___
 
 ___
 > ## Halduron Brightwing <!-- https://wc5e-cr-calculator.frogvall.com/?v2;0;17;150;8;12;9+9+1d10;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
-> *Medium humanoid (high elf), neutral*
+> *Medium humanoid (high elf), lawful neutral*
 > ___
 > - **Armor Class** 17   (studded leather)
 > - **Hit Points** 150 (20d8 + 60)
@@ -219,10 +219,10 @@ ___
 > - **Challenge** 6 (2,300 XP)
 > - **Proficiency Bonus** +3
 > ___
->	
+>
 > ***Elven Cunning.*** Halduron have advantage on ability checks and saving throws made to resist the effects of enchantment and illusion magic.
->   
-> ### Actions 
+>
+> ### Actions
 > ***Multiattack.*** Halduron makes two Shortsword or Longbow attacks.
 >
 > ***Shortsword.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 8 (1d6 + 5) piercing damage.
