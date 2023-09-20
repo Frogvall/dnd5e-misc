@@ -30,7 +30,7 @@
 >
 > ***Call Lightning.*** Ranged Spell Attack: +8 to hit, reach 120 ft. Hit: 14 (4d6) lightning damage, and the creature can't take reactions until the start of Akil'zon's next turn.
 >
-> ***Electric Storm (1/day).*** One creature within 120 ft. becomes petrified and is lifted 30 ft. straight into the air for 1 minute. At the start of each of the petrified creature's turns, it casts *call lightning** at any creature within 120 ft., that touches the ground, unless that creature is within 5 ft. of the point straight under the petrified creature. At the end of each of its turns, the petrified creature can make a DC 16 Strength saving throw, breaking free (and potentially falling) on a success.
+> ***Electric Storm (1/day).*** One creature within 120 ft. becomes petrified and is lifted 30 ft. straight into the air for 1 minute. At the start of each of the petrified creature's turns, it casts *call lightning* at any creature within 120 ft., that touches the ground, unless that creature is within 5 ft. of the point straight under the petrified creature. At the end of each of its turns, the petrified creature can make a DC 16 Strength saving throw, breaking free (and potentially falling) on a success.
 >
 > ***Talons.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.
 >
