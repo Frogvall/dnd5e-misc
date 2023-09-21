@@ -64,7 +64,7 @@
 >
 > ***Running Leap.*** With a 10-foot running start, Halazzi can long jump up to 35 feet.
 >
-> ***Spiritual Split.*** When Halazzi is reduced to 48 hit points or fewer, he is split into two, a copy of himself appearing in the closest free space of his choice. It has the same statistics as the original Halazzi and the same amount of hit points as Halazzi had remaining when the split happened. When one of the Halazzis dies, the copy or the original, the remaining Halazzi becomes the original Halazzi.
+> ***Spiritual Split.*** When Halazzi is reduced to 48 hit points or fewer, it is split into two, a copy of itself appearing in the closest free space of his choice. It has the same statistics as the original Halazzi and the same amount of hit points as Halazzi had remaining when the split happened. When one of the Halazzis dies, the copy or the original, the remaining Halazzi becomes the original Halazzi.
 >
 > ### Actions
 > ***Multiattack.*** Halazzi makes two claw attacks and one bite attack.
@@ -73,7 +73,7 @@
 >
 > ***Claw.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage.
 
-> ## Nalorakk <!-- https://wc5e-cr-calculator.frogvall.com/?v2;1;18;22d10+22*3;8;16;2d6+2d6+5+1d8+5+2d4+3;2d6+2d6+5+1d8+5+4d4+3;2d6+2d6+5+1d8+5+6d4+3;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
+> ## Nalorakk <!-- https://wc5e-cr-calculator.frogvall.com/?v2;1;18;22d10+22*3;8;16;2*1d6+2d6+5+1d8+5+2d4+3;2*1d6+2d6+5+1d8+5+4d4+3;2*1d6+2d6+5+1d8+5+6d4+3;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
 > *Large beast, unaligned*
 > ___
 > - **Armor Class** 18 (natural armor)
@@ -97,14 +97,14 @@
 > ***Keen Smell.*** Nalorakk has advantage on Wisdom (Perception) checks that rely on smell.
 >
 > ### Actions
-> ***Multiattack.*** Nalorakk makes two claw attacks and one bite attack.
+> ***Multiattack.*** Nalorakk makes two attacks one with its claws, and one with its bite.
 >
 > ***Bite.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) piercing damage.
 >
 > ***Claw.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage.
 >
 > ### Bonus Actions
-> ***Deafening Roar.*** Each creature within 120 ft., that can hear Nalorakk, must make a DC 16 Constitution saving throw or take 7 (2d6) thunder damage and be deafened until the start of Nalorakk's next turn. While deafened this way, the creature is also unable to speak and cast any spell that includes a verbal component.
+> ***Deafening Roar.*** Each creature within 120 ft., that can hear Nalorakk, must make a DC 16 Constitution saving throw or take 3 (1d6) thunder damage and be deafened until the start of Nalorakk's next turn. While deafened this way, the creature is also unable to speak and cast any spell that includes a verbal component.
 
 
 
