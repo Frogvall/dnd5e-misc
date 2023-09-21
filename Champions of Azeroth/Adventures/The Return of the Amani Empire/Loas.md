@@ -92,7 +92,7 @@
 > - **Proficiency Bonus** +3
 > ___
 >
-> ***Fleshrender.*** The first time Nalorakk deals piercing or slashing damage to a creature on each of its turn, that creature starts to bleed until the end of Nalorakks next turn. At the start of its turn the creature loses 8 (2d4+3) hit points due to blood loss. If the creature was already bleeding from this trait, it instead increased the hit point it loses by 5 (2d4) and the bleeding continues until the end of Nalorakks next turn.
+> ***Fleshrender.*** The first time Nalorakk deals piercing or slashing damage to a creature on each of its turn, that creature starts to bleed until the end of Nalorakks next turn. At the start of its turn the creature loses 8 (2d4+3) hit points due to blood loss. If the creature was already bleeding from this trait, it instead increases the hit point it loses by 5 (2d4) and the bleeding continues until the end of Nalorakks next turn.
 >
 > ***Keen Smell.*** Nalorakk has advantage on Wisdom (Perception) checks that rely on smell.
 >
