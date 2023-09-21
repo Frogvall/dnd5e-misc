@@ -84,7 +84,7 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 > 21 (+5)|10 (+0)|19 (+4)|2 (-4)|15 (+2)|7 (-2)|
 > ___
-> - **Skills** Athletics +8, Perception +5,
+> - **Skills** Athletics +13, Perception +5,
 > - **Condition Immunities** Charmed, Exhausted, Frightened
 > - **Senses** darkvision 60 ft., passive Perception 14
 > - **Languages** zandali
