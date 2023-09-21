@@ -1,0 +1,78 @@
+Difficulty level 5
+Easy: 1000
+Medium: 2000
+Hard: 3000
+Deadly: 4400
+
+Session 1
+1.
+2 archers + 1 knight + 1 illusionist
+2x700+1100+700=3200
+
+Session 2
+2.
+2 veteran + 1 priest
+2x700+1800=3200
+
+Session 3
+3.
+1 Halduron + 1 veteran + 1 knight
+2300+1x700+1100=4100
+
+
+
+Difficulty level 6
+Diff       1    3    4
+Easy:    300  900 1200
+Medium:  600 1800 2400
+Hard:    900 2700 3600
+Deadly: 1400 4200 5600
+
+Session 4
+1.
+För 4 spelare:
+Banshee + Knight + Veteran
+1800 + 1100 + 700 = 3600
+
+2.
+För 3 spelare:
+2 Illusionist + Veteran
+2x700 + 700 = 2100
+För 4 spelare:
+2 Illusionist + 2 Veteran
+2x700 + 2x700 = 2800
+
+
+Session 5
+1.
+6 x Ghoul
+6x450 = 2700
+
+2.
+Dire Ghoul + 3x Ghoul
+1800 + 3*450 = 3150
+
+3.
+Abomination + 2x Ghoul
+3900 + 2x450 = 4800
+
+
+
+
+
+Elves:
+Archer       700
+Illusionist  700
+Veteran      700
+Knight      1100
+Priest      1800
+
+Scourge (elves):
+Dark Ranger 1100
+Banshee     1800
+Halduron    3900
+
+Scourge (trolls):
+Ghoul        450
+Dire Ghoul  1800
+Abomination 3900

@@ -46,7 +46,7 @@
 > ___
 > STR | DEX | CON | INT | WIS | CHA
 >|:---:|:---:|:---:|:---:|:---:|:---:|
-> 15 (+2)|21 (+5)|19 (+4)|11 (+0)|17 (+3)|14 (+2)|
+> 15 (+2)|21 (+5)|18 (+4)|11 (+0)|17 (+3)|14 (+2)|
 > ___
 > - **Skills** Athletics +5, Perception +9, Stealth +15
 > - **Condition Immunities** Charmed, Exhausted, Frightened
@@ -73,6 +73,38 @@
 >
 > ***Claw.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage.
 
+> ## Nalorakk <!-- https://wc5e-cr-calculator.frogvall.com/?v2;1;18;22d10+22*3;8;16;2d6+2d6+5+1d8+5+2d4+3;2d6+2d6+5+1d8+5+4d4+3;2d6+2d6+5+1d8+5+6d4+3;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
+> *Large beast, unaligned*
+> ___
+> - **Armor Class** 18 (natural armor)
+> - **Hit Points** 187 (22d10 + 66)
+> - **Speed** 50 ft.
+> ___
+> STR | DEX | CON | INT | WIS | CHA
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+> 21 (+5)|10 (+0)|19 (+4)|2 (-4)|15 (+2)|7 (-2)|
+> ___
+> - **Skills** Athletics +8, Perception +5,
+> - **Condition Immunities** Charmed, Exhausted, Frightened
+> - **Senses** darkvision 60 ft., passive Perception 14
+> - **Languages** zandali
+> - **Challenge** 8 (3,900 XP)
+> - **Proficiency Bonus** +3
+> ___
+>
+> ***Fleshrender.*** The first time Nalorakk deals piercing or slashing damage to a creature on each of its turn, that creature starts to bleed until the end of Nalorakks next turn. At the start of its turn the creature loses 8 (2d4+3) hit points due to blood loss. If the creature was already bleeding from this trait, it instead increased the hit point it loses by 5 (2d4) and the bleeding continues until the end of Nalorakks next turn.
+>
+> ***Keen Smell.*** Nalorakk has advantage on Wisdom (Perception) checks that rely on smell.
+>
+> ### Actions
+> ***Multiattack.*** Nalorakk makes two claw attacks and one bite attack.
+>
+> ***Bite.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) piercing damage.
+>
+> ***Claw.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage.
+>
+> ### Bonus Actions
+> ***Deafening Roar.*** Each creature within 120 ft., that can hear Nalorakk, must make a DC 16 Constitution saving throw or take 7 (2d6) thunder damage and be deafened until the start of Nalorakk's next turn. While deafened this way, the creature is also unable to speak and cast any spell that includes a verbal component.
 
 
 
