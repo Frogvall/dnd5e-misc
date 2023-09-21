@@ -86,7 +86,7 @@
 > ___
 > - **Skills** Athletics +13, Perception +5,
 > - **Condition Immunities** Charmed, Exhausted, Frightened
-> - **Senses** darkvision 60 ft., passive Perception 14
+> - **Senses** darkvision 60 ft., passive Perception 15
 > - **Languages** zandali
 > - **Challenge** 8 (3,900 XP)
 > - **Proficiency Bonus** +3
