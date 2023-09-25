@@ -73,6 +73,41 @@
 >
 > ***Claw.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage.
 
+___
+> ## Jan'alai <!-- https://wc5e-cr-calculator.frogvall.com/?v2;1;15;16d10+32;8;16;2*14d6+2*(2d6+5);2*(2d6+5);2*(2d6+5);0;0;0;;;;1;2;;;1;;;;;;;1;;;;;;;1;15;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
+>*Large beast, unaligned*
+> ___
+> - **Armor Class** 15
+> - **Hit Points** 120 (16d10 + 32)
+> - **Speed** 10 ft., fly 60 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|12 (+1)|21 (+5)|15 (+2)|7 (-2)|14 (+2)|8 (-1)|
+>___
+> - **Saving Throws** Dex +8, Con +5
+> - **Skills** Perception +8
+> - **Damage Immunity** fire
+> - **Senses** darkvision 60 ft., passive Perception 18
+> - **Languages** zandali
+> - **Challenge** 8 (3,900 XP)
+> - **Proficiency Bonus** +3
+> ___
+>
+> ***Keen Sight.*** Jan'alai has advantage on Wisdom (Perception) checks that rely on sight.
+>
+> ***Avoidance.*** If Jan'alai is subjected to an effect that allows it to make a saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
+>
+> ### Actions
+> ***Multiattack.*** Jan'alai makes two attacks with its talons.
+>
+> ***Talons.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 8 (2d6 + 5) slashing damage.
+>
+> ***Fire Breath (Recharge 5-6).*** The dragonhawk exhales fire in a 15-foot cone. Each creature in that area must make a DC 16 Dexterity saving throw, taking 48 (14d6) fire damage on a failed save, or half as much damage on a successful one.
+>
+> ### Bonus Actions
+> ***Fire Bomb.*** Any creature of Jan'alai's choice within 120 ft. must make a DC 16 Intelligence saving throw or be teleported to an open space of Jan'alai's choice within 5 feet of it. He then lays an egg under himself. The egg has 15 hit points. If the egg isn't killed before the start of Jan'alai's next turn, it explodes, dealing 48 (14d6) fire damage to any creature within 20 feet of it.
+
 > ## Nalorakk <!-- https://wc5e-cr-calculator.frogvall.com/?v2;1;18;22d10+22*3;8;16;2*1d6+2d6+5+1d8+5+2d4+3;2*1d6+2d6+5+1d8+5+4d4+3;2*1d6+2d6+5+1d8+5+6d4+3;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
 > *Large beast, unaligned*
 > ___
