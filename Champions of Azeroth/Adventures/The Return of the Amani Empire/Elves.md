@@ -234,6 +234,42 @@ ___
 > ### Bonus Actions
 > ***Archer’s Eye (3/Day).*** Immediately after making an attack roll or a damage roll with a ranged weapon, Halduron can roll a d10 and add the number rolled to the total.
 
+___
+> ## High Elf Spellbreaker <!-- https://wc5e-cr-calculator.frogvall.com/?v2;0;20;12d8+24;5;12;2*(2d4+3)+1d4+3;0;0;0;0;0;;;;1;2;;;;;;;;;;1;1;;;;;;;10;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
+> *Medium humanoid (high elf), neutral*
+> ___
+> - **Armor Class** 20 (plate, shield)
+> - **Hit Points** 78 (12d8 + 24)
+> - **Speed** 30 ft.
+> ___
+> STR | DEX | CON | INT | WIS | CHA
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+> 16 (+3)|11 (+0)|14 (+2)|15 (+2)|13 (+1)|15 (+2)|
+> ___
+> - **Saving Throws** Con +4, Wis +3
+> - **Skills** Arcana +4, Athletics +5
+> - **Damage Resistances** force
+> - **Senses** darkvision 60 ft., passive Perception 11
+> - **Languages** common, thalassian
+> - **Challenge** 4 (1,100 XP)
+> - **Proficiency Bonus** +2
+> ___
+>
+> ***Elven Cunning.*** The spellbreaker has advantage on ability checks and saving throws made to resist the effects of enchantment and illusion magic.
+>
+> ***Feedback.*** The spellbreaker has advantage on attack rolls against any creature that is concentrating on a spell, and on a hit the creature has disadvantage on the Concentration saving throw to maintain its concentration.
+>
+> ***Magic Resistance.*** The spellbreaker has advantage on saving throws against spells and other magical effects.
+>
+> ### Actions
+> ***Multiattack.***  The spellbreaker makes two melee attacks.
+>
+> ***Twindblade.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) slashing damage.
+>
+> ### Bonus Action
+> ***Twinblade.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) slashing damage.
+
+___
 > ## High Elf Blood Mage <!-- https://wc5e-cr-calculator.frogvall.com/?v2;0;13;16d8+16;6;14;2d8+2*(4d6+4d6);2d8+2*(1d10+4);2d8+2*(1d10+4);0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
 > *Medium humanoid (high elf), neutral*
 > ___
@@ -274,6 +310,7 @@ ___
 
 *Unless the blood mage is surprised, it starts encounters with fire shield already cast.*
 
+___
 > ## Kael'thas Sunstrider <!-- https://wc5e-cr-calculator.frogvall.com/?v2;1;15;26d8+26;9;17;2d8+2*(4d6+4d6)+(2d10+6);2d8+4*(2d10+6);2d8+4*(2d10+6);0;0;0;;;;1;3;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
 > *Medium humanoid (high elf), neutral*
 > ___
@@ -324,6 +361,7 @@ ___
 
 *Unless Kael'thas is surprised, it starts encounters with fire shield already cast.*
 
+___
 > ## Fel Phoenix <!-- https://wc5e-cr-calculator.frogvall.com/?v2;0;12;8d6-8+10;4;12;2d6+1d6+2;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
 > *Small undead, unaligned*
 > ___
