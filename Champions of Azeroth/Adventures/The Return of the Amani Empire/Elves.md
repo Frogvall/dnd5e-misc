@@ -233,3 +233,120 @@ ___
 >
 > ### Bonus Actions
 > ***Archer’s Eye (3/Day).*** Immediately after making an attack roll or a damage roll with a ranged weapon, Halduron can roll a d10 and add the number rolled to the total.
+
+> ## High Elf Blood Mage <!-- https://wc5e-cr-calculator.frogvall.com/?v2;0;13;16d8+16;6;14;2d8+2*(4d6+4d6);2d8+2*(1d10+4);2d8+2*(1d10+4);0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
+> *Medium humanoid (high elf), neutral*
+> ___
+> - **Armor Class** 13
+> - **Hit Points** 88 (16d8 + 16)
+> - **Speed** 30 ft.
+> ___
+> STR | DEX | CON | INT | WIS | CHA
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+> 9 (-1)|16 (+3)|13 (+1)|19 (+4)|13 (+1)|12 (+1)|
+> ___
+> - **Saving Throws** Int +6, Wis +3
+> - **Skills** Arcana +6
+> - **Damage Resistances** force
+> - **Senses** darkvision 60 ft., passive Perception 10
+> - **Languages** common, thalassian
+> - **Challenge** 4 (1,100 XP)
+> - **Proficiency Bonus** +2
+> ___
+>
+> ***Elven Cunning.*** The blood mage have advantage on ability checks and saving throws made to resist the effects of enchantment and illusion magic.
+>
+> ### Actions
+> ***Multiattack.*** The blood mage makes two Fire Bolt attacks.
+>
+> ***Fire Bolt.*** Ranged Spell Attack: +6 to hit, range 120 ft., one target. Hit: 9 (1d10+4) fire damage.
+>
+> ***Flamestrike (Recharge 5-6).*** A vertical column of divine fire roars down from the heavens in a location of the blood mage's choice. Each creature in a 10-foot-radius, 40-foot-high cylinder centered on a point within 60 ft. must make a DC 14 Dexterity saving throw. A creature takes 4d6 fire damage and 4d6 radiant damage on a failed save, or half as much damage on a successful one.
+>
+> ***Spellcasting.*** The blood mage casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 14):
+>
+> At will: *control flames, create bonfire, light*
+> <br>1/day each: *banishment, create undead, fire shield*
+> <br>2/day each: *counterspell, cause fear, flame arrows*
+>
+> ### Reactions
+> ***Blink.*** When the blood mage takes damage it can teleport 30 feet to an unoccupied space that it can see.
+
+*Unless the blood mage is surprised, it starts encounters with fire shield already cast.*
+
+> ## Kael'thas Sunstrider <!-- https://wc5e-cr-calculator.frogvall.com/?v2;1;15;26d8+26;9;17;2d8+2*(4d6+4d6)+(2d10+6);2d8+4*(2d10+6);2d8+4*(2d10+6);0;0;0;;;;1;3;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
+> *Medium humanoid (high elf), neutral*
+> ___
+> - **Armor Class** 15
+> - **Hit Points** 143 (26d8 + 26)
+> - **Speed** 30 ft.
+> ___
+> STR | DEX | CON | INT | WIS | CHA
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+> 9 (-1)|17 (+3)|13 (+1)|23 (+6)|17 (+3)|16 (+3)|
+> ___
+> - **Saving Throws** Con +4, Int +9, Wis +6
+> - **Skills** Arcana +9, History +9, Investigation +9
+> - **Damage Resistances** force
+> - **Senses** darkvision 60 ft., passive Perception 13
+> - **Languages** common, thalassian
+> - **Challenge** 9 (5,000 XP)
+> - **Proficiency Bonus** +3
+> ___
+>
+> ***Elven Cunning.*** Kael'thas have advantage on ability checks and saving throws made to resist the effects of enchantment and illusion magic.
+>
+> ### Actions
+> ***Multiattack.*** Kael'thas makes three Fire Bolt attacks.
+>
+> ***Felfire Bolt.*** Ranged Spell Attack: +9 to hit, range 120 ft., one target. Hit: 11 (1d10+3) fire damage and 5 (1d10+3) necrotic damage .
+>
+> ***Fel Flamestrike (Recharge 5-6).*** A vertical column of divine fire roars down from the heavens in a location of Kael'thas choice. Each creature in a 10-foot-radius, 40-foot-high cylinder centered on a point within 60 ft. must make a DC 17 Dexterity saving throw. A creature takes 4d6 fire damage and 4d6 necrotic damage on a failed save, or half as much damage on a successful one.
+>
+> ***Spellcasting.*** Kael'thas casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 14):
+>
+> At will: *control flames, create bonfire, light*
+> <br>1/day each: *soul cage*
+> <br>2/day each: *banishment, create undead, fire shield*
+> <br>3/day each: *counterspell, cause fear, flame arrows*
+>
+> ### Reactions
+> ***Blink.*** When Kael'thas takes damage he can teleport 30 feet to an unoccupied space that he can see.
+>
+> ### Legendary Actions
+> Kael'thas can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. Kael'thas regains spent legendary actions at the start of his turn.
+>
+> ***Blink.*** Kael'thas teleports 30 feet to an unoccupied space that he can see.
+>
+> ***Summon Phoenix.*** Kael'thas summons a Phoenix in an unoccupied space within 60 ft. The phoenix then rolls for initiative.
+>
+> ***Felfire bolt (Costs 2 Actions).*** Kael'thas uses Felfire Bolt.
+
+*Unless Kael'thas is surprised, it starts encounters with fire shield already cast.*
+
+> ## Phoenix <!-- https://wc5e-cr-calculator.frogvall.com/?v2;0;12;8d6-8+10;4;12;2d6+1d6+2;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
+> *Small undead, unaligned*
+> ___
+> - **Armor Class** 12
+> - **Hit Points** 20 (8d6 - 8)
+> - **Speed** 10 ft., fly 40 ft.
+> ___
+> STR | DEX | CON | INT | WIS | CHA
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+> 7 (-2)|15 (+2)|9 (-1)|8 (-1)|14 (+2)|8 (-1)|
+> ___
+> - **Skills** Perception +4
+> - **Damage Immunities** poison
+> - **Condition Immunities** Exhaustion, Poisoned, Unconscious
+> - **Senses** passive Perception 14
+> - **Languages** —
+> - **Challenge** 1/2 (100 XP)
+> - **Proficiency Bonus** +2
+> ___
+>
+> ***Aura of Decay.*** Any creature that starts its turn within 5 ft. of the phoenix, takes 7 (2d6) necrotic damage.
+>
+> ***Rebirth.*** When the phoenix dies, it turns into an egg, with 10 hit points and the same defenses as the phoenix. While an egg, the *aura of decay* is dormant. If the egg has not been destroyed at the end of the phoenix's next turn, it hatches and the phoenix is reborn at full health.
+>
+> ### Actions
+> ***Talons.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) necrotic damage.
