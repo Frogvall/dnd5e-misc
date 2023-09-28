@@ -1,5 +1,6 @@
 # Loas
 
+___
 > ## Akil'zon <!-- https://wc5e-cr-calculator.frogvall.com/?v2;1;15;22d10+44;8;16;5d6+4d6*2*1.5;4d6*2+1d6+5+2d6+5;3d6+1d6+5+2d6+5;0;0;0;;;1;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
 > *Large beast, unaligned*
 > ___
@@ -37,6 +38,7 @@
 > ### Bonus Actions
 > ***Static Disruption (Recharge 5-6).*** Ranged Spell Attack: +8 to hit, reach 60 ft., one creature. Hit: 17 (5d6) lightning damage, and the target and any other creature within 15 ft. of the target must succeed on a DC 16 Dexterity saving throw or become vulnerable to lightning damage for 1 min. Any creature that fails their save can repeat the save at the end of each of its turns, ending the vulnerability on a success.
 
+___
 > ## Halazzi <!-- https://wc5e-cr-calculator.frogvall.com/?v2;1;17;(10d10+40)*1.5;8;16;(12*2+14*2)*1.5;(12*2+14)*1.5;(12*2+14*1.5);0;0;0;;;;;3;;;;;;;;;;1;;;1;;;;;10;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
 > *Large beast, unaligned*
 > ___
@@ -108,6 +110,7 @@ ___
 > ### Bonus Actions
 > ***Fire Bomb.*** Any creature of Jan'alai's choice within 120 ft. must make a DC 16 Intelligence saving throw or be teleported to an open space of Jan'alai's choice within 5 feet of it. He then lays an egg under himself. The egg has 15 hit points, and using Jan'alai's defenses. If the egg isn't killed before the start of Jan'alai's next turn, it explodes, dealing 48 (14d6) fire damage to any creature within 20 feet of it.
 
+___
 > ## Nalorakk <!-- https://wc5e-cr-calculator.frogvall.com/?v2;1;18;22d10+22*3;8;16;2*1d6+2d6+5+1d8+5+2d4+3;2*1d6+2d6+5+1d8+5+4d4+3;2*1d6+2d6+5+1d8+5+6d4+3;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
 > *Large beast, unaligned*
 > ___
@@ -153,7 +156,7 @@ ___
 >
 > <br>&nbsp;&nbsp;&nbsp; **Tier 3.** The loa now glows with a green glow, lacking spots of coat. It can now take 2 legendary actions each round. In addition, any creature that starts its turn within 20 ft. of the loa must succeed on a DC 16 Constitution saving throw or become poisoned until the end of its turn. Any character within 20 ft. of two or more loas, still only make the save once.
 >
-> <br>&nbsp;&nbsp;&nbsp; **Tier 4.** The loa now looks dead, a shell of its former self and its eyes empty of any intelligence, fighting ferociously with nothing holding it back. It can now take 2 legendary actions each round. In addition, its aura deals 2d6 poison damage to anyone failing its Constitution saving throw.
+> <br>&nbsp;&nbsp;&nbsp; **Tier 4.** The loa now looks dead, a shell of its former self and its eyes empty of any intelligence, fighting ferociously with nothing holding it back. It can now take 3 legendary actions each round. In addition, its aura deals 2d6 poison damage to anyone failing its Constitution saving throw.
 >
 
 ### Loa CR per tier
