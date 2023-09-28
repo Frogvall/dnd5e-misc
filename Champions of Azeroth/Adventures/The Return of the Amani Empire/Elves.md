@@ -267,7 +267,7 @@ ___
 >
 > At will: *control flames, create bonfire, light*
 > <br>1/day each: *banishment, create undead, fire shield*
-> <br>2/day each: *counterspell, cause fear, flame arrows*
+> <br>2/day each: *counterspell, cause fear, flame arrows, ray of enfeeblement*
 >
 > ### Reactions
 > ***Blink.*** When the blood mage takes damage it can teleport 30 feet to an unoccupied space that it can see.
@@ -308,7 +308,7 @@ ___
 > At will: *control flames, create bonfire, light*
 > <br>1/day each: *soul cage*
 > <br>2/day each: *banishment, create undead, fire shield*
-> <br>3/day each: *counterspell, cause fear, flame arrows*
+> <br>3/day each: *counterspell, cause fear, flame arrows, ray of enfeeblement*
 >
 > ### Reactions
 > ***Blink.*** When Kael'thas takes damage he can teleport 30 feet to an unoccupied space that he can see.
@@ -318,13 +318,13 @@ ___
 >
 > ***Blink.*** Kael'thas teleports 30 feet to an unoccupied space that he can see.
 >
-> ***Summon Phoenix.*** Kael'thas summons a Phoenix in an unoccupied space within 60 ft. The phoenix then rolls for initiative.
+> ***Summon Phoenix.*** Kael'thas summons a Fel Phoenix in an unoccupied space within 60 ft. The phoenix then rolls for initiative.
 >
 > ***Felfire bolt (Costs 2 Actions).*** Kael'thas uses Felfire Bolt.
 
 *Unless Kael'thas is surprised, it starts encounters with fire shield already cast.*
 
-> ## Phoenix <!-- https://wc5e-cr-calculator.frogvall.com/?v2;0;12;8d6-8+10;4;12;2d6+1d6+2;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
+> ## Fel Phoenix <!-- https://wc5e-cr-calculator.frogvall.com/?v2;0;12;8d6-8+10;4;12;2d6+1d6+2;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
 > *Small undead, unaligned*
 > ___
 > - **Armor Class** 12
