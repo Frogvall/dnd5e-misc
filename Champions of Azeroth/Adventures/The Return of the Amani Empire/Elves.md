@@ -359,7 +359,7 @@ ___
 >
 > ***Felfire bolt (Costs 2 Actions).*** Kael'thas uses Felfire Bolt.
 
-*Unless Kael'thas is surprised, it starts encounters with fire shield already cast.*
+*Unless Kael'thas is surprised, he starts encounters with fire shield already cast.*
 
 ___
 > ## Fel Phoenix <!-- https://wc5e-cr-calculator.frogvall.com/?v2;0;12;8d6-8+10;4;12;2d6+1d6+2;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
