@@ -96,16 +96,16 @@ ___
 >
 > ***Regeneration.*** The abomination regains 5 hit points at the start of its turn if it has 1 or more hit points. If the troll takes acid or fire damage, this trait doesn't function at the start of the troll's next turn.
 >
-> ***Stench.*** Any creature that starts its turn within 10 feet of the abomination must succeed on a DC 15 Constitution saving throw or be poisoned until the start of the creature's next turn. On a successful saving throw, the creature is immune to the stench of all abominations for 1 minute.
+> ***Stench.*** Any creature that starts its turn within 10 feet of the abomination must succeed on a DC 16 Constitution saving throw or be poisoned until the start of the creature's next turn. On a successful saving throw, the creature is immune to the stench of all abominations for 1 minute.
 >
 > ***Undead Nature.*** The abomination doesn’t require air, food, drink, or sleep. Magic can't put the ghoul to sleep.
 >
 > ### Actions
 > ***Multiattack.*** The abomination makes two attacks: one with its cleaver and one with its hook.
 >
-> ***Cleaver.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 16 (2d10 + 5) slashing damage plus 5 (1d10) poison damage, and the target must succeed on a DC 14 Constitution saving throw or be poisoned for 1 minute. It can repeat the saving throw at the end of each of its turns, ending the effect on a success.
+> ***Cleaver.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 16 (2d10 + 5) slashing damage plus 5 (1d10) poison damage, and the target must succeed on a DC 16 Constitution saving throw or be poisoned for 1 minute. It can repeat the saving throw at the end of each of its turns, ending the effect on a success.
 >
 > ***Hook.*** Melee or Ranged Weapon Attack: +8 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 14 (2d8 + 5) piercing damage, and if the target is a large or smaller creature it must succeed on a DC 16 Strength saving throw or be grappled and pulled to an empty space next to the abomination.
 >
 > ### Bonus Actions
-> ***Engorge.*** The abomination places one large or smaller, grappled target within its ribcage. The target becomes restrained, and can use its action to break free by succeeding on a DC 15 Strength (Athletics) or Dexterity (Acrobatics) check. While restrained in this way, a creature takes 14 (4d6) bludgeoning damage at the start of each of the abominations turns. An abomination can have only one creature restrained within its ribcage.
+> ***Engorge.*** The abomination places one large or smaller, grappled target within its ribcage. The target becomes restrained, and can use its action to break free by succeeding on a DC 16 Strength (Athletics) or Dexterity (Acrobatics) check. While restrained in this way, a creature takes 14 (4d6) bludgeoning damage at the start of each of the abominations turns. An abomination can have only one creature restrained within its ribcage.
