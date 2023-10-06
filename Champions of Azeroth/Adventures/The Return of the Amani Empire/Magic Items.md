@@ -14,4 +14,4 @@ In addition, you can use this wand to cast *Create Undead*. Once you do so, you 
 
 *Potion, rare*
 
-When you drink this potion, you enter an extradimensional space in time for up 8 hours. The space is 10 by 10 by 10 feet big, and if you leave that space the effect ends early. When the effect ends you return to where you were when you drank the potion and only a minute have passed. For anyone observing you during this minute, you appear to be sleeping.
+When you drink this potion, you enter an extradimensional pocket in time for up 8 hours. The pocket is 10 by 10 by 10 feet big, and if you leave that pocket the effect ends early. When the effect ends you return to where you were when you drank the potion and only a minute have passed. For anyone observing you during this minute, you appear to be sleeping.
