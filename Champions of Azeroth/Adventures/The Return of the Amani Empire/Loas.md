@@ -149,7 +149,7 @@ ___
 >
 > <br>&nbsp;&nbsp;&nbsp; **Tier 1.** The loa's eyes glow green. It has resistance to poison and acid damage.
 >
-> <br>&nbsp;&nbsp;&nbsp; **Tier 2.** The whole texture of the loa has a greenish tone to it. It can now take 1 legandary action each round, regaining soent actions at the start of its turn. Only one legendary action option can be used at a time and only at the end of another creature's turn. It gains the following legendary action options:
+> <br>&nbsp;&nbsp;&nbsp; **Tier 2.** The whole texture of the loa has a greenish tone to it. It can now take 1 legandary action each round, regaining spent actions at the start of its turn. Only one legendary action option can be used at a time and only at the end of another creature's turn. It gains the following legendary action options:
 > <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***Attack.*** The loa makes a melee attack.
 > <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***Move.*** The loa moves up to half its speed, without provoking an oppertunity attack.
 > <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***Phase shift (Costs 2 Actions).*** The loa fades halfway into the spirit world, gaining resistance to all damage except psychic damage and bludgeoning, piercing and slashing damage from magical weapons, until the start of its next turn.
