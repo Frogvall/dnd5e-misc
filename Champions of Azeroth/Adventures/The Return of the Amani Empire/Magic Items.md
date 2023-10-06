@@ -1,6 +1,6 @@
 # Magic Items
 
-#### Eredar Wand of the Burning Legion
+#### Wand of Dread
 
 *Wand, rare (requires attunement by Spellcaster)*
 
