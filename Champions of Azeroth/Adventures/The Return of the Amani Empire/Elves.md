@@ -342,7 +342,7 @@ ___
 >
 > ***Spellcasting.*** Kael'thas casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 14):
 >
-> At will: *control flames, create bonfire, light*
+> At will: *control flames, create bonfire, feather fall, light*
 > <br>1/day each: *soul cage*
 > <br>2/day each: *banishment, create undead, fire shield*
 > <br>3/day each: *counterspell, cause fear, flame arrows, ray of enfeeblement*
