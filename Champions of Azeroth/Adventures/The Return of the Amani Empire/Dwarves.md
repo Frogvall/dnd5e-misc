@@ -1,10 +1,4 @@
 ___
-> ## Dwarven Rifleman
-
-> ## Muradin Bronzebeard
-
-
-___
 > ## Dwarven Rifleman <!-- https://wc5e-cr-calculator.frogvall.com/?v2;0;16;11d8+44;6;12;2*2d8;0;0;0;0;0;;;;1;2;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
 > *Medium humanoid (dwarf), lawful good*
 > ___
@@ -65,7 +59,7 @@ ___
 >
 > ***Warhammer.*** Melee or Ranged Weapon Attack: +8 to hit, reach 5 ft. or range 60/120 ft., one target. Hit: 9 1d8+5 bludgeoning damage. On a ranged attack, the hammer magically reappears in the mountain king's hand after the attack.
 >
-> ***Thunder Clap (Recharge 5-6).*** The mountain king slams the ground with its warhammer. Each creatures of the mountain king's choice within 20 ft. of it must make a DC 15 Constitution saving throw, taking 26 (4d12) thunder damage on a failed save, or half as much damage on a successful one. Any creature that fails its save has its speed halved, takes -2 penalty to AC and Dexterity saving throws, and can't use reactions. On its turn, it can take either an action or a bonus acton, not both. Regardless of the creature's abilities or magic items, it can't make more than one melee or ranged attack during its turn.
+> ***Thunder Clap (Recharge 5-6).*** The mountain king slams the ground with his warhammer. Each creatures of the mountain king's choice within 20 ft. of it must make a DC 15 Constitution saving throw, taking 26 (4d12) thunder damage on a failed save, or half as much damage on a successful one. Any creature that fails its save suffer from the following effects for one minute: it has its speed halved, takes -2 penalty to AC and Dexterity saving throws, and can't use reactions. On its turn, it can take either an action or a bonus acton, not both. Regardless of the creature's abilities or magic items, it can't make more than one melee or ranged attack during its turn. It can repeat this saving throw at the end of each of its turn, ending the effects on a successful save.
 >
 > ### Reactions
 > ***Avatar (1/Day).*** When the mountain king takes damage that would bring it to 0 hit points, it instead regains 30 hit points. In addtion it increases its armor class by 5 and becomes immune to the damage and effect of spells. This effect lasts until the mountain king takes damage.
