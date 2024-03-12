@@ -11,7 +11,7 @@ ___
 > 8 (-1)|12 (+1)|18 (+4)|23 (+6)|16 (+3)|19 (+4)|
 > ___
 > - **Saving Throws** Con +10, Wis +9
-> - **Skills**  Arcana +16, History +11, Insight +8, Perception +8
+> - **Skills**  Arcana +16, History +11, Insight +8, <br>Perception +8
 > - **Damage Resistances** necrotic
 > - **Damage Immunities** cold, poison
 > - **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned, prone, unconscious
@@ -48,7 +48,7 @@ until the end of the lich's next turn. A pinned creature can end this effect ear
 > ***Frost Armor.*** When the lich or one undead unit within 90 ft. of the lich is hit by an attack, the target increases its AC by 5 until the start if the lich's next turn. In addition, the attacker takes 7 (2d6) cold damage.
 >
 > ### Legendary Actions
-> The fel reaver can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time only at the end of another creature's turn. The fel reaver regains spent legendary actions at the start of its turn.
+> The lich can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time only at the end of another creature's turn. The lich regains spent legendary actions at the start of its turn.
 >
 > ***Death and Decay (Costs 2 Actions)*** The lich casts *Death and Decay*.
 >
