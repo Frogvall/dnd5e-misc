@@ -1,8 +1,3 @@
-Frost Nova
-Frost Armor
-Dark Ritual
-Death and Decay
-
 ___
 > ## Lich <!-- https://wc5e-cr-calculator.frogvall.com/?v2;2;17;17d8+17*4;11;19;2*4d12+2*4d8+2d6;6d10+2*4d8+2d6;6d10+2*4d8+2d6;0;0;0;;;;1;2;;;;;;;;;1;3;1;;;;;;;10;;;;;;;2;2;1;3;0;1;1;3;;is1;;is2;;is3;Death%20and%20Decay -->
 > *Medium undead, chaotic evil*
