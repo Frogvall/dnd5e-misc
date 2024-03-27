@@ -25,7 +25,7 @@ ___
 >
 > ***Magic Resistance.*** The lich has advantage on saving throws against spells and other magical effects.
 >
-> ***Undead Nature.*** The lich doesn’t require air, food, drink, or sleep. Magic can't put the ghoul to sleep.
+> ***Undead Nature.*** The lich doesn’t require air, food, drink, or sleep. Magic can't put the lich to sleep.
 >
 > ### Actions
 > ***Claws.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (2d4 + 1) slashing damage.
