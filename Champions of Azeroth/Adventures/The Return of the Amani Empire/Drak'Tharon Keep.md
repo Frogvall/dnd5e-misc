@@ -24,11 +24,11 @@
 ### Trollgore
 
 ___
-> ## Trollgore <!-- https://wc5e-cr-calculator.frogvall.com/?v3;1;2;17;15d10+90;10;15;2*2d6+2d6+2d6+6+2*(4d6+6);2*2d6+2d6+2*(2d6+6)+2*(4d6+6);2*2d6+2d6+2*(2d6+6)+2*(4d6+6);0;0;0;1;;;1;2;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
+> ## Trollgore <!-- https://wc5e-cr-calculator.frogvall.com/?v3;1;2;17;16d10+96;10;15;2*2d6+2d6+2d6+6+2*(4d6+6);2*2d6+2d6+2*(2d6+6)+2*(4d6+6);2*2d6+2d6+2*(2d6+6)+2*(4d6+6);0;0;0;;;;1;2;;;;;;;;;;1;;;;;;;1;10;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
 > *Large undead (troll), chaotic evil*
 > ___
 > - **Armor Class** 17 (natural armor)
-> - **Hit Points** 149 (13d10 + 78)
+> - **Hit Points** 184 (16d10 + 96)
 > - **Speed** 40 ft.
 > ___
 > STR | DEX | CON | INT | WIS | CHA
@@ -53,7 +53,7 @@ ___
 > ***Crush.*** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 13 (2d6 + 6) bludgeoning damage and if the target is a creature it has to succeed on a DC 17 strength saving throw or be knocked prone.
 >
 > ### Bonus Actions
-> ***Consume.*** Each creature within 30 ft. of Trollgore must make a DC 15 constitution saving throw. On a failed save, the creature takes 7 (2d6) necrotic damage and Trollgore's next melee attack that hits before the start of his next turn deals an extra 3 (1d6) necrotic damage.
+> ***Consume.*** Each creature within 30 ft. of Trollgore must make a DC 15 constitution saving throw. On a failed save, the creature takes 7 (2d6) necrotic damage and Trollgore's next melee attack that hits before the start of his next turn deals an extra 3 (1d6) necrotic damage. On a successful save it takes half the damage and suffer no other effects.
 >
 > ***Jump.*** Trollgore jumps up to 50 ft. without provoking opportunity attacks.
 >
