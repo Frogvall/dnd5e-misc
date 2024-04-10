@@ -10,7 +10,7 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 > 8 (-1)|12 (+1)|18 (+4)|23 (+6)|16 (+3)|19 (+4)|
 > ___
-> - **Saving Throws** Con +10, Wis +9
+> - **Saving Throws** Con +9, Wis +8
 > - **Skills**  Arcana +16, History +11, Insight +8, <br>Perception +8
 > - **Damage Resistances** necrotic
 > - **Damage Immunities** cold, poison
