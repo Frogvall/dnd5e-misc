@@ -140,7 +140,7 @@ ___
 > *Medium undead (lich), chaotic evil*
 > ___
 > - **Armor Class** 17 (natural armor)
-> - **Hit Points** 97 (17d8 + 68)
+> - **Hit Points** 120 (16d8 + 48)
 > - **Speed** 30 ft.
 > ___
 > STR | DEX | CON | INT | WIS | CHA
