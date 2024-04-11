@@ -186,7 +186,7 @@ ___
 >
 > ***Spellcasting (Costs 2 Actions)*** Novos casts a spell.
 >
-> ***Wrath of Misery.*** One creature of Novos choice within 60 ft. of him, must succeed on a DC 17 Wisdom saving throw or take 14 (4d6) necrotic damage and become poisoned until the end of Novos next turn.
+> ***Wrath of Misery.*** One creature of Novos choice within 60 ft. of him must succeed on a DC 17 Wisdom saving throw or take 14 (4d6) necrotic damage and become poisoned until the end of Novos next turn.
 >
 > ***Teleport.*** Novos casts *Misty Step*.
 
