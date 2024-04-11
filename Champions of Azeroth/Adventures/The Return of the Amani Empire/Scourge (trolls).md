@@ -4,7 +4,7 @@ ___
 > ___
 > - **Armor Class** 13
 > - **Hit Points** 76 (9d8 + 36)
-> - **Speed** 30 ft., climb 30 ft.
+> - **Speed** 30 ft., climb 30 ft. (forest troll)
 > ___
 > STR | DEX | CON | INT | WIS | CHA
 >|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -41,7 +41,7 @@ ___
 > ___
 > - **Armor Class** 13
 > - **Hit Points** 133 (14d10 + 56)
-> - **Speed** 30 ft., climb 30 ft.
+> - **Speed** 30 ft., climb 30 ft. (forest troll)
 > ___
 > STR | DEX | CON | INT | WIS | CHA
 >|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -111,3 +111,42 @@ ___
 >
 > ### Bonus Actions
 > ***Engorge.*** The abomination places one large or smaller, grappled target within its ribcage. The target becomes restrained, and can use its action to break free by succeeding on a DC 16 Strength (Athletics) or Dexterity (Acrobatics) check. While restrained in this way, a creature takes 14 (4d6) bludgeoning damage at the start of each of the abominations turns. An abomination can have only one creature restrained within its ribcage.
+
+___
+> ## Troll Risen Witch Doctor <!-- https://wc5e-cr-calculator.frogvall.com/?v2;0;13;9d8+36;5;12;6+8;0;0;0;0;0;;;;;3;1;;;;;;;;;1;;;;;;;1;3;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
+> *Medium undead (troll), chaotic evil*
+> ___
+> - **Armor Class** 13
+> - **Hit Points** 91 (14d8 + 28)
+> - **Speed** 30 ft., climb 30 ft. (forest troll)
+> ___
+> STR | DEX | CON | INT | WIS | CHA
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+> 6 (-2)|16 (+3)|15 (+2)|7 (-2)|10 (+0)|17 (+3)|
+> ___
+> - **Damage Resistance** cold (ice troll)
+> - **Damage Immunities** poison
+> - **Condition Immunities** exhaustion, poisoned, unconscious
+> - **Senses** darkvision 60 ft., passive Perception 10
+> - **Languages** —
+> - **Challenge** 2 (450 XP)
+> - **Proficiency Bonus** +2
+> ___
+>
+> ***Regeneration.*** The witch doctor regains 3 hit points at the start of its turn if it has 1 or more hit points. If the troll takes acid or fire damage, this trait doesn't function at the start of the troll's next turn.
+>
+> ***Undead Nature.*** The witch doctor doesn’t require air, food, drink, or sleep. Magic can't put the witch doctor to sleep.
+>
+> ### Actions
+> ***Mind Flay*** One creature of the witch doctor's choice within 120 ft. must succeed on a DC 13 Wisdom saving throw, or take 2d8 psychic damage. If *mind flay* has been used on the target since the start of the witch doctor's last turn, it instead take 2d12 psychic damage.
+>
+> ***Spellcasting.*** The witch doctor casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 13):
+>
+> At will: *blade ward, minor illusion, thaumaturgy*
+> <br>2/day each: *augury, bane, enlarge/reduce*
+> <br>1/day each: *divination, haste, speak with dead*
+>
+> ***Voodoo (1/day).*** One medium or smaller creature of the witch doctor's choice within 60 ft. must succeed on a DC 13 Wisdom saving throw, or become charmed by the witch doctor. On the charmed creature's turn, the witch doctor can command it to move up to half its speed and use its action to interact with an object or make a single attack. At the end of the charmed creature's turn, it can repeat the saving throw, ending the effect on a success. Otherwise, the effect lasts for 1 minute, or until the witch doctor's concentration is broken (as if concentrating on a spell).
+>
+> ### Bonus Actions
+> ***Aggression (forest troll).*** The ghoul move up to its speed toward an enemy of its choice that it can see or hear. It must end this move closer to that enemy than it started.
