@@ -113,7 +113,7 @@ ___
 > ***Engorge.*** The abomination places one large or smaller, grappled target within its ribcage. The target becomes restrained, and can use its action to break free by succeeding on a DC 16 Strength (Athletics) or Dexterity (Acrobatics) check. While restrained in this way, a creature takes 14 (4d6) bludgeoning damage at the start of each of the abominations turns. An abomination can have only one creature restrained within its ribcage.
 
 ___
-> ## Troll Risen Witch Doctor <!-- https://wc5e-cr-calculator.frogvall.com/?v2;0;13;9d8+36;5;12;6+8;0;0;0;0;0;;;;;3;1;;;;;;;;;1;;;;;;;1;3;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
+> ## Risen Troll Witch Doctor <!-- https://wc5e-cr-calculator.frogvall.com/?v2;0;13;9d8+36;5;12;6+8;0;0;0;0;0;;;;;3;1;;;;;;;;;1;;;;;;;1;3;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
 > *Medium undead (troll), chaotic evil*
 > ___
 > - **Armor Class** 13
