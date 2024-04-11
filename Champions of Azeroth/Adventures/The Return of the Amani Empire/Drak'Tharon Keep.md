@@ -195,7 +195,7 @@ On initiative count 20 (losing initiative ties), Novos takes a lair action to ca
 
 - One Crystal Handler is summoned into an empty space within 60 ft. of Novos. The Crystal Handler is controlled by Novos and don't roll for initiative, nor acts on its own.
 
-While in his lair, Novos has a CR of 12 (10,000 XP).
+While in his lair, Novos has a CR of 12 (8,400 XP).
 
 ___
 ___
