@@ -1,5 +1,5 @@
 ___
-> ## Forest Troll Ghoul <!-- https://wc5e-cr-calculator.frogvall.com/?v2;0;13;9d8+36;5;12;6+8;0;0;0;0;0;;;;;3;1;;;;;;;;;1;;;;;;;1;3;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
+> ## Troll Ghoul <!-- https://wc5e-cr-calculator.frogvall.com/?v2;0;13;9d8+36;5;12;6+8;0;0;0;0;0;;;;;3;1;;;;;;;;;1;;;;;;;1;3;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
 > *Medium undead (troll), chaotic evil*
 > ___
 > - **Armor Class** 13
@@ -10,6 +10,7 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 > 17 (+3)|16 (+3)|18 (+4)|7 (-2)|10 (+0)|6 (-2)|
 > ___
+> - **Damage Resistance** cold (ice troll)
 > - **Damage Immunities** poison
 > - **Condition Immunities** exhaustion, poisoned, unconscious
 > - **Senses** darkvision 60 ft., passive Perception 10
@@ -32,10 +33,10 @@ ___
 > ***Cannibalize (Recharge after a Short or Long Rest).*** The ghoul cannibalizes the corpse of a humanoid that has been dead for less than a day, regaining 15 hit points. Each living creature that is within 30 feet of the ghoul and can see it must succeed on a DC 13 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's save is successful or the effect ends for it, the creature is immune to any ghoul's cannibalize for the next 24 hours.
 >
 > ### Bonus Actions
-> ***Aggression.*** The ghoul move up to its speed toward an enemy of its choice that it can see or hear. It must end this move closer to that enemy than it started.
+> ***Aggression (forest troll).*** The ghoul move up to its speed toward an enemy of its choice that it can see or hear. It must end this move closer to that enemy than it started.
 
 ___
-> ## Dire Forest Troll Ghoul <!-- https://wc5e-cr-calculator.frogvall.com/?v2;1;12;14d10+56;8;12;7d6+5;0;0;0;0;0;;;;;3;1;;;;;;;;;1;;;;;;;1;5;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
+> ## Dire Troll Ghoul <!-- https://wc5e-cr-calculator.frogvall.com/?v2;1;12;14d10+56;8;12;7d6+5;0;0;0;0;0;;;;;3;1;;;;;;;;;1;;;;;;;1;5;;;;;;;2;2;1;3;1;0;1;3;;is1;;is2;;is3; -->
 > *Large undead (troll), chaotic evil*
 > ___
 > - **Armor Class** 13
@@ -46,6 +47,7 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 > 20 (+5)|16 (+3)|18 (+4)|7 (-2)|10 (+0)|6 (-2)|
 > ___
+> - **Damage Resistance** cold (ice troll)
 > - **Damage Immunities** poison
 > - **Condition Immunities** exhaustion, poisoned, unconscious
 > - **Senses** darkvision 60 ft., passive Perception 10
@@ -68,7 +70,7 @@ ___
 > ***Rock.*** Ranged Weapon Attack: +8 to hit, range 50/100 ft., one target. Hit: 29 (7d6 + 5) bludgeoning damage.
 >
 > ### Bonus Actions
-> ***Aggression.*** The ghoul move up to its speed toward an enemy of its choice that it can see or hear. It must end this move closer to that enemy than it started.
+> ***Aggression (forest troll).*** The ghoul move up to its speed toward an enemy of its choice that it can see or hear. It must end this move closer to that enemy than it started.
 
 ___
 ___
