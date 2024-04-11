@@ -21,3 +21,9 @@ When you drink this potion, you enter an extradimensional pocket in time for up 
 *Wondreous item, rare (requires attunement)*
 
 When you take damage that would bring you to 0 hit points, you can use your reaction to instead regain 30 hit points. In addtion your armor class increases by 5 and you become immune to the damage and effect of spells. This effect lasts until you take damage. The amulet can be used once. After finishing a long rest roll 1d6. The amulet regains its use on a 5 or 6.
+
+#### Legs of Physical Regeneration
+
+*Pants, rare (requires attunement by a troll)*
+
+Whenever you roll a hit die to restore hit points, roll it twice and pick either result.
