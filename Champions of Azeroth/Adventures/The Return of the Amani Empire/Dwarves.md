@@ -12,7 +12,7 @@ ___
 > ___
 > - **Saving Throws** Con +6, Wis +4
 > - **Skills** Athletics +6, History +2
-> - **Damage Resistances** frost
+> - **Damage Resistances** cold
 > - **Senses** darkvision 60 ft., passive Perception 12
 > - **Languages** common, dwarvish
 > - **Challenge** 3 (700 XP)
@@ -43,7 +43,7 @@ ___
 > ___
 > - **Saving Throws** Con +6, Wis +4
 > - **Skills** Athletics +8, History +6, Perception +5
-> - **Damage Resistances** frost
+> - **Damage Resistances** cold
 > - **Senses** darkvision 60 ft., passive Perception 15
 > - **Languages** common, dwarvish
 > - **Challenge** 6 (2.300 XP)
