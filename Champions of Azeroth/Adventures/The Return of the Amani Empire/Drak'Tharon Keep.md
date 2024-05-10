@@ -81,7 +81,7 @@ ___
 > - **Challenge** —
 > ___
 >
-> ***Undead Nature.*** The shadowcaster doesn’t require air, food, drink, or sleep. Magic can't put the ghoul to sleep.
+> ***Undead Nature.*** The shadowcaster doesn’t require air, food, drink, or sleep. Magic can't put the shadowcaster to sleep.
 >
 > ### Actions
 > ***Shadow Bolt.*** Ranged Spell Attack: +9 to hit, range 120 ft., one target. Hit: 5 (1d10) necrotic damage.
@@ -105,11 +105,11 @@ ___
 > - **Challenge** —
 > ___
 >
-> ***Undead Nature.*** The hulking corpse doesn’t require air, food, drink, or sleep. Magic can't put the ghoul to sleep.
+> ***Undead Nature.*** The hulking corpse doesn’t require air, food, drink, or sleep. Magic can't put the hulking corpse to sleep.
 >
 > ### Actions
 >
-> ***Thunderclap.*** By slamming its hands together, the hulking corspe creates a burst of thunderous sound that can be heard up to 100 feet away. Each creature within 10 ft., other than the hulking corpse, must succeed on a DC 17 Constitution saving throw or take 1d6 thunder damage and have their speed reduced by 10 feet.
+> ***Thunderclap.*** By slamming its hands together, the hulking corspe creates a burst of thunderous sound that can be heard up to 100 feet away. Each creature within 10 ft., other than the hulking corpse, must succeed on a DC 17 Constitution saving throw or take 1d6 thunder damage and have their speed reduced by 10 feet until the end of Novos next turn.
 
 ___
 > ## Crystal Handler
@@ -130,7 +130,7 @@ ___
 > - **Challenge** —
 > ___
 >
-> ***Undead Nature.*** The crystal handler doesn’t require air, food, drink, or sleep. Magic can't put the ghoul to sleep.
+> ***Undead Nature.*** The crystal handler doesn’t require air, food, drink, or sleep. Magic can't put the crystal handler to sleep.
 >
 > ### Actions
 > ***Flash of Darkness.*** Each creature in a 25 ft. cone must make a DC 17 Constitution saving throw or take 9 (2d8) necrotic damage and become blinded until the end of Novos next turn.
@@ -158,7 +158,7 @@ ___
 > - **Proficiency Bonus** +4
 > ___
 >
-> ***Arcane Field.*** Any living creature that ends its turn within 20 ft. of Novos takes 10 force damage and any living creature within 20 ft. of Novos has their speed reduced to half, unless it has cold resistance. In addition, Novos is immune to all damage and conditions while any Crystal Handler is concious and within 120 ft. of Novos. Any condition effective on Novos when immunity is activated, ends immidiately.
+> ***Arcane Field.*** Any living creature that ends its turn within 20 ft. of Novos takes 10 force damage and any living creature within 20 ft. of Novos has their speed reduced to half, unless it has cold resistance or immunity. In addition, Novos is immune to all damage and conditions while any Crystal Handler is concious and within 120 ft. of Novos. Any condition effective on Novos when immunity is activated, ends immediately.
 >
 > ***Magic Resistance.*** Novos has advantage on saving throws against spells and other magical effects.
 >
