@@ -116,10 +116,10 @@
 |:---:|:--------------------------------------------------------------------------|
 | 1/8 | Giant Crab ✧, Grell                                                      |
 | 1/4 | Boar ✧, Scorpid                                                          |
-| 1/2 | Crocolisk (Crocodile ✧), Makrura, Naga, Quilboar, Raptor, Reef Shark ✧   |
-|  1  | Naga Sorceress, Quilboar Geomancer, Tiger ✧                              |
-|  2  | Naga Myrmidon, Thunder Lizard                                             |
-|  3  | Naga Warlord, Quilboar Chieftain                                          |
+| 1/2 | Crocolisk (Crocodile ✧), Makrura, Quilboar, Reef Shark ✧                 |
+|  1  | Harpy, Quilboar Geomancer, Raptor, Tiger ✧                               |
+|  2  | Centaur, Harpy Storm-Hag, Thunder Lizard                                  |
+|  3  | Centaur Khan,  Harpy Fury, Quilboar Chieftain                             |
 
 ##### Elwynn Forest
 
@@ -140,8 +140,8 @@
 | 1/4 | Boar ✧, Cougar (Panther ✧), Tallstrider (Axe Beak ✧), Wolf ✧            |
 | 1/2 | Kodo, Quilboar                                                            |
 |  1  | Carrion Bird (Giant Vulture ✧), Gnoll, Harpy, Lion ✧, Quilboar Geomancer |
-|  2  | Centaur                                                                   |
-|  3  | Centaur Khan, Quilboar Chieftain                                          |
+|  2  | Centaur, Harpy Storm-Hag                                                  |
+|  3  | Centaur Khan,  Harpy Fury, Quilboar Chieftain                             |
 
 \column
 
@@ -154,7 +154,7 @@
 | 1/2 | Black Bear ✧, Furbolg Mystic, Timberling                                  |
 |  1  | Brown Bear ✧, Furbolg Chieftain, Giant Spider ✧, Harpy, Satyr            |
 |  2  | Harpy Storm-Hag, Nightsaber (Saber-Toothed Tiger ✧)                       |
-|  2  | Harpy Fury                                                                |
+|  3  | Harpy Fury                                                                |
 
 ##### Tirisfal Glades
 
