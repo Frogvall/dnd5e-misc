@@ -39,7 +39,61 @@
 
 :
 ### Actions
-***Claws.*** *Melee Attack Roll:* +4, reach 5 ft. Hit: 4 (1d4 + 2) Piercing damage.
+***Claws.*** *Melee Attack Roll:* +4, reach 5 ft. *Hit:* 4 (1d4 + 2) Piercing damage.
+}}
+
+:
+
+{{monster,frame
+## Leper Gnome <!-- https://wc5e-cr-calculator.frogvall.com/?v3;2;0;13;2d6+2;3;1;1d6+1;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;1;;;;;10;;;;;;;2;2;1;3;0;1;1;3;;is1;;is2;;is3; -->
+*Small Humanoid, Chaotic Evil*
+
+{{stats
+
+{{vitals
+**AC**         :: 13
+**HP**         :: 9 (2d6 + 2)
+**Speed**      :: 30ft.
+\column
+{{align-right
+**Initiative** :: +1 (11)
+}}
+}}
+
+{{tables
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 8 | --1  | --1  |
+|Int| 13|  +1  |  +1  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 13|  +1  |  +1  |
+|Wis| 10|  +0  |  +0  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 12|  +1  |  +1  |
+|Cha| 10|  +0  |  +0  |
+}}
+
+**Resistances** :: Poison
+**Immunities**  :: Poisoned
+**Gear**        :: Shortsword, Shield
+**Senses**      :: Darkvision 60 ft., Passive Perception 10
+**Languages**   :: Common, Gnomish
+**CR**          :: 1/8 (XP 25; PB +2)
+}}
+
+:
+### Traits
+***Crazed.*** The leper gnome has Advantage on attack rolls against any creature that is Bloodied.
+:
+***Gnomish Cunning.*** The leper gnome has Advantage on Intelligence, Wisdom, and Charisma saving throws.
+
+:
+### Actions
+***Shortsword.*** *Melee Attack Roll:* +3, reach 5 ft. *Hit:* 4 (1d6 + 1) Piercing damage.
 }}
 
 \column
