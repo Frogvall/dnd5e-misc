@@ -255,7 +255,7 @@
 :
 
 {{monster,frame
-## Trogg Shaman <!-- https://wc5e-cr-calculator.frogvall.com/?v3;2;0;13;4d8+8+2d4+2;4;12;18;2d4+2;2d4+2;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;1;;;;2;2;1;3;0;0;1;3;;is1;Thunderwave;is2;;is3; -->
+## Trogg Shaman <!-- https://wc5e-cr-calculator.frogvall.com/?v3;2;0;13;4d8+8+2d4+2;4;12;18;2d8+2;2d8+2;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;1;;;;2;2;1;3;0;0;1;3;;is1;Thunderwave;is2;;is3; -->
 *Medium Humanoid (trogg), Chaotic Evil*
 
 {{stats
@@ -300,11 +300,11 @@
 
 :
 ### Actions
-***Club.*** *Melee Attack Roll:* +4, reach 5 ft. *Hit:* 7 (2d4 + 2) Bludgeoning or Force damage.
-:
+***Club.*** *Melee Attack Roll:* +4, reach 5 ft. *Hit:* 11 (2d8 + 2) Bludgeoning or Force damage.
+:1
 ***Spellcasting.*** The trogg casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 12):
 :
-**At Will:** *Elementalism*, *Mage Armor* (included in AC), *Shillelagh*<br>
+**At Will:** *Elementalism*, *Mage Armor* (included in AC), *Shillelagh*<br/>
 **1/Day Each:** *Enlarge/Reduce*, *Thunderwave*
 
 :
@@ -361,19 +361,19 @@
 
 :
 ### Actions
-***Handaxe.*** *Melee or Ranged Attack Roll:* +4, reach 5 ft or range 20/60 ft. Hit: 4 (1d6 + 2) Piercing damage.
+***Handaxe.*** *Melee or Ranged Attack Roll:* +4, reach 5 ft or range 20/60 ft. *Hit:* 4 (1d6 + 2) Piercing damage.
 }}
 
 :
 
 {{monster,frame
-## Troll Headhunter <!-- https://wc5e-cr-calculator.frogvall.com/?v3;2;0;14;6d8+18;5;12;2*(1d8+3);0;0;0;0;0;;;;1;2;;;;;;;;;;1;;;;;;;1;7;;;;;;;2;2;1;3;0;1;1;3;;is1;;is2;;is3; -->
+## Troll Headhunter <!-- https://wc5e-cr-calculator.frogvall.com/?v3;2;0;13;6d8+18;5;12;2.5*(1d8+3);0;0;0;0;0;;;;1;2;;;;;;;;;;1;;;;;;;1;7;;;;;;;2;2;1;3;0;1;1;3;;is1;;is2;;is3; -->
 *Medium Humanoid (troll), Neutral*
 
 {{stats
 
 {{vitals
-**AC**         :: 14
+**AC**         :: 13
 **HP**         :: 45 (6d8 + 18)
 **Speed**      :: 30ft.
 \column
@@ -400,7 +400,7 @@
 }}
 
 **Skills**      :: Acrobatics +5, Perception +4, Stealth +5, Survival +4
-**Gear**        :: Hide Armor, Spears (3)
+**Gear**        :: Spears (3)
 **Senses**      :: Darkvision 60 ft., Passive Perception 14
 **Languages**   :: Zandalari
 **CR**          :: 2 (XP 450; PB +2)
@@ -412,10 +412,10 @@
 
 :
 ### Actions
-***Multiattack.*** The troll makes two Spear attacks.
+***Multiattack.*** The troll makes two Spear attacks, or three Spear attacks if it is Bloodied.
 
 :
-***Spear.*** *Melee or Ranged Attack Roll:* +5, reach 5 ft or range 20/60 ft. Hit: 5 (1d6 + 3) Piercing damage or 7 (1d8+3) if wielded two-handed.
+***Spear.*** *Melee or Ranged Attack Roll:* +5, reach 5 ft or range 20/60 ft. *Hit:* 6 (1d6 + 3) Piercing damage or 7 (1d8+3) if wielded two-handed.
 }}
 
 :
@@ -462,18 +462,137 @@
 :
 ### Traits
 ***Berserk.*** Whenever the troll starts its turn Bloodied, roll 1d6. On a 6, the troll goes berserk. On each of its turns while berserk, the troll attacks the nearest creature it can see. If no creature is near enough to move to and attack, the troll attacks an object. Once the troll goes berserk, it remains so until it is destroyed or it is no longer Bloodied. The troll can still use Regeneration while berserk.
-
 :
 ***Regeneration.*** At the start of each of its turns, if the troll has at least 1 Hit Point, it regains 10 Hit Points.
 
 :
 ### Actions
-***Fist.*** *Melee Attack Roll:* +6, reach 5 ft. Hit: 20 (3d10 + 4) Bludgeoning damage. If the target is a Medium or smaller creatures, it has the Grappled condition (escape DC 14). While Grappled, the target has the Restrained condition.
-
+***Fist.*** *Melee Attack Roll:* +6, reach 5 ft. *Hit:* 20 (3d10 + 4) Bludgeoning damage. If the target is a Medium or smaller creatures, it has the Grappled condition (escape DC 14). While Grappled, the target has the Restrained condition.
 :
 ***Toss***. The troll hurls a rock or a creature that it is grappling at a creature it can see within 60 feet. Dexterity Saving Throw: DC 14, one creature. *Failure:* 15 (2d10+4) Bludgeoning damage. If the target is a Medium or smaller creature, it has the Prone condition. If the hurled object is a creature it takes 15 (2d10+4) Bludgeoning damage, and it has the Prone condition. *Success:* The hurled creature takes half damage only and the target creature takes none.
 }}
 
+\page
+
+{{monster,frame
+## Troll Witch Doctor <!-- https://wc5e-cr-calculator.frogvall.com/?v3;2;0;12;4d8+8+2d4+2;5;1;16;1d8+3;1d8+3;0;0;0;;;;1;2;;;;;;;;;;1;;;;;;;1;7;;;;;;;2;2;1;3;0;0;1;3;;is1;Inflict%20Wounds;is2;;is3; -->
+*Medium Humanoid (troll), Neutral*
+
+{{stats
+
+{{vitals
+**AC**         :: 12
+**HP**         :: 26 (4d8 + 8)
+**Speed**      :: 30ft.
+\column
+{{align-right
+**Initiative** :: +2 (12)
+}}
+}}
+
+{{tables
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 10|  +0  |  +0  |
+|Int| 14|  +2  |  +2  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 15|  +2  |  +2  |
+|Wis| 15|  +2  |  +4  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 14|  +2  |  +4  |
+|Cha| 17|  +3  |  +3  |
+}}
+
+**Skills**      :: History +4, Medicine + 4, Performance +5, Religion +6
+**Gear**        :: Quarterstaff
+**Senses**      :: Darkvision 60 ft., Passive Perception 12
+**Languages**   :: Zandalari
+**CR**          :: 1 (XP 200; PB +2)
+}}
+
+:
+### Traits
+***Regeneration.*** At the start of each of its turns, if the troll has at least 1 Hit Point, it regains 6 Hit Points.
+:
+***Sentry Ward.*** The troll and its allies withing 30 ft. can see creatures and objects that have the Invisible condition as if they were visible.
+
+:
+### Actions
+***Mind Blast.*** Ranged Attack Roll: +5, range 30 ft. Hit: 7 (1d8 + 3) Necrotic damage.
+:
+***Quarterstaff.*** *Melee Attack Roll:* +2, reach 5 ft. *Hit:* 5 (1d6 + 2) Bludgeoning damage or 6 (1d8 + 2) Bludgeoning damage if wielded two-handed.
+:
+***Spellcasting.*** The troll casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 13):
+:
+**At Will:** *Spare the Dying*, *Speak with Dead*, *Thaumaturgy*<br/>
+**2/Day Each:** *Bane*, *Shield of Faith*<br/>
+**1/Day Each:** *Augury*, *Inflict Wounds*
+
+:
+### Bonus Actions
+***Healing Word (2/Day)*** The troll casts *Healing Word*, using the same spellcasting ability as Spellcasting.
+}}
+
+:
+
+{{monster,frame
+## Troll Chieftain <!-- http://wc5e-cr-calculator.frogvall.com/?v3;2;0;14;7d8+21;5;1;2*(2d6+3);0;0;0;0;0;;;;1;2;;;;;;;;;;1;;;1;;;;1;10;;;;;;;2;2;1;3;0;0;1;3;;is1;;is2;;is3; -->
+*Medium Humanoid (troll), Neutral*
+
+{{stats
+
+{{vitals
+**AC**         :: 14
+**HP**         :: 52 (7d8 + 21)
+**Speed**      :: 30ft.
+\column
+{{align-right
+**Initiative** :: +2 (12)
+}}
+}}
+
+{{tables
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 17|  +3  |  +3  |
+|Int| 12|  +1  |  +1  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 15|  +2  |  +2  |
+|Wis| 15|  +2  |  +4  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 16|  +3  |  +5  |
+|Cha| 17|  +3  |  +3  |
+}}
+
+**Skills**      :: Acrobatics +4, Athletics +5, Intimidation +7, Perception +4, Survival +4
+**Gear**        :: Greatsword, Hide Armor, Spears (3)
+**Senses**      :: Darkvision 60 ft., Passive Perception 14
+**Languages**   :: Zandalari
+**CR**          :: 3 (XP 700; PB +2)
+}}
+
+:
+### Traits
+***Aura of Authority.*** While in a 10-foot Emanation originating from the troll, the troll and its allies have Advantage on attack rolls and saving throws, provided the troll doesn’t have the Incapacitated condition.
+:
+***Regeneration.*** At the start of each of its turns, if the troll has at least 1 Hit Point, it regains 10 Hit Points.
+
+:
+### Actions
+***Multiattack.*** The troll makes two Great Sword attacks, two Spear attacks or one of each.
+:
+***Greatsword.*** *Melee Attack Roll:* +5, reach 5 ft. *Hit:* 10 (2d6 + 3) Slashing Damage. *Miss:* 3 Slashing damage.
+:
+***Spear.*** *Melee or Ranged Attack Roll:* +4, reach 5 ft or range 20/60 ft. *Hit:* 5 (1d6 + 2) Piercing damage or 6 (1d8+2) Piercing damage if wielded two-handed.
+}}
 
 {{note
 ##### Trolls of Azeroth
@@ -482,17 +601,11 @@ There are a plenitude of different troll tribes, each developed uniquely based o
 :
 **Forest Troll.** Climbing speed equal to walking speed. *Adrenalin Rush (Bonus Action):* The troll takes the dash action.<br/>
 **Ice Troll.** Cold resistance.<br/>
-**Jungle Troll.** *Berserking (Bonus Action, 2/Day):* The troll makes a weapon attack or cast a cantrip.<br/>
+**Jungle Troll.** *Berserking (Bonus Action, 2/Day):* The troll makes a weapon attack or casts a cantrip.<br/>
 **Sand Troll.** Fire resistance.<br/>
 **Zandalari Troll.** *Embrace of the Loa (Trait, PB/Day):* The troll can add a d4 to one D20
 Test it makes, after seeing the d20 roll but before the effects of the roll are resolved.<br/>
 }}
-
-\page
-
-Troll Witch Doctor
-
-Troll Chieftain
 
 \page
 
