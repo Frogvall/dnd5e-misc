@@ -1029,23 +1029,87 @@ You can activate this ability when you hit a creature with an attack to sunder i
 \page
 {{pageNumber,auto}}
 
+# Gear
+{title="Player Options"}
 
-# Appendix A: Companions
+Azeroth's adventurers use most of the same equipment described in the *Core Rules*, swords, bows, armor, and adventuring gear that would be recognizable in any fantasy setting. But the world of *Warcraft* has its own distinctive weapons and tools, a few of which have no direct equivalent in the standard equipment lists.
+
+This chapter presents a small selection of new weapons inspired by Warcraft's most iconic martial traditions: the warglaives of the Illidari, the thrown glaives of night elf wardens, and others. These weapons follow all standard Dragonbane rules, with a few new properties defined here, and can be purchased, found, or crafted as described in the *Core Rules*.
+
+All standard Dragonbane equipment remains available in Azeroth. A longsword is a longsword whether you're in Stormwind or Misty Vale, and the familiar equipment of Dragonbane requires no adaptation to work in this setting.
+
+### Firearms
+
+Firearms are commonly available weapons, attributed to be originally crafted by the dwarves of Ironforge. In *Bane of Azeroth* it is represented by the secondary skill FIREARMS (AGL). Firing a firearm produces a loud boom, audible out to half a mile.
+
+### Glaives
+
+Warglaives and throwing glaives are typical elven weapons, used primarly by the illidari, wardens or troll shadow hunters. Attacks with glaives uses the KNIVES skill.
+
+{{tablebox,wide
+### Melee Weapons
+
+
+| Weapon          | Grip | STR | Range | Damage | Dur. | Cost    | Supply   | Features                    |
+|:--------------- |:----:|:---:|:-----:|:------:|:----:|:-------:|:-------- |:--------------------------- |
+| Fist Weapon     | 1h   | -   | 2     | D10    | 9    | 8 gold  | Uncommon | Freehanded, Piercing        |
+| Throwing Glaive | 1h   | 10  | STR   | 2D6    | 12   | 15 gold | Rare     | Returning, Slashing, Thrown |
+| Warglaive       | 1h   | 10  | 2     | 2D8    | 15   | 30 gold | Rare     | Slashing, Toppling          |
+}}
+
+{{wide
+**Freehanded**: This weapon is strapped to your wrist and leaves a hand available to hold items, such as a torch or a focus. Attacks with this weapon uses the BRAWLING skill.<br/>
+**Returning**: This weapon returns to the wielder’s hand immediately after it is used to make a ranged attack.
+}}
+
+{{tablebox,wide
+### Ranged Weapons
+
+
+| Weapon      | Grip | STR | R  | Damage | Dur. | Cost     | Supply   | Features                                              |
+|:----------- |:----:|:---:|:--:|:------:|:----:|:--------:|:-------- |:----------------------------------------------------- |
+| Blunderbuss | 2h   | 10  | 20 | 2D8    | 6    | 150 gold | Uncommon | Ammunition, No damage bonus, Piercing, Scattershot    |
+| Pistol      | 1h   | 7   | 30 | 2D6    | 3    | 75 gold  | Uncommon | Ammunition, Armor piercing, No damage bonus, Piercing |
+| Rifle       | 2h   | 13  | 60 | 2D10   | 6    | 300 gold | Rare     | Ammunition, No damage bonus, Piercing                 |
+}}
+
+{{wide
+**Armor piercing**: Ranged attacks using this weapon can use the FIND WEAK SPOT special attack.<br/>
+**Scattershot**: Attacks with this weapon do not get a bane for shooting at a target within 2 meters. For attacks beyond its listed range, damage is halved (round up).
+}}
+
+{{tablebox,wide
+### Trade Goods
+
+
+| Item       | Cost   | Supply   | Weight | Effect                     |
+|:---------- |:------:|:-------- |:------:|:-------------------------- |
+| Ammo Pouch | 5 gold | Uncommon | 1      | Required to fire firearms. |
+}}
 
 \page
 {{pageNumber,auto}}
 
-# Appendix B: Demons
+# Companions
+{title="Appendix A"}
 
 \page
 {{pageNumber,auto}}
 
-# Appendix C: Shapeshifting
+# Demons
+{title="Appendix B"}
 
 \page
 {{pageNumber,auto}}
 
-# Appendix D: Spells
+# Shapeshifting
+{title="Appendix C"}
+
+\page
+{{pageNumber,auto}}
+
+# Spells
+{title="Appendix D"}
 
 ### Elemental Totem
 - **Rank:** 1
