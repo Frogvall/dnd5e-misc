@@ -56,7 +56,7 @@ The Homebrewery
 
 {{resetCounting}}
 \page
-{{pageNumber,auto}}
+{{pageNumber,auto Kin}}
 
 
 # Kin
@@ -137,7 +137,7 @@ The dracthyr are an ancient race of humanoid dragonkin created by the black Drag
 }}
 
 \page
-{{pageNumber,auto}}
+{{pageNumber,auto Kin}}
 
 ![dracthyr](https://i.imgur.com/2O9IlQm.jpeg) {height:450px,mix-blend-mode:multiply,margin-left:0cm,margin-top:-1cm,transform:scaleX(-1)}
 
@@ -189,7 +189,7 @@ Activating this ability (an action in combat) gives all allies within 10 meters 
 }}
 
 \page
-{{pageNumber,auto}}
+{{pageNumber,auto Kin}}
 
 ### Dwarf
 
@@ -247,7 +247,7 @@ Known for their fiery tempers and fierce determination, Dark Iron dwarves have a
 ![dark iron dwarf](https://i.imgur.com/G8vufji.jpeg) {height:450px,mix-blend-mode:multiply,margin-left:0cm,margin-top:-0.5cm}
 
 \page
-{{pageNumber,auto}}
+{{pageNumber,auto Kin}}
 
 
 {{dragonbox
@@ -298,7 +298,7 @@ Ten thousand years ago, the kaldorei, or night elves, founded a vast empire, but
 ![night elf](https://i.imgur.com/IBezcho.jpeg) {height:450px,mix-blend-mode:multiply,margin-left:0cm,margin-top:1cm,margin-bottom:-1cm}
 
 \page
-{{pageNumber,auto}}
+{{pageNumber,auto Kin}}
 
 {{twocols
 | D6 | First Name  |
@@ -363,7 +363,7 @@ Goblins are a cunning and entrepreneurial species, originating from the Isle of 
 ![goblin](https://i.imgur.com/ARYpTQ0.png) {height:450px,mix-blend-mode:multiply,margin-left:0cm,margin-top:-0.5cm,margin-bottom:-1cm,transform:scaleX(-1)}
 
 \page
-{{pageNumber,auto}}
+{{pageNumber,auto Kin}}
 
 {{twocols
 | D6 | First Name  |
@@ -439,7 +439,7 @@ While the proud, fearsome orcs have spread across Azeroth, they originated on th
 }}
 
 \page
-{{pageNumber,auto}}
+{{pageNumber,auto Kin}}
 
 ![orc](https://i.imgur.com/cNumMhe.jpeg) {height:450px,mix-blend-mode:multiply,margin-left:0cm,margin-top:0cm,transform:scaleX(-1)}
 
@@ -484,7 +484,7 @@ You can meditate deeply during a stretch rest. You heal an additional D6 HP and 
 }}
 
 \page
-{{pageNumber,auto}}
+{{pageNumber,auto Kin}}
 
 ### Tauren
 
@@ -545,7 +545,7 @@ By activating this ability (a free action in combat) you recover D6 HP. This can
 }}
 
 \page
-{{pageNumber,auto}}
+{{pageNumber,auto Kin}}
 
 ### Undead
 
@@ -608,7 +608,7 @@ Native to the desolate sands of Vol'dun, vulpera are known for their resourceful
 ![undead](https://i.imgur.com/lilhrQz.png) {height:450px,mix-blend-mode:multiply,margin-left:0cm,margin-top:0cm,margin-bottom:-1cm,transform:scaleX(-1)}
 
 \page
-{{pageNumber,auto}}
+{{pageNumber,auto Kin}}
 
 {{dragonbox
 ### Ability: Luck
@@ -677,7 +677,7 @@ By activating this ability (a free action in combat) you change between your hum
 | Worgen   | 12       |
 
 \page
-{{pageNumber,auto}}
+{{pageNumber,auto Heroic Class Abilities}}
 
 # Heroic Class Abilities
 {title="Player Options"}
@@ -688,34 +688,63 @@ Traditionally, games being set on Azeroth is used to having classes. Classes isn
 
 Death knights are among the most feared warriors in Azeroth's history. Created by the Lich King to serve as his most elite soldiers, death knights wield unholy magic, runic power, and the mastery of undeath that their master bestowed upon them. They are not undead in the traditional sense. They are fallen champions, raised and remade, their mortal lives extinguished and replaced with something colder and more terrible. Over time, many death knights have broken free of the Lich King's domination, and these liberated champions now fight for their own purposes, carrying the weight of what they once were.
 
+### Death Knight's Rebirth
+
 {{wide
 ![orc death knight](https://i.imgur.com/zDLyqHt.jpeg) {height:500px,mix-blend-mode:multiply,margin-left:4cm}
 }}
 
 \page
-{{pageNumber,auto}}
+{{pageNumber,auto Heroic Class Abilities}}
 
 ## Demon Hunter
 
 The demon hunters of the Illidari are among the most extreme and controversial figures in Azeroth. Trained by Illidan Stormrage himself, they sacrificed their eyes and much of their identity to consume the essence of demons, turning the Burning Legion's power against itself. They are elves, night elves and blood elves, who chose a path that most of their kin consider monstrous, and who carry that stigma alongside their extraordinary power. Marked by their blindfolds, their tattoos, and the fel energy that burns within them, demon hunters are warriors walking a permanent razor's edge between themselves and the void they consumed.
+
+### Demon Hunter Initiation
 
 {{wide
 ![elven demon hunter](https://i.imgur.com/Enft0xF.png) {height:500px,mix-blend-mode:multiply,margin-left:4cm}
 }}
 
 \page
-{{pageNumber,auto}}
+{{pageNumber,auto Heroic Class Abilities}}
 
 ## Druid
 
 The druids of Azeroth are among its oldest and most mysterious guardians. Trained in the traditions passed down from Malfurion Stormrage and the Cenarion Circle, they draw power from the natural world and from the Emerald Dream, the spiritual reflection of Azeroth as it was meant to be. Druids are shapeshifters, healers, and spellcasters, equally at home in bear form defending their allies, in cat form stalking prey through the undergrowth, or calling down starfire from the sky in the form of the moonkin. Their connection to nature runs deep, and their patience runs deeper still.
+
+### Druidic Awakening
+- **Requirement:** One School of Magic
+- **Willpower Points:** --
+
+You know the general spell SAVAGE INCARNATION. This spell is always prepared, and don't count towards the number of spells you can hold prepared in your memory.
+When you sleep you enter a dreamstate which allows you to stay alert of your surroundings during a shift rest and you can awake instantly and at will.
+
+### Chosen of Elune
+- **Requirement:** Druidic Awakening
+- **Willpower Points:** --
+
+You know the general spell INCARNATION OF THE STARS. This spell is always prepared, and don't count towards the number of spells you can hold prepared in your memory.
+
+### King of the Jungle
+- **Requirement:** Druidic Awakening
+- **Willpower Points:** --
+
+You know the general spell FERAL INCARNATION. This spell is always prepared, and don't count towards the number of spells you can hold prepared in your memory.
+
+### Tree of Life
+- **Requirement:** Druidic Awakening
+- **Willpower Points:** --
+
+You know the general spell INCARNATION OF HARMONY. This spell is always prepared, and don't count towards the number of spells you can hold prepared in your memory.
 
 {{wide
 ![druids](https://i.imgur.com/5pdjLzA.jpeg) {height:500px,mix-blend-mode:multiply,margin-left:-1.5cm}
 }}
 
 \page
-{{pageNumber,auto}}
+{{pageNumber,auto Heroic Class Abilities}}
 
 ## Evoker
 
@@ -739,12 +768,19 @@ You can activate this ability when you cast a spell to give all allies within 10
 
 You can use your action to restore the health of yourself or an ally to the value it had at the start of the last round.
 
+### Tailwind
+- **Requirement:** Evoker's Legacy
+- **Willpower Points:** 1
+
+You can activate this ability on your turn to make the DASH Action a free action during that turn.
+
+
 {{wide
 ![dracthyr evoker](https://i.imgur.com/X6w11fB.png) {height:500px,mix-blend-mode:multiply,margin-left:4.5cm}
 }}
 
 \page
-{{pageNumber,auto}}
+{{pageNumber,auto Heroic Class Abilities}}
 
 ## Hunter
 
@@ -783,7 +819,7 @@ You can activate this ability (no action) when a non-monster creature voluntaril
 }}
 
 \page
-{{pageNumber,auto}}
+{{pageNumber,auto Heroic Class Abilities}}
 
 ## Mage
 
@@ -818,7 +854,7 @@ You can activate this ability at the start of another player character's or NPC'
 }}
 
 \page
-{{pageNumber,auto}}
+{{pageNumber,auto Heroic Class Abilities}}
 
 ## Monk
 
@@ -836,7 +872,7 @@ The damage of your unarmed attacks increases to D10. If you use IRON FIST, the d
 
 \column
 
-You activate the ability on your turn in combat when performing an unarmed attack and you can then perform two extra unarmed attacks. The second attack is done with a bane, and the third with two banes. Finish the first attack, including damage, before rolling the second one, and finish the second one, including damage, before rolling the third one.
+You activate the ability on your turn in combat when performing an unarmed attack and you can then perform two extra unarmed attacks. The second and third attacks are done with a bane. Finish the first attack, including damage, before rolling the second one, and finish the second one, including damage, before rolling the third one.
 
 ### Soothing Mist
 - **Requirement:** Monk's Serenity
@@ -856,29 +892,35 @@ When you take damage in combat you can activate this ability (no action). The da
 
 
 \page
-{{pageNumber,auto}}
+{{pageNumber,auto Heroic Class Abilities}}
 
 ## Paladin
 
 The paladins of Azeroth are the champions of the Holy Light, warriors who have dedicated themselves to the service of faith and justice, and who wield divine power alongside their martial skill. The Light responds to belief rather than to any specific deity, making Azeroth's paladin tradition broader and more varied than it might appear. A dwarf Vindicator of the Alliance, a Sunwalker tauren who worships An'she the sun spirit, and a blood elf Blood Knight who once stole their power from a captive Naaru are all paladins, despite their very different relationships to faith. What they share is conviction, and the power that conviction generates.
+
+### Paladin’s Righteousness
 
 {{wide
 ![draenei paladin](https://i.imgur.com/ZbajQTc.png) {height:500px,mix-blend-mode:multiply,margin-left:-1.5cm}
 }}
 
 \page
-{{pageNumber,auto}}
+{{pageNumber,auto Heroic Class Abilities}}
 
 ## Priest
 
 The priests of Azeroth are channelers of divine power in all its forms, from the brilliant radiance of the Holy Light to the consuming shadows of the Void. Holy priests are beacons of hope on the battlefield, mending wounds and bolstering spirits with restorative magic. Discipline priests weave protective wards and sacred power words into their spellcasting, shielding allies as they fight. Shadow priests abandon the light entirely, plumbing the depths of the Void for destructive psychic power that corrodes the minds and bodies of their enemies. All three traditions require profound faith, though the nature of what they have faith in differs considerably.
+
+### Priest’s Zeal
+- **Requirement:** One School of Magic
+- **Willpower Points:** --
 
 {{wide
 ![troll priest](https://i.imgur.com/6Y3iVkk.jpeg) {height:500px,mix-blend-mode:multiply,margin-left:4cm}
 }}
 
 \page
-{{pageNumber,auto}}
+{{pageNumber,auto Heroic Class Abilities}}
 
 ## Rogue
 
@@ -914,7 +956,7 @@ You teleport up to 20 meters to a spot that you can see and may immidiately take
 }}
 
 \page
-{{pageNumber,auto}}
+{{pageNumber,auto Heroic Class Abilities}}
 
 ## Shaman
 
@@ -924,7 +966,7 @@ The shamans of Azeroth are intermediaries between the mortal world and the eleme
 - **Requirement:** One School of Magic
 - **Willpower Points:** --
 
-You know the general spell ELEMENTAL TOTEM (from Appendix D in this book).
+You know the general spell ELEMENTAL TOTEM. This spell is always prepared, and don't count towards the number of spells you can hold prepared in your memory.
 You don't have to roll for LANGUAGES when communicating with or trying to understand elementals or their writing.
 
 ### Bloodlust
@@ -950,7 +992,7 @@ You can activate this ability when you hit an enemy with a melee weapon (but bef
 }}
 
 \page
-{{pageNumber,auto}}
+{{pageNumber,auto Heroic Class Abilities}}
 
 ## Warlock
 
@@ -985,7 +1027,7 @@ When you or an ally deal damage that bring another non-monster creature to 0 HP,
 }}
 
 \page
-{{pageNumber,auto}}
+{{pageNumber,auto Heroic Class Abilities}}
 
 ## Warrior
 
@@ -1027,7 +1069,7 @@ You can activate this ability when you hit a creature with an attack to sunder i
 
 
 \page
-{{pageNumber,auto}}
+{{pageNumber,auto Gear}}
 
 # Gear
 {title="Player Options"}
@@ -1088,28 +1130,10 @@ Warglaives and throwing glaives are typical elven weapons, used primarly by the 
 }}
 
 \page
-{{pageNumber,auto}}
-
-# Companions
-{title="Appendix A"}
-
-\page
-{{pageNumber,auto}}
-
-# Demons
-{title="Appendix B"}
-
-\page
-{{pageNumber,auto}}
-
-# Shapeshifting
-{title="Appendix C"}
-
-\page
-{{pageNumber,auto}}
+{{pageNumber,auto Spells}}
 
 # Spells
-{title="Appendix D"}
+{title="Player Options"}
 
 ### Elemental Totem
 - **Rank:** 1
@@ -1130,12 +1154,78 @@ You instantly summon a small totem of your choice (see below) within range. The 
 
 Each additional power level lets you choose between summoning an additional totem, double the reach of your totem(s), or doubling your totem(s) HP and armor rating. If you cast this spell while you already have active totems, any of your previous totems disappears immediately.
 
-### Shapeshift
+### Savage Incarnation
 - **Rank:** 1
 - **Prerequisite:** Any School of Magic, Druidic Awakening heroic ability
-- **Requirement:** Word, gesture
+- **Requirement:** Word
 - **Casting time:** Action
 - **Range:** Personal
 - **Duration:** Shift
 
-You instantly turn into one of your druidic shapes (from Appendix C in this book). Mer text, tack
+You instantly turn into your travel form. For the duration you can change between your travel form, your humanoid for and any other forms you have activated as an action. The exact looks or species of your form is up to you. While in your travel form you cannot cast any spells that have any requirements beside WORD or attack with anything else but unarmed attacks. You also don't benefit from any armor you wear in your humanoid form. Anything your are wearing is turned with you and remains on you when you turn back to your humanoid form. You can still speak while in your travel form.
+
+At power level 1, your movement rate is doubled. At power level 2, you also can breathe under water, your movement rate in water equals your normal movement rate and you don't have to roll for SWIMMING. At power level 3, you can also move freely through the air.
+
+
+### Feral Incarnation
+- **Rank:** 2
+- **Prerequisite:** Any School of Magic, King of the Jungle heroic ability
+- **Requirement:** Word
+- **Casting time:** Action
+- **Range:** Personal
+- **Duration:** Stretch
+
+You instantly turn into your bear or cat form. For the duration you can change between your bear form, cat form or your humanoid for and any other forms you have activated as an action, or as a free action if you spend one WP. The exact looks or species of your form is up to you. While in your bear or cat form you cannot cast any spells that have any requirements beside WORD or attack with anything else but unarmed attacks. You also don't benefit from any armor you wear in your humanoid form. Anything your are wearing is turned with you and remains on you when you turn back to your humanoid form. You can still speak while in your bear or cat form.
+
+<br/>You gain the following benefits while in bear form:
+- **Feral Instincts:** You may roll for your SCHOOL OF MAGIC instead of rolling for BRAWLING.
+- **Ironfur**: Your armor rating equals 3 per power level.
+- **Maul:** A creature hit by your unarmed attacks has a bane when attacking any other creature but you, until your turn in the next round.
+
+<br/>You gain the following benefits while in cat form:
+- **Feral Instincts:** You may roll for your SCHOOL OF MAGIC instead of rolling for BRAWLING.
+- **Prowl:** You have a boon on SNEAKING rolls.
+- **Shred** The damage of your unarmed attacks increases by D6 per power level.
+\page
+{{pageNumber,auto Spells}}
+
+### Incarnation of Harmony
+- **Rank:** 2
+- **Prerequisite:** Any School of Magic, Tree of Life heroic ability
+- **Requirement:** Word
+- **Casting time:** Action
+- **Range:** Personal
+- **Duration:** Stretch
+
+You instantly turn into your tree form. For the duration you can change between your tree form or your humanoid for and any other forms you have activated as an action, or as a free action if you spend one WP. The exact looks or species of your form is up to you. While in your tree form you cannot attack with anything else but unarmed attacks. You also don't benefit from any armor you wear in your humanoid form. Anything your are wearing is turned with you and remains on you when you turn back to your humanoid form. You can still speak while in your tree form.
+
+<br/>You gain the following benefits while in tree form:
+- **Barkskin:** Your armor rating equals 2 per power level.
+- **Rejuvenation:** Whenever you heal a creature with a spell, that creature recieves the same healing again on its next power level number of turns.
+
+### Incarnation of the Stars
+- **Rank:** 2
+- **Prerequisite:** Any School of Magic, Chosen of Elune heroic ability
+- **Requirement:** Word
+- **Casting time:** Action
+- **Range:** Personal
+- **Duration:** Stretch
+
+You instantly turn into your moonkin form. For the duration you can change between your moonkin form or your humanoid for and any other forms you have activated as an action, or as a free action if you spend one WP. The exact looks or species of your form is up to you. While in your moonkin form you cannot attack with anything else but unarmed attacks. You also don't benefit from any armor you wear in your humanoid form. Anything your are wearing is turned with you and remains on you when you turn back to your humanoid form. You can still speak while in your moonkin form.
+
+<br/>You gain the following benefits while in moonkin form:
+- **Moonfire:** The cost for casting spells is reduced by 1 WP per power level. This can not decrease the cost of a casting a spell below 1 WP. Magic tricks are cast for free.
+- **Sunfire:** Casting spells is done with a boon.
+
+
+\page
+{{pageNumber,auto Appendix A -- Companions}}
+
+# Companions
+{title="Appendix A"}
+
+\page
+{{pageNumber,auto Appendix B -- Demons}}
+
+# Demons
+{title="Appendix B"}
