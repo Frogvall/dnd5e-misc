@@ -17,6 +17,7 @@
   --bloodred                : #C42034;
   --red                     : #9A342F;
   --brown                   : #614F3D;
+  --monsterbrown            : #613515;
   --table-dark              : #55220022;
   --paperbox                : #66550022;
   --root                    : #908E8C;
@@ -495,6 +496,7 @@
       background-size     : calc(100% - 40px) 40px, 40px, 30px 40px, 30px 40px;
       background-repeat   : no-repeat;
     }
+
     &.wide {
       margin-top      : 30px;
       margin-bottom   : 30px;
@@ -546,6 +548,13 @@
   }
   .paperbox {
     padding               : 0px 4px 8px;
+    color                 : var(--monsterbrown);
+
+    h2:first-child {
+      color               : var(--monsterbrown);
+      font-size           : 14pt;
+      margin-top          : 1em;
+    }
   }
   .picturebox {
     position              : relative;
@@ -847,6 +856,7 @@
   --bloodred                : black;
   --red                     : black;
   --brown                   : grey;
+  --monsterbrown            : black;
   --table-dark              : #22222222;
   --paperbox                : #66666622;
   --root                    : white;
