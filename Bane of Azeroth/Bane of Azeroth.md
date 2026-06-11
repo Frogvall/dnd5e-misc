@@ -688,11 +688,66 @@ Traditionally, games being set on Azeroth is used to having classes. Classes isn
 
 Death knights are among the most feared warriors in Azeroth's history. Created by the Lich King to serve as his most elite soldiers, death knights wield unholy magic, runic power, and the mastery of undeath that their master bestowed upon them. They are not undead in the traditional sense. They are fallen champions, raised and remade, their mortal lives extinguished and replaced with something colder and more terrible. Over time, many death knights have broken free of the Lich King's domination, and these liberated champions now fight for their own purposes, carrying the weight of what they once were.
 
-### Death Knight's Rebirth
-
 {{wide
 ![orc death knight](https://i.imgur.com/zDLyqHt.jpeg) {height:500px,mix-blend-mode:multiply,margin-left:4cm}
 }}
+
+\page
+{{pageNumber,auto Heroic Class Abilities}}
+
+### Death Knight's Rebirth
+- **Requirement:** Axes, Hammers, or Swords 12
+- **Willpower Points:** --
+
+You don’t need to eat, drink or breathe. You know how to engrave necromantic runes into a melee weapon. Engraving a rune takes a stretch and replaces any runes you have already engraved, in the same weapon or a different one. You gain the benefits of your choosen rune listed below.
+
+- **Fallen Crusader:** Whenever you deal damage to a living creature with the weapon, you regain 1 HP.
+- **Razorice:** The weapon is cold to the touch and attacks with it counts as magical.
+- **Unending Thirst:** While wielding the weapon your movement rate increases by 2.
+
+### Death Grip
+- **Requirement:** Death Knight's Rebirth
+- **Willpower Points:** 2
+
+You harness the energy that surrounds and binds all matter. If an enemy and another player character are both within 10 meters of you and the enemy tries to attack the other character, you can activate this ability to pull the enemy towards you and attack you instead. Using this ability can be done out of turn and it does not count as an action.
+
+### Frostreaper
+- **Requirement:** Death Knight's Rebirth
+- **Willpower Points:** 2
+
+By activating this ability, you emanate a frosty aura, chilling the air around you. Until your turn in the next round, any living creature that moves within 10 meters of you have their movement rate halved, and if they end their turn within the aura, they must roll BUSHCRAFT to resist cold.
+
+### Summon Ghoul
+- **Requirement:** Death Knight's Rebirth
+- **Willpower Points:** 3
+
+This ability requires a stretch of time to raise a fallen creature into a ravenous ghoul. The ghoul takes the form of an undead humanoid, and counts as a monster in combat. It follows your commands (free action) and acts independently with its own initiative. The ghoul cannot restore HP and it crumbles to dust or die if it is ever out of the your sight for a stretch of time, or if you use this ability again.
+
+{{paperbox
+## Ghoul
+|                                              |
+|:---------------------------------------------|
+| **Movement:** 8   **Armor:** —   **HP:** 10  |
+
+{stats}
+
+#### Weapon:
+Claws. Hits automatically in melee combat (but can be dodged or parried) and inflicts D6 slashing damage.
+
+#### Infectious Bite:
+Hits automatically in melee combat (can be dodged, but not parried) and inflicts 2D6 piercing damage and the target has a bane on its next attack or spell roll. Costs 2 WP, payed for by the death knight.
+
+#### Resistance:
+All piercing damage is halved (rounded up).
+
+#### Immunity:
+Ghouls are immune to fear and PERSUASION.
+
+#### Vulnerable Neck:
+Rolling a dragon when attacking a ghoul immediately severs its head and drops it dead to the ground.
+}}
+
+![ghoul](https://i.imgur.com/3EEQj0P.png) {height:450px,mix-blend-mode:multiply,margin-left:0cm,margin-top:0.5cm}
 
 \page
 {{pageNumber,auto Heroic Class Abilities}}
@@ -702,6 +757,8 @@ Death knights are among the most feared warriors in Azeroth's history. Created b
 The demon hunters of the Illidari are among the most extreme and controversial figures in Azeroth. Trained by Illidan Stormrage himself, they sacrificed their eyes and much of their identity to consume the essence of demons, turning the Burning Legion's power against itself. They are elves, night elves and blood elves, who chose a path that most of their kin consider monstrous, and who carry that stigma alongside their extraordinary power. Marked by their blindfolds, their tattoos, and the fel energy that burns within them, demon hunters are warriors walking a permanent razor's edge between themselves and the void they consumed.
 
 ### Demon Hunter Initiation
+- **Requirement:** TBD
+- **Willpower Points:** --
 
 {{wide
 ![elven demon hunter](https://i.imgur.com/Enft0xF.png) {height:500px,mix-blend-mode:multiply,margin-left:4cm}
@@ -899,6 +956,8 @@ When you take damage in combat you can activate this ability (no action). The da
 The paladins of Azeroth are the champions of the Holy Light, warriors who have dedicated themselves to the service of faith and justice, and who wield divine power alongside their martial skill. The Light responds to belief rather than to any specific deity, making Azeroth's paladin tradition broader and more varied than it might appear. A dwarf Vindicator of the Alliance, a Sunwalker tauren who worships An'she the sun spirit, and a blood elf Blood Knight who once stole their power from a captive Naaru are all paladins, despite their very different relationships to faith. What they share is conviction, and the power that conviction generates.
 
 ### Paladin’s Righteousness
+- **Requirement:** TBD
+- **Willpower Points:** --
 
 {{wide
 ![draenei paladin](https://i.imgur.com/ZbajQTc.png) {height:500px,mix-blend-mode:multiply,margin-left:-1.5cm}
@@ -1217,6 +1276,11 @@ You instantly turn into your moonkin form. For the duration you can change betwe
 - **Moonfire:** The cost for casting spells is reduced by 1 WP per power level. This can not decrease the cost of a casting a spell below 1 WP. Magic tricks are cast for free.
 - **Sunfire:** Casting spells is done with a boon.
 
+\column
+
+![tree form](https://i.imgur.com/nJgdFAc.png) {height:500px,mix-blend-mode:multiply,margin-left:0cm,margin-top:0cm,margin-bottom:-1cm,transform:scaleX(-1)}
+
+![moonkin form](https://i.imgur.com/gwMEiur.png) {height:500px,mix-blend-mode:multiply,margin-left:0cm,margin-top:0cm,margin-bottom:-2cm,transform:scaleX(-1)}
 
 \page
 {{pageNumber,auto Appendix A -- Companions}}
