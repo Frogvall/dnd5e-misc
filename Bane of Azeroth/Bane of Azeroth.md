@@ -288,14 +288,14 @@ For millennia, high elves thrived in the magical kingdom of Quel'thalas until th
 
 - **Willpower Points:** 2
 
-You cast one of the Magic Tricks listed under General Magic. To determine success, roll against any school of magic, or INT, whichever is higher.
+You cast one of the Magic Tricks listed under General Magic. To determine success, roll against any school of magic, or LANGUAGES, whichever is higher.
 }}
 
 #### Night Elf
 
 Ten thousand years ago, the kaldorei, or night elves, founded a vast empire, but their reckless use of primal magic brought them to ruin. They retreated to the forests, isolated until the return of the Burning Legion forced them into action. Night elves are easily recognized by their purple or blue skin, and hair that can range from natural greens to twilight purples. With bow, blade, or claw, night elves are fierce defenders of the natural world, and unforgiving enemies of those that would abuse it.
 
-![night elf](https://i.imgur.com/IBezcho.jpeg) {height:450px,mix-blend-mode:multiply,margin-left:0cm,margin-top:1cm,margin-bottom:-1cm}
+![night elf](https://i.imgur.com/IBezcho.jpeg) {height:450px,mix-blend-mode:multiply,margin-left:0cm,margin-top:1cm,margin-bottom:-1.5cm}
 
 \page
 {{pageNumber,auto Kin}}
@@ -318,7 +318,7 @@ Ten thousand years ago, the kaldorei, or night elves, founded a vast empire, but
 {{dragonbox
 ### Ability: Shadowmeld
 
-- **Willpower Points:** 3
+- **Willpower Points:** 2
 
 Instead of making a SNEAKING roll you can activate this ability to automatically succeed as if you had rolled a dragon.
 }}
@@ -383,7 +383,7 @@ Goblins are a cunning and entrepreneurial species, originating from the Isle of 
 {{dragonbox
 ### Ability: Rocket Jump
 
-- **Willpower Points:** 3
+- **Willpower Points:** 1
 
 You can leap five times as far as your normal leaping distance, horizontally or vertically. This might render an ACROBATICS roll for climbing unecessary if the obstactle is lower than the distance you leap.
 
@@ -399,7 +399,7 @@ The young humans have a rich history marked by resilience and adaptability. Emer
 |:--:|:----------- |
 | 1  | Alfred      |
 | 2  | Finn        |
-| 3  | Matthew    |
+| 3  | Matthew     |
 {margin:0}
 \column
 | D6 | First Name  |
@@ -448,7 +448,7 @@ While the proud, fearsome orcs have spread across Azeroth, they originated on th
 
 - **Willpower Points:** 3
 
-If you have zero HP, you can activate this ability to automatically rally (no action), without rolling against WIL or being PERSUADED by someone else.
+If you have zero HP, you can activate this ability to automatically rally (no action), without rolling against WIL or being persuaded by someone else.
 }}
 
 
@@ -829,7 +829,7 @@ You can use your action to restore the health of yourself or an ally to the valu
 - **Requirement:** Evoker's Legacy
 - **Willpower Points:** 1
 
-You can activate this ability on your turn to make the DASH Action a free action during that turn.
+You can activate this ability on your turn to make the dash action a free action during that turn.
 
 
 {{wide
