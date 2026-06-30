@@ -144,7 +144,7 @@ The dracthyr are an ancient race of humanoid dragonkin created by the black Drag
 {{dragonbox
 ### Ability: Draconic Wings
 
-- **Willpower Points:** 1 or 3
+- **Willpower Points:** Varies
 
 By spending 3 willpower, you can move freely through the air during your turn.
 
@@ -541,7 +541,7 @@ Shrouded in ancient lore and mystique, trolls have a history as diverse as their
 
 - **Willpower Points:** 3
 
-By activating this ability (a free action in combat) you recover D6 HP. This can be combined with FAST HEALER for 2D6 HP recovered.
+By activating this ability (a free action in combat) you heal D6 HP. This can be combined with FAST HEALER for 2D6 HP healed.
 }}
 
 \page
@@ -701,7 +701,7 @@ Death knights are among the most feared warriors in Azeroth's history. Created b
 
 You don’t need to eat, drink or breathe. You know how to engrave necromantic runes into a melee weapon. Engraving a rune takes a stretch and replaces any runes you have already engraved, in the same weapon or a different one. You gain the benefits of your choosen rune listed below.
 
-- **Fallen Crusader:** Whenever you deal damage to a living creature with the weapon, you regain 1 HP.
+- **Fallen Crusader:** Whenever you deal damage to a living creature with the weapon, you heal 1 HP.
 - **Razorice:** The weapon is cold to the touch and attacks with it counts as magical.
 - **Unending Thirst:** While wielding the weapon your movement rate increases by 2.
 
@@ -721,7 +721,7 @@ By activating this ability, you emanate a frosty aura, chilling the air around y
 - **Requirement:** Death Knight's Rebirth
 - **Willpower Points:** 3
 
-This ability requires a stretch of time to raise a fallen creature into a ravenous ghoul. The ghoul takes the form of an undead humanoid, and counts as a monster in combat. It follows your commands (free action) and acts independently with its own initiative. The ghoul cannot restore HP and it crumbles to dust or die if it is ever out of the your sight for a stretch of time, or if you use this ability again.
+This ability requires a stretch of time to raise a fallen creature into a ravenous ghoul. The ghoul takes the form of an undead humanoid, and counts as a monster in combat. It follows your commands (free action) and acts independently with its own initiative. The ghoul cannot heal HP and it crumbles to dust or die if it is ever out of the your sight for a stretch of time, or if you use this ability again.
 
 {{paperbox
 ## Ghoul
@@ -760,6 +760,8 @@ The demon hunters of the Illidari are among the most extreme and controversial f
 - **Requirement:** TBD
 - **Willpower Points:** --
 
+
+
 {{wide
 ![elven demon hunter](https://i.imgur.com/Enft0xF.png) {height:500px,mix-blend-mode:multiply,margin-left:4cm}
 }}
@@ -775,26 +777,26 @@ The druids of Azeroth are among its oldest and most mysterious guardians. Traine
 - **Requirement:** One School of Magic
 - **Willpower Points:** --
 
-You know the general spell SAVAGE INCARNATION. This spell is always prepared, and don't count towards the number of spells you can hold prepared in your memory.
+You know the general spell SAVAGE INCARNATION. This spell is always prepared, and doesn't count towards the number of spells you can hold prepared in your memory.
 When you sleep you enter a dreamstate which allows you to stay alert of your surroundings during a shift rest and you can awake instantly and at will.
 
 ### Chosen of Elune
 - **Requirement:** Druidic Awakening
 - **Willpower Points:** --
 
-You know the general spell INCARNATION OF THE STARS. This spell is always prepared, and don't count towards the number of spells you can hold prepared in your memory.
+You know the general spell INCARNATION OF THE STARS. This spell is always prepared, and doesn't count towards the number of spells you can hold prepared in your memory.
 
 ### King of the Jungle
 - **Requirement:** Druidic Awakening
 - **Willpower Points:** --
 
-You know the general spell FERAL INCARNATION. This spell is always prepared, and don't count towards the number of spells you can hold prepared in your memory.
+You know the general spell FERAL INCARNATION. This spell is always prepared, and doesn't count towards the number of spells you can hold prepared in your memory.
 
 ### Tree of Life
 - **Requirement:** Druidic Awakening
 - **Willpower Points:** --
 
-You know the general spell INCARNATION OF HARMONY. This spell is always prepared, and don't count towards the number of spells you can hold prepared in your memory.
+You know the general spell INCARNATION OF HARMONY. This spell is always prepared, and doesn't count towards the number of spells you can hold prepared in your memory.
 
 {{wide
 ![druids](https://i.imgur.com/5pdjLzA.jpeg) {height:500px,mix-blend-mode:multiply,margin-left:-1.5cm}
@@ -863,7 +865,7 @@ additional points of damage, but you cannot move in the same round. You can acti
 
 You can activate this ability when you or your companion is hit to transfer half the damage received (rounded down) to the other part, sharing the pain. You can do so after the roll for damage.
 
-Alternatively, you can use an action to activate this ability to revive a fallen companion, as long as it happens within a shift from when it died. If its body is within sight, it appears at the body, otherwise it appears within 2 meters of you, and it recovers D6 HP.
+Alternatively, you can use an action to activate this ability to revive a fallen companion, as long as it happens within a shift from when it died. If its body is within sight, it appears at the body, otherwise it appears within 2 meters of you, and it heals D6 HP.
 
 ### Superior Trapper
 - **Requirement:** Hunter's Instincts
@@ -956,11 +958,31 @@ When you take damage in combat you can activate this ability (no action). The da
 The paladins of Azeroth are the champions of the Holy Light, warriors who have dedicated themselves to the service of faith and justice, and who wield divine power alongside their martial skill. The Light responds to belief rather than to any specific deity, making Azeroth's paladin tradition broader and more varied than it might appear. A dwarf Vindicator of the Alliance, a Sunwalker tauren who worships An'she the sun spirit, and a blood elf Blood Knight who once stole their power from a captive Naaru are all paladins, despite their very different relationships to faith. What they share is conviction, and the power that conviction generates.
 
 ### Paladin’s Righteousness
-- **Requirement:** TBD
+- **Requirement:** Hammers, Spears, or Swords 12
 - **Willpower Points:** --
 
+Whenever you spend WP, you heal yourself or an ally within 2 meters by the same amount. You also always know if a creature you are looking upon is undead or not.
+
+### Avenger's Shield
+- **Requirement:** Paladin’s Righteousness
+- **Willpower Points:** 3
+
+You can activate this ability as an action if you're wielding a shield. You hurl your shield at a creature within 10 meters, and it then bounces to a creature of your choice withing 10 meters of the first target, and again to third creature within 10 meters of the second target. It then returns to your hand. Make separate attacks with your shield to all three targets with a bane. Finish the first attack, including damage, before rolling the second one, and finish the second one, including damage, before rolling the third one. Creatures that are hit have a bane when attacking any other creature but you, until your turn in the next round.
+
+### Beacon of Light
+- **Requirement:** Paladin’s Righteousness
+- **Willpower Points:** 3
+
+You can activate this ability as an action, making an ally creature within 10 meters a beacon of light. For a stretch of time, whenever you heal yourself or an ally, the beacon of light heals the same amount of HP. This ability also benefits from the HP restored by Paladin's Righteousness when activating this ability.
+
+### Blade of Justice
+- **Requirement:** Paladin’s Righteousness
+- **Willpower Points:** 3
+
+You can activate this ability when you hit an enemy with a melee weapon (but before rolling for damage). The attack deals an extra D8 , or 2d8 damage to an undead target, and is considered magical.
+
 {{wide
-![draenei paladin](https://i.imgur.com/ZbajQTc.png) {height:500px,mix-blend-mode:multiply,margin-left:-1.5cm}
+![draenei paladin](https://i.imgur.com/ZbajQTc.png) {height:500px,mix-blend-mode:multiply,margin-left:-1.5cm,margin-top:-1.2cm}
 }}
 
 \page
@@ -973,6 +995,26 @@ The priests of Azeroth are channelers of divine power in all its forms, from the
 ### Priest’s Zeal
 - **Requirement:** One School of Magic
 - **Willpower Points:** --
+
+Your mind fills you with inner fire. Whenever you cast a spell, your armor rating increases by one step for each WP you spend on casting the spell. The effect lasts until your turn in the next round.
+
+### Holy Word: Sanctify
+- **Requirement:** Priest’s Zeal
+- **Willpower Points:**
+
+You can activate this ability, by speaking a holy word, when casting a spell that heals a creature. You and all other creatures of your choice within 10 meters of you heals the same amount of HP.
+
+### Power Word: Shield
+- **Requirement:** Priest’s Zeal
+- **Willpower Points:** Varies
+
+When you or a friendly creature gets hit by
+
+### Shadow Form
+- **Requirement:** Priest’s Zeal
+- **Willpower Points:** --
+
+You know the general spell SHADOWFORM. This spell is always prepared, and doesn't count towards the number of spells you can hold prepared in your memory.
 
 {{wide
 ![troll priest](https://i.imgur.com/6Y3iVkk.jpeg) {height:500px,mix-blend-mode:multiply,margin-left:4cm}
@@ -1025,7 +1067,7 @@ The shamans of Azeroth are intermediaries between the mortal world and the eleme
 - **Requirement:** One School of Magic
 - **Willpower Points:** --
 
-You know the general spell ELEMENTAL TOTEM. This spell is always prepared, and don't count towards the number of spells you can hold prepared in your memory.
+You know the general spell ELEMENTAL TOTEM. This spell is always prepared, and doesn't count towards the number of spells you can hold prepared in your memory.
 You don't have to roll for LANGUAGES when communicating with or trying to understand elementals or their writing.
 
 ### Bloodlust
@@ -1073,7 +1115,7 @@ You can use your action to activate this ability to instantly summon a demon (fr
 - **Requirement:** Warlock's Ambition
 - **Willpower Points:** 3
 
-You can activate this ability when you deal damage with a spell to one creature. You regain the same amount of HP as the creature lost.
+You can activate this ability when you deal damage with a spell to one creature. You heal the same amount of HP as the creature lost.
 
 ### Souls Collector
 - **Requirement:** Warlock's Ambition
