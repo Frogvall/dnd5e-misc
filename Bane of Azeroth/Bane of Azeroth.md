@@ -998,17 +998,19 @@ The priests of Azeroth are channelers of divine power in all its forms, from the
 
 Your mind fills you with inner fire. Whenever you cast a spell, your armor rating increases by one step for each WP you spend on casting the spell. The effect lasts until your turn in the next round.
 
-### Holy Word: Sanctify
-- **Requirement:** Priest’s Zeal
-- **Willpower Points:**
-
-You can activate this ability, by speaking a holy word, when casting a spell that heals a creature. You and all other creatures of your choice within 10 meters of you heals the same amount of HP.
-
 ### Power Word: Shield
 - **Requirement:** Priest’s Zeal
-- **Willpower Points:** Varies
+- **Willpower Points:** 2
 
-When you or a friendly creature gets hit by
+\column
+
+If you or a creature within 10 meters of you gets hit by an attack a ,spell or a monster attack, you can activate this ability to shield the target. The damage the target takes from the attack or spell is reduced by 2D6. Using this ability can be done out of turn and it does not count as an action.
+
+### Sanctify
+- **Requirement:** Priest’s Zeal
+- **Willpower Points:**  3
+
+You can activate this ability when casting a spell that heals a creature. You and all other creatures of your choice within 10 meters of you heals the same amount of HP.
 
 ### Shadow Form
 - **Requirement:** Priest’s Zeal
