@@ -682,7 +682,7 @@ By activating this ability (a free action in combat) you change between your hum
 # Heroic Class Abilities
 {title="Player Options"}
 
-Traditionally, games being set on Azeroth is used to having classes. Classes isn't a concept in Dragonbane. In order to represent the traditional classes of Azeroth, this module comes with a set of heroic abilities. In addition to choosing a profession when creating your player character, also pick one heroic class ability from this chapter that you start out the game with. You must fulfill the prerequisites for the heroic power you choose. You are now part of the class you choose a heroic power from. When you gain heroic abilities during your game sessions, you can also pick heroic abilities from your class. You can only ever be part of one class, unless your GM says otherwise.
+Traditionally, games being set on Azeroth is used to having classes. Classes isn't a concept in Dragonbane. In order to represent the traditional classes of Azeroth, this module comes with a set of heroic abilities. In addition to choosing a profession when creating your player character, also pick one heroic class ability from this chapter that you start out the game with. You must fulfill the prerequisites for the heroic power you choose. You are now part of the class you choose a heroic power from. When you gain heroic abilities during your game sessions, you can also pick heroic abilities from your class. You can only ever be part of one class, unless your GM says otherwise. In world of warcraft there are limits to what kin gets to pick what classes. In Bane of Azeroth there are no such limitations per default, but your GM might impose such if they so desire. For example, they might want to limit the Demon Hunter class to those of the Elf kin.
 
 ## Death Knight
 
@@ -757,10 +757,28 @@ Rolling a dragon when attacking a ghoul immediately severs its head and drops it
 The demon hunters of the Illidari are among the most extreme and controversial figures in Azeroth. Trained by Illidan Stormrage himself, they sacrificed their eyes and much of their identity to consume the essence of demons, turning the Burning Legion's power against itself. They are elves, night elves and blood elves, who chose a path that most of their kin consider monstrous, and who carry that stigma alongside their extraordinary power. Marked by their blindfolds, their tattoos, and the fel energy that burns within them, demon hunters are warriors walking a permanent razor's edge between themselves and the void they consumed.
 
 ### Demon Hunter Initiation
-- **Requirement:** TBD
+- **Requirement:** Axes, Brawling, Knives, or Swords 12
 - **Willpower Points:** --
 
+Your infernal metamorphosis gives you advantages in your hunt for demons. Your demonic wings makes you glide horizontally instead of falling. Withdraw your movement rate from the falling distance before determining falling damage. Your glowing eyes makes you ignore the effects of darkness and you always know if a creature you are looking upon is a demon or not.
 
+### Eye Beam
+- **Requirement:** Demon Hunter Initiation
+- **Willpower Points:** 3
+
+You can activate this ability to make your eyes shoot laser beams at a creature within 20 meters. The attack automatically hits and cannot be parried. It deals 2D8 damage and is considered magical.
+
+### Live by the Glaive
+- **Requirement:** Demon Hunter Initiation
+- **Willpower Points:** 3
+
+You can activate this ability (no action) when you make a successful parry, to turn the roll into a dragon.
+
+### Soul Cleave
+- **Requirement:** Demon Hunter Initiation
+- **Willpower Points:** 2
+
+If you deal damage with an attack  to a living creature, you can activate this ability (no action) to heal yourself for the same amount of HP as the target takes damage.
 
 {{wide
 ![elven demon hunter](https://i.imgur.com/Enft0xF.png) {height:500px,mix-blend-mode:multiply,margin-left:4cm}
@@ -1012,14 +1030,14 @@ If you or a creature within 10 meters of you gets hit by an attack a ,spell or a
 
 You can activate this ability when casting a spell that heals a creature. You and all other creatures of your choice within 10 meters of you heals the same amount of HP.
 
-### Shadow Form
+### Shadowform
 - **Requirement:** Priest’s Zeal
 - **Willpower Points:** --
 
 You know the general spell SHADOWFORM. This spell is always prepared, and doesn't count towards the number of spells you can hold prepared in your memory.
 
 {{wide
-![troll priest](https://i.imgur.com/6Y3iVkk.jpeg) {height:500px,mix-blend-mode:multiply,margin-left:4cm}
+![troll priest](https://i.imgur.com/6Y3iVkk.jpeg) {height:500px,mix-blend-mode:multiply,margin-left:4cm,margin-top:-1cm}
 }}
 
 \page
@@ -1269,6 +1287,23 @@ You instantly turn into your travel form. For the duration you can change betwee
 
 At power level 1, your movement rate is doubled. At power level 2, you also can breathe under water, your movement rate in water equals your normal movement rate and you don't have to roll for SWIMMING. At power level 3, you can also move freely through the air.
 
+### Shadowform
+- **Rank:** 1
+- **Prerequisite:** Any School of Magic, Priest's Zeal heroic ability
+- **Requirement:** Word
+- **Casting time:** Action
+- **Range:** Personal
+- **Duration:** Stretch
+
+You turn into a dark and shadowy image of yourself, gaining the following benefits:
+- **Darkness:** All non-magical damage is halved (rounded up).
+- **Shadow Weaving:** The damage of you spells increase by D6 per power level.
+
+![shadowform](https://i.imgur.com/TM82ZwN.png) {height:500px,mix-blend-mode:multiply,margin-left:0cm,margin-top:-0.5cm,margin-bottom:-1cm}
+
+
+\page
+{{pageNumber,auto Spells}}
 
 ### Feral Incarnation
 - **Rank:** 2
@@ -1289,6 +1324,11 @@ You instantly turn into your bear or cat form. For the duration you can change b
 - **Feral Instincts:** You may roll for your SCHOOL OF MAGIC instead of rolling for BRAWLING.
 - **Prowl:** You have a boon on SNEAKING rolls.
 - **Shred** The damage of your unarmed attacks increases by D6 per power level.
+
+{{wide
+![feral forms](https://i.imgur.com/5pdjLzA.jpeg) {height:500px,mix-blend-mode:multiply,margin-top:2cm,margin-left:-1.5cm}
+}}
+
 \page
 {{pageNumber,auto Spells}}
 
@@ -1317,7 +1357,7 @@ You instantly turn into your tree form. For the duration you can change between 
 You instantly turn into your moonkin form. For the duration you can change between your moonkin form or your humanoid for and any other forms you have activated as an action, or as a free action if you spend one WP. The exact looks or species of your form is up to you. While in your moonkin form you cannot attack with anything else but unarmed attacks. You also don't benefit from any armor you wear in your humanoid form. Anything your are wearing is turned with you and remains on you when you turn back to your humanoid form. You can still speak while in your moonkin form.
 
 <br/>You gain the following benefits while in moonkin form:
-- **Moonfire:** The cost for casting spells is reduced by 1 WP per power level. This can not decrease the cost of a casting a spell below 1 WP. Magic tricks are cast for free.
+- **Moonfire:** The cost for casting spells is reduced by 1 WP per power level. This can not decrease the cost of casting a spell below 1 WP. Magic tricks are cast for free.
 - **Sunfire:** Casting spells is done with a boon.
 
 \column
