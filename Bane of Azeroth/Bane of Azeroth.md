@@ -65,7 +65,7 @@ The Homebrewery
 There are 14 playable kin in Azeroth. Humans and Orcs are the most common kin, but you are free to choose any of them. You can also roll your kin using one of the tables below. All kin are briefly described below.
 
 ### Any Faction
-| 1D20  | Kin                |
+| D20   | Kin                |
 |:-----:|:-------------------|
 | 1     | Dracthyr           |
 | 2     | Draenei            |
@@ -85,7 +85,7 @@ There are 14 playable kin in Azeroth. Humans and Orcs are the most common kin, b
 | 20    | Worgen             |
 
 ### Alliance
-| 1D10  | Kin                |
+| D10   | Kin                |
 |:-----:|:-------------------|
 | 1     | Dracthyr           |
 | 2     | Draenei            |
@@ -100,7 +100,7 @@ There are 14 playable kin in Azeroth. Humans and Orcs are the most common kin, b
 \column
 
 ### Horde
-| 1D10  | Kin            |
+| D10   | Kin            |
 |:-----:|:---------------|
 | 1     | Dracthyr       |
 | 2     | Elf: Blood Elf |
@@ -817,7 +817,7 @@ You know the general spell FERAL INCARNATION. This spell is always prepared, and
 You know the general spell INCARNATION OF HARMONY. This spell is always prepared, and doesn't count towards the number of spells you can hold prepared in your memory.
 
 {{wide
-![druids](https://i.imgur.com/5pdjLzA.jpeg) {height:500px,mix-blend-mode:multiply,margin-left:-1.5cm}
+![druid](https://i.imgur.com/aGfzjOx.png) {height:500px,mix-blend-mode:multiply,margin-left:3cm,margin-top:-0.5cm}
 }}
 
 \page
@@ -1016,11 +1016,17 @@ The priests of Azeroth are channelers of divine power in all its forms, from the
 
 Your mind fills you with inner fire. Whenever you cast a spell, your armor rating increases by one step for each WP you spend on casting the spell. The effect lasts until your turn in the next round.
 
+### Darkness
+- **Requirement:** Priest’s Zeal
+- **Willpower Points:** --
+
+\column
+
+You know the general spell SHADOWFORM. This spell is always prepared, and doesn't count towards the number of spells you can hold prepared in your memory.
+
 ### Power Word: Shield
 - **Requirement:** Priest’s Zeal
 - **Willpower Points:** 2
-
-\column
 
 If you or a creature within 10 meters of you gets hit by an attack a ,spell or a monster attack, you can activate this ability to shield the target. The damage the target takes from the attack or spell is reduced by 2D6. Using this ability can be done out of turn and it does not count as an action.
 
@@ -1029,12 +1035,6 @@ If you or a creature within 10 meters of you gets hit by an attack a ,spell or a
 - **Willpower Points:**  3
 
 You can activate this ability when casting a spell that heals a creature. You and all other creatures of your choice within 10 meters of you heals the same amount of HP.
-
-### Shadowform
-- **Requirement:** Priest’s Zeal
-- **Willpower Points:** --
-
-You know the general spell SHADOWFORM. This spell is always prepared, and doesn't count towards the number of spells you can hold prepared in your memory.
 
 {{wide
 ![troll priest](https://i.imgur.com/6Y3iVkk.jpeg) {height:500px,mix-blend-mode:multiply,margin-left:4cm,margin-top:-1cm}
@@ -1141,7 +1141,7 @@ You can activate this ability when you deal damage with a spell to one creature.
 - **Requirement:** Warlock's Ambition
 - **Willpower Points:** 1
 
-When you or an ally deal damage that bring another non-monster creature to 0 HP, you can activate this ability (no action) to store the enemy's soul into a soul shard. You can consume a shard as an action in order to recover D3 WP. Any remaining soul shards are lost when finishing a shift rest.
+When you or an ally deal damage that bring another living creature to 0 HP, you can activate this ability (no action) to store the enemy's soul into a soul shard. You can consume a shard as an action in order to recover D3 WP. Any remaining soul shards are lost when finishing a shift rest.
 
 {{wide
 ![worgen warlock](https://i.imgur.com/zxS7Eev.jpeg) {height:500px,mix-blend-mode:multiply,margin-left:3cm,margin-top:-1cm}
@@ -1195,15 +1195,15 @@ You can activate this ability when you hit a creature with an attack to sunder i
 # Gear
 {title="Player Options"}
 
-Azeroth's adventurers use most of the same equipment described in the *Core Rules*, swords, bows, armor, and adventuring gear that would be recognizable in any fantasy setting. But the world of *Warcraft* has its own distinctive weapons and tools, a few of which have no direct equivalent in the standard equipment lists.
+Azeroth's adventurers use most of the same equipment described in the core rules, swords, bows, armor, and adventuring gear that would be recognizable in any fantasy setting. But the world of *Warcraft* has its own distinctive weapons and tools, a few of which have no direct equivalent in the standard equipment lists.
 
-This chapter presents a small selection of new weapons inspired by Warcraft's most iconic martial traditions: the warglaives of the Illidari, the thrown glaives of night elf wardens, and others. These weapons follow all standard Dragonbane rules, with a few new properties defined here, and can be purchased, found, or crafted as described in the *Core Rules*.
+This chapter presents a small selection of new weapons inspired by Warcraft's most iconic martial traditions: the warglaives of the Illidari, the thrown glaives of night elf wardens, and others. These weapons follow all standard Dragonbane rules, with a few new properties defined here, and can be purchased, found, or crafted as described in the core rules.
 
 All standard Dragonbane equipment remains available in Azeroth. A longsword is a longsword whether you're in Stormwind or Misty Vale, and the familiar equipment of Dragonbane requires no adaptation to work in this setting.
 
 ### Firearms
 
-Firearms are commonly available weapons, attributed to be originally crafted by the dwarves of Ironforge. In *Bane of Azeroth* it is represented by the secondary skill FIREARMS (AGL). Firing a firearm produces a loud boom, audible out to half a mile.
+Firearms are commonly available weapons, attributed to be originally crafted by the dwarves of Ironforge. In *Bane of Azeroth* it is represented by the secondary skill FIREARMS (AGL), which is available to anyone from start. Firing a firearm produces a loud boom, audible out to .
 
 ### Glaives
 
@@ -1256,6 +1256,8 @@ Warglaives and throwing glaives are typical elven weapons, used primarly by the 
 # Spells
 {title="Player Options"}
 
+Spell casters in Bane of Azeroth uses the same spell casting rules and spells as are presented in the core rules. If you have access to The Book of Magic, feel free to use the rules and spells from that book instead (at the DMs discretion). Spells presented in this chapters are in addition to those rules, and are explicitly gained by selecting the corresponding heroic ability in the Heroic Class Abilities chapter.
+
 ### Elemental Totem
 - **Rank:** 1
 - **Prerequisite:** Any School of Magic, Shamanic Calling heroic ability
@@ -1266,12 +1268,12 @@ Warglaives and throwing glaives are typical elven weapons, used primarly by the 
 
 You instantly summon a small totem of your choice (see below) within range. The totem is a small object with 10 HP and armor rating 2. You and any of your allies within 10 meters of the totem gain the a benefit listed below, once per turn.
 
-| Totem | Benefit
-|:----------:|:------------------------------------------------------------|
-| Cleansing  | The target can push their roll without gaining a condition  |
-| Flametongue| The target deals 1d4 extra damage with an attack or a spell |
-| Stoneskin  | The target takes 1d4 less damage from an attack or a spell  |
-| Windfury   | The target has a boon on an attack roll                     |
+| Totem       | Benefit                                                                   |
+|:------------|:--------------------------------------------------------------------------|
+| Cleansing   | The target can heal a condition of their choice at the end of their turn. |
+| Flametongue | The target deals D4 extra damage with an attack or a spell               |
+| Stoneskin   | The target takes D4 less damage from an attack or a spell                |
+| Windfury    | The target has a boon on an attack roll                                   |
 
 Each additional power level lets you choose between summoning an additional totem, double the reach of your totem(s), or doubling your totem(s) HP and armor rating. If you cast this spell while you already have active totems, any of your previous totems disappears immediately.
 
@@ -1289,21 +1291,20 @@ At power level 1, your movement rate is doubled. At power level 2, you also can 
 
 ### Shadowform
 - **Rank:** 1
-- **Prerequisite:** Any School of Magic, Priest's Zeal heroic ability
+- **Prerequisite:** Any School of Magic, Darkness heroic ability
 - **Requirement:** Word
 - **Casting time:** Action
 - **Range:** Personal
 - **Duration:** Stretch
 
-You turn into a dark and shadowy image of yourself, gaining the following benefits:
-- **Darkness:** All non-magical damage is halved (rounded up).
-- **Shadow Weaving:** The damage of you spells increase by D6 per power level.
-
-![shadowform](https://i.imgur.com/TM82ZwN.png) {height:500px,mix-blend-mode:multiply,margin-left:0cm,margin-top:-0.5cm,margin-bottom:-1cm}
-
+![shadowform](https://i.imgur.com/TM82ZwN.png) {height:500px,mix-blend-mode:multiply,margin-left:0cm,margin-top:-1.1cm,margin-bottom:-1cm}
 
 \page
 {{pageNumber,auto Spells}}
+
+You turn into a dark and shadowy image of yourself, gaining the following benefits:
+- **Ephemereal:** All non-magical damage is halved (rounded up).
+- **Shadow Weaving:** The damage of you spells increase by D6 per power level.
 
 ### Feral Incarnation
 - **Rank:** 2
@@ -1326,7 +1327,7 @@ You instantly turn into your bear or cat form. For the duration you can change b
 - **Shred** The damage of your unarmed attacks increases by D6 per power level.
 
 {{wide
-![feral forms](https://i.imgur.com/5pdjLzA.jpeg) {height:500px,mix-blend-mode:multiply,margin-top:2cm,margin-left:-1.5cm}
+![feral forms](https://i.imgur.com/5pdjLzA.jpeg) {height:500px,mix-blend-mode:multiply,margin-top:1cm,margin-left:-1.5cm}
 }}
 
 \page
@@ -1371,6 +1372,34 @@ You instantly turn into your moonkin form. For the duration you can change betwe
 
 # Companions
 {title="Appendix A"}
+
+Hunters on Azeroth tend to find companions in a multitude of places. The Companion heroic ability let's turn animals into a companion. A list of such animals can be found in the core rules, and an additional list of animals is presented below. If an animal has more than one attack listed, the player choose which one to use when commanding their companion. What animals that are around in an area is up to the GM.
+
+{{wide
+| <div style="width:74px">Animal</div>       | Movement      | <div style="width:44px">HP</div> | <div style="width:300px">Attack</div>  | <div style="width:125px">Skills</div>     |
+|:-------------|:-------------:|:--------------:|:--------|:-----------|
+| Crocolisk    | 6<br/>Swim 12 | 15<br/>Armor 1 | Bite (skill level 12, damage 2D8) | Awareness 10, Evade 6 |
+| Dragonhawk   | 2<br/>Fly 14  | 8              | Beak (skill level 10, D10)<br/>Talons (skill level 12, damage 2D4) | Awareness 14, Evade 12 |
+| Giant Bat    | 2<br/>Fly 8   | 10             | Bite (skill level 10, damage D10)<br/>Sonic Wave (skill level 10, damage D6, range 10m) | Awareness 16, Evade 12 |
+| Giant Owl    | 2<br/>Fly 14  | 8              | Beak (skill level 10, D10)<br/>Talons (skill level 12, damage 2D4) | Awareness 16, Evade 10 |
+| Large Serpent | 10            | 8              | Bite (skill level 12, damage D6, lethal poison 15) | Awareness 12, Evade 16 |
+| Giant Spider | 8             | 10             | Bite (skill level 10, damage D4, leathal poison 12)<br/>Web (skill level 10, no damage, range 6m, constrain 10) | Awareness 12, Evade 12, Stealth 12 |
+| Gorilla      | 8             | 16             | Bite (skill level 12, damage 2D6)<br/>Fist (skill level 14, damage 2D4)    | Acrobatics 15, Awareness 10, Evade 14           |
+| Large Cat    | 16            | 12             | Bite (skill level 12, damage 2D6)<br/>Claws (skill level 14, damage 2D4) | Awareness 12, Evade 12, Stealth 14 |
+| Raptor       | 16            | 10            | Bite (skill level 12, damage 2D6)<br/>Claws (skill level 12, damage 2D4) | Awareness 14, Evade 14 |
+| Ravager      | 10            | 14<br/>Armor 2 | Bite (skill level 10, damage 2D4) | Awareness 10, Evade 14 |
+| Scorpid      | 8             | 12<br/>Armor 2 | Claws (skill level 12, damage D10)<br/>Tail (skill level 12, damage D6, leathal poison 12) | Awareness 8, Evade 8 |
+| Tallstrider  | 20            | 10             | Beak (skill level 10, damage D10) | Awareness 14, Evade 14 |
+| Turtle       | 6<br/>Swim 10 | 20<br/>Armor 4 | Beak (skill level 10, damage 2d6) | Awareness 8, Evade 6 |
+| Wind Serpent | 2<br/>Fly 14  | 6              | Lightning Breath (skill level 12, damage D10, range 10m) | Awareness 12, Evade 14 |
+}}
+
+{{wide
+**Constrain**: Getting hit by an attack with the constrain keyword makes you unable to move or take other actions other than to try to escape (an open STR opposed roll against the number following the contrain keyword). The target can still parry while constrained, but not evade.<br/>
+**Fly**: The animal moves freely through the air. The number that follows is the movement rate while flying.<br/>
+**Leathal Poison**: Getting hit by an attack with this keyword applies lethal poison to the target. The number that follows is the potency. Follow the poison rules as if the poison had been ingested.<br/>
+**Swim**: The animal moves without penalties when swimming. The number that follows is the movement rate while swimming.
+}}
 
 \page
 {{pageNumber,auto Appendix B -- Demons}}
