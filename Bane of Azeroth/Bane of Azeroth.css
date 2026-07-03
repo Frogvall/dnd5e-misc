@@ -358,27 +358,20 @@
       display           : flex;
       justify-content   : space-between;
     }
+  }
 
-    h2 {
-      text-align        : left;
-      color             : black;
-      font-size         : 20pt;
-      column-span       : none;
-    }
+  .backquote {
+    display             : block;
+    font-size           : 12pt;
+    column-span         : all;
+    width               : 50%;
+    margin              : auto;
 
-    a {
-      white-space       : nowrap;
+    p {
+      text-indent       : 0pt !important;
+      text-align        : center;
       overflow          : hidden;
-      text-decoration   : none;
-
-      &::after {
-        content       : "..........................................................................";
-        margin-left       : .1em;
-      }
-    }
-
-    .number {
-      margin-left       : .2em;
+      color             : var(--demongreen)
     }
   }
 

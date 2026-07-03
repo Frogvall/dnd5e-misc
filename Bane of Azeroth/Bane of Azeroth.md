@@ -25,6 +25,10 @@
 
 Auvreannia
 
+### VERSION:
+
+v0.9
+
 ### CREDITS:
 
 This is a Dragonbane conversion of the amazing [Champions of Azeroth](https://drive.google.com/drive/folders/1BSit21xGH7yRdWRO95lvrsbxvYi5IwlY) by [Silverblade](https://www.reddit.com/user/Silverblade1234). A lot of the body text in this book is written by Silverblade and republished with permission.
@@ -1638,12 +1642,26 @@ If the warlock takes damage within 10 meters from the voidwalker, the damage is 
 {title,font-size:53pt,background-image:none,-webkit-text-stroke-width:1px,-webkit-text-stroke-color:white}
 
 <div>
-  <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<br/>
-
+  <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 </div>
 
+{{backquote,width:50%
+
+***By the Seven Kingdoms***
+
+***We stand with sword and shield***
+
+***There's no retreat***
+
+***There's no defeat***
+
+***The Lion never yields***
+
+}}
+
 {{back,width:75%
+
+<br/>
 
 **Explore the exciting world of Warcraft with Bane of Azeroth, a homebrew compendium that lets you bring Azeroth to Dragonbane. From kin, to heroic abilities, to spells, and more, Bane of Azeroth contains all new Warcraft-inspired character options for Dragonbane. And since Bane of Azeroth is fully compatible with the core rules of Dragonbane, it’s easier than ever to use.**
 
