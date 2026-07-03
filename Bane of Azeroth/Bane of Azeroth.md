@@ -2,7 +2,7 @@
 
 {{baneOfAzerothLogo}}
 
-# B
+#
 
 {title,font-size:53pt,background-image:none,-webkit-text-stroke-width:1px,-webkit-text-stroke-color:white}
 
@@ -27,7 +27,7 @@ Auvreannia
 
 ### CREDITS:
 
-This is a Dragonbane conversion of the amazing [Champions of Azeroth](https://drive.google.com/drive/folders/1BSit21xGH7yRdWRO95lvrsbxvYi5IwlY) by [Silverblade](https://www.reddit.com/user/Silverblade1234). A lot of the kin and class descriptions are written by Silverblade and republished with permission.
+This is a Dragonbane conversion of the amazing [Champions of Azeroth](https://drive.google.com/drive/folders/1BSit21xGH7yRdWRO95lvrsbxvYi5IwlY) by [Silverblade](https://www.reddit.com/user/Silverblade1234). A lot of the body text in this book is written by Silverblade and republished with permission.
 
 This game supplement was created using the [DragonBrew](https://homebrewery.naturalcrit.com/share/IOEuWz2v8FFi) template by Sibling Dex.
 
@@ -56,11 +56,163 @@ The Homebrewery
 
 {{resetCounting}}
 \page
+{{pageNumber,auto Contents}}
+
+# Contents
+
+<br/><br/><br/><br/><br/><br/>
+
+{{toc,width:50%
+
+[**Introduction**](#p4) {{number 3}}
+
+[**Chapter 1: Kin**](#p6) {{number 5}}
+
+&emsp;[Language](#p6) {{number 5}}
+
+&emsp;[Dracthyr](#p6) {{number 5}}
+
+&emsp;[Draenei](#p7) {{number 6}}
+
+&emsp;[Dwarf](#p8) {{number 7}}
+
+&emsp;[Elf](#p9) {{number 8}}
+
+&emsp;[Gnome](#p10) {{number 9}}
+
+&emsp;[Goblin](#p10) {{number 9}}
+
+&emsp;[Human](#p11) {{number 10}}
+
+&emsp;[Orc](#p11) {{number 10}}
+
+&emsp;[Pandaren](#p12) {{number 11}}
+
+&emsp;[Tauren](#p13) {{number 12}}
+
+&emsp;[Troll](#p13) {{number 12}}
+
+&emsp;[Undead](#p14) {{number 13}}
+
+&emsp;[Vulpera](#p14) {{number 13}}
+
+&emsp;[Worgen](#p15) {{number 14}}
+
+[**Chapter 2: Heroic Class Abilities**](#p16) {{number 15}}
+
+&emsp;[Death Knight](#p16) {{number 15}}
+
+&emsp;[Demon Hunter](#p18) {{number 17}}
+
+&emsp;[Druid](#p19) {{number 18}}
+
+&emsp;[Evoker](#p20) {{number 19}}
+
+&emsp;[Hunter](#p21) {{number 20}}
+
+&emsp;[Mage](#p22) {{number 21}}
+
+&emsp;[Monk](#p23) {{number 22}}
+
+&emsp;[Paladin](#p24) {{number 23}}
+
+&emsp;[Priest](#p25) {{number 24}}
+
+&emsp;[Rogue](#p26) {{number 25}}
+
+&emsp;[Shaman](#p27) {{number 26}}
+
+&emsp;[Warlock](#p28) {{number 27}}
+
+&emsp;[Warrior](#p29) {{number 28}}
+
+[**Chapter 3: Gear**](#p30) {{number 29}}
+
+[**Chapter 4: Spells**](#p31) {{number 30}}
+
+[**Appendix A: Companions**](#p34) {{number 33}}
+
+[**Appendix B: Demons**](#p35) {{number 34}}
+
+}}
+
+\page
+{{pageNumber,auto Introduction}}
+
+# Introduction
+
+Warcraft is one of the most beloved and enduring fantasy franchises in the world. From the real-time strategy campaigns of the original Warcraft games to the sprawling world of World of Warcraft and beyond, Azeroth has been home to decades of epic stories, unforgettable characters, and some of the richest lore in all of fantasy gaming. It is a world of continent-spanning wars, ancient gods sleeping beneath the earth, dragon aspects watching over mortal affairs, and heroes rising from every corner of a deeply detailed civilization.
+
+Dragonbane is a fresh take to the classic Swedish tabletop roleplaying game Drakar och Demoner. It’s a game about telling collaborative stories, making interesting choices, and bringing characters to life in ways no video game ever could.
+
+Bane of Azeroth is a collection of homebrew content that brings the Warcraft setting to Dragonbane, allowing you and your friends to become true heroes of Azeroth, not guided through a predetermined questline, but free to forge your own legend in a world you already know and love.
+
+### Why Azeroth?
+
+Azeroth is a remarkable setting for a tabletop campaign. It has everything a great Dragonbane world needs: a rich history stretching back tens of thousands of years, a geography packed with distinct and memorable regions, factions in constant tension with each other, and an enormous cast of cultures, kin, and characters whose stories are still unfolding. Whether your party wants to investigate a conspiracy in Stormwind, explore the ancient ruins of a fallen troll empire, broker a fragile peace between the Horde and the Alliance, or delve into the depths of a titan facility that no one has entered in millennia, Azeroth can support it.
+
+And unlike in World of Warcraft itself, you aren’t on rails. You don’t have to follow the questline. When your party walks into Blackrock Mountain, you don’t have to fight your way through a dungeon in a fixed order. You can talk to the Dark Iron dwarves, learn about their history, figure out what Ragnaros actually wants, and decide for yourselves how to handle it. The story of your campaign is yours to write. Dragonbane gives you the tools to do that, and Azeroth gives you an incredibly rich world to do it in.
+
+### What is this book?
+
+Bane of Azeroth is a player options supplement for Dragonbane. It presents everything you need to create a hero of Azeroth: new
+kin drawn from Warcraft‘s many peoples, heroic abilities that capture Warcraft‘s iconic class identities, and new spells and minions to support those abilities.
+
+This book is designed to be fully compatible with existing Dragonbane content. It does not replace the core rules of Dragonbane. You will still use Dragonbane professions, spells, equipment, rules, and everything else. Bane of Azeroth is purely additive. You can use as much or as little of it as you like, mix it freely with content from any other Dragonbane supplement, and combine it with the full
+range of existing Dragonbane options. A character built entirely from Bane of Azeroth content will work seamlessly alongside one built from the core rules alone.
+
+Bane of Azeroth contains the following new player options:
+
+- **Kin.** New Warcraft-inspired kin covering the major peoples of Azeroth, each with one or more innate abilities.
+- **Heroic Class Abilities.** One free heroic ability for each of the standard World of Warcraft classes, designed to add Warcraft identity and gameplay to the already existing professions. In addition, there are three more heroic abilities per World of Warcraft class that can be selected whenever you gain heroic abilities during your adventures, to further strengthen the Warcraft identity.
+- **Gear.** A small selection of Warcraft-inspired weapons and gear.
+- **Spells.** New spells to complement certain heroic class abilities, available to players with the appropriate heroic abilities.
+- **Companions.** New common animals available to those with the COMPANION heroic ability and demons that a Warlock can summon.
+
+### Design Goals
+
+Bane of Azeroth is not a faithful one-to-one translation of World of Warcraft into Dragonbane. That is intentional. World of Warcraft is an MMORPG designed around different priorities: it needs to balance tens of thousands of simultaneous players, deliver reliable
+repeatable content, and express class fantasy through a very specific set of rotations and mechanics. Dragonbane is a collaborative storytelling game built around narrative flexibility, character expression, and player agency. The two games are excellent at very different things.
+
+The goal of Bane of Azeroth is not to make Dragonbane feel like World of Warcraft; the goal is to make the best version of Dragonbane that happens to take place in the Warcraft setting. That means drawing on Warcraft‘s lore, aesthetics, and class identities for inspiration, while building mechanics that feel natural and
+
+\page
+{{pageNumber,auto Introduction}}
+
+fun in a Dragonbane context rather than trying to force a video game
+into a tabletop mold.
+
+With that in mind, the design principles for Bane of Azeroth are:
+
+- **Start with Dragonbane.** All Bane of Azeroth content begins with standard Dragonbane core rules, and design patterns. Warcraft flavor is layered on top and does not replace the foundation.
+- **Keep it simple.** Warcraft contains an enormous mount of content, and trying to faithfully implement every talent tree and ability interaction would make for a sprawling, unplayable mess. Bane of Azeroth picks core fantasies and builds around them, even if that means leaving a lot of inspiration on the table.
+- **Use Dragonbane's vocabulary.** The game already has well-established ways of expressing certain ideas. Bane of Azeroth uses those conventions rather than fighting them, so that new content feels like a natural part of the game rather than a foreign object.
+- **Balance matters, but fun matters more.** The goal is to make sure Bane of Azeroth content is competitive with standard Dragonbane content, internally consistent, on par with characters created through the core rules of Dragonbane. But balance in service of a dull experience is worth nothing. If something needs a little extra oomph to deliver the right Warcraft feeling, it gets it.
+
+\column
+
+### Buy-In and Creativity
+
+Playing Bane of Azeroth rewards a certain amount of creative buy-in from both players and DMs. The rules give you a framework, but
+the full experience comes from leaning into the fiction. Spell casting in Dragonbane is primarily part of one professions that in Bane of Azeroth is the prerequisite for several heroic class abilities. A player opting for the shadow priest fantasy might learn different spells than a player going for the holy priest fantasy. If you have access to the Book of Magic supplement, the increased variety in that book is great for helping spell caster classes getting more distinguished than using just the core rules, but this supplement works either way.
+On the Dungeon Master’s side, a little flexibility goes a long way: if a player has a clear and reasonable vision for their character, accommodating small requests that help bring that vision to life is usually worth it. If a paladin player wants to pick up a school of magic for increasing their healing capacity (by picking the MAGIC TALENT heroic ability), maybe the skill is granted by the Light and does not require the character to seek out training. The goal is a game that feels like Warcraft in the ways that matter most to your table.
+
+### Contact and More
+I welcome any and all feedback, comments, questions, etc. on any of my work! You can reach me on Discord, primarily via either the [Champions of Azeroth](https://discord.com/invite/Z77sexzQ8Y) server or the [Dragonbane Community](https://discord.gg/dragonbane-community-1173874944430579733) server. In both places I go by Auvreannia. There is currently no dedicated Discord server for Bane of Azeroth, but there might be one in the future if this becomes popular enough.
+
+Thanks for reading, and may all your adventures be legendary!
+
+{{wide
+![orc vs human](https://i.imgur.com/Z34mwf9.png) {height:500px,mix-blend-mode:multiply,margin-left:-1.5cm,margin-top:-2.5cm}
+}}
+
+
+
+\page
 {{pageNumber,auto Kin}}
 
-
 # Kin
-{title="Player Options"}
+{title="Chapter 1"}
 
 There are 14 playable kin in Azeroth. Humans and Orcs are the most common kin, but you are free to choose any of them. You can also roll your kin using one of the tables below. All kin are briefly described below.
 
@@ -680,9 +832,11 @@ By activating this ability (a free action in combat) you change between your hum
 {{pageNumber,auto Heroic Class Abilities}}
 
 # Heroic Class Abilities
-{title="Player Options"}
+{title="Chapter 2"}
 
 Traditionally, games being set on Azeroth is used to having classes. Classes isn't a concept in Dragonbane. In order to represent the traditional classes of Azeroth, this module comes with a set of heroic abilities. In addition to choosing a profession when creating your player character, also pick one heroic class ability from this chapter that you start out the game with. You must fulfill the prerequisites for the heroic power you choose. You are now part of the class you choose a heroic power from. When you gain heroic abilities during your game sessions, you can also pick heroic abilities from your class. You can only ever be part of one class, unless your GM says otherwise. In world of warcraft there are limits to what kin gets to pick what classes. In Bane of Azeroth there are no such limitations per default, but your GM might impose such if they so desire. For example, they might want to limit the Demon Hunter class to those of the Elf kin.
+
+Note that the heroic ability gained through this chapter does make your character somewhat more powerful than a character created with the core rules of Dragonbane, but it's equal to handing out an extra heroic ability at the start of the game. If you combine characters created with Bane of Azeroth with those created without it in the same campaign, simply let the non-azeroth character start with one extra heroic ability to balance it out.
 
 ## Death Knight
 
@@ -721,7 +875,7 @@ By activating this ability, you emanate a frosty aura, chilling the air around y
 - **Requirement:** Death Knight's Rebirth
 - **Willpower Points:** 3
 
-This ability requires a stretch of time to raise a fallen creature into a ravenous ghoul. The ghoul takes the form of an undead humanoid, and counts as a monster in combat. It follows your commands (free action) and acts independently with its own initiative. The ghoul cannot heal HP and it crumbles to dust or die if it is ever out of the your sight for a stretch of time, or if you use this ability again.
+This ability requires a stretch of time to raise a fallen creature into a ravenous ghoul. The ghoul takes the form of an undead humanoid, and counts as a monster in combat. It follows your commands (free action) and acts independently with its own initiative. The ghoul cannot heal HP and it crumbles to dust and die if it is ever out of the your sight for a stretch of time, or if you use this ability again.
 
 {{paperbox
 ## Ghoul
@@ -732,7 +886,7 @@ This ability requires a stretch of time to raise a fallen creature into a raveno
 {stats}
 
 #### Weapon:
-Claws. Hits automatically in melee combat (but can be dodged or parried) and inflicts D6 slashing damage.
+Claws. Automatically hits in melee combat (but can be dodged or parried) and inflicts D6 slashing damage.
 
 #### Infectious Bite:
 Hits automatically in melee combat (can be dodged, but not parried) and inflicts 2D6 piercing damage and the target has a bane on its next attack or spell roll. Costs 2 WP, payed for by the death knight.
@@ -1129,7 +1283,7 @@ When you use POWER FROM THE BODY, you get to keep any excess WP you do not use w
 - **Requirement:** Warlock's Ambition
 - **Willpower Points:** 3
 
-You can use your action to activate this ability to instantly summon a demon (from Appendix B in this book) into an empty space within 10 meters of you. Any demon you have already summoned using this heroic ability instantly disappears. The demon follows you around for a shift at no additional WP cost. You can use its action in combat by paying the WP listed in its stat block (free action for you). The demon can communicate with you in its demonic language, and you can both understand and speak to it. The demon summoned is not necessarily the same indiviual you have summoned previously. It's up to the GM if the demon has any recollection of encountering you previously.
+You can use your action to activate this ability to instantly summon a demon (from Appendix B in this book) into an empty space within 10 meters of you. Any demon you have already summoned using this heroic ability instantly disappears. The demon follows you around for a shift at no additional WP cost. You can use your action to command it to use its action in combat, or as a free action by expending 2 WP. The demon can communicate with you in its demonic language, and you can both understand and speak to it. The demon summoned is not necessarily the same indiviual you have summoned previously. It's up to the GM if the demon has any recollection of encountering you previously.
 
 ### Life Drain
 - **Requirement:** Warlock's Ambition
@@ -1193,7 +1347,7 @@ You can activate this ability when you hit a creature with an attack to sunder i
 {{pageNumber,auto Gear}}
 
 # Gear
-{title="Player Options"}
+{title="Chapter 3"}
 
 Azeroth's adventurers use most of the same equipment described in the core rules, swords, bows, armor, and adventuring gear that would be recognizable in any fantasy setting. But the world of *Warcraft* has its own distinctive weapons and tools, a few of which have no direct equivalent in the standard equipment lists.
 
@@ -1254,7 +1408,7 @@ Warglaives and throwing glaives are typical elven weapons, used primarly by the 
 {{pageNumber,auto Spells}}
 
 # Spells
-{title="Player Options"}
+{title="Chapter 4"}
 
 Spell casters in Bane of Azeroth uses the same spell casting rules and spells as are presented in the core rules. If you have access to The Book of Magic, feel free to use the rules and spells from that book instead (at the DMs discretion). Spells presented in this chapters are in addition to those rules, and are explicitly gained by selecting the corresponding heroic ability in the Heroic Class Abilities chapter.
 
@@ -1406,3 +1560,95 @@ Hunters on Azeroth tend to find companions in a multitude of places. The Compani
 
 # Demons
 {title="Appendix B"}
+
+<div/></div>
+
+{{paperbox
+## Felhunter
+|                                              |
+|:---------------------------------------------|
+| **Movement:** 14  **Armor:** 2   **HP:** 10  |
+
+{stats}
+
+#### Weapon:
+Mana Bite. Automatically hits in melee combat (but can be dodged or parried) and inflicts D10 slashing damage. The next damage dealing spell cast at the target gets a boon. The effect lasts until the warlock's turn in the next round.
+
+#### Magic Resistance:
+Fulhunters are resistant to magic and is considered to constantly be under the effect of the MAGIC SHIELD spell, power level 1, without spending a reaction.
+}}
+
+{{paperbox
+## Imp
+|                                              |
+|:---------------------------------------------|
+| **Movement:** 10   **Armor:** —   **HP:** 6  |
+
+{stats}
+
+#### Weapon:
+Firebolt. Automatically hits a target within 20 meters, (but can be dodged or parried with a shield) and inflicts 2D4 damage.
+
+#### Phase Shift:
+Non-magic attacks against the imp is made with a bane.
+}}
+
+\column
+
+{{paperbox
+## Sayaad
+|                                              |
+|:---------------------------------------------|
+| **Movement:** 10   **Armor:** 1   **HP:** 10  |
+
+{stats}
+
+#### Weapon:
+Soothing Kiss. Automatically hits a non-monster creature within 6 meters (but can be dodged) and the target loses its next action.
+
+#### Seductive
+Non-magic melee attacks against the sayaad is made with a bane.
+}}
+
+{{paperbox
+## Voidwalker
+|                                              |
+|:---------------------------------------------|
+| **Movement:** 8   **Armor:** 6   **HP:** 16  |
+
+{stats}
+
+#### Weapon:
+Torment. Hits automatically in melee combat (but can be dodged or parried) and inflicts D6 damage. The target has a bane when attacking any other creature but the voidwalker, until the warlock's turn in the next round.
+
+#### Suffering:
+If the warlock takes damage within 10 meters from the voidwalker, the damage is halved (rounded up) and the voidwalker takes as much damage as the warlock does.
+}}
+
+{{wide
+![warlock demons](https://i.imgur.com/tXrjqfR.png) {height:400px,mix-blend-mode:multiply,margin-left:1cm,margin-top:-1.5cm}
+}}
+
+\page
+
+{{backimage}}
+
+#
+
+{title,font-size:53pt,background-image:none,-webkit-text-stroke-width:1px,-webkit-text-stroke-color:white}
+
+<div>
+  <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/>
+
+</div>
+
+{{back,width:75%
+
+**Explore the exciting world of Warcraft with Bane of Azeroth, a homebrew compendium that lets you bring Azeroth to Dragonbane. From kin, to heroic abilities, to spells, and more, Bane of Azeroth contains all new Warcraft-inspired character options for Dragonbane. And since Bane of Azeroth is fully compatible with the core rules of Dragonbane, it’s easier than ever to use.**
+
+<br/>
+
+**From the sleepy hamlets of Elwynn Forest to the unforgiving steppes of the Barrens, Azeroth needs its champions. Will you heed the call?**
+
+}}
